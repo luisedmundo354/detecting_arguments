@@ -1,0 +1,17 @@
+# Ignore log files and temp files
+*.log
+tmp/
+build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Example for Python projects
+__pycache__/
+*.pyc
+# Exclude any files starting with .parser_ and ending with .sage-jupyter2
+.parser_*.sage-jupyter2
+
+# Exclude any files starting with .pricing_terminal.term- and ending with .term
+.pricing_terminal.term-*.term
