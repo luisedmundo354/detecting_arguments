@@ -1,9 +1,33 @@
-{
-	{
-		"id": "106tc257",
-		"tags": ["debt-equity swap", "international taxation", "step transaction doctrine", "taxable gain recognition versus capital contribution", "section 118"]
-	},
-	{
-		"id": ""
-	}
-}
+[
+  {
+    "id": "106tc257",
+    "name": "GM Trading Corp v. C.I.R.",
+    "tags": ["debt-equity swap",
+             "international taxation",
+             "step transaction doctrine",
+             "taxable gain recognition versus capital contribution",
+             "section 118"]
+  },
+  {
+    "id": "158tc1",
+    "name": "TBL Licensing LLC f.k.a. The Timberland Company v. C.I.R.",
+    "tags": ["outbound transfer of intangible property",
+            "section 361",
+            "section 367",
+            "section 368",
+            "corporate reorganization taxation"]
+  },
+  {
+    "id": "154tc142",
+    "name": "WHIRLPOOL FINANCIAL CORPORATION & CONSOLIDATED SUBSIDIARIES v. C.I.R",
+    "tags": ["foreign base company sales income",
+             "corporate restructuring",
+             "tactical tax avoidance",
+             "branch rule",
+             "manufacturing",
+             "section 951",
+             "section 954",
+             "section 957"
+    ]
+  }
+]
