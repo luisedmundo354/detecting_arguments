@@ -1,0 +1,284 @@
+
+
+
+
+
+KeyCite Red Flag - Severe Negative Treatment
+Reversed by Eaton Corporation and Subsidiaries v. Commissioner of Internal Revenue, 6th Cir., August 25, 2022
+140 T.C. 410
+United States Tax Court.
+EATON CORPORATION and Subsidiaries, Petitioner
+v.
+COMMISSIONER of INTERNAL REVENUE, Respondent.
+No. 5576–12.
+|
+June 26, 2013.
+Synopsis
+Background: Corporate taxpayer and its subsidiaries petitioned for redetermination of tax deficiency arising from IRS’s cancellation of advance pricing agreements (APAs) between parties due to taxpayer’s alleged failure to comply with terms and conditions of APA. Parties moved and cross-moved for summary judgment.
+ 
+Holdings: The Tax Court, Kroupa, J., held that:
+ 
+[1] court would review cancellation of APAs for abuse of discretion, and
+ 
+[2] as a matter of first impression, general contract law principles did not apply to commissioner’s discretion to cancel APAs.
+ 
+Decision for IRS.
+ 
+
+
+West Headnotes (15)
+
+
+[1]
+|Internal RevenueTax liability of affiliates;  apportionment
+|
+|“Advance pricing agreement” (APA) is an agreement between the IRS commissioner and a taxpayer in which the parties set forth, in advance of controlled transactions, the best transfer pricing method within the meaning of statute regarding allocation of income and deductions among taxpayers and related regulations. 26 U.S.C.A. § 482.
+2 Cases that cite this headnote
+|
+
+
+[2]
+|Internal RevenueTax liability of affiliates;  apportionment
+|
+|IRS commissioner’s advance pricing agreement (APA) program, in which the taxpayer voluntarily participates in exchange for the commissioner limiting his statutory discretion to make transfer pricing adjustments, is intended to supplement traditional administrative, judicial, and treaty mechanisms. 26 U.S.C.A. § 482.
+1 Case that cites this headnote
+|
+
+
+[3]
+|Internal RevenueTrial or hearing
+|
+|Tax Court grants summary judgment cautiously and sparingly, and only after carefully ascertaining that the requirements have been met. Tax Court Rule 121(a), 26 U.S.C.A. foll. § 7453.
+
+|
+
+
+[4]
+|Internal RevenueJurisdiction
+|
+|Tax Court is a court of limited jurisdiction and may exercise jurisdiction only to the extent authorized by Congress.
+
+|
+
+
+[5]
+|Internal RevenueJurisdiction
+|
+|Tax Court has jurisdiction to redetermine the correct amount of a deficiency, including whether the commissioner’s allocation under the statute regarding the allocation of income and deductions among taxpayers. 26 U.S.C.A. § 482.
+
+|
+
+
+[6]
+|Internal RevenueScope and extent of review
+|
+|IRS commissioner’s allocation under the statute regarding the allocation of income and deductions among taxpayers must be sustained absent a showing of abuse of discretion.
+
+|
+
+
+[7]
+|Internal RevenueScope and extent of review
+|
+|Generally, the Tax Court will not look behind a deficiency notice to examine the IRS commissioner’s motives or to examine the administrative policies or procedures involved in making those determinations, although there is a strong presumption that an act of administrative discretion is subject to judicial review.
+
+|
+
+
+[8]
+|Internal RevenueJurisdiction
+|
+|Tax Court’s deficiency jurisdiction includes reviewing administrative determinations that are necessary to determine the merits of the deficiency determinations.
+2 Cases that cite this headnote
+|
+
+
+[9]
+|Internal RevenueJurisdiction
+|
+|Tax Court’s deficiency jurisdiction includes reviewing the IRS commissioner’s decision to reject the taxpayer’s application to change its accounting method.
+1 Case that cites this headnote
+|
+
+
+[10]
+|Internal RevenueScope and extent of review
+|
+|IRS commissioner’s cancellation of corporate taxpayer’s advance pricing agreements (APAs) were administrative determinations necessary to determine merits of his deficiency determinations, and thus Tax Court would review such cancellation for abuse of discretion, as those APAs were agreements subject to discretion reserved to commissioner by applicable revenue procedures, and commissioner exercised that administrative discretion by canceling APAs at issue. 26 U.S.C.A. § 482.
+2 Cases that cite this headnote
+|
+
+
+[11]
+|Internal RevenueQuestions of fact
+|
+|Whether the IRS commissioner has abused his discretion is a question of fact.
+
+|
+
+
+[12]
+|Internal RevenuePresumptions and Burden of Proof
+|
+|Taxpayer has the burden of proof before the Tax Court, except as otherwise provided by statute or determined by the court. Tax Court Rule 142(a), 26 U.S.C.A. foll. § 7453.
+1 Case that cites this headnote
+|
+
+
+[13]
+|Internal RevenueEvidence
+Internal RevenueScope and extent of review
+|
+|Taxpayer assumes the burden of proof when challenging the IRS commissioner’s transfer pricing adjustment, and the Tax Court will not substitute its judgment for the commissioner’s or permit the taxpayer to carry their burden of proof by a mere preponderance of the evidence.
+
+|
+
+
+[14]
+|Internal RevenueScope and extent of review
+|
+|Taxpayers asserting that the IRS commissioner abused his discretion are required to show that the commissioner’s action was arbitrary, capricious, or without sound basis in fact.
+1 Case that cites this headnote
+|
+
+
+[15]
+|Internal RevenueTax liability of affiliates;  apportionment
+|
+|IRS commissioner’s discretion in deciding to cancel corporate taxpayer’s advance pricing agreements (APAs), as reserved by APA terms, was not subject to general contract law principles; taxpayer and commissioner were bound to terms upon which they agreed in APAs, which provided that applicable revenue procedures would govern their legal effect and administration and those procedures reserved to respondent discretion to cancel APAs at issue in certain circumstances. 26 U.S.C.A. § 482.
+1 Case that cites this headnote
+|
+
+
+
+P and R entered into two advance pricing agreements (APAs) establishing a transfer pricing methodology for covered transactions between P and its subsidiaries. P and R agreed in the APAs that the APAs’ legal effect and administration were governed by certain revenue procedures. R determined P did not comply with the applicable terms and canceled the APAs. R issued P a deficiency notice and applied an alternative transfer pricing methodology. P filed a petition.
+ 
+P contends the APAs are enforceable contracts. P asserts R must show that he was entitled to cancel the APAs. R asserts he canceled the APAs under revenue procedures that reserve certain discretion to R. Consequently, R contends the cancellations were administrative determinations. R argues that our deficiency jurisdiction permits us to review for abuse of discretion those administrative determinations necessary to resolve the merits of a deficiency determination.
+ 
+Held: We have jurisdiction to review the cancellations of the APAs because they are administrative determinations necessary to determine the merits of the deficiency determinations.
+ 
+Held, further, an APA cancellation is reviewed for abuse of discretion. P must show that R’s cancellations were arbitrary, capricious or without sound basis in fact.
+ 
+Attorneys and Law Firms
+Joel V. Williamson, John T. Hildy, Charles P. Hurley, Brian W. Kittle, Erin G. Gladney and Geoffrey M. Collins, for petitioner.
+Daniel Allen Rosen and Travis Vance, III, for respondent.
+
+
+
+
+OPINION
+KROUPA, Judge:
+*410 This matter is before the Court on cross-motions for partial summary judgment under Rule 121.1 The parties agree on the basic facts necessary to resolve a discrete issue of law. Petitioner and respondent entered into two *411 advance pricing agreements (APAs) that set a transfer pricing methodology for certain transactions under section 482 (APAs at issue). Respondent later canceled the APAs at issue after concluding that petitioner failed to comply with their terms and conditions (cancellations). Respondent issued petitioner a deficiency notice and adjusted petitioner’s income under section 482 for those transactions.
+ 
+The parties fundamentally disagree on the manner in which the APAs at issue limit respondent’s authority to administer and enforce section 482. Petitioner contends that the APAs at issue are enforceable contracts. Petitioner argues that respondent must show that the cancellations were appropriate under contract law before the Court can redetermine the deficiencies. In contrast, respondent contends that certain revenue procedures govern the legal effect and administration of the APAs at issue and the cancellations therefore are administrative determinations. Respondent further asserts that the cancellations should be sustained unless petitioner demonstrates that respondent abused his discretion reserved in the revenue procedures. We agree with respondent.
+ 
+We note that we decide the motions on a limited record. We will therefore decide only the legal standard to be used in reviewing the cancellations. We do not determine here whether respondent abused his discretion in canceling the APAs at issue.
+ 
+
+Background
+The parties agree on the basic facts in the limited record to decide a discrete question of law. We assume the following facts solely to resolve the motions.
+ 
+Petitioner’s principal place of business was in Cleveland, Ohio2 when it filed the petition. Petitioner is an industrial manufacturer that licensed technology to its Puerto Rican and Dominican Republic subsidiaries to manufacture breaker products, including circuit breakers, switches and pushbutton *412 controls. Petitioner purchased the breaker products from the subsidiaries.
+ 
+Petitioner and respondent entered into the APAs at issue. The first APA covered 2001 through 2005 (Original APA) and the second APA covered 2006 through 2010 (Renewal APA). The APAs at issue contained the parties’ agreement on the best method for determining arm’s-length prices under section 482 for the purchase of the breaker products. In entering into the APAs at issue, the parties agreed that the terms of Rev. Proc. 96–53, 1996–2 C.B. 375, and Rev. Proc.2004–40, 2004–2 C.B. 50 (collectively, applicable revenue procedures) govern the “interpretation, legal effect and administration” of the Original APA and the Renewal APA, respectively.
+ 
+In 2011 respondent canceled the Original APA effective January 1, 2005 and canceled the Renewal APA effective January 1, 2006. Respondent determined that petitioner had not complied with the terms and conditions of the APAs at issue. (It is unclear from the limited record the specific terms with which respondent alleges petitioner failed to comply.) Respondent issued petitioner a deficiency notice in which respondent determined to increase petitioner’s income under section 482 by $102,014,000 for 2005 and by $266,640,000 for 2006.
+ 
+Petitioner timely filed a petition. Petitioner alleges that it did comply with the terms and conditions of the APAs at issue and demonstrated that to respondent. Petitioner contends that it demonstrated its compliance to respondent by disclosing errors in its data to respondent in 2010 and rectifying those errors. The parties filed cross-motions for partial summary judgment. The Court held oral argument at a special session.
+ 
+
+Discussion
+We are asked to decide an issue of first impression regarding whether respondent must show that petitioner violated the terms and conditions of the APAs at issue. We begin with an overview of the Commissioner’s advanced pricing agreement program (APA program) for context.
+ 
+[1] [2] An APA is an agreement between the Commissioner and a taxpayer in which the parties set forth, in advance of controlled transactions, the best transfer pricing method within *413 the meaning of section 482 and related regulations. Rev. Proc.2004–40, sec. 2.04(1), 2004–2 C .B. at 51. Congress enacted section 482 to ensure that taxpayers clearly reflect income attributable to controlled transactions and to prevent the avoidance of taxes with respect to such transactions. Sec. 482; sec. 1.482–1(a)(1), Income Tax Regs. The Commissioner developed the APA program to resolve highly factual transfer pricing issues in a principled, cooperative manner. Announcement 2012–13, 2012–16 I.R.B. 805, 806; Rev. Proc.2006–9, sec. 2.02, 2006–1 C.B. 278, 279; Rev. Proc.2004–40, sec. 2.04(1). A taxpayer voluntarily participates in the APA program in exchange for the Commissioner limiting his discretion under section 482 to make transfer pricing adjustments. See Rev. Proc.2006–9, secs. 2.01, 2.04, 10.02, 2006–1 C.B. at 279, 289. The APA program is intended to supplement traditional administrative, judicial and treaty mechanisms. Announcement 2012–13, 2012–16 I.R.B. at 806.
+ 
+The Commissioner has entered into more than 1,000 APAs since establishing the APA program in 1991. Id. at 811. Taxpayers have applied for APAs in record numbers in recent years. Id. at 805. The Commissioner canceled or revoked only nine other APAs in the APA program’s first 20 years. See id. at 811 Table 1.
+ 
+We now address the issues raised in the cross-motions, with this background in mind. Petitioner contends that the APAs at issue are enforceable contracts. Petitioner asserts that the party exercising a contractual cancellation provision must demonstrate that a factual predicate exists to cancel the contract. Accordingly, under petitioner’s theory, the transfer pricing methodology in the APAs at issue must stand unless respondent shows that petitioner failed to comply with the APAs at issue.
+ 
+Respondent disagrees with petitioner’s theory. Respondent contends that the applicable revenue procedures govern the APAs at issue and reserve discretion to respondent to administer the APAs. Respondent further contends that he canceled the APAs at issue pursuant to that discretion and the cancellations therefore are administrative determinations. Respondent argues that the cancellations are within the Court’s deficiency jurisdiction because they are administrative determinations necessary to determine the merits of the deficiency determinations. Respondent contends therefore *414 that petitioner must show that respondent abused his discretion in canceling the APAs at issue. We agree with respondent.
+ 
+We begin with the summary judgment standard. We then consider whether our deficiency jurisdiction includes reviewing the cancellations for abuse of discretion. We conclude by considering whether respondent must show that the cancellations were appropriate.
+ 
+
+
+I. Summary Judgment Standard
+[3] We now consider whether to grant partial summary judgment on this discrete legal issue. Summary judgment is intended to expedite litigation and avoid unnecessary and expensive trials. See, e.g., FPL Grp., Inc. & Subs. v. Commissioner, 116 T.C. 73, 74, 2001 WL 85184 (2001). Either party may move for summary judgment upon all or any part of the legal issues in controversy. Rule 121(a). A motion for summary judgment or partial summary judgment will be granted only if it is shown that there is no genuine dispute as to any material fact and that a decision may be rendered as a matter of law. See Rule 121(b); Elec. Arts, Inc. v. Commissioner, 118 T.C. 226, 238, 2002 WL 444971 (2002). We grant summary judgment cautiously and sparingly, and only after carefully ascertaining that the requirements have been met. P & X Mkts., Inc. v. Commissioner, 106 T.C. 441, 443, 1996 WL 323680 (1996), aff’d without published opinion, 139 F.3d 907 (9th Cir.1998); Boyd Gaming Corp. v. Commissioner, 106 T.C. 343, 346–347, 1996 WL 270935 (1996).
+ 
+
+
+II. Deficiency Jurisdiction To Review the Cancellations for Abuse of Discretion
+We now turn to the scope and manner of our jurisdiction. Petitioner invoked this Court’s jurisdiction by filing a petition challenging respondent’s deficiency determinations that adjusted petitioner’s income. Respondent’s deficiency determinations resulted from the cancellations. Petitioner assumes that our deficiency jurisdiction includes jurisdiction to review the APAs at issue. Respondent emphasizes that the Court’s jurisdiction is to redetermine the deficiencies. He contends that we may review the cancellations under our deficiency jurisdiction for abuse of discretion because the cancellations were administrative determinations that are necessary *415 to determine the merits of the deficiency determinations. We agree with respondent.
+ 
+[4] [5] [6] The Tax Court is a court of limited jurisdiction and may exercise jurisdiction only to the extent authorized by Congress. See Kasper v. Commissioner, 137 T.C. 37, 40, 2011 WL 2709032 (2011); Naftel v. Commissioner, 85 T.C. 527, 529–530, 1985 WL 15396 (1985). The Tax Court is without authority to enlarge upon that statutory grant. See Phillips Petroleum Co. v. Commissioner, 92 T.C. 885, 888, 1989 WL 43931 (1989). We have jurisdiction to redetermine the correct amount of a deficiency. Sec. 6214(a). Our deficiency jurisdiction includes the authority to determine whether the Commissioner’s section 482 allocation was correct. That allocation must be sustained absent a showing of abuse of discretion. See, e.g., Veritas Software Corp. & Subs. v. Commissioner, 133 T.C. 297, 318, 2009 WL 4723602 (2009); Sundstrand Corp. & Subs. v. Commissioner, 96 T.C. 226, 353, 1991 WL 18180 (1991). To succeed, therefore, petitioner must show that respondent’s section 482 allocations were arbitrary, capricious or without sound basis of law or fact. Veritas Software Corp. & Subs. v. Commissioner, 133 T.C. at 318.
+ 
+[7] [8] Generally, we will not look behind a deficiency notice to examine the Commissioner’s motives or to examine the administrative policies or procedures involved in making those determinations. Greenberg’s Express, Inc. v. Commissioner, 62 T.C. 324, 327, 1974 WL 2624 (1974). There is a strong presumption, however, that an act of administrative discretion is subject to judicial review. Mailman v. Commissioner, 91 T.C. 1079, 1082, 1988 WL 133255 (1988). Our deficiency jurisdiction includes reviewing administrative determinations that are necessary to determine the merits of the deficiency determinations. Capitol Fed. Sav. & Loan Ass’n v. Commissioner, 96 T.C. 204, 214–215, 1991 WL 16490 (1991); see also Mailman v. Commissioner, 91 T.C. at 1083; Estate of Gardner v. Commissioner, 82 T.C. 989, 1000, 1984 WL 15587 (1984).
+ 
+[9] We have held that our deficiency jurisdiction includes reviewing the Commissioner’s decision to reject the taxpayer’s application to change its accounting method. Capitol Fed. Sav. & Loan Ass’n v. Commissioner, 96 T.C. at 214. We held so because that administrative determination was necessary to determine the merits of the deficiency. Id. The taxpayer contended that the Commissioner had not observed the terms of the governing revenue procedure. Id. at 215–216. *416 We reviewed the Commissioner’s action under the abuse of discretion standard to determine whether the Commissioner had observed the self-imposed limits of the revenue procedure. Id. at 214; see also Estate of Gardner v. Commissioner, 82 T.C. at 1000.
+ 
+[10] Here, the cancellations are administrative determinations necessary to determine the merits of the deficiency determinations. We will review the cancellations for abuse of discretion. The parties agree that respondent established the APA program pursuant to his authority to administer the Code and “prescribe all ‘needful rules and regulations.’ “ See sec. 7803(b)(2)(A); Commissioner v. Engle, 464 U.S. 206, 226–227, 104 S.Ct. 597, 78 L.Ed.2d 420 (1984) (quoting section 7805(a)). The Commissioner promulgated the applicable revenue procedures to administer the APA program. Petitioner and respondent each agreed by entering into the APAs at issue that the administration and legal effect of the APAs at issue would be governed by the applicable revenue procedures.3 The applicable revenue procedures provide that the Commissioner will not exercise his discretion under section 482 to adjust income if the taxpayer complies with the terms and conditions of the APAs. See Rev. Proc.2004–40, sec. 9.02, 2004–2 C.B. at 61; Rev. Proc. 96–53, sec. 10.02, 1996–2 C.B. at 383.
+ 
+The applicable revenue procedures detail the limits on respondent’s discretion to administer the APAs at issue. Respondent could require petitioner to establish good faith compliance with the terms and conditions of the APAs, the validity and accuracy of material representations in the annual reports required by the APAs and the satisfaction of critical assumptions set forth in the APAs. Rev. Proc.2004–40, sec. 10.03(2), 2004–2 C.B. at 62; Rev. Proc. 96–53, sec. 11.03(2), 1996–2 C.B. at 384. Respondent could revoke, cancel or revise the APAs at issue if petitioner failed to comply with any of those requirements. Rev. Proc.2004–40, sec. 10.03(3); Rev. Proc. 96–53, sec. 11.03(3). Respondent could also cancel the APAs at issue due to petitioner’s misrepresentation, mistake as to *417 a material fact, failure to state a material fact, failure to file a timely annual report or lack of good faith compliance. Rev. Proc.2004–40, sec. 10.06(1), 2004–2 C.B. at 63; Rev. Proc. 96–53, sec. 11 .06(1), 1996–2 C.B. at 385.
+ 
+The APAs at issue are agreements subject to the discretion reserved to respondent by the applicable revenue procedures. Respondent exercised that administrative discretion by canceling the APAs at issue. The cancellations therefore were administrative determinations. The deficiencies resulted from the cancellations that disregarded the previously agreed to transfer pricing methodology for the covered transactions. Respondent then adjusted petitioner’s income under section 482 and issued a deficiency notice. Respondent could not have altered the transfer pricing methodology had the APAs at issue remained effective. We hold that our deficiency jurisdiction includes reviewing the cancellations because they are necessary to determine the merits of the deficiencies.4 The relevant inquiry is whether respondent abided by the self-imposed limitations set forth in the applicable revenue procedures. We consequently will review respondent’s cancellations for abuse of discretion.
+ 
+
+
+III. Whether Petitioner Must Show Cancellations Were Abuse of Discretion
+We turn to petitioner’s assertion that common law contract principles govern the APAs at issue such that respondent must show the cancellations were appropriate. Petitioner emphasizes that respondent has represented that APAs are “binding contracts” and contract law has been applied to interpret other agreements between the Commissioner and taxpayers. We disagree that either argument demonstrates that the terms and conditions in the APAs at issue are ineffective. Rather, the parties agreed in the APAs at issue that the applicable revenue procedures govern the legal effect and administration of the APAs at issue.
+ 
+[11] [12] [13] [14] *418 Our jurisdiction allows us to consider whether respondent abused his discretion in canceling the APAs at issue. Whether the Commissioner has abused his discretion is a question of fact. Buzzetta Constr. Corp. v. Commissioner, 92 T.C. 641, 648, 1989 WL 26384 (1989); Estate of Gardner v. Commissioner, 82 T.C. at 1000. The taxpayer has the burden of proof, except as otherwise provided by statute or determined by the Court. Rule 142(a). And the taxpayer assumes the burden of proof when challenging the Commissioner’s transfer pricing adjustment. See, e.g., Cordes v. Commissioner, T.C. Memo.2002–124. We do not substitute our judgment for the Commissioner’s, nor do we permit taxpayers to carry their burden of proof by a mere preponderance of the evidence. See Buzzetta Constr. Corp. v. Commissioner, 92 T.C. at 648. Taxpayers asserting that the Commissioner abused his discretion are required to show that the Commissioner’s action was arbitrary, capricious or without sound basis in fact. Veritas Software Corp. v. Commissioner, 133 T.C. at 318; Sundstrand Corp. & Subs. v. Commissioner, 96 T.C. at 353. We have previously rejected the argument that the Commissioner assumes the burden of proof when the taxpayer contends the Commissioner acted contrary to a revenue procedure.5 See Capitol Fed. Sav. & Loan Ass’n v. Commissioner, 96 T.C. at 215–216.
+ 
+[15] Petitioner nonetheless contends that respondent’s discretion, reserved by the terms of the APAs at issue, is also subject to general contract law principles because respondent has described an APA as a “binding contract.” See, e.g., Announcement 2011–22, 2011–16 I.R.B. 672. We disagree. Indeed, a taxpayer may rely on the Commissioner’s revenue rulings. See, e.g., Alumax, Inc. v. Commissioner, 109 T.C. 133, 162 n. 12, 1997 WL 599603 (1997), aff’d, 165 F.3d 822 (11th Cir.1999). Petitioner and respondent are bound to the terms upon which they agreed. The APAs at issue provide that the applicable revenue procedures shall govern their legal effect and administration. The *419 applicable revenue procedures reserve to respondent discretion to cancel the APAs at issue in certain circumstances. We are unpersuaded that the description of APAs as contracts renders ineffective the explicit terms and conditions that petitioner and respondent agreed govern the APAs at issue.
+ 
+Petitioner also contends we must apply general contract law principles to review the cancellations because we have done so to interpret other Commissioner-taxpayer agreements. See, e.g., Smith v. Commissioner, T.C. Memo.1989–87. This argument is inapposite. Here, we are not asked to determine whether the parties entered into the APAs at issue or to interpret an ambiguous term. The parties agree that they entered into the APAs at issue and dispute only whether there was a factual predicate for the cancellations. The APAs at issue provide that their legal effect and administration are governed by the applicable revenue procedures. The applicable revenue procedures reserve to respondent discretion to cancel the APAs at issue in certain circumstances. Consequently, petitioner and respondent are bound to the terms and conditions of the APAs at issue.
+ 
+
+
+IV. Conclusion
+In toto, we agree with respondent that the cancellations of the APAs are reviewed for abuse of respondent’s discretion. We will grant respondent’s motion for partial summary judgment and concomitantly deny petitioner’s motion for partial summary judgment. A trial will be scheduled in due course.
+ 
+In reaching these holdings, we have considered all of the parties’ arguments, and, to the extent not addressed, we conclude that they are moot, irrelevant or without merit.
+ 
+To reflect the foregoing,
+ 
+An appropriate order will be issued.
+ 
+All Citations
+140 T.C. No. 18, 140 T.C. 410, Tax Ct. Rep. (CCH) 59,575, Tax Ct. Rep. Dec. (RIA) 140.18
+
+
+
+Footnotes
+|
+1
+|All Rule references are to the Tax Court Rules of Practice and Procedure, and all section references are to the Internal Revenue Code (Code), as amended and in effect for the years at issue, unless otherwise indicated.
+|
+2
+|An appeal in this case would lie to the Court of Appeals for the Sixth Circuit absent stipulation to the contrary and, accordingly, we follow the law of that circuit. See Golsen v. Commissioner, 54 T.C. 742, 1970 WL 2191 (1970), aff’d, 445 F.2d 985 (10th Cir.1971).
+|
+3
+|A revenue procedure is an official statement of a procedure that affects the rights or duties of taxpayers under the Code and related statutes, treaties and regulations that should be a matter of public knowledge. Rev. Proc. 89–14, sec. 3.02, 1989–1 C.B. 814.
+|
+4
+|Petitioner’s assertion that general contract law governs the APAs at issue conflicts with the parties’ agreement that the legal effect and administration are governed by the applicable terms of the revenue procedures. Petitioner ignores the fact that the applicable revenue procedures reserve respondent’s discretion to administer the APAs at issue.
+|
+5
+|The taxpayer argued that its application for a change in accounting method satisfied the threshold eligibility requirements of the revenue procedure and the burden of proof shifted to the Commissioner to show whether the application would have been approved on its merits. Capitol Fed. Sav. & Loan Ass’n v. Commissioner, 96 T.C. 204, 216, 1991 WL 16490 (1991). We rejected that argument because the taxpayer assumes the burden of proof under Rule 142 and instead we reviewed that administrative determination for abuse of discretion. Id. at 216.
+|
+
+
+
+
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

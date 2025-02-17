@@ -1,0 +1,486 @@
+
+
+
+
+154 T.C. 142
+United States Tax Court.
+WHIRLPOOL FINANCIAL CORPORATION & CONSOLIDATED SUBSIDIARIES, Petitioner
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent
+Whirlpool International Holdings S.a.r.l., f.k.a. Maytag Corporation & Consolidated Subsidiaries, Petitioner
+v.
+Commissioner of Internal Revenue, Respondent
+Docket Nos.
+13986
+-
+17
+, 13987-17
+|
+Filed May 5, 2020.
+Synopsis
+Background: Corporate taxpayer petitioned for redetermination of income tax deficiencies, arising from determination that income earned by taxpayer’s Luxembourg controlled foreign corporation (CFC) from sales of appliances to taxpayer and its Mexican CFC constituted foreign base company sales income (FBCSI) and was taxable to taxpayer as subpart F income. Taxpayer and Commissioner of Internal Revenue cross-moved for summary judgment.
+ 
+Holdings: The Tax Court, Albert G. Lauber, Senior Judge, held that:
+ 
+[1] Luxembourg CFC’s sales of appliances to taxpayer and its Mexican CFC constituted FBCSI taxable to taxpayer as subpart F income, and
+ 
+[2] manufacturing branch Treasury regulations were valid.
+ 
+Commissioner’s motion granted.
+ 
+
+
+West Headnotes (7)
+
+
+[1]
+|Internal RevenueControlled foreign corporations
+|
+|Corporate taxpayer’s Luxembourg controlled foreign corporation (CFC) carried on activities in Mexico “through a branch or similar establishment” that had substantially same effect as if Mexican CFC were wholly owned subsidiary of Luxembourg CFC and, thus, Luxembourg CFC’s sales of appliances to taxpayer and its Mexican CFC constituted foreign base company sales income (FBCSI) taxable to taxpayer as subpart F income; Luxembourg CFC paid no tax to Luxembourg on its sales income, gained by selling products to taxpayer and Mexican CFC, by representing it had a permanent establishment in Mexico, and also paid no tax to Mexico on its sales income. 26 U.S.C.A. §§ 951(a), 954(d)(2); 26 C.F.R. § 1.954-3(b).
+
+|
+
+
+[2]
+|Internal RevenueMinimization, Avoidance or Evasion of Liability
+|
+|While a taxpayer is free to organize his or her affairs as he or she chooses, nevertheless, once having done so, he or she accepts the tax consequences of the choice.
+
+|
+
+
+[3]
+|Internal RevenueMaking, Requisites and Validity
+|
+|Manufacturing branch Treasury regulations, under which the selling activities of manufacturing branch performed through controlled foreign corporation (CFC) would be treated as performed on behalf of branch as wholly owned subsidiary, were reasonable interpretation of Internal Revenue Code provision governing applicability of taxable foreign base company sales income (FBCSI) and, thus, were valid; Code provision was intended to capture sales income artificially separated from manufacturing activities of related entity, and Secretary of Treasury took reasonable steps to avoid tax evasion by prescribing regulations that dealt with both sales and manufacturing income in scenarios where companies artificially separated such income through use of branch instead of subsidiary. 26 U.S.C.A. §§ 954(d)(2), 7805(a); 26 C.F.R. § 1.954-3(b)(1)(ii).
+1 Case that cites this headnote
+|
+
+
+[4]
+|Internal RevenueMaking, Requisites and Validity
+|
+|When reviewing challenge to Treasury regulation under Chevron, the Tax Court asks whether Congress has directly spoken to the precise question at issue; if it has, that is the end of the matter, but if the statute is silent or ambiguous with respect to the question at issue, the court must give deference to agency construction of the Regulation, so long as it is permissible and not arbitrary, capricious, or manifestly contrary to the statute.
+1 Case that cites this headnote
+|
+
+
+[5]
+|Internal RevenueMaking, Requisites and Validity
+|
+|When reviewing challenge to Treasury regulation under Chevron, if the intent of Congress is clear, that is the end of the matter for the court, as well as the agency, must give effect to the unambiguously expressed intent of Congress.
+1 Case that cites this headnote
+|
+
+
+[6]
+|Internal RevenueMaking, Requisites and Validity
+|
+|In determining whether the intent of Congress is clear, as part of reviewing challenge to Treasury regulation under Chevron, the Tax Court considers the language of the statute itself, the specific context in which that language is used, and the broader context of the statute as a whole.
+
+|
+
+
+[7]
+|Administrative Law and ProcedureValidity
+|
+|Neither antiquity nor contemporaneity with a statute is a condition of a regulation’s validity.
+
+|
+
+
+
+During 2009 P manufactured and distributed household appliances, chiefly refrigerators and washing machines, through domestic and foreign subsidiaries. The foreign subsidiaries were controlled foreign corporations (CFCs) within the meaning of I.R.C. sec. 957(a). Through a branch in Mexico, P’s Luxembourg CFC acted as the nominal manufacturer of appliances in Mexico, using a maquiladora structure that qualified for Mexican tax and trade incentives. P’s Luxembourg CFC sold these appliances to P and to P’s Mexican CFC, which distributed the appliances for sale to consumers.
+ 
+R determined that the income earned by P’s Luxembourg CFC from sales of appliances to P and P’s Mexican CFC constituted foreign base company sales income (FBCSI) under I.R.C. sec. 954(d) and, as such, was taxable to P as subpart F income under I.R.C. sec. 951(a). R accordingly increased P’s taxable income for 2009 by $49,964,080.
+ 
+P filed a motion for partial summary judgment contending that the sales income was not FBCSI under I.R.C. sec. 954(d)(1) because the appliances sold by the Luxembourg CFC were substantially transformed by its Mexican branch from the component parts and raw materials it had purchased. R opposed that motion, contending that genuine disputes of material fact exist as to whether the Luxembourg CFC actually manufactured the products. The parties filed cross-motions for partial summary judgment as to whether the sales income was FBCSI under I.R.C. sec. 954(d)(2), the so-called “branch rule.”
+ 
+Held: Whether or not the appliances sold by the Luxembourg CFC were actually manufactured by it, the sales income was FBCSI under I.R.C. sec. 954(d)(2) because the Mexican branch is treated as a subsidiary of the Luxembourg CFC, and the sales income earned by the Luxembourg CFC constitutes FBCSI.
+ 
+Attorneys and Law Firms
+Mark A. Oates, Allen D. Webber, Summer M. Austin, Vivek A. Patel, Robert H. Albaral, Cameron C. Reilly, and Rodney H. Standage, for petitioners.
+H. Barton Thomas, Jr., Michael S. Kramarz, and David B. Flassing, for respondent.
+
+
+
+
+OPINION
+LAUBER, Judge:
+*143 Whirlpool Financial Corp. (Whirlpool or petitioner), petitioner at docket No. 13986-17, is a Delaware corporation with its principal place of business in Michigan. Whirlpool and its domestic subsidiaries joined in filing a consolidated Federal income tax return for 2009. Through its domestic and foreign subsidiaries, petitioner engages in the manufacture and distribution of major household appliances, including refrigerators and washing machines, in the United States and abroad.
+ 
+Whirlpool International Holdings, S.a.r.l. (WIH), petitioner at docket No. 13987-17, is a wholly owned subsidiary of Whirlpool organized under the laws of Luxembourg. When it filed its petition, WIH had its principal place of business in Luxembourg. Before December 31, 2010, WIH was known as Maytag Corp. (Maytag) and was likewise engaged in the manufacture and distribution of household appliances. During 2009 and previously Maytag was a Delaware corporation with its principal place of business in Iowa.
+ 
+During 2007-2009 petitioner restructured its Mexican manufacturing operations, driven largely by tax considerations. It organized a new entity in Luxembourg, which was a controlled foreign corporation (CFC) for Federal income tax purposes. Through a branch in Mexico, the Luxembourg CFC took over (at least nominally) the manufacturing operations previously conducted by a subsidiary of petitioner’s Mexican CFC. The Luxembourg CFC then sold the finished products to petitioner and its Mexican CFC, which distributed the products for sale to consumers. The Luxembourg CFC, which had one part-time employee, added no appreciable value to, but earned substantial income from, these sales transactions.
+ 
+The Internal Revenue Service (IRS or respondent) determined that the sales income derived by the Luxembourg CFC constituted foreign base company sales income (FBCSI) under section 954(d) and was thus taxable to petitioner as subpart F income under section 951(a).1 The IRS accordingly *144 increased petitioner’s taxable income for 2009 by $49,964,080, decreasing pro tanto its consolidated net operating loss (NOL) carryback deduction. The reduction in available NOL carry-backs generated a deficiency of $43,720 for Whirlpool for 2005 and a deficiency of $440,742 for Maytag for 2000.
+ 
+After timely petitioning this Court, petitioners filed a motion for partial summary judgment, contending that the Luxembourg CFC’s sales income was not FBCSI under section 954(d)(1) because the appliances it sold were substantially transformed by its Mexican branch from the component parts and raw materials it had purchased. Respondent opposed that motion, contending that genuine disputes of material fact exist as to whether the Luxembourg CFC actually manufactured the products. The parties filed cross-motions for partial summary judgment on the question whether the sales income was FBCSI under section 954(d)(2), the so-called “branch rule.”
+ 
+We agree with respondent that genuine disputes of material fact may exist with respect to the application of subsection (d)(1), and in any event we find it unnecessary to decide that question. That is because we agree with respondent with respect to subsection (d)(2). Whether or not the Luxembourg CFC is regarded as having manufactured the products, its Mexican branch under section 954(d)(2) is treated as a subsidiary of the Luxembourg CFC, and the sales income the latter earned constitutes FBCSI taxable to petitioner as subpart F income. We will accordingly deny both of petitioners’ motions and grant respondent’s cross-motion to the extent it addresses the FBCSI issue.
+ 
+
+Background
+The following facts are derived from the pleadings, the parties’ motion papers, and the exhibits and declarations attached thereto.
+ 
+
+
+*145 I. Whirlpool’s Mexican Manufacturing Operations
+
+A. Structure Before 2007
+Before 2007 petitioner indirectly owned 100% of Whirlpool Mexico, S.A. de C.V. (Whirlpool Mexico), a company organized under Mexican law. Whirlpool Mexico owned (directly or indirectly) 100% of Commercial Acros S.A. de C.V. (CAW) and of Industrias Acros S.A. de C.V. (IAW), both organized under Mexican law. Whirlpool Mexico and its subsidiaries were then, and are now, treated as CFCs of petitioner for Federal income tax purposes.
+ 
+CAW was the administrative arm of Whirlpool Mexico. Its employees supplied selling, marketing, finance, accounting, human resources, and other back-office services to its Mexican parent and IAW. It also engaged in activities relating to utility service and repairs for both entities.
+ 
+IAW was the manufacturing arm of Whirlpool Mexico. IAW owned land, buildings, and equipment and employed workers who manufactured refrigerators, washing machines, and other appliances (collectively, Products). IAW manufactured these Products at two separate plants in Mexico: the Ramos plant and the Horizon plant. The Ramos plant, located in Ramos Arizpe, Coahuila, produced refrigerators; the Horizon plant, located in Apodaca, Nuevo León, produced washing machines. IAW sold these Products to Whirlpool Mexico, which in turn sold the Products to petitioner and unrelated distributors in Mexico.
+ 
+
+
+B. Revised Structure in 2009
+Beginning in 2007 petitioner undertook a reorganization that put a new structure in place for its Mexican operations as of 2009, the tax year at issue. On May 31, 2007, petitioner created Whirlpool Overseas Manufacturing, S.a.r.l (WOM), an entity organized under the laws of Luxembourg. On August 1, 2007, petitioner transferred ownership of WOM to Whirlpool Luxembourg S.a.r.l. (Whirlpool Luxembourg), an indirect wholly owned subsidiary of petitioner likewise organized under Luxembourg law. Both entities were CFCs for Federal income tax purposes.
+ 
+Whirlpool Luxembourg appears to have been a holding company with no employees. WOM had one part-time employee, Nour Eddine Nijar. He performed modest administrative *146 functions, including payment of rent, utilities, and other expenses incurred by the Luxembourg office. He also signed contracts on behalf of WOM and signed checks drawn on its bank account. For the sake of simplicity we will refer to these two Luxembourg entities collectively as Whirlpool Luxembourg.
+ 
+On June 1, 2007, petitioner caused to be created Whirlpool Internacional, S. de R.L. de C.V. (WIN), a company organized under Mexican law. On August 13, 2007, petitioner caused the ownership of WIN to be transferred to Whirlpool Luxembourg, which thereafter owned virtually all of WIN’s stock. WIN was treated as an entity separate from Whirlpool Luxembourg for Mexican and Luxembourg tax purposes. But for Federal income tax purposes WIN made what is commonly called a “check-the-box” election. See secs. 301.7701-2(a), 301.7701-3(a), Proced. & Admin. Regs. It thus elected to be treated as a “disregarded entity,” i.e., as having no existence separate and distinct from Whirlpool Luxembourg.
+ 
+After 2007 petitioner continued to own Whirlpool Mexico and (through it) CAW and IAW, all of which remained CFCs. And IAW continued to own the land and buildings used to manufacture the Products. But on various dates during 2007 and 2008 the following transactions occurred: (1) IAW leased to WIN the land and buildings that housed the Ramos and Horizon manufacturing activities; (2) IAW sold to WIN the spare parts, hand tools, and other items needed to support manufacturing activities at those plants; and (3) IAW sold to Whirlpool Luxembourg all of the machinery, equipment, inventories, furniture, and other assets situated within those plants.
+ 
+As far as the record reveals, WIN had no employees of its own. High-level employees of IAW and CAW were “seconded” to WIN, including the plant manager, the quality control manager, the materials manager, and the controller of each manufacturing facility. Rank-and-file employees of IAW were “subcontracted” to WIN to perform manufacturing, assembly, packaging, storage, repair, and distribution tasks. And rank-and-file employees of CAW were “subcontracted” to WIN to perform selling, marketing, finance, accounting, human resources, and other back-office tasks. The agreements stated that all of these workers remained employees of IAW and CAW, respectively, which appear to have remained solely *147 responsible for their hiring and firing, wages, social benefits, and employment taxes in Mexico.
+ 
+In July 2007 WIN and Whirlpool Luxembourg executed a “manufacturing assembly services agreement” with respect to the Ramos plant, and in March 2008 they executed a substantially identical agreement with respect to the Horizon plant. Under these agreements WIN contracted to supply the services necessary to manufacture Products at the two plants using the workers subcontracted to it from IAW and CAW. Whirlpool Luxembourg agreed to supply the machinery, equipment, and raw materials necessary to manufacture the Products at these plants. The parties concurrently executed a “bailment agreement” whereby Whirlpool Luxemburg (as “bailor”) agreed to permit WIN (as “borrower”) to use the machinery and equipment, free of charge, for the sole purpose of manufacturing the Products. WIN explicitly acknowledged that all raw materials, work-in-process, and finished goods inventory were owned at all times by Whirlpool Luxembourg. We will refer to these agreements collectively as the “Assembly Agreements.”
+ 
+In August 2007 and March 2008 Whirlpool Luxembourg executed “manufacturing supply agreements” with petitioner and Whirlpool Mexico. Whirlpool Luxemburg thereby agreed to act as a “contract manufacturer” for petitioner and Whirlpool Mexico and to sell them the Products assembled at the Ramos and Horizon plants. These sales were to occur at prices “agreed to by the parties from time to time.” The agreements stated that Whirlpool Luxembourg was “deemed to have invoiced the Products at the end of the manufacturing process,” with title and risk of loss passing to petitioner and Whirlpool Mexico at that point “regardless of the physical location of the Products and any temporary storage that * * * [Whirlpool Luxembourg] may provide.” We will refer to these agreements collectively as the “Supply Agreements.”
+ 
+During 2009 Whirlpool Luxembourg defrayed the cost of purchasing the raw materials needed to manufacture the Products, including rolls of steel, sheets of plastic, chemicals, resin, paint, tubing, and other component parts. The cost of these inputs appears to have exceeded $500 million. These materials were acquired under blanket purchase orders that set forth the terms applicable to each supplier. The purchase *148 orders specified that invoices were to be sent to Whirlpool Luxembourg at its address in Luxembourg but that all raw materials and supplies were to be delivered directly to the Ramos and Horizon plants.
+ 
+Petitioner’s Mexican manufacturing operations, as restructured in 2009, can be summarized as follows. Whirlpool Luxembourg owned the machinery and equipment used to manufacture the Products, and it purchased and retained title to the raw materials and inventory during the manufacturing process. At the end of the manufacturing process Whirlpool Luxembourg transferred title and risk of loss to petitioner and Whirlpool Mexico.
+ 
+Whirlpool Luxembourg, having no employees of its own (other than Mr. Nijar), contracted with WIN to supply the necessary manufacturing services. WIN, having no employees or manufacturing plant of its own, leased the Ramos and Horizon plants from IAW and arranged to have IAW’s and CAW’s employees seconded or subcontracted to it. IAW’s workers assembled the Products, and CAW’s workers supplied the necessary accounting, repair, and back-office services. During 2009 the Ramos plant produced almost one million refrigerators; the Horizon plant produced more than 500,000 washing machines. About 96% of the Products thus manufactured were sold to petitioner, with the balance to Whirlpool Mexico. From these sales Whirlpool Luxembourg derived gross receipts that exceeded $800 million.
+ 
+
+
+II. Petitioner’s Tax Considerations
+
+A. Mexico
+Under the Ley del Impuesto Sobre la Renta (Mexican Income Tax Law or MITL), corporations resident in Mexico were generally taxed during 2009 at a 28% rate. MITL arts. 1(I), 10. Non-Mexican residents that had a permanent establishment (PE) in Mexico were likewise subject to tax at a 28% rate on income attributable to the PE. MITL arts. 1(II), 10.
+ 
+For many years Mexico has had in place a “maquiladora program,” as set forth in the Decree for the Promotion of the Manufacturing, Maquila, and Export Services Industry (IMMEX Decree). This program was designed to incentivize foreign principals to locate manufacturing operations in *149 Mexico. IMMEX Decree art. 1. Under Mexican customs rules, the resident maquiladora company must perform the manufacturing activity; the foreign principal must retain title to the raw materials, component parts, and inventory during the manufacturing process, then take title to and sell the finished goods.
+ 
+During 2009 Mexico taxed resident maquiladora companies at a 17% rate rather than a 28% rate. By locating its manufacturing operations in Mexico, the foreign principal would ordinarily be considered to have a PE in Mexico (and thereby be subject to the 28% tax rate). See MITL arts. 1(II), 10. However, a foreign principal was deemed to have no PE in Mexico--and was thus exempt from Mexican income tax--provided that it and the maquiladora company satisfied specified transfer-pricing requirements. See MITL art. 2 (“A nonresident shall not be deemed to have a permanent establishment in Mexico, deriving from the legal or economic relationship with entities carrying on maquila operations.”).
+ 
+For 2009 WIN qualified as a maquiladora company. It thus paid tax to Mexico at a 17% rate on the income it earned from supplying manufacturing services under its Assembly Agreements with Whirlpool Luxembourg. Correspondingly, Whirlpool Luxembourg took the position that it was a foreign principal considered to have no PE in Mexico, so that it was exempt from Mexican tax on the income it earned under its Supply Agreements with petitioner and Whirlpool Mexico. Whirlpool Luxembourg accordingly did not file a Mexican income tax return.
+ 
+
+
+B. Luxembourg
+Companies resident in Luxembourg with income exceeding €15,000 were generally taxed during 2009 at a composite rate above 28%. However, under articles 7(2) and 23(1)(A) of the Mexico-Luxembourg tax treaty,2 all income earned by a Luxembourg company that was attributable to a PE in Mexico was exempt from Luxembourg tax.
+ 
+For Luxembourg tax purposes, Whirlpool Luxembourg took the position that it had a PE in Mexico by virtue of (1) its *150 ownership of the equipment, raw materials, component parts, supplies, and inventory used in its Mexican manufacturing operations, (2) its use of fixed places of business at the Ramos and Horizon plants, and (3) its sale of the Products in Mexico. Representing that it had “a fixed business facility in Mexico whereby it regularly conducts commercial activities in Mexico,” Whirlpool Luxembourg solicited and received a ruling from Luxembourg tax authorities that it had a PE in Mexico and that all income earned under its Supply Agreements with petitioner and Whirlpool Mexico was attributable to that PE. Accordingly, Whirlpool Luxembourg paid no tax to Luxembourg on the income it earned from sale of finished Products.
+ 
+
+
+III. IRS Examination
+On its Federal income tax return for 2009 petitioner took the position that none of the income derived by Whirlpool Luxembourg under its Supply Agreements was subject to tax under subpart F. The IRS commenced an examination of that return and determined that Whirlpool Luxembourg’s sale of Products to petitioner and Whirlpool Mexico gave rise to FBCSI of $49,964,080. The IRS included that sum in petitioner’s income under sections 954(d) and 951(a).3
+ 
+In March 2017 respondent issued timely notices of deficiency to petitioners reflecting these adjustments and several ancillary and computational adjustments. After timely petitioning this Court, petitioners filed motions for partial summary judgment contending that Whirlpool Luxembourg’s sales income was not FBCSI under section 954(d)(1) because the final Products it sold were substantially transformed by its Mexican branch from the raw materials it had purchased. Respondent opposed that motion, contending that genuine disputes of material fact exist as to whether Whirlpool Luxembourg actually manufactured the products. The parties *151 filed cross-motions for partial summary judgment on the question whether the sales income was FBCSI under section 954(d)(2), the so-called “branch rule.” Several rounds of briefing ensued.
+ 
+
+Discussion
+
+I. Summary Judgment
+The purpose of summary judgment is to expedite litigation and avoid costly, unnecessary, and time-consuming trials. See FPL Grp., Inc. & Subs. v. Commissioner, 116 T.C. 73, 74 (2001). We may grant partial summary judgment when there is no genuine dispute of material fact and a decision may be rendered as a matter of law. Rule 121(b); Kroh v. Commissioner, 98 T.C. 383, 389 (1992). In deciding whether to grant summary judgment, we construe factual materials and inferences drawn from them in the light most favorable to the nonmoving party. Sundstrand Corp. v. Commissioner, 98 T.C. 518, 520 (1992), aff’d, 17 F.3d 965 (7th Cir. 1994). The nonmoving party may not rest upon the mere allegations or denials in his pleadings but must set forth specific facts showing that there is a genuine dispute for trial. Rule 121(d); see Sundstrand Corp., 98 T.C. at 520.
+ 
+The sole issue we address at this juncture is whether the income derived by Whirlpool Luxembourg from its Product sales to petitioner and Whirlpool Mexico constituted FBCSI within the meaning of section 954(d)(1) or (2). The parties have filed cross-motions for partial summary judgment with respect to section 954(d)(2). We find that this latter question may appropriately be adjudicated summarily.4
+ 
+
+
+II. Governing Statutory Structure
+Before 1962 the income of a foreign corporation, even one wholly owned by U.S. shareholders, generally was not subject to current U.S. income tax. Such income was taxed in the United States only when repatriated in the form of a dividend. See *152 Textron Inc. v. Commissioner, 117 T.C. 67, 73 (2001). This system incentivized U.S. corporations to shift activities to foreign subsidiaries, particularly to subsidiaries in low-tax jurisdictions. Ibid.
+ 
+Passive and highly mobile income was particularly subject to being shifted abroad, because it could be moved to a shell corporation in a low-tax jurisdiction with little or no impact on the U.S. company’s actual business operations. See Vetco, Inc. & Subs. v. Commissioner, 95 T.C. 579, 585 (1990) (noting that pre-1962 law “resulted in the use of so-called tax haven countries within which only minimal business operations were carried on”). Congress regarded sales income as one type of highly mobile income. See H.R. Rept. No. 87-1447, at 62, 1962-3 C.B. 405, 466 (“The sales income with which your committee is primarily concerned is income of a selling subsidiary * * * which has been separated from manufacturing activities of a related corporation merely to obtain a lower rate of tax for the sales income.”).
+ 
+Congress enacted subpart F to inhibit this planning strategy. See Revenue Act of 1962, Pub. L. No. 87-834, sec. 12, 76 Stat. at 1006 (adding sections 951-964).5 Section 951 provides that a U.S. shareholder of a CFC must include in his gross income his pro rata share of the CFC’s subpart F income. A U.S. shareholder is defined as a U.S. person owning 10% or more of the voting power of a foreign corporation. Sec. 951(b). A foreign corporation is a CFC if more than 50% of its voting power or stock value is held by U.S. shareholders. Sec. 957(a).
+ 
+Subpart F income is defined to include (among other things) “foreign base company income.” Sec. 952(a)(2). As in effect for 2009, “foreign base company income” included “foreign personal holding company income,” e.g., dividends, interest, rents, and royalties. Sec. 954(a)(1), (c). It also included three types of foreign base company income, one of which is FBCSI. See sec. 954(a)(2), (3), (5). A taxpayer’s FBCSI is determined under section 954(d), reduced by deductions allowable under section 954(b)(5). See sec. 954(a)(2).
+ 
+*153 Gross income constitutes FBCSI if it meets the conditions set forth in section 954(d)(1) or (2). These provisions are aimed at personal property transactions involving related parties. They were intended to capture, and treat as subpart F income, “income from the purchase and sale of property, without any appreciable value being added to the product by the selling corporation.” S. Rept. No. 87-1881, at 84, 1962-3 C.B. 707, 790; see 3 Joseph Isenbergh, International Taxation, para. 74.27, at 74,043 (4th ed. 2006) (“Foreign base company sales income--perhaps the quintessential form of Subpart F income-- * * * is income that results from channeling sales of goods through a low-tax foreign entity that has no significant economic relation to the sales.”). Congress was concerned that such artificial separation of sales income from manufacturing income facilitated evasion both of U.S. and foreign tax:
+Your committee * * * has ended tax deferral for American shareholders in certain situations where the multiplicity of foreign tax systems has been taken advantage of by American-controlled businesses to siphon off sales profits from goods manufactured by related parties * * * . In such cases the separation of the sales function is designed to avoid either U.S. tax or tax imposed by the foreign country. [H.R. Rept. No. 87-1447, supra at 58, 1962-3 C.B. at 462.]
+ 
+Section 954(d)(1) generally provides that, when a CFC earns income in connection with the purchase or sale of personal property in certain transactions involving a “related person,” that income will be FBCSI if the property is (A) manufactured outside the country in which the CFC is organized and (B) sold for consumption or use outside that country. Section 954(d)(2), captioned “Certain branch income,” prevents a U.S. shareholder from escaping section 954(d)(1) by having its CFC conduct activity through a branch (as opposed to a subsidiary) outside the CFC’s home country. Where the carrying on of activities through a branch “has substantially the same effect” as if the branch were a wholly owned subsidiary, then, “under regulations prescribed by the Secretary,” the branch will be treated as a subsidiary of the CFC for purposes of determining FBCSI. Sec. 954(d)(2). As we explained in Vetco Inc., 95 T.C. at 593, “the branch rule was intended to prevent CFC’s from avoiding section 954(d)(1) because there would be no transaction with a related person.”
+ 
+*154 As a threshold matter, the parties disagree as to which set of regulations governs these cases. Regulations under section 954 were first promulgated in 1964. See T.D. 6734, 1964-1 C.B. 237. Those regulations were revised in 2002, and the revisions were made effective for taxable years of CFCs beginning on or after July 23, 2002. See T.D. 9008, 2002-2 C.B. 335.
+ 
+The Department of the Treasury in 2008 proposed further changes to the regulations. See sec. 1.954-3, Proposed Income Tax Regs., 73 Fed. Reg. 10716 (Feb. 28, 2008). Revised regulations and temporary regulations interpreting section 954(d)(1) were published on December 29, 2008. See T.D. 9438, 2009-5 I.R.B. 387. Further revisions were made to temporary regulations interpreting section 954(d)(2), and those were published in December 2011. See T.D. 9563, 76 Fed. Reg. 78545 (Dec. 19, 2011). We will refer to the regulations published in December 2008 and December 2011 collectively as the “new regulations.”6
+ 
+The revisions incorporated in the new regulations were effective for taxable years of CFCs beginning after June 30, 2009, and for taxable years of U.S. shareholders in which (or with which) such taxable years of such CFCs ended. See 26 C.F.R. sec. 1.954-3(c) (2011). However, a taxpayer could elect to apply the new regulations retroactively “with respect to its open taxable years that began prior to July 1, 2009.” Id. para. (d).
+ 
+Whirlpool and its Luxembourg subsidiaries are all calendar year taxpayers, and these cases involve their 2009 taxable year. Because their 2009 taxable year began before July 1, 2009, the new regulations would apply here only if petitioners elected to have them apply. Petitioners in their tax filings did not make this election. Accordingly, we will apply the 2002 regulations in these cases.7
+ 
+
+
+*155 III. Taxability Under Section 954(d)(1)
+Section 954(d)(1) applies to income derived by a CFC in connection with four categories of property transactions: (i) “the purchase of personal property from a related person and its sale to any person,” (ii) “the sale of personal property to any person on behalf of a related person,” (iii) “the purchase of personal property from any person and its sale to a related person,” and (iv) “the purchase of personal property from any person on behalf of a related person.” Commissions, fees, or other profits derived by a CFC from such transactions constitute FBCSI if:
+(A) the property which is purchased (or in the case of property sold on behalf of a related person, the property which is sold) is manufactured, produced, grown, or extracted outside the country under the laws of which the * * * [CFC] is created or organized, and
+(B) the property is sold for use, consumption, or disposition outside such foreign country, or, in the case of property purchased on behalf of a related person, is purchased for use, consumption, or disposition outside such foreign country.
+ 
+Whirlpool Luxembourg was created and organized under the laws of Luxembourg, and all of the Products it sold were manufactured in Mexico and sold for use in Mexico or the United States. Since the Products were manufactured outside Luxembourg and sold for use outside Luxembourg, the conditions stated in subparagraphs (A) and (B) were met. Section 954(d)(1) thus applies if the transactions fell within any of the four categories listed above.
+ 
+Respondent does not contend that Whirlpool Luxembourg “purchase[d] * * * personal property from a related person.” Sec. 954(d)(1). Whirlpool Luxembourg appears to have purchased from unrelated suppliers most or all of the raw materials, components, and supplies used to manufacture the Products. Thus, the first category of transactions did not exist here.8
+ 
+Whirlpool Luxembourg likewise did not sell personal property “on behalf of a related person.” Sec. 954(d)(1). It had a subsidiary in Mexico (WIN) and a distinct PE in Mexico by *156 virtue of owning assets and conducting business activities in Mexico. But WIN was disregarded for Federal tax purposes as an entity separate from Whirlpool Luxembourg. All of Whirlpool Luxembourg’s activities in Mexico were thus conducted by a branch. Although Whirlpool Luxembourg derived sales income by selling the Products manufactured by its Mexican branch, that branch was not “a related person.” See sec. 954(d)(3)(A) (defining a “related person” to include (among other things) a “corporation” that is controlled by the CFC).
+ 
+The fourth category of transactions consists of “the purchase of personal property from any person on behalf of a related person.” Whirlpool Luxembourg purchased raw materials from suppliers on behalf of its Mexican branch. Once again, because the Mexican branch was not “a related person,” the fourth category of transactions did not exist here. In any event Whirlpool Luxembourg does not appear to have derived any “profits, commissions, [or] fees,” see sec. 954(d)(1), from its purchasing activities.
+ 
+The third category of transactions consists of “the purchase of personal property from any person and its sale to a related person.” Whirlpool Luxembourg purchased raw materials and component parts from suppliers. And it made sales to “related person[s],” namely petitioner and Whirlpool Mexico. But the items that it sold were not the same as the items that it purchased. Rather, the raw materials that it purchased were converted into refrigerators and washing machines by a multi-step manufacturing process.
+ 
+The regulations require further analysis. They set forth what is commonly called the “manufacturing exception,” providing that FBCSI does not include income derived by a CFC “in connection with the sale of personal property manufactured, produced, or constructed by such corporation * * * from personal property which it has purchased.” Sec. 1.954-3(a)(4)(i), Income Tax Regs. A CFC “will be considered, for purposes of this subparagraph, to have manufactured * * * personal property which it sells if the property sold is in effect not the property which it purchased.” Ibid. This condition is satisfied (inter alia) if the “purchased personal property is substantially transformed prior to sale.” Id. subdiv. (ii).
+ 
+*157 The regulation indicates that “substantial transformation” occurs (for example) if a CFC: (1) purchases wood pulp and converts it into paper, (2) purchases steel rods and transforms them into screws and bolts, or (3) purchases fish from fishing boats and processes the live fish into canned tuna. Id. Examples (1), (2), and (3). Whirlpool Luxembourg purchased rolls of steel, sheets of plastic, chemicals, resin, paint, tubing, and other raw materials from unrelated suppliers, and those raw materials were manufactured into refrigerators and washing machines at the Ramos and Horizon plants. It seems clear that these purchased items were “substantially transformed.”
+ 
+While not denying that the raw materials were “substantially transformed,” respondent challenges petitioner’s submission that this manufacturing transformation was effected “by such corporation,” viz., by Whirlpool Luxembourg through its Mexican branch. See id. subdiv. (i); S. Rept. No. 87-1881, supra at 245, 1962-3 C.B. at 949 (stating that manufacturing exception applies to a CFC “if the corporation substantially transforms the parts or materials” (emphasis added)); H.R. Rept. No. 87-1447, supra at A94, 1962-3 C.B. at 592 (same). Respondent contends that Whirlpool Luxembourg and WIN did not actually perform (or contribute meaningfully to) any manufacturing operations.
+ 
+As respondent observes, Whirlpool Luxembourg and WIN collectively had one part-time employee, who lived in Luxembourg and had nothing to do with manufacturing. Despite the interposition of these new entities, little appears to have changed on the ground in Mexico after 2008. The refrigerators and washing machines were manufactured in the same plants, which continued to be owned by IAW. The workers who assembled the Products were the same workers, whose wages, benefits, and taxes were paid by IAW as they had been paid previously. There is no evidence that these workers were aware of any change in their employment status after 2008. Whirlpool Luxembourg stepped in as the nominal manufacturer by arranging to have WIN lease the plants and have all the workers seconded or subcontracted to it.
+ 
+The statute itself sets no parameters on what a CFC must do to qualify as a “manufacturer.” Section 954(d)(1)(A) uses that term only once, stating that FBCSI may arise where the *158 property sold is “manufactured * * * outside the country under the laws of which” the CFC is organized. That condition was met here. And the regulation arguably points in two directions. On the one hand it makes the manufacturing exception available for income derived by a CFC “in connection with the sale of personal property manufactured * * * by such corporation.” Sec. 1.954-3(a)(4)(i), Income Tax Regs. (emphasis added). On the other hand, the next sentence says that the CFC “will be considered, for purposes of this subparagraph, to have manufactured * * * personal property * * * if the property sold is in effect not the property which it purchased.” Ibid. (emphasis added). That inquiry in turn is governed by the “substantial transformation” test, which respondent agrees was satisfied in these cases.9
+ 
+Respondent urges that the meaning of this regulation was clarified by the new regulations and the 2008 preamble introducing them. The preamble stated the Secretary’s view that the manufacturing exception should not apply where “the CFC itself performs little or no part of the manufacture of th[e] property.” 73 Fed. Reg. 10718 (Feb. 28, 2008). The Department of the Treasury accordingly issued proposed regulations to “clarify that a CFC qualifies for the manufacturing exception * * * only if the CFC, acting through its employees, manufactured the relevant product.” Id. at 10719 (emphasis added).
+ 
+The new regulations revised the second sentence of paragraph (a)(4)(i) to eliminate the statement that the CFC “will be considered * * * to have manufactured” the product. Instead, the revised regulation provides that the CFC “will have manufactured * * * [the product] only if” the CFC meets specified new requirements “through the activities of its employees” as defined for FICA purposes. See 26 C.F.R. sec. 1.954-3(a)(4)(i) (2011) (cross-referencing section 31.3121(d)-1(c), Income Tax Regs. (stating that an individual is an employee if “under the usual common law rules the relationship between him and the person for whom he *159 performs services is the legal relationship of employer and employee”)).
+ 
+The new regulations embody these requirements in a “substantial contribution to manufacturing” test. See 26 C.F.R. sec. 1.954-3(a)(4)(iv) (2011). Under this test a CFC will be deemed to have manufactured personal property, even if it does not perform the physical assembly, if it “makes a substantial contribution through the activities of its employees” to the manufacturing process. Id. subdiv. (iv)(a). This test considers whether workers who qualify as common law employees of the CFC provide such services as “[o]versight and direction,” assistance with “[m]aterial selection, vendor selection, or control of raw materials,” management of “risk of loss * * * or efficiency initiatives,” performance of “[q]uality control” or “[c]ontrol of manufacturing related logistics,” or development of intellectual property used in manufacturing the products. Id. subdiv. (iv)(b).
+ 
+Petitioners reply that the new regulations do not, of their own force, apply here. As noted supra pp. 20-21, the new regulations are effective for taxable years of CFCs beginning after June 30, 2009, and to taxable years of U.S. shareholders in which (or with which) such years of such CFCs end. 26 C.F.R. sec. 1.954-3(c) (2011). Whirlpool and its Luxembourg subsidiaries are all calendar year taxpayers, and these cases involve their 2009 taxable year, which began before July 1, 2009. Although taxpayers could choose to apply the new regulations with respect to open tax years, id. para. (d), petitioners have not elected to do so. They urge that the new regulations are inapplicable by their terms and have no relevance here because they did not merely clarify the 2002 regulation but rather imposed substantive new requirements.
+ 
+Putting the new regulations to one side, respondent contends that petitioners’ motion for partial summary judgment under section 954(d)(1) should be denied under existing judicial precedent, specifically, Elec. Arts, Inc. v. Commissioner, 118 T.C. 226 (2002). In that case we considered former section 936(h)(5)(B), which provided that an electing corporation would not be treated as having a substantial business presence in a U.S. possession unless the products generating the income were “manufactured or produced in the possession by the electing corporation within the meaning of subsection (d)(1)(A) of section 954.” See *160 sec. 936(h)(5)(B) (1986) (flush language) (emphasis added). The taxpayer’s subsidiary in Puerto Rico (the electing corporation) leased factory space from an unrelated company, leased employees from that same company, but itself owned the machinery, equipment, raw materials, and components needed to manufacture the products. The question was whether the products, on these facts, were “manufactured * * * by the electing corporation” within the meaning of section 954(d)(1)(A). See sec. 936(h)(5)(B) (2002) (flush language).
+ 
+We denied the taxpayer’s motion for summary judgment on this question. Elec. Arts, Inc., 118 T.C. at 265, 278. On the one hand we emphasized what we called the “basic general rule” of the governing regulation, viz., that the manufacturing exception applies only to income “derived in connection with the sale of personal property manufactured * * * by such corporation.” Id. at 277 (quoting section 1.954-3(a)(4)(i), Income Tax Regs.). The balance of the regulation, we stated, must be read in “the context provided by the general rule, that the property must have been manufactured or produced by the corporation that is the subject of the inquiry.” Ibid. On the other hand we did not find in section 954 or its legislative history “an absolute requirement that only the activities actually performed by a corporation’s employees or officers are to be taken into account in determining whether the corporation manufactured * * * a product” within the meaning of section 954(d)(1)(A). Elec. Arts, Inc., 118 T.C. at 265. Given this uncertainty, we found it “far from clear that all of the material facts have even been presented, let alone that there is not a genuine issue with respect thereto.” Id. at 278.
+ 
+Citing Elec. Arts and MedChem (P.R.), Inc. v. Commissioner, 116 T.C. 308 (2001), aff’d, 295 F.3d 118 (1st Cir. 2002), respondent urges that “a robust factual record is necessary to decide whether a corporation is actually engaged in manufacturing.” The general structure of the manufacturing operation here appears to have resembled that in Elec. Arts. Like the subsidiary in Elec. Arts, Whirlpool Luxembourg leased the plant and borrowed the employees, but it owned the manufacturing equipment, components, and raw materials used to manufacture the Products.
+ 
+There may be differences, however, regarding the extent to which Whirlpool Luxembourg monitored or controlled the *161 employees’ work. In Elec. Arts the subsidiary “employed a manager” who directly supervised workers responsible for materials management, work-in-process, and inventory control. Elec. Arts, Inc., 118 T.C. at 236-237. Whirlpool Luxembourg had no employees in Mexico, and WIN had no employees at all. The record is unclear as to whether WIN had officers or directors in Mexico who exercised actual supervision over any aspect of the manufacturing process. The agreements among IAW, CAW, and WIN appear to have given WIN the right to control the employees’ work. But respondent urges that this right was illusory because WIN had no managers who could have done this. See, e.g., Matthews v. Commissioner, 92 T.C. 351, 361 (1989) (stating that the right of control, or lack of it, supplies the crucial test in determining the nature of a work relationship), aff’d, 907 F.2d 1173 (D.C. Cir. 1990). Citing these and other factual uncertainties, respondent contends that genuine disputes of material fact preclude summary judgment on the section 954(d)(1) issue.
+ 
+We find it unnecessary to decide that question. In the pages that follow we conclude that Whirlpool Luxembourg earned FBCSI under the “branch rule” of section 954(d)(2). Because it is immaterial to our holding whether its sales income would (or would not) be FBCSI under section 954(d)(1) standing alone, we need not address the legal questions that we left open in Elec. Arts or the factual matters that would be implicated in deciding them.
+ 
+
+
+IV. Taxability Under Section 954(d)(2)
+When enacting subpart F, Congress described FBCSI as “income of a selling subsidiary * * * which has been separated from manufacturing activities of a related corporation merely to obtain a lower rate of tax for the sales income.” S. Rept. No. 87-1881, supra at 84, 1962-3 C.B. at 790. Section 954(d)(1) enumerates four categories of transactions that Congress believed might present this scenario. Each is described as a purchase or sale of property involving a CFC and a “related person.”
+ 
+Congress recognized, however, that a “related person” might not exist if the manufacturing and selling activities were split between a CFC and a branch (as opposed to a subsidiary) *162 of the CFC. Splitting sales income from manufacturing income in this manner was advantageous for CFCs incorporated in countries employing a “territorial” system of taxation, as many European countries did. See 3 Isenbergh, supra, para. 74.30, at 74,049 (“Branches of CFCs chartered in countries that tax territorially can achieve * * * [separation of sales income from manufacturing income] without any ostensible transaction between related persons.”). Under a territorial tax system the CFC often would pay no tax to its home country on income sourced through a branch outside its home country, creating the possibility that the U.S. parent could thus achieve indefinite deferral of both U.S. and foreign tax. Congress therefore backstopped section 954(d)(1) with the “branch rule” set forth in subsection (d)(2).
+ 
+
+
+A. Branch or Similar Establishment
+The threshold question is whether Whirlpool Luxembourg carried on activities in Mexico “through a branch or similar establishment.” Sec. 954(d)(2). For purposes of the parties’ cross-motions under section 954(d)(2), respondent assumes arguendo (as do we) that Whirlpool Luxembourg manufactured the Products in Mexico. It conducted these manufacturing activities using assets that it owned in Mexico (machinery, equipment, raw materials, and inventory) and services provided by WIN, which was disregarded as a separate taxable entity.
+ 
+Petitioner does not dispute that Whirlpool Luxembourg did business in Mexico “through a branch or similar establishment,” and it would be difficult to contend otherwise. See sec. 954(d)(2). A “branch” is not a special form of arrangement attended by particular formalities. “ ‘Branch’ is just a term describing the conduct of a trade or business [by a corporation] directly, rather than through a separate entity.” 3 Isenbergh, supra, para. 74.33.3, at 74,065. Because WIN elected to be disregarded as a separate entity, it is treated for Federal tax purposes as a branch.10
+ 
+*163 [1]Although Whirlpool Luxembourg had no employees in Mexico, it owned assets in Mexico, acted as a “contract manufacturer” in Mexico, and sold to related parties the Products that it manufactured in Mexico. Its presence in Mexico necessarily took the form of a branch or division of itself. Indeed, it represented to Luxembourg tax authorities (and received from them a ruling) that it had a “permanent establishment” in Mexico. The conclusion is thus inescapable that Whirlpool Luxembourg carried on activities in Mexico “through a branch or similar establishment.”
+ 
+
+
+B. The Statutory Text
+In analyzing the branch rule we begin with the text of section 954(d)(2). It provides:
+Certain branch income.--For purposes of determining foreign base company sales income in situations in which the carrying on of activities by a * * * [CFC] through a branch or similar establishment outside the country of incorporation of the * * * [CFC] has substantially the same effect as if such branch or similar establishment were a wholly owned subsidiary corporation deriving such income, under regulations prescribed by the Secretary the income attributable to the carrying on of such activities by such branch or similar establishment shall be treated as income derived by a wholly owned subsidiary of the * * * [CFC] and shall constitute foreign base company sales income of the * * * [CFC].
+ 
+This lengthy sentence has two parts. The first answers the question: “When does this section apply?” The second answers the question: “What is the result when this section applies?” Put another way, section 954(d)(2) begins by setting preconditions that must exist before the statute is triggered, then specifies the consequences when those preconditions are met.
+ 
+Section 954(d)(2) establishes two preconditions for its application: (1) the CFC must be carrying on activities “through a branch or similar establishment” outside its country of incorporation, and (2) the conduct of activities in this manner must have “substantially the same effect” as if the branch were a wholly owned subsidiary of the CFC. The first precondition is clearly met here: Whirlpool Luxembourg was incorporated in Luxemburg, and it carried on its manufacturing activities “through a branch or similar establishment” in Mexico.
+ 
+*164 The statute then asks whether this mode of operation has “substantially the same effect” as if the Mexican branch were a wholly owned subsidiary of Whirlpool Luxembourg. Under U.S. tax rules in effect when Congress enacted subpart F, a key difference between a branch and a subsidiary was the manner in which the income they earned was reported by their respective owners (viz., the branch’s home office and the subsidiary’s parent). See generally United States v. Goodyear Tire & Rubber Co., 493 U.S. 132, 140-141 (1989). Except where a consolidated return was filed, a U.S. parent corporation typically reported, not the entire income earned by a subsidiary, but only the distributions it received from the subsidiary during the taxable year. By contrast, 100% of the income earned by a branch (wherever located) was currently taxable to and reported by the U.S. corporation that served as its home office.
+ 
+Section 954(d)(2) reflects Congress’ recognition that, under other countries’ tax rules, income earned by the branch of a CFC might be treated differently than under U.S. tax rules, with the result that the branch’s income would not be currently taxable in the CFC’s country of incorporation. This outcome was particularly likely where the CFC’s country of incorporation employed a “territorial” system of taxation. See supra p. 34. Congress was determined to end tax deferral where “the multiplicity of foreign tax systems has been taken advantage of by American-controlled businesses to siphon off sales profits from goods manufactured by related parties,” thus “avoid[ing] either U.S. tax or tax imposed by the foreign county.” H.R. Rept. No. 87-1447, supra at 58, 1962-3 C.B. at 462.
+ 
+Where a CFC was chartered in a country that employed a territorial tax system, the CFC’s conduct of business through a branch outside of the CFC’s home country and earning only income sourced there could have “substantially the same effect” as if that income were earned by a subsidiary under U.S. tax rules. That is because, in either case, the income typically would not be currently taxable to its ultimate owner (viz., the branch’s home office or the subsidiary’s parent). As the Senate Finance Committee explained, the branch rule was intended to capture sales income where “the combined effect of the tax treatment accorded the branch, by the [CFC’s] country of incorporation * * * and the country of *165 operation of the branch, is to treat the branch substantially the same as if it were a subsidiary corporation organized in the country in which it carries on its trade or business.” S. Rept. No. 87-1881, supra at 84, 1962-3 C.B. at 790.
+ 
+Once the preconditions discussed above are found to exist, the second part of section 954(d)(2) prescribes the results that follow. The prescribed results are that “the income attributable to the carrying on of such activities by such branch or similar establishment shall be treated as income derived by a wholly owned subsidiary of the * * * [CFC]” and that such income “shall constitute foreign base company sales income of the * * * [CFC].” The Secretary was authorized to issue regulations implementing these results.
+ 
+Petitioners’ operations in Mexico and Luxembourg, as restructured during 2007 and 2008, clearly fall within the scope of section 954(d)(2). The statute’s first precondition is met because Whirlpool Luxembourg carried on activities “through a branch or similar establishment outside * * * [its] country of incorporation.” And the statute’s second precondition is met because this manner of operation had “substantially the same effect,” for U.S. tax purposes, as if the Mexican branch were a wholly owned subsidiary of Whirlpool Luxembourg.
+ 
+As petitioners admit, Luxemburg in 2009 employed a territorial system of taxation. Luxembourg exempted from current taxation income earned by a foreign branch of a Luxembourg corporation, provided that the branch constituted a PE of the Luxembourg corporation in that foreign country. Whirlpool Luxembourg represented to Luxembourg tax authorities that it had a PE in Mexico. And it received a ruling from them that it had a PE in Mexico and that all income earned under its Supply Agreements with petitioner and Whirlpool Mexico was attributable to that PE. Whirlpool Luxembourg thus paid no tax to Luxembourg on its sales income.
+ 
+Under the maquiladora regime, Mexico taxed WIN on the income it earned from supplying manufacturing services to Whirlpool Luxemburg. But Mexico treated Whirlpool Luxembourg as a “foreign principal” that was deemed to have no PE in Mexico. Whirlpool Luxembourg thus paid no tax to Mexico on its sales income.
+ 
+*166 By carrying on its activities “through a branch or similar establishment” in Mexico, Whirlpool Luxembourg avoided any current taxation of its sales income. It thus achieved “substantially the same effect”--deferral of tax on its sales income--that it would have achieved under U.S. tax rules if its Mexican branch were a wholly owned subsidiary deriving such income. That is precisely the situation that the statute covers.
+ 
+The statute’s preconditions having been met, the second part of section 954(d)(2) specifies the prescribed tax treatment. The sales income attributable to the carrying on of activities through Whirlpool Luxembourg’s Mexican branch “shall be treated as income derived by a wholly owned subsidiary” of Whirlpool Luxembourg. And the sales income thus derived “shall constitute foreign base company sales income of the * * * [CFC].” Sec. 954(d)(2). In short, even without the refinements supplied by the regulations implementing section 954(d)(2), the bare text of the statute, literally read, indicates that Whirlpool Luxembourg’s sales income is FBCSI that must be included in petitioners’ income under subpart F.
+ 
+
+
+C. The Secretary’s Regulations
+As directed by Congress, the Secretary promulgated regulations governing application of the branch rule. See sec. 1.954-3(b), Income Tax Regs. They create parallel sets of rules for “sales or purchase branches” and “manufacturing branches.” See id. subpara. (1)(i) and (ii). Where (as here) a CFC carries on manufacturing activities through a branch outside the CFC’s country of incorporation, the CFC and its branch will be treated as separate corporations for purposes of determining FBCSI if “the use of the branch * * * for such activities with respect to personal property * * * sold by or through the remainder of the * * * [CFC] has substantially the same tax effect as if the branch * * * were a wholly owned subsidiary” of the CFC. Id. subdiv. (ii)(a).
+ 
+To determine whether the tax effect is “substantially the same,” the regulations dictate a two-phase inquiry. The first phase requires that we allocate income between the branch and “the remainder” of the CFC. Id. subdiv. (ii)(b). The second phase requires that we compare actual and hypothetical *167 “effective rates of tax” applicable to the sales income allocated to the remainder. Ibid.
+ 
+
+1. Allocation
+Because Whirlpool Luxembourg and WIN were separate corporations (al-though not distinct tax entities for U.S. tax purposes), their activities and income can be separated quite easily. WIN leased the Ramos and Horizon plants from IAW, and it derived income (computed on a cost-plus basis) for supplying the manufacturing services needed to assemble the Products at those plants. The manufacturing income WIN earned was treated as having been earned at arm’s length under Mexican transfer pricing rules. Although Whirlpool Luxembourg owned the machinery and equipment, it allowed WIN to use that machinery and equipment free of charge under the “bailment agreement.” See supra p. 9. The proper allocation of income between the branch and “the remainder” thus seems intuitively clear: The Mexican branch earned all of the manufacturing income, and all of the sales income was allocable to “the remainder.”
+ 
+The regulations yield the same result by a more complicated process, which is designed to ensure that only sales income (and not manufacturing income) is allocated to “the remainder” in this scenario. See 3 Isenbergh, supra, para. 74.31, at 74,053 (noting that the income allocated to the remainder “is only that attributable to the sales component of gain from the combined production and sales of a branch”). While the objective seems clear, the process is somewhat tedious.
+ 
+The regulation requires that we allocate to the remainder of Whirlpool Luxembourg “only that income derived by the remainder * * * which, when the special rules of subparagraph (2)(i) of this paragraph are applied,” would be FBCSI under the general rules of section 954(d)(1). See sec. 1.954-3(b)(1)(ii)(b), Income Tax Regs. (cross-referencing paragraph (a)). Subparagraph (2)(i) has five special rules but only two are applicable to the allocation phase. First, the Mexican branch is treated as a wholly owned subsidiary of Whirlpool Luxembourg (the remainder) and is deemed to be incorporated in Mexico. Id. subpara. (2)(i)(a).
+ 
+Second, because the branch is a manufacturing branch, the selling activities performed through Whirlpool Luxembourg *168 “shall be treated as performed on behalf of the branch.” Id. subdiv. (i)(c). Because the branch for this purpose is deemed a separate corporation and thus a “related person,” the sales income derived by Whirlpool Luxembourg is “derived in connection with * * * the sale of personal property * * * on behalf of a related person.” Sec. 954(d)(1); sec. 1.954-3(a)(1)(i), Income Tax Regs. In short, because all of the remainder’s income would be FBCSI under the general rules of section 954(d)(1), all of the non-manufacturing income is allocated to it.
+ 
+
+2. Comparison of Tax Rates
+The regulation next mandates a comparison of tax rates. In effect, it asks whether the sales income allocated to Whirlpool Luxembourg (in phase one above) was taxed during 2009 at an appreciably lower tax rate than the rate at which Mexico would have taxed that income. The text is again quite dense, and the relevant sentence is not one that Ernest Hemingway would have written. It states that the use of a branch will be considered to have “substantially the same tax effect” as the use of a subsidiary corporation
+if income allocated to the remainder of the * * * [CFC] is, by statute, treaty obligation, or otherwise, taxed in the year when earned at an effective rate of tax that is less than 90 percent of, and at least 5 percentage points less than, the effective rate of tax which would apply to such income under the laws of the country in which the branch or similar establishment is located, if, under the laws of such country, the entire income of the * * * [CFC] were considered derived by such corporation from sources within such country from doing business through a permanent establishment therein, received in such country, and allocable to such permanent establishment, and the corporation were created or organized under the laws of, and managed and controlled in, such country. [Sec. 1.954-3(b)(1)(ii)(b), Income Tax Regs.]
+In making this tax rate comparison, we are instructed to take into account “only the income, war profits, excess profits, or similar tax laws (or the absence of such laws) of the countries involved.” Id. subpara. (2)(i)(e).
+ 
+The sales income that the regulation allocates to the remainder of Whirlpool Luxembourg was taxed during 2009 at a rate of 0%. Although Mexico imposed a 17% tax rate on WIN’s manufacturing income, Whirlpool Luxembourg, as a foreign principal under the maquiladora decree, was deemed *169 to have no PE in Mexico and was thus immune from Mexican tax. But for Luxembourg tax purposes Whirlpool Luxembourg was deemed to have a PE in Mexico, and it was thus immune from Luxembourg tax. Whirlpool Luxembourg accordingly paid no tax to either jurisdiction in 2009.
+ 
+The regulation requires that we compare this 0% actual rate of tax to the effective rate of tax that would apply to the sales income, under Mexican law, if Whirlpool Luxembourg were a Mexican corporation doing business in Mexico through a PE in Mexico and deriving all of its income from Mexican sources allocable to that PE. See id. subpara. (1)(ii)(b). Under these assumptions Whirlpool Luxembourg would not have qualified for the 17% reduced rate of tax applicable to maquiladora companies. Its income would therefore have been taxed by Mexico at a 28% rate, the rate applicable to Mexican corporations generally. See supra p. 12.
+ 
+The 0% rate at which Whirlpool Luxembourg’s allocated sales income was actually taxed during 2009 is less than 90% of, and is more than 5 percentage points below, the 28% rate at which its income would have been taxed by Mexico on the assumptions mandated by the regulation. Whirlpool Luxembourg’s use of a branch in Mexico is thus considered to have had “substantially the same tax effect as if the branch * * * were a wholly owned subsidiary corporation.” Sec. 1.954-3(b)(1)(ii)(b), Income Tax Regs.
+ 
+
+3. Status of Income as FBCSI
+Having determined that Whirlpool Luxembourg (“the remainder”) and its Mexican branch are to be treated as separate corporations, we are directed to apply certain rules to determine whether “the remainder * * * has foreign base company sales income.” See id. subpara. (2)(ii). First, the Mexican branch is treated as a wholly owned subsidiary of Whirlpool Luxembourg and is deemed to be incorporated in Mexico. Id. subdiv. (ii)(a). Second, selling activities performed by Whirlpool Luxembourg “with respect to the personal property manufactured * * * by or through the branch * * * shall be treated as performed on behalf of the branch.” Id. subdiv. (ii)(c). The regulation includes other special rules--e.g., preventing items from being included twice in gross *170 income--that do not affect the outcome here. See id. subdiv. (ii)(b), (d), (e), (f).
+ 
+Together these rules produce a foreseeable outcome. Under section 954(d)(2) the Mexican branch is deemed to be a wholly owned subsidiary of Whirlpool Luxembourg, and Whirlpool Luxembourg is deemed to have sold the Products to petitioner and Whirlpool Mexico on behalf of its deemed Mexican subsidiary. Whirlpool Luxembourg thus derived income in connection with “the sale of personal property to any person on behalf of a related person.” Sec. 954(d)(1). The Products were manufactured outside Luxembourg and were sold “for use * * * [or] consumption” outside Luxembourg. Id. subparas. (A) and (B); sec. 1.954-3(a)(2) and (3), Income Tax Regs. The sales income derived by Whirlpool Luxembourg thus constituted FBCSI under section 954(d) and was taxable to petitioner as subpart F income under section 951(a).11
+ 
+This conclusion comports with the overall statutory structure and with Congress’ purpose in enacting subpart F. The sales income with which Congress was concerned was “income of a selling subsidiary * * * which has been separated from manufacturing activities of a related corporation merely to obtain a lower rate of tax for the sales income.” H.R. Rept. No. 87-1447, supra at 62, 1962-3 C.B. at 466. That is precisely the objective that Whirlpool aimed to achieve here.
+ 
+Whirlpool’s manufacturing activity in Mexico was conducted after 2008 exactly as it had been conducted before 2009, using the same plants, workers, and equipment. But the sales income was carved off into a Luxembourg affiliate *171 that enjoyed a 0% rate of tax. The Luxembourg sales affiliate epitomizes the abuse at which Congress aimed: The selling corporation derived “income from the * * * sale of property, without any appreciable value being added to the product by the selling corporation.” S. Rept. No. 87-1881, supra at 84, 1962-3 C.B. at 790. If Whirlpool Luxembourg had conducted its manufacturing operations in Mexico through a separate entity, its sales income would plainly have been FBCSI under section 954(d)(1). Section 954(d)(2) prevents petitioners from avoiding this result by arranging to conduct those operations through a branch.
+ 
+
+
+D. Petitioners’ Arguments
+1. Whirlpool Luxembourg’s Sales Activities
+Petitioners first contend, in effect, that Whirlpool Luxembourg had no substance. The manufacturing branch rule operates to characterize income as FBCSI where “purchasing or selling activities [are] performed by or through the remainder of the * * * [CFC] with respect to the personal property manufactured” by the branch. Sec. 1.954-3(b)(2)(i)(c), Income Tax Regs. Because Whirlpool Luxembourg (“the remainder”) had only one part-time employee, petitioners urge that “the remainder performs no sales or purchasing activities” and hence that “the manufacturing branch rule is inapplicable.”
+ 
+This argument strikes us as facetious. The essence of petitioners’ position under section 954(d)(1) is that Whirlpool Luxembourg was a real company engaged in real business activities. It owned all of the manufacturing equipment and purchased the raw materials used to manufacture the Products. It took title to the finished Products, as it was required to do in order to comply with Mexico’s maquiladora decree. A transfer pricing study commissioned by WIN represented to the Mexican Government that “no sales effort is made” by WIN and that “all responsibility for the distribution, marketing, and sale of [the] products” fell to Whirlpool Luxembourg. In seeking partial summary judgment under section 954(d)(1), petitioners asserted that Whirlpool Luxembourg’s operations “[w]ithout question * * * were substantial” and that Whirlpool Luxembourg must be treated “as having sold a manufactured product.” Asserting that Whirlpool *172 Luxembourg’s activities were insubstantial for purposes of seeking partial summary judgment under section 954(d)(2) is a classic example of an attempt to have one’s cake and eat it too.
+ 
+Under Mexican law, WIN as a maquiladora company was required to engage in manufacturing and only in manufacturing. Of necessity, therefore, Whirlpool Luxembourg derived all of the income from selling the Products. As WIN’s foreign principal, moreover, Whirlpool Luxembourg was able to avoid having a taxable PE in Mexico for Mexican tax purposes only if its transactions with WIN satisfied Mexican transfer pricing requirements. That being so, it ill behooves petitioners to urge that Whirlpool Luxembourg “performs no sales activities.”
+ 
+The statute defines FBCSI to include income “derived in connection with the * * * sale of personal property to any person on behalf of a related person.” Sec. 954(d)(1). After application of the branch rule, Whirlpool Luxembourg unquestionably derived such income: It held legal title to the Products and it sold $800 million worth of Products to petitioner and Whirlpool Mexico during 2009. Making sales is necessarily a “sales activity.”
+ 
+Since Whirlpool Luxembourg sold all of the Products to a pair of related parties, it did not need to expend significant effort to make these sales. But neither the statute nor the regulations require that a CFC engage in substantial marketing efforts. Quite the contrary: Congress presumed that the CFC’s marketing efforts would typically be insubstantial, since it described FBCSI as arising “from the * * * sale of property, without any appreciable value being added to the product by the selling corporation.” S. Rept. No. 87-1881, supra at 84, 1962-3 C.B. at 790.
+ 
+[2]When reorganizing its Mexican manufacturing operations in 2008, Whirlpool chose its corporate structure. Under that structure Whirlpool Luxembourg was the company that owned the Products and sold the Products. That being so, petitioners cannot plausibly contend that Whirlpool Luxembourg “performed no sales activities.” “[W]hile a taxpayer is free to organize his affairs as he chooses, nevertheless, once having done so, he accepts the tax consequences of his *173 choice.” Commissioner v. Nat’l Alfalfa Dehydrating & Milling Co., 417 U.S. 134, 149 (1974).12
+ 
+
+2. Tax Rate Disparity
+Petitioners next contend that no tax rate disparity exists when we compare the actual and hypothetical tax rates applicable to Whirlpool Luxembourg’s sales income. See sec. 1.954-3(b)(1)(ii)(b), Income Tax Regs. Petitioners assert that the effective Luxembourg tax rate should be 24.2% rather than 0%. And they assert that the hypothetical Mexican tax rate should be 0.56% rather than 28%.
+ 
+Petitioners derive a hypothetical Mexican rate of 0.56% by assuming that, if all of Whirlpool Luxembourg’s income were taxed by Mexico, Whirlpool Luxembourg would still qualify for Mexican tax incentives under the maquiladora program. That assumption is false. Under the tax rate disparity test set forth in the regulations, we are required to assume that Whirlpool Luxembourg derives 100% of its income from sources in Mexico “from doing business through a permanent establishment therein,” with all of its income being “allocable to such permanent establishment.” See ibid. If Whirlpool Luxembourg had a PE in Mexico and all of its income were allocable to that PE, it would be taxed in Mexico at a rate of 28%. See supra p. 12.
+ 
+If a 28% hypothetical rate applies in Mexico, petitioners urge that the effective tax rate in Luxembourg should be deemed to be 24.2%, which is not “5 percentage points less than” 28%. See sec. 1.954-3(b)(1)(ii)(b), Income Tax Regs. Petitioners derive a 24.2% tax rate by noting that Whirlpool Luxembourg in 2009 paid Luxembourg tax of €6,566 on income (mostly interest income) of €27,135.
+ 
+This argument ignores the instructions of the regulations. They require that we first allocate sales income to Whirlpool Luxembourg as “the remainder” of the CFC, and then consider the rate at which the “income allocated to the remainder * * * is, by statute, treaty obligation, or otherwise, *174 taxed in the year when earned.” See ibid. In other words we do not look to the rate of tax that Whirlpool Luxembourg paid on its miscellaneous other income; the regulation directs we look to the worldwide rate of tax that was actually imposed on its allocated sales income.
+ 
+That rate was 0%. Whirlpool Luxembourg paid no tax to Mexico on the sales income because it was deemed, under the maquiladora decree, to have no PE in Mexico. And Whirlpool Luxembourg paid no tax to Luxembourg on the sales income because it was deemed, under Luxembourg law, to have a PE in Mexico. Whirlpool Luxembourg indisputably paid no tax to either jurisdiction on its sales income.
+ 
+
+3. Same Country Exception
+Petitioners contend that our analysis should center on WIN (rather than on Whirlpool Luxembourg) and that sales of the Products manufactured by WIN fit within the “same country exception.” See id. para. (a)(2). This exception applies where “property is manufactured * * * in the country under the laws of which the * * * [CFC] which purchases and sells the property * * * is created or organized.” Ibid.
+ 
+Whirlpool Luxembourg purchased the raw materials and component parts used to manufacture the Products, and it held title to the work-in-process inventory throughout the manufacturing process. It derived sales income by selling the finished Products to petitioner and Whirlpool Mexico. Under Mexican law, as well as under the branch rule, WIN supplied manufacturing services and thus derived manufacturing income; it derived no sales income. Whirlpool Luxembourg was thus the CFC “which purchases and sells the property.” Ibid. Whirlpool Luxembourg was organized in Luxembourg, but the Products were manufactured in Mexico. The “same country manufacturing exception” thus has no application to Whirlpool Luxembourg’s activities or income.
+ 
+
+4. Validity of the Regulations
+[3]Finally, as an alternative to the arguments addressed above, petitioners contend that the regulations are invalid as applied to the structure Whirlpool created. In petitioners’ view, section 954(d)(2) applies only in situations where a CFC conducts manufacturing activities and has a “sales branch,” as opposed to the converse situation (such as this) *175 where the CFC conducts sales activities and has a “manufacturing branch.” Petitioners urge that the “manufacturing branch rule of Treas. Reg. § 1.954-3(b)(1)(ii) is invalid, as it exceeds the scope of authority granted by the plain language of section 954(d)(2).”
+ 
+[4] [5] [6]In addressing petitioners’ challenge we apply the familiar two-step test of Chevron, U.S.A., Inc. v. Nat. Res. Def. Council, Inc., 467 U.S. 837 (1984). First we ask “whether Congress has directly spoken to the precise question at issue.” Id. at 842; see City of Arlington v. FCC, 569 U.S. 290, 296 (2013). “If the intent of Congress is clear, that is the end of the matter; for the court, as well as the agency, must give effect to the unambiguously expressed intent of Congress.” Chevron, 467 U.S. at 842-843. In determining whether the intent of Congress is clear, we consider “the language [of the statute] itself, the specific context in which that language is used, and the broader context of the statute as a whole.” Robinson v. Shell Oil Co., 519 U.S. 337, 341 (1997). If the statute is silent or ambiguous with respect to the question at issue, step two of Chevron requires the court to give deference to the agency’s construction, so long as it is permissible and not “arbitrary, capricious, or manifestly contrary to the statute.” Chevron, 467 U.S. at 844; see United States v. Mead Corp., 533 U.S. 218, 227 (2001).
+ 
+
+a. Chevron Step One
+The text of section 954(d)(2) consists of one lengthy sentence. The opening clauses, which resemble a preamble, set forth the preconditions for application of this provision. They say that subsection (d)(2) applies for purposes of determining FBCSI in situations where the carrying on of activities by a CFC through a branch outside its country of incorporation “has substantially the same effect as if such branch * * * were a wholly owned subsidiary corporation deriving such income.” This preamble does not use the words “manufacturing” or “sales” and makes no reference to the type of activity conducted by the CFC or the branch.
+ 
+The next clause states the general rule that applies when the conditions set forth in the preamble are met, namely: “[U]nder regulations prescribed by the Secretary the income attributable to the carrying on of such activities of such branch * * * shall be treated as income derived by a wholly *176 owned subsidiary of the * * * [CFC].” This clause likewise does not use the words “manufacturing” or “sales” and makes no reference to the type of activity conducted by the CFC or the branch. Up to this point, therefore, the statute would appear to envision regulations applicable to any kind of branch.
+ 
+Petitioners hitch their wagon to the final clause of subsection (d)(2)--“and shall constitute foreign base company sales income of the * * * [CFC].” The subject of the verb “shall constitute” is “income attributable to the carrying on of such activities of such branch.” In the case of a sales branch the income attributable to its activities would typically be sales income, which might well constitute FBCSI. But in the case of a manufacturing branch the income attributable to its activities would commonly be manufacturing income, which normally would not constitute FBCSI. Concluding for this reason that Congress must have been thinking of sales branches when it drafted the statute, petitioners interpret subsection (d)(2) to authorize the Secretary to prescribe regulations dealing only with sales branches.
+ 
+This final clause of subsection (d)(2), however, is a double-edged sword for petitioners. If the final clause is read literally, the branch’s income automatically constitutes FBCSI once the branch is treated as a subsidiary. Petitioners would lose under the statute’s bare text if it is interpreted this way. See supra pp. 35-41.
+ 
+Perhaps conscious of this problem, petitioners elsewhere submit that the final clause of subsection (d)(2) should not be read literally. Treating the branch as a subsidiary, they urge, “does not * * * give rise to FBCSI in and of itself.” Rather, petitioners interpret subsection (d)(2) as requiring that “the FBCSI provisions under section 954(d)(1) must be applied to the income deemed to be derived by the * * * Branch and the Remainder as if each were a separate corporation.”
+ 
+This latter interpretation of the statute is by no means implausible. Sub-section (d)(2) begins with the phrase, “For purposes of determining foreign base company sales income,” a term that is defined in subsection (d)(1). On this interpretation, subsection (d)(2) does not create a self-sufficient test for determining that income constitutes FBCSI. Rather, it directs that we change the assumptions employed in applying subsection (d)(1), so that the branch is deemed *177 a subsidiary --and hence a “related party”--for purposes of determining whether any category of transaction specified in subsection (d)(1) exists.
+ 
+Treating the branch as a subsidiary, in other words, does not seem to be a sufficient condition for determining that FBCSI has been earned. Rather, having adopted that treatment, we must refer back to subsection (d)(1) and ascertain whether a specified category of sales transaction exists. And we must determine, on the facts of the particular case, whether the property was manufactured and sold for use outside the CFC’s country of incorporation, as subsection (d)(1)(A) and (B) require.
+ 
+In short, when stating that the branch’s income shall be deemed derived by a subsidiary “and shall constitute FBCSI,” Congress may have meant that the branch’s income shall be deemed derived by a subsidiary “for purposes of determining FBCSI under subsection (d)(1).” If that were the intended meaning, section 954(d)(2) would plausibly envision regulations dealing with any sort of branch. For that reason it appears to us that the statute is ambiguous.
+ 
+If, as petitioners contend, the statute is not ambiguous with respect to distinguishing manufacturing and sales branches, we think it is silent on the question at issue. Construed as petitioners wish, subsection (d)(2) only directs the Secretary to prescribe regulations addressing sales branches. But there is nothing in the statute that prevents the Secretary from prescribing regulations that also address manufacturing branches. Section 954(d)(2) simply does not contain the negative pregnant that petitioners seek to read into it.
+ 
+Section 7805(a) authorizes the Secretary to “prescribe all needful rules and regulations for the enforcement of this title, including all rules and regulations as may be necessary by reason of any alteration of law in relation to internal revenue.” In 1962 Congress altered the tax law by enacting subpart F. Section 7805(a) thus authorized the Secretary to prescribe regulations addressing the treatment of manufacturing branches for subpart F purposes, even if section 954(d)(2) did not direct him to do so. Thus, whether we treat the statute as ambiguous or silent on the matter, the question is whether the manufacturing branch regulations are valid under Chevron step two.
+ 
+
+*178 b. Chevron Step Two
+Under step two we must evaluate whether the regulations are a “reasonable interpretation” of the statute. Chevron, 467 U.S. at 844. We will give deference to the agency’s construction unless it is “arbitrary, capricious, or manifestly contrary to the statute.” See id. at 844. We have no difficulty concluding that the manufacturing branch regulations pass muster under this test.
+ 
+The legislative history of subpart F leaves no doubt about Congress’ intent in enacting the foreign base company provisions. Section 954(d) was intended to capture sales income that has been artificially separated from the manufacturing activities of a related entity. Congress determined that U.S. taxpayers had been “siphon[ing] off sales profits from goods manufactured by related parties” and that this “separation of the sales function [wa]s designed to avoid either U.S. tax or tax imposed by a foreign country.” H.R. Rept. No. 87-1447, supra at 58, 1962-2 C.B. at 462. Congress stated that it was “primarily concerned” with “income of a selling subsidiary * * * which has been separated from manufacturing activities of a related corporation merely to obtain a lower rate of tax for the sales income.” Id. at 62, 1962-3 C.B. at 466; S. Rept. No. 98-1881, supra at 84, 1962-3 C.B. at 790 (same). Congress described FBCSI as “income from the purchase and sale of property without any appreciable value being added to the product by the selling corporation.” H.R. Rept. No. 87-1447, supra at 62, 1962-2 C.B. at 466; S. Rept. No. 1881, supra at 84, 1962-3 C.B. at 790.
+ 
+Needless to say, an artificial separation of sales income from manufacturing income can be engineered regardless of whether the CFC or its branch makes the sales. If section 954(d)(2) applied only where taxpayers used a “sales branch,” the branch rule that Congress enacted as a backstop to subsection (d)(1) would be a dead letter. Taxpayers could easily evade taxation simply by switching the functions around, placing the sales activities in the CFC rather than in the branch. We have no doubt that Congress would have regarded this as an absurd result.
+ 
+The Secretary took reasonable steps to avoid this result by prescribing regulations that deal with both scenarios. The manufacturing branch rules and the sales branch rules are *179 mirror images of each other. They work to address in comprehensive fashion the precise problem that Congress identified, viz., the artificial separation of sales income from manufacturing income, in a scenario where the separation is accomplished through use of a branch instead of a subsidiary.
+ 
+[7]Regardless of whether section 954(d)(2) is viewed as ambiguous or silent on the “manufacturing branch” issue, we conclude that the Secretary’s manufacturing branch regulations are a “reasonable interpretation” of the statute. Chevron, 467 U.S. at 844. The Secretary was authorized to prescribe those regulations under section 954(d)(2), section 7805(a), or both. The statute does not “unambiguously foreclose[ ] the * * * interpretation” set forth in those regulations. See Nat’l Cable & Telecomms. Ass’n v. Brand X Internet Servs., 545 U.S. 967, 982-983 (2005); Vill. of Barrington v. Surface Transp. Bd., 636 F.3d 650, 659 (D.C. Cir. 2011) (quoting Catawba Cty., N.C. v. EPA, 571 F.3d 20, 35 (D.C. Cir. 2009)). And because the manufacturing branch regulations are fully consistent with Congress’ intent as expressed in the legislative history, we cannot find those regulations to be “arbitrary, capricious, or manifestly contrary to the statute.” Chevron, 467 U.S. at 844. We accordingly reject petitioners’ challenge to the regulations’ validity.13
+ 
+*180 To implement the foregoing,
+ 
+Appropriate orders will be issued.
+ 
+All Citations
+154 T.C. No. 9, 154 T.C. 142, Tax Ct. Rep. (CCH) 61,661, Tax Ct. Rep. Dec. (RIA) 154.9
+
+
+
+Footnotes
+|
+1
+|Unless otherwise indicated, all statutory references are to the Internal Revenue Code in effect for the tax year at issue, and all Rule references are to the Tax Court Rules of Practice and Procedure. We round all monetary amounts to the nearest dollar.
+|
+2
+|Convention for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income, Lux.-Mex., Feb. 7, 2001.
+|
+3
+|Whirlpool Luxembourg derived income of $45,231,843 from sale of the Products. The difference between that amount and the IRS adjustment appears to be attributable to interest income. If Whirlpool Luxembourg’s sales income is determined to be FBCSI, then all of its income would apparently be treated as subpart F income under the “full inclusion” rule. See sec. 954(b)(3)(B); sec 1.954-1(b)(1)(ii), Income Tax Regs. (treating 100% of CFC’s income as subpart F income where FBCSI exceeds 70% of its total gross income).
+|
+4
+|Petitioners allege that the notices of deficiency contained “computational errors.” To the extent such uncertainties exist they will be resolved in further proceedings or in computations for entry of decision under Rule 155.
+|
+5
+|The provisions discussed in the text were effective for tax years before enactment of the Tax Cuts and Jobs Act of 2017, Pub. L. No. 115-97, sec. 14101 et seq., 131 Stat. at 2189, which had an effective date for foreign corporations with taxable years beginning after December 31, 2017, and applies to tax years of U.S. shareholders in which or with which such tax years of foreign corporations end.
+|
+6
+|All citations of the 2002 regulations are to Income Tax Regs.; citations of the new regulations refer to 26 C.F.R.
+|
+7
+|Respondent contends that the new regulations should apply because petitioners urged during the IRS examination that their reporting was consistent with the new regulations. But in so contending petitioners simply articulated an argument with which the IRS did not agree. Respondent cites no authority for the pro-position that petitioners thereby bound themselves to regulations that are inapplicable by their terms, see 26 C.F.R. sec. 1.954-3(c) (2011), and which petitioners permissibly chose not to have applied.
+|
+8
+|Petitioners indicate that Whirlpool Luxembourg “made de minimis purchases of raw materials and component parts from related parties.” Respondent directs no argument to this point, and we do not consider it further.
+|
+9
+|The regulations have an alternative to the “substantial transformation” test where a purchased component constitutes part of the property sold. See sec. 1.954-3(a)(4)(iii), Income Tax Regs. That alternative test has no application here.
+|
+10
+|By contrast, we have held that another corporation cannot be treated as a “branch” of a CFC if that other corporation is an entity separate and distinct from the CFC for Federal income tax purposes. See Vetco, Inc., 95 T.C. at 589-590; Ashland Oil, Inc. v. Commissioner, 95 T.C. 348, 360 (1990).
+|
+11
+|An example in the regulations reaches a similar conclusion after positing facts substantially identical to those here. See sec. 1.954-3(b)(4), Example (2), Income Tax Regs. (concluding that income derived by a manufacturing branch was not FBCSI but that sales income derived by the remainder of the CFC was FBCSI under the branch rule because it was derived “from the sale of personal property on behalf of [the] branch”). Petitioners contend that the remainder should be deemed to make sales “on behalf of” its branch only if the remainder functions as a sales agent, earning commissions without taking title to the property. But section 954(d)(1) defines FBCSI as “income (whether in the form of profits, commissions, fees, or otherwise).” And the regulations (including the example referenced above) make clear that FBCSI is not limited to commission income.
+|
+12
+|In support of their argument petitioners cite IRS Tech. Adv. Mem. (TAM) 8509004 (Nov. 23, 1984). Such memoranda have no precedential force. See sec. 6110(k)(3). In any event the TAM petitioners cite is distinguishable: There (unlike here) the remainder of the CFC was treated as having made no sales because “[t]itle to, and ownership of, all work in process, as well as finished goods, was clearly in the branch.”
+|
+13
+|“[N]either antiquity nor contemporaneity with * * * [a] statute is a condition of [a regulation’s] validity.” Smiley v. Citibank (S.D.), N.A., 517 U.S. 735, 740 (1996). But it is relevant that the manufacturing branch rules have now been in existence for 55 years. See Cottage Sav. Ass’n v. Commissioner, 499 U.S. 554, 561 (1991) (“Treasury regulations and interpretations long continued without substantial change, applying to unamended or substantially reënacted statutes, are deemed to have received congressional approval and have the effect of law.” (quoting United States v. Correll, 389 U.S. 299, 305-306 (1967))); SIH Partners LLLP v. Commissioner, 150 T.C. 28, 53 (2018) (“[I]t is relevant to * * * [the taxpayer’s] case that the contested regulations had existed for nearly 50 years at the time * * * [of the] transaction at issue.”), aff’d, 923 F.3d 296 (3d Cir. 2019). Congress has repeatedly amended and reenacted section 954 without expressing any disagreement with the manufacturing branch rules. See, e.g., Tax Reduction Act of 1975, Pub. L. No. 94-12, sec. 602(b), 89 Stat. at 58. There is no evidence that Congress has ever regarded these rules as unreasonable or contrary to its purpose in enacting subpart F.
+|
+
+
+
+
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

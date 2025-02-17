@@ -1,0 +1,1123 @@
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+Distinguished by Electronic Arts, Inc. v. C.I.R., U.S.Tax Ct., March 22, 2002
+T.C. Memo. 1996-57
+United States Tax Court.
+BAUSCH & LOMB INCORPORATED and Consolidated Subsidiaries, Petitioners
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent.
+Nos. 13983-91, 1215-92.
+|
+Feb. 15, 1996.
+Attorneys and Law Firms
+Dennis I. Meyer, C. David Swenson, A. Duane Webber, Diane S. Rohleder, J. Michael Cornett, and John W. Polk, Washington, DC, for petitioners.
+Matthew J. Fritz, Omaha, NE Jeffrey L. Bassin, Cincinnati, OH, Nancy Ortmeyer Kuhn, Stamford, CT, and Judith Cavell Cohen, Washington, DC for respondent.
+
+
+
+
+MEMORANDUM FINDINGS OF FACT AND OPINION
+CHIECHI, Judge:
+*1 Respondent determined the following deficiencies in petitioners’ Federal income tax:
+ 
+
+
+
+
+ 
+|Taxable Year Ended
+ 
+| 
+|Deficiency
+ 
+|
+|Dec. 25, 1983
+ 
+||$ 9,340,688
+ 
+|
+|Dec. 30, 1984
+ 
+||14,947,579
+ 
+|
+|Dec. 29, 1985
+ 
+||5,417,150
+ 
+|
+|Dec. 28, 1986
+ 
+||6,529,257
+ 
+|
+|Dec. 27, 1987
+ 
+||5,339,670
+ 
+|
+
+
+
+
+The following issues remain for decision:1
+ 
+(1) Does the income for each of the years at issue from the sale of sunglasses assembled2 by Bausch & Lomb Ireland, Ltd. (B&L Ireland) and by Bausch & Lomb Hong Kong, Ltd. (B&L Hong Kong) constitute foreign base company sales income as defined in section 954(d)(1) that is includible in petitioners’ gross income under section 951(a)(1)? We hold that it does not.
+ 
+(2) Did respondent abuse her discretion under section 954(b)(4) by failing to exclude certain income of B&L Hong Kong from sources other than the sale of sunglasses it assembled3 from petitioners’ gross income for their taxable years ended December 25, 1983, through December 28, 1986?4 We hold that she did not.
+ 
+
+FINDINGS OF FACT5
+Some of the facts have been stipulated and are so found.6
+ 
+Bausch & Lomb Incorporated (B&L Inc.) is a corporation organized under the laws of the State of New York. At the time the petitions were filed, its principal corporate offices were located in Rochester, New York (Rochester). B&L Inc. and certain of its subsidiaries filed consolidated Federal income tax returns (Forms 1120) for the taxable years ended December 25, 1983, December 30, 1984, December 29, 1985, December 28, 1986, and December 27, 1987.
+ 
+For each of the years at issue,7 petitioners kept their books and records and filed their Federal income tax returns on the accrual method of accounting using a 52-53 week taxable year. B&L Inc. was a U.S. shareholder of B&L Ireland and of B&L Hong Kong within the meaning of section 951(b), B&L Ireland and B&L Hong Kong were controlled foreign corporations (CFCs) of petitioners within the meaning of section 957(a), and B&L Ireland and B&L Hong Kong maintained their books and records on the accrual method of accounting using a 52-53 week taxable year.
+ 
+
+
+B&L Inc. and Subsidiaries8
+B&L traces its roots to an optical shop located in Rochester that was founded in 1853 by John J. Bausch and Henry Lomb. Prior to World War I, B&L became the first producer in the United States of optical quality glass, a vital material for military instruments, that freed the United States from its dependence on European sources of such glass.
+ 
+Prior to and during the years at issue, B&L manufactured and sold a wide range of optical-related products, including contact lenses, contact lens solutions, sunglasses,9 binoculars, telescopes, and scientific instruments (e.g., microscopes).10 Prior to the years at issue, B&L manufactured and sold prescription eyeglasses. Prescription eyeglasses are a separate and distinct product from noncorrective sunglasses. Prescription eyeglasses contain individually finished, corrective lenses, are tailored for a specific prescription and to fit an individual face, and are assembled by retail optical shops. In contrast, sunglasses have noncorrective lenses, are tailored to fit a standard face, and are assembled prior to reaching the retailers. B&L discontinued its prescription eyeglasses product line during 1981. As of 1987, B&L performed manufacturing or marketing operations in 25 countries and its products were distributed in over 70 countries.
+ 
+*2 B&L began manufacturing and selling soft contact lenses during 1971. Prior to 1980, B&L’s only manufacturing facility that had the ability to produce soft contact lenses using the spin cast process was located in Rochester (Rochester facility). B&L determined that it was prudent to establish additional soft contact lens manufacturing capacity overseas in order to minimize regulatory delays, establish an alternative supply source to the Rochester facility, and have a facility capable of more efficiently serving the increasingly important European markets. Because of incentives, including tax benefits, offered by the Government of the Republic of Ireland (Ireland) to induce companies to establish manufacturing facilities in Ireland, it was determined that B&L could realize those objectives most cost effectively in Ireland. Accordingly, for valid business reasons, on February 1, 1980, B&L Ireland was incorporated under the laws of Ireland to manufacture contact lenses. B&L Ireland’s contact lens manufacturing facility was located in an industrial estate in Waterford, Ireland (Waterford industrial estate).
+ 
+During the 1970s and the 1980s, B&L was increasingly turning its attention to international markets, including Southeast Asia where B&L was experiencing rapid growth in the sale of its products. Prior to 1972, B&L distributed its sunglasses and other products in certain Southeast Asian markets through independent distributors unrelated to B&L (independent distributors) that sold products other than B&L products, including in the case of at least one such distributor sunglasses produced by a competitor of B&L. The independent distributors did not focus on B&L products, and B&L maintained no direct contact with the retail optical shops in Southeast Asia that sold its sunglasses to consumers. In addition, B&L did not maintain any inventory in Southeast Asia and experienced long lead times on product orders originating in that market due to a delay in shipping products from the United States to that part of the world. This was the case even though during the early 1970s B&L was experiencing rapid sales growth in Southeast Asia as that market began to develop and its consumers could afford more luxury-type products.
+ 
+In 1971, B&L opened an office in Hong Kong, its largest market in Southeast Asia. Although that office, which it called a representative office, acted as a liaison between B&L and its independent distributors, it did not maintain any inventory or employ its own sales force. In order to improve customer service and reduce the lead time on product orders, the director of the representative office in Hong Kong suggested to the Ophthalmic Division of B&L Inc.11 in Rochester that B&L operate a warehouse to maintain an inventory in Hong Kong. It was the understanding of B&L that any office that maintained inventory in Hong Kong had to be incorporated in Hong Kong.
+ 
+The Ophthalmic Division of B&L Inc. decided to incorporate B&L Hong Kong in 1972 for the primary purposes of distributing sunglasses and other B&L products in Hong Kong and related markets in Southeast Asia and improving customer service and expanding B&L’s business in Southeast Asia. In connection with the decision to establish distribution operations in Hong Kong, B&L considered Hong Kong’s labor costs, its political stability, its historic role as a trading center, any logistical difficulty of managing the Asian distribution function from Rochester, and the inadequacy of its marketing and sales in Southeast Asia, in particular in Hong Kong, because of its reliance on independent distributors.
+ 
+*3 From 1972 through 1981, B&L Hong Kong functioned, inter alia, as a marketing, sales, warehousing, and distribution facility that purchased sunglasses, contact lenses, contact lens solutions, ophthalmic frames and lenses, scientific instruments, and other B&L products from related suppliers and sold them primarily to unrelated customers in Hong Kong, Taiwan, the Philippines, Singapore, Malaysia, Thailand, and Indonesia. During those years, B&L Hong Kong’s largest selling products were sunglasses that it purchased from B&L and that it did not assemble in Hong Kong, and its largest sales market for those sunglasses was Hong Kong. Throughout the period 1972 through 1981, B&L Hong Kong, and not B&L Inc., made the decisions affecting B&L Hong Kong’s operations that related to its (1) leasing facilities, (2) personnel, (3) selection of the B&L product lines it offered, (4) B&L product inventory levels, (5) processing and billing of customer orders, and (6) account management. During those years, B&L Hong Kong expanded its sales of B&L products from approximately $300,000 to $10 million.
+ 
+B&L’s management was aware that the tax rates in Hong Kong were lower than the tax rates in the United States during and immediately prior to the years at issue, and B&L’s management made efforts during those years to reduce its overall tax burden.
+ 
+
+
+B&L Sunglasses
+B&L began producing sunglasses in 1930 in response to an inquiry from the U.S. Army Air Corps, whose pilots needed protection from the glare of the sun while flying above the clouds. B&L began marketing sunglasses to the general public in 1936. Since 1937, B&L has marketed its sunglasses principally under the name “Ray-Ban”.
+ 
+Ray-Ban sunglasses are premium quality sunglasses that are priced two-to-ten times higher than regular sunglasses. Ray-Ban sunglasses contain optical-quality, glass lenses that are impact resistant and designed to protect the wearer from harmful ultraviolet rays without distorting his or her natural vision.
+ 
+B&L produced, inter alia, the following styles of sun-glasses, all of which bore the logo Ray-Ban: (1) Sunglasses with metal temples and fronts and glass lenses that B&L and we refer to as metals or metal sunglasses,12 (2) sunglasses with metal temples and fronts covered in whole or in part with leather and glass lenses that B&L and we refer to as leathers, (3) sunglasses with plastic temples and fronts and glass lenses that B&L and we refer to as plastics or plastic sunglasses,13 and (4) sunglasses with nylon temples and fronts14 and glass lenses that B&L and we refer to as Cats. B&L also produced sunglasses with metal temples and fronts and a one-piece plastic shield as a lens that B&L and we refer to as Wings.
+ 
+B&L used stock keeping units (SKUs) to keep track of the finished sunglasses that it produced and sold. Every different type of finished sunglass product made by B&L was assigned a different SKU and represented a separate inventory item. Any variation in the sunglasses caused them to be assigned a different SKU. Thus, for example, if two pairs of large metals contained different colored lenses, or two pairs of Wayfarers were made with different colors of plastic, they were assigned different SKUs even though they were identical in every other respect.
+ 
+*4 Prior to and during the years at issue, B&L’s primary facilities for producing sunglasses were located in Rochester. B&L performed both parts fabrication and assembly in Rochester. B&L treated parts fabrication and assembly as separate operations and, regardless of location, considered its assembly facilities as customers of its parts fabrication facilities.
+ 
+For all relevant periods until sometime in 1986, B&L produced the glass lenses for its Ray-Ban sunglasses in its glass plant in Rochester (glass plant). The glass plant used a large glass tank capable of being subjected to extreme heat to turn sand and oxides into a molten material that could be pressed into shape for use as lenses in Ray-Ban sunglasses. Because plastic lenses had taken over the market for prescription eyeglasses by 1986, the glass plant was not commercially viable and was closed. B&L licensed its glass lens-making technology to Schott Glass Technology (Schott Glass), an unrelated third-party vendor that specialized in making glass products. B&L worked closely with Schott Glass to ensure that it produced quality lenses for use in Ray-Ban sunglasses.
+ 
+B&L fabricated the parts for its metals in its Frame Center in Rochester (Frame Center) and its plant in Pforzheim, Germany, that was operated by B&L GmbH, a subsidiary of B&L Inc.15 B&L put metal wire through a multiple-step process in order to produce the parts known as metal temples or fronts that were used in assembling certain of its sunglasses. Machines were used to draw, form, bend, or cut the metal wire and to press holes into the parts to create threaded holes. An electroplated coating was applied to the metal temples and fronts. As part of the process of fabricating metal sunglass parts, metal temples and fronts were subjected to 20 to 40 specific inspection steps, some of which involved random samples.
+ 
+In the process of fabricating plastic frames, sheets of plastic were pressed by B&L to cut out plastic temples and fronts. Hinges were attached during the process. In the case of the plastic temples, heated wires were inserted into the temples in order to enable them to hold adjustments to their shape. As a final step to B&L’s fabrication of plastic frames, the plastic temples or fronts were placed into a tumbling barrel, which contained wooden chips and wax to round their edges and polish them.
+ 
+B&L worked hard to ensure the quality of its sunglasses during both the fabrication of parts for sunglasses and the assembly of those parts into finished sunglasses. Regardless where the parts were fabricated and assembled into finished sunglasses, B&L maintained strict quality standards and specifications that the parts and finished sunglasses were required to meet. Specifications for all sunglasses were established by the specifications group at the B&L Frame Center in Rochester.
+ 
+
+
+Establishment by B&L of New Sunglass Assembly Facilities
+During the 1970s, B&L experienced tremendous growth in its sunglass sales. Much of that growth was in international markets, especially Western Europe and Southeast Asia. By 1982, approximately half of B&L’s sunglass sales were outside the United States. To help meet that demand, B&L increased the output of its sunglass production facilities in Rochester during the 1970s and continued to do so during the years at issue.
+ 
+*5 Prior to 1982, B&L operated a sunglass assembly facility in France that it decided to close. Because of the tremendous growth of its sunglass sales in Europe and elsewhere, it needed (1) to replace that facility in order to supply its European markets and (2) to expand its worldwide sunglass production. Although B&L considered further expanding its sunglass assembly facility in Rochester and opening sunglass assembly facilities in other places, it determined that Ireland was the best site for the establishment of a new sunglass assembly facility.
+ 
+The primary reason for the selection of Ireland as a site for a sunglass assembly facility was the availability of grants from the Industrial Development Authority of Ireland (IDA) and other incentives provided by the Government of Ireland. The IDA, established pursuant to the Industrial Development Act of 1969, was responsible for promoting industrial development in Ireland. Its principal objective was to encourage Irish and foreign industrialists to establish operations in Ireland. Although the IDA helped companies organized in Ireland that did not export products from Ireland, certain service-industry companies, and small businesses, it favored those businesses setting up manufacturing operations that planned to export products from Ireland. The IDA offered a wide range of economic and financial incentives to firms that established operations in Ireland, including (1) capital grants in amounts up to 45 percent of the total cost of plant and equipment and (2) training grants in amounts up to 100 percent of the expenditures incurred to train employees.
+ 
+On or about June 23, 1982, B&L submitted to the IDA a draft proposal (IDA draft proposal) for the establishment of a sunglass facility in Waterford, Ireland, to be located in the Waterford industrial estate in which B&L Ireland’s contact lens facility was located. The IDA draft proposal was prepared in the format set forth in the IDA’s “Guide to the Submission of Industrial Proposals”.
+ 
+On or about October 6, 1982, B&L Ireland and the IDA entered into an agreement (IDA grant agreement) pursuant to which the IDA agreed to provide B&L Ireland with (1) capital grants equal to 40 percent of B&L Ireland’s (a) annual rent, (b) expenditures for factory-building modifications, and (c) purchases or leases of new machinery and equipment and (2) training grants equal to 100 percent of B&L Ireland’s training costs. In order to receive the capital grants under the IDA agreement, B&L Ireland was required to follow certain procedures, including filing an auditor’s certificate to verify its actual capital expenditures. It received capital and training grants from the IDA by submitting the required documented claims for such grants.
+ 
+Contemporaneous with the IDA grant agreement, B&L Ireland and the IDA entered into a lease and option agreement (unit 107 lease and option agreement) pursuant to which B&L Ireland leased and was granted an option to purchase from the IDA unit 107 in the Waterford industrial estate that had an approximate size of 6,700 square feet. At the same time, but in a separate agreement, the IDA also agreed to grant a rent subsidy to B&L Ireland with respect to the unit 107 lease and option agreement.
+ 
+*6 B&L Ireland entered into additional leases with the IDA. On or about April 27, 1983, it executed an agreement to lease unit 102 in the Waterford industrial estate to use as a temporary storage facility for raw materials. In 1984, B&L Ireland leased from the IDA a warehouse facility that had an approximate size of 6,000 square feet. In late 1987, it moved its sunglass assembly operations to a new facility that had approximately 19,000 square feet.16
+ 
+B&L Ireland received additional financial incentives from the Government of Ireland in the form of certain exemptions from Ireland’s corporation tax and its value added tax (VAT). With respect to Ireland’s corporation tax, Ireland generally exempted from that tax income earned through export sales of goods manufactured in Ireland. Pursuant to that exemption, B&L Ireland was relieved of its obligation to pay Ireland’s corporation tax with respect to substantially all, if not all, of its profits from its sunglass assembly operations. With respect to Ireland’s VAT, Ireland generally exempted from that tax firms engaged in a manufacturing business that were importing the goods used in that business. Pursuant to that exemption, B&L Ireland was exempt from VAT on items it purchased from B&L Inc. and B&L GmbH for use in its sunglass assembly operations in Ireland.
+ 
+In addition to incentives provided by the IDA and the Government of Ireland, B&L considered the following factors in selecting Ireland as the site for a sunglass assembly facility: (1) The ability to have goods shipped from Ireland duty-free within the European Economic Community (EEC) because of that country’s membership in the EEC, (2) Ireland’s proximity to North Africa, the Middle East, and Europe, (3) Ireland’s low labor costs, and (4) economies gained by association with the existing contact lens facility in Waterford, Ireland.
+ 
+In addition to opening a sunglass assembly facility in Ireland during 1982, B&L decided to open a sunglass assembly facility in Hong Kong during that year. During the early 1980s, B&L Hong Kong experienced rapid growth in the sale of sunglasses that it purchased from B&L. Because it experienced long lead times on finished sunglasses shipped from the United States, B&L Hong Kong found it necessary to maintain large inventories to avoid running out of certain SKUs of sunglasses. The cost of maintaining large inventories during the early 1980s was high because interest rates were approximately 18 percent at that time. In an effort to reduce costs and improve customer service, in early 1981, Mr. Y.H. Chan, the managing director of B&L Hong Kong from 1975 and throughout the years at issue, proposed to William Godfrey (Mr. Godfrey), the president of B&L Inc.’s Consumer and Ophthalmic International Division,17 that B&L Hong Kong assemble sunglasses in Hong Kong. Mr. Godfrey approved the decision on behalf of B&L Inc. to establish a sunglass assembly facility in Hong Kong. His decision was based on the following factors: (1) Because the parts for different SKUs of Ray-Bans were interchangeable, B&L Hong Kong could reduce its finished goods inventory yet process customer orders faster by assembling the sunglasses in Hong Kong;18 and (2) because labor and overhead costs were cheaper in Hong Kong than in the United States, the overall cost to B&L to produce a pair of sunglasses was reduced.
+ 
+*7 From 1982 through 1987, B&L Hong Kong leased facilities in the Watt’s Industrial Building in Hong Kong for its sunglass assembly operations. During the period 1983 through 1985, B&L Hong Kong leased 1,200 square feet for those operations. During 1986 and 1987, it increased the amount of space it leased to 8,000 square feet, 4,000 square feet of which was used for production and 4,000 square feet of which was used as a ware-house. B&L Hong Kong leased additional space for offices for managers and other personnel involved in its sunglass assembly operations.
+ 
+In addition to assembling sunglasses, B&L Hong Kong continued to act as a marketing and distribution company for other B&L products, including sunglasses assembled outside of Hong Kong.
+ 
+
+
+Licenses of Intangibles to B&L Ireland and to B&L Hong Kong
+Pursuant to license agreements, B&L Inc. granted to B&L Ireland and B&L Hong Kong, respectively, nonexclusive licenses to use certain technology relating to sunglass assembly.19 Pursuant to those respective license agreements, B&L Inc. provided to B&L Ireland and B&L Hong Kong specifications for sunglass assembly, production know-how and training, ongoing technical assistance and support, standard operating procedures, and other documents and information relating to the sunglass assembly process. B&L Ireland and B&L Hong Kong paid royalties to B&L Inc. for the use of such technology.
+ 
+B&L Ireland and B&L Hong Kong were required to assemble B&L sunglasses in accordance with the specifications for such sunglasses established by B&L Inc. Although B&L Ireland and B&L Hong Kong were able to recommend changes in the specifications, they were not free to ignore the specifications established by B&L Inc.
+ 
+
+
+Management Functions at B&L Ireland and B&L Hong Kong
+B&L Ireland employed between 55 and 66 employees, including the following supervisors (also known as managers) who were responsible for the conduct of B&L Ireland’s sunglass assembly operations: (1) A plant manager who was responsible for ensuring that the plant was properly sized for the volume of production the plant was required to generate and for ensuring the coordination of the activities of the senior managers who reported to him or her, (2) a production or manufacturing supervisor who was responsible for the supervision and organization of plant personnel and who ensured that all resources (i.e., equipment and manpower) were in place and that training was properly undertaken and reported to the IDA, (3) a materials supervisor who was responsible for preparing the production plan for the plant and ensuring that all parts were properly ordered and arrived at the plant in time for processing, and (4) a quality assurance and engineering supervisor who was responsible for ensuring that the parts supplied to the plant and the finished products leaving the plant met the quality standards that apply to B&L sunglasses. B&L Ireland also had other management staff who were responsible for finance and accounting, human resources, and other functions. The plant manager and the senior management personnel normally met on a weekly basis as a management team to work on policy or other issues.
+ 
+*8 The management of B&L Ireland was responsible for planning the production of B&L sunglasses in Ireland. That process, known as the production planning process, involved several stages. Approximately six months prior to the beginning of a fiscal year, the senior management team met to prepare a production budget. The production budget was based upon the customer sales and demand forecasts supplied to B&L Ireland by B&L Inc. and upon instructions from B&L Inc. as to which SKUs B&L Ireland was to be responsible for assembling. The production budget was designed to identify the resources (i.e., the necessary personnel and sunglass parts) required to meet the production plan. The next stage of the production planning process was to prepare the production forecast. That occurred approximately three months prior to the planned production and allowed B&L Ireland to order the necessary sunglass parts from B&L Inc. and B&L GmbH in time to begin the required production. The next phase in the production planning process was to prepare a production schedule that occurred one to two weeks in advance of actual production. The production schedule was prepared by the production supervisor and the materials supervisor and was based on what parts and production personnel were available at that time to meet required production as set by B&L Inc. Manufacturing orders were issued from the production schedule. The manufacturing orders specified which SKU of sunglasses was to be assembled. Based on the manufacturing order, parts were issued to the operator (viz., the assembler) so that the assembly process could begin.
+ 
+B&L Ireland was responsible for hiring its own production personnel and for negotiating union contracts for its sunglass assembly operations. B&L Ireland also retained outside consulting firms (1) to develop a job evaluation system for determining the relative level of skill required to perform the various functions performed by B&L Ireland (including its contact lens operations) and (2) to assess the relative level of efficiency achieved by the employees in its sunglass assembly operations and to recommend work standards to improve that level of efficiency.
+ 
+B&L Ireland maintained a management accounting system for its sunglass assembly operations that was separate from the accounting system for its contact lens operations. The accounting system for B&L Ireland’s sunglass assembly operations was based upon standard cost accounting under which standard costs were established for materials, labor, and overheads, and the actual costs for those items were compared against those standard costs to determine any variances. B&L Ireland prepared monthly reports based on its accounting system in order to aid it in monitoring its sunglass assembly operations. B&L Ireland’s cost accounting system was indicative of a manufacturing company and not a distribution operation.
+ 
+B&L Hong Kong’s sunglass assembly operations utilized between 22 and 31 employees, including the following supervisors and managers who were responsible for its sunglass assembly operations: (1) A managing director who had overall responsibility for B&L Hong Kong’s operations (including operations other than the assembly of sunglasses), (2) a production manager who was responsible for the overall production of sunglasses, including quality control, process improvement, manpower allocation, ordering of the parts for production, and production scheduling, and (3) an assistant production supervisor and two group leaders who were responsible for the day-to-day production operations. The managing director reported to an employee of B&L Inc.
+ 
+*9 The monthly production plans for B&L Hong Kong were prepared by the production manager based upon information supplied to him by B&L Hong Kong’s sales and marketing personnel, the amount of goods on hand, and the customer back orders on hand. B&L Inc. did not decide which SKUs of sunglasses B&L Hong Kong was to assemble or sell. B&L Hong Kong’s management was responsible for those decisions. From the monthly production plans that were based on finished sunglasses, the production manager prepared a weekly production schedule for each day in each week. The production manager also was responsible for ordering parts by taking into account the sales forecast, customer orders, the finished goods inventory on hand, the parts on hand, and the parts on order from B&L Inc.20 Starting in 1984, the parts orders were prepared by B&L Hong Kong using a computer system that utilized software developed for B&L Hong Kong by an outside vendor it had hired.
+ 
+Like B&L Ireland, B&L Hong Kong maintained a management accounting system based upon standard cost accounting to compare its actual performance data to its standard budgeted data and prepared monthly reports based on that system in order to assist it in monitoring its business. The production manager was responsible for establishing the standard costs based on historical data and time and motion studies. B&L Hong Kong’s cost accounting system was indicative of a manufacturing company and not a distribution operation.
+ 
+
+
+Training of Personnel
+When B&L Ireland commenced its sunglass assembly operations in November 1982, the initial training for operators at B&L Ireland was provided by an individual employed by B&L Inc. and lasted approximately three weeks. Around May 1983, an additional instructor employed by B&L Inc. provided approximately four weeks of training to B&L Ireland’s sunglass assembly personnel. B&L Ireland’s personnel also traveled to Rochester to train in the assembly of new SKUs.
+ 
+Shortly after commencing operations, B&L Ireland hired quality assurance inspectors to inspect the finished sunglasses it assembled. The initial training for inspectors was provided by an individual employed by B&L Inc. in the United States. Approximately 80 percent of the sunglasses produced at the B&L Ireland sunglass assembly facility during the initial stages of production failed a quality inspection and were returned to the original operator for reworking.
+ 
+B&L Ireland undertook a number of steps to improve the quality of the sunglasses it produced. In May 1983, B&L Ireland established its own training program to ensure that its employees were competent to produce quality sunglasses. At that time, B&L Ireland employed one of its quality assurance auditors to serve as a full-time instructor. During 1985, B&L Ireland hired a second full-time instructor to become an instructor in assembling metal sunglasses.
+ 
+In a further effort to improve the quality of the sunglasses it assembled and in order to help B&L Ireland establish standard operating procedures for its sunglass assembly operations, during 1984, B&L Ireland’s sunglass assembly operations underwent a quality audit performed by the quality manager of its contact lens operation. Shortly thereafter, the quality assurance manager for the sunglass assembly operations was replaced. In its production budget for its second year of operations (viz., 1984), the management of B&L Ireland also reduced the estimated number of SKUs to be produced by it as part of its continuing effort to improve the quality of the sunglasses it assembled.
+ 
+*10 B&L Ireland’s training program for operators lasted 13 weeks. When a new operator started, the instructor showed that person the workstation and told that person the names of the parts, tools, and equipment he or she was to use. For the first week of training, the new operator assembled parts that had been rejected by the quality assurance personnel. Beginning in the second week of training, the new operator started to assemble sunglasses from parts that had passed inspection as acceptable for use in B&L sunglasses. The new operator received one-on-one instruction in assembly techniques from an instructor. The time that the instructor spent with the new operator decreased as the training period progressed.
+ 
+Beginning in the second week of the training program, the new operator was given targets for the quantity and quality of sunglasses to be assembled. For fully-trained operators, B&L Ireland established a target for assembly of 200 sunglasses per day. The target during the second week of instruction was approximately 25 percent of that amount or 50 sunglasses per day. During the first few weeks of training, the percentage of salable sunglasses assembled by the typical new operator was very low. The typical new operator was able to produce only approximately 70 percent of B&L Ireland’s established target of 200 sunglasses per day at the end of the training period. Typically, an operator required approximately six months of assembly experience prior to reaching the target set by B&L Ireland.
+ 
+Some operators were not able to reach a sufficient level of proficiency to continue to function as operators and were transferred to other functions such as packaging and washing. Not all operators were proficient at assembling all types of sunglasses. Whenever an operator began assembling a new style of sunglasses, the operator was given additional training until that person was comfortable and was able to produce sunglasses of sufficient quality. If an operator switched from assembling plastics to assembling metals, the operator was given an additional 13 weeks of training.
+ 
+Training for inspectors at B&L Ireland lasted 13 weeks, regardless whether the individual being trained had been an operator prior to that time. An additional 13 weeks of training was required if the inspector switched from the inspection of metals to the inspection of plastics.
+ 
+Training for other functions, such as packaging and washing, lasted four weeks. When B&L Ireland began applying leather to metal frames in 1986, the training for the leather application process lasted eight weeks. B&L Ireland conducted retraining programs for operators who were having difficulty meeting quantity and quality standards. Those programs typically lasted four weeks.
+ 
+Most quality problems at B&L Ireland with respect to the basic SKUs tended to disappear over time as B&L Ireland’s management and operators became more experienced in assembling those types of sunglasses. However, as new styles of sunglasses were added to B&L Ireland’s products, new quality problems arose.
+ 
+*11 Like B&L Ireland, before becoming fully operational, B&L Hong Kong underwent an initial period of training those involved in the sunglass assembly operations. Employees of B&L Hong Kong went to Rochester to observe B&L Inc.’s assembly operations, and employees of B&L Inc. traveled to Hong Kong to help train employees of B&L Hong Kong. B&L Hong Kong also established a pilot program in which its employees assembled sample batches of sunglasses to send to B&L Inc. in Rochester for approval. Just as B&L Ireland experienced quality problems in the early stages of its operation, B&L Hong Kong was unable to meet its quality standards during 1983.
+ 
+Unlike B&L Ireland, B&L Hong Kong did not hire any full-time instructors. Rather, training of new operators, inspectors, or other production personnel was handled by B&L Hong Kong’s assistant production supervisor and group leaders. A new operator received one-on-one supervision for the first two or three weeks of training to teach that person the basic techniques of assembling sunglasses. An inspector kept track of the defective sunglasses assembled by the new operator in order to determine the areas in which the new operator needed to improve.
+ 
+The typical new operator achieved B&L Hong Kong’s basic daily productivity target of 150 units per day within four to six weeks after the commencement of the training program. During the first few weeks of training, the percentage of salable sunglasses assembled by the typical new operator was very low. A typical operator became skillful in the assembly of basic SKUs of sunglasses within nine to twelve months, but was not able to reach B&L Hong Kong’s average output of 380 pairs of sunglasses per operator per day until sometime during that person’s second year of employment. Some new operators failed to reach the minimum target level and were transferred to other areas.
+ 
+Most inspectors at B&L Hong Kong started as operators and received an additional six to eight weeks of training to become qualified inspectors.
+ 
+
+
+Purchase of Parts by B&L Ireland and by B&L Hong Kong
+B&L Ireland and B&L Hong Kong purchased from B&L Inc. metal fronts and temples, glass lenses, screws, packaging materials, and other parts and materials that they used in their respective sunglass assembly operations. B&L Ireland also purchased metal fronts and temples from B&L GmbH and plastic fronts and temples from B&L Inc. During 1987, B&L Ireland purchased nylon frames from Bolle, a French company unrelated to B&L, that B&L Ireland used to assemble Cats sunglasses. B&L Ireland assembled and sold no more than 35 pairs of Cats during 1987.
+ 
+The amounts paid by B&L Ireland and by B&L Hong Kong to B&L Inc. and by B&L Ireland to B&L GmbH for fronts, temples, lenses, and other materials used in their respective sunglass assembly operations were equal to B&L Inc.’s and B&L GmbH’s respective standard costs of such parts or materials plus (1) 15 percent in 1983, (2) 20 percent in the first six months of 1984, and (3) 30 percent for the remainder of 1984 through 1987. Both B&L Ireland and B&L Hong Kong communicated with their suppliers (i.e., B&L Inc. and B&L GmbH with respect to B&L Ireland and B&L Inc. with respect to B&L Hong Kong) to identify and improve quality problems with respect to the parts they purchased from them.
+ 
+*12 B&L Ireland and B&L Hong Kong were responsible for managing and controlling the parts and materials used in their respective sunglass assembly operations. Each company maintained part numbers for each of the parts and materials that it purchased and used those part numbers for inventory control and management purposes. B&L Ireland and B&L Hong Kong typically received parts in boxes containing 50 or more units of a single item (i.e., a single part number). Each box of 50 or more units was referred to as a lot.
+ 
+At B&L Ireland, the quality assurance department inspected purchased parts (incoming inspection) to screen out nonconforming or defective parts, identify problems that might arise during the production process, and identify opportunities to work with its suppliers to improve quality. To perform the incoming inspection, a trained inspector selected a random sample of parts from each lot, examined the parts visually and with various gauges and tools to identify cosmetic or aesthetic defects and dimensional defects, and marked each defective part. The inspector compared the total number of rejected parts to a standard to determine whether the lot passed or failed the incoming inspection. If too many of the purchased parts of a particular lot were determined to be defective, the inspector placed the failed lot in quarantine.21 If the purchased parts passed inspection, B&L Ireland’s materials management department stored the parts in inventory until they were needed for assembly.
+ 
+At B&L Hong Kong, the incoming inspection was performed by each operator who was trained and responsible for checking the parts prior to assembling them to ensure that they were of acceptable quality for assembly. If the operator found any defects, he or she was to ask the storekeeper to exchange the defective parts for nondefective parts. The storekeeper, who was also trained to perform quality inspections, verified whether those parts submitted by the operator were in fact defective. If they were defective, the storekeeper replaced them; if they were not defective, the storekeeper returned them to the operator for assembly. B&L Hong Kong employed an individual to repair repairable defective parts so that those parts could be used to assemble sunglasses.
+ 
+Even if the parts purchased by B&L Ireland and by B&L Hong Kong had passed the incoming inspections conducted by each of those companies, an operator still could have experienced some difficulty in assembling those parts due to a problem known as tolerance stacking. Because the incoming inspections at both B&L Ireland and B&L Hong Kong tested to established tolerances, purchased parts were permitted to deviate from the nominal specification (viz., the ideal size) for those parts within a certain range and nonetheless pass inspection. For example, if an operator had attempted to insert a lens that was larger than the nominal specification into a frame that was smaller than the nominal specification, the operator may not have been able to assemble those parts correctly.
+ 
+
+
+Metals
+*13 At both B&L Ireland and B&L Hong Kong, the operator received the parts to be assembled along with a manufacturing order detailing the SKU to be assembled. The operator began assembling the metals by picking up a front and using a screwdriver to open the left and right lens screws in the endpieces on the fronts by turning them three revolutions to permit the operator to attempt to insert the lenses properly without damaging the lenses or the front.22 The operator manipulated the right and left lenses into the respective eyewires of the front in a manner intended to avoid canted eyes (i.e., improper rotation and seating of the lenses in the fronts), partially assembled sunglasses (on which the lens could pop out after the lens screw had been tightened), and chipped or scratched lenses. If the lens had been larger than the nominal specification for lenses, or the frame had been smaller than the nominal specification for frames, the operator might have had to turn the lens screw more. If the operator had opened the lens screw too far, the screw might have popped out of the hole and the operator would have had to begin the process again. On the other hand, if the operator had not opened the lens screw far enough, the operator, by applying too much pressure trying to force the lens into place, might have chipped the lens, which would have caused the lens to be rejected as unacceptable for use in B&L sunglasses.
+ 
+After inserting the lenses, the operator inserted a temple into the endpiece of the front, aligning the holes of the temple with the holes of the endpiece.23 The operator maintained that alignment with one hand and picked up a tiny screw that was 2.5 to 3 millimeters in length and .5 to 1 millimeter in diameter and inserted it into the temple. Using a screwdriver, the operator partially tightened the temple screw, fully tightened the lens screw, and fully tightened the temple screw. The operator repeated the templing process with respect to the other temple. If the operator had applied too much pressure to the screws when tightening them, the following damage, any of which would have made the affected part unacceptable, might have occurred: (1) A cracked lens, (2) a chipped lens, (3) stripped or chipped screw head, (4) stripped screw threads, (5) stripped threads inside the temple or endpiece holes, and (6) broken solder on the endpiece.
+ 
+Following completion of the lensing and templing procedures, the operator inspected the sunglasses for any damage to the parts that occurred during the assembly process and replaced any damaged parts identified.
+ 
+The operator inspected both the left and right lens for lens gaps (i.e, a gap between the lens and the frame). If the operator had identified a lens gap, the operator would have adjusted the curvature of the frame by manually bending the frame to meet the curvature of the lens. B&L Ireland and B&L Hong Kong frequently encountered lens gap problems with respect to a style of metals called Caravans that had square rather than round eyepieces. This was because the curvature of the top of the Caravan frame generally failed to meet the curvature of the lens. At B&L Ireland, operators were responsible for adjusting the curvature of the Caravans prior to assembly. At B&L Hong Kong, an individual known as a repairer was assigned to adjust the curvature of the Caravan frames before they were given to the operators for assembly.
+ 
+*14 The operator used an eyewire to identify any endpiece gap (i.e., a gap between the top and bottom portions of the endpiece). If the operator had identified an unacceptable endpiece gap, the operator would have used gapping pliers to apply pressure to the endpiece so that he or she could have further tightened the lens screw. If the operator had applied too much pressure to the pliers, he or she could have chipped the lens or broken the solder on the endpiece.
+ 
+The operator used a fitback board to identify and examine the crossover angle (i.e., the angle of the temples when folded in relation to a horizontal line joining the hinge centers), the fitback angle (i.e., the angle formed by the temples in an open position in relationship to the front), and the down angle (i.e., the angle formed by the front and temple in the open position) in order to determine if those angles were within the specifications established for the SKU being examined. The operator also used the fitback board to determine whether there were any rocking temples (i.e., whether both temples had contact with the surface when lying topside down on a flat surface).24 If the operator had determined that an adjustment to the sunglasses was needed, the operator would have used truing pliers to manipulate the endpiece to the required angle. If the operator had applied too much pressure or otherwise misused the pliers when bending the endpiece, the operator could have broken or marked the endpiece or the temple, or chipped the lens. If an adjustment had been made, all angles would have been rechecked until no further adjustment would have been necessary.
+ 
+After the operator completed the truing process, the sunglasses were sent to trained inspectors at B&L Ireland and B&L Hong Kong who performed an inspection of each pair of assembled sunglasses to ensure that it conformed to the specifications for the SKU being inspected (100-percent inspection). Specifically, the inspectors (1) inspected the temples and fronts for cosmetic defects; (2) examined the crossover, fitback, and down angles and made any necessary adjustments to the sunglasses; (3) determined whether there were any rocking temples and made any necessary adjustments to eliminate them; (4) adjusted the nosepads; (5) examined the lenses for cosmetic defects (including any defects in the trademark and logo markings) by (a) identifying any chips, scratches, or digs, (b) measuring any such defects using a scratch and dig plate, and (c) comparing any such defects to the standard allowable size and number of such defects that varied depending on the location of the defects and the SKU being assembled; (6) examined the sunglasses for the presence of any lens gaps and canted eye or other fit defects and made any necessary adjustments to eliminate them; (7) inspected the endpieces for endpiece gaps and screw quality; (8) identified any rejected sunglasses and made the necessary repairs and/or replacements to those sunglasses; and (9) cleaned the sunglasses with their gloves.
+ 
+*15 Following the 100-percent inspection, washers placed the inspected metal sunglasses at B&L Ireland and at B&L Hong Kong in a rack, washed the sunglasses in chemicals, rinsed the sunglasses with Freon, placed the sunglasses in a drying chemical, and placed the dried sunglasses into another rack.
+ 
+After inspection and cleaning functions, packers packed each pair of inspected sunglasses at B&L Ireland and at B&L Hong Kong. The packer determined if any special packing material was necessary by reference to a special packing manual, placed a hang tag on the left temple if specified, closed the left and right temples, placed the sunglasses in a case, and placed the specified quantity in a finished goods box. After completing the packing process, the packer verified the quantity in the box and completed a quality sheet.
+ 
+At B&L Ireland, the auditors, who were trained inspectors, performed an audit of the finished sunglasses that had been packaged to ensure that the products conformed to B&L’s standards. The auditor selected a random sample of the sunglasses from a particular lot and performed inspection functions with respect to that sample similar to the 100-percent inspection performed by inspectors. If the auditor had identified too many defects in the samples inspected, the lot would have failed the audit. In that event, all the sunglasses in the lot would have been returned to the inspector for another 100-percent inspection, and the inspector would have corrected any defects identified and would have sent the lot back to the auditor for reauditing.
+ 
+B&L Hong Kong did not have any personnel devoted solely to carrying out the audit function with respect to finished sunglasses. Its cleaners, who cleaned each sunglass unit with a hand cloth following the washing process, and its packers were trained in inspection procedures needed to perform the audit function. The cleaners and packers performed inspection functions similar to the inspections conducted by B&L Ireland’s auditors. However, rather than inspecting only a random sample of each lot, each pair of sunglasses at B&L Hong Kong received a second inspection conducted by the cleaners and packers.
+ 
+
+
+Plastics
+In addition to assembling metals, B&L Ireland’s personnel assembled plastics. B&L Hong Kong did not perform any operations that resulted in plastic sunglasses and did not even sell many B&L plastic sunglasses assembled outside B&L Hong Kong. This was principally because the bridge on the plastics was too wide for the average Asian face, which tended to be smaller than the average Caucasian face, and, unlike metals, plastics did not have nosepads that could be adjusted to fit the Asian face.
+ 
+In assembling plastics, B&L Ireland’s personnel used a heating tunnel equipped with temperature and speed controls in order to render the plastic fronts sufficiently malleable so as to permit the insertion of the lenses and the formation of the headcurve of the fronts. The heating tunnel, which contained a conveyor belt running through the machine, heated the front with electrical elements located on the top of the tunnel. Although the specifications for a particular SKU established initial settings for the temperature and speed, the operator was responsible for adjusting those controls as necessary to facilitate the lensing process. If a front had not been hot enough when it exited the tunnel, the operator could not have inserted both lenses without damaging either the fronts or the lenses. On the other hand, if the front had been too hot when it exited the heating tunnel, it could have suffered heat damage such as sunken plaques,25 bubbles, blisters, and cracks.
+ 
+*16 After the operator removed the heated front from the heating tunnel, he or she removed the plastic protective caps from the hinges with a decapper or pliers, placed the front on the metal stretcher plate located on a pneumatic stretcher machine, and activated the machine that compressed a top plate down on to the stretcher plate, thereby stretching the eye cavities on the front and partially forming the headcurve of the front. The operator removed the front from the stretcher plate, manipulated the lenses into the eye cavities, manipulated the front to form the proper headcurve for the SKU being assembled, measured the headcurve using a headcurve chart, examined the fronts for distortions, and checked for and corrected any lens gaps or other defects. The operator was required to complete the lensing process before the front cooled down.
+ 
+Prior to attaching the plastic temples to the fronts, the operator was required to use a mitring machine to cut plastic from the front end of the temples so as to create an angle that conformed to the angle of the front.26 The operator adjusted the cutting blade of the mitring machine, inserted and aligned a temple so that the machine would cut the temple, and secured and cut the temple. If the operator had cut off too much plastic, the temple would have been scrapped. If the operator had cut off too little plastic, the process would have been repeated.
+ 
+After mitring the temple, the operator attached the temple to the front. He or she performed that function by inserting a temple into the endpiece of the front, aligning the temple holes with the endpiece holes, and, while maintaining that alignment with one hand, picking up and inserting a tiny screw into the temple hole with the other hand, and fully tightening the screw. The process was repeated with respect to the other temple.
+ 
+During certain periods from 1985 through 1987, operators at B&L Ireland used a semiautomatic screwdriver to perform the templing process with respect to plastic sunglasses. The operator aligned the temple and front and placed those parts on the stand of the semiautomatic screwdriver. The operator then pressed a footpedal attached to that screwdriver that resulted in securing a screw, inserting it into the temple holes, and fully tightening it. The process was repeated with respect to the other temple.
+ 
+After completing the templing process with respect to three units in a lot, the operator performed a truing process on the plastic sunglasses similar to the one conducted with respect to metal sunglasses. If the mitring on those three units had been done properly, the operator would have completed the templing process with respect to the remainder of the lot. If the mitring had not been done properly, the temples would have been remitred if possible, or if not, they would have been scrapped and replaced.
+ 
+When necessary, operators at B&L Ireland removed cosmetic blemishes from plastic sunglasses using a polishing machine that had a spinning wheel with surfaces for polishing and buffing. The operator held the blemish, which was marked with a yellow grease pencil, to the polishing surface until it could not be seen (or it was determined that the blemish could not be removed). The operator used the buffing surface to remove the polish from the lenses.
+ 
+*17 After the operator completed the lensing, mitring, templing, truing, inspection, and any repair functions, the lot was sent to the inspectors for a 100-percent inspection. They performed an inspection with respect to plastics that was similar to the inspection performed with respect to metals. If the sunglasses passed the inspection, they were packed and audited in a manner similar to the respective packing and auditing functions performed with respect to metals.
+ 
+
+
+Leathers
+During 1984 through 1987, personnel at B&L Ireland and at B&L Hong Kong performed lensing, templing, truing, inspections, packing, and audit processes with respect to leathers that were substantially similar to those processes with respect to metals.
+ 
+Beginning in 1986 and during 1987, B&L Ireland and B&L Hong Kong applied leather to metal fronts (including headbars) and temples prior to completing the lensing, templing, and truing functions. Those companies used a training manual prepared by Tannereye Ltd., an unrelated company, to train their employees to perform those functions.
+ 
+In the leather application process during 1986 and 1987, the operator mixed the ingredients for the primer, applied the primer to the fronts27 using a syringe, and placed the primed fronts and temples in a drying area for a minimum of eight hours (or, in the case of black chrome fronts, placed them in an oven for two hours, reprimed the fronts, and allowed them to dry for 24 hours). The operator used acetone to remove primer from the endpieces or bridge, since those areas had to be free of any adhesive that would detract from their appearance.
+ 
+Prior to applying leather to the primed fronts, the operator inspected the leather, which had an inactive glue on the inside surface, to ensure that it was free from flaws. The operator measured the leather (including marking where the nosepad arm was located) and cut off any excess leather so that the leather piece would fit the front. The operator applied acetone to the side of the leather with the glue on it to activate the glue and applied the leather to the front. The operator (1) used a soldering iron to burn off any excess thread; (2) used modeling tools to press the leather down to avoid gaps where the metal was showing; and (3) placed the front in a pressurized trap that pressed the leather tightly against the front to avoid problems with loose leather that was not secured to the front. After the operator examined the fronts for defects in the leather application and corrected any defects, the operator applied nosepads to the leather fronts.
+ 
+In order to apply leather to the headbar of the metal fronts, the operator applied pressure to the headbar to deform the front to allow room to apply the leather to the headbar. The operator applied the leather to the headbar in a manner similar to that performed with respect to the application of leather to the fronts. When the leather was applied to the headbar, the operator pushed the headbar back into place to re-form the front.
+ 
+*18 The operator applied leather to temples in a manner similar to that performed with respect to fronts. After applying the leather to the temples, the operator used a vice to bend the temples in order to form the required curve in the temples for the SKU being assembled.
+ 
+
+
+Wings
+From 1984 through 1987, personnel at B&L Ireland and at B&L Hong Kong performed templing, truing, inspection, packaging, and audit processes with respect to Wings that were similar to those processes performed with respect to metals. However, Wings required a different lensing technique because, unlike metals that had two separate glass lenses, Wings had a lens consisting of a one-piece plastic shield. In the case of Wings, after opening the screws and working the eyewire around the lens, the operator inserted Wings pliers, one side of which was plastic and the other side of which was rubber, between the nosepad and the front and exerted pressure until the lens snapped into place. Due to the design of the Wings lens, B&L Ireland and B&L Hong Kong experienced more lens gap problems in the nasal area of Wings than they experienced with most other styles of sunglasses. In an attempt to minimize the lens gap, B&L Ireland developed and used an adjusting tool known as the Wings Gap Eliminator.
+ 
+After completing the truing process with respect to Wings sunglasses, operators at B&L Ireland and B&L Hong Kong washed those sunglasses in a hot water bath and a cold water rinse to remove a protective coating from the lenses that was intended to prevent scratching.
+ 
+
+
+Sales of Sunglasses Assembled by B&L Ireland and by B&L Hong Kong
+B&L Ireland and B&L Hong Kong assembled the following styles and quantities of sunglasses:
+ 
+
+
+
+
+|||B & L Ireland
+ 
+|||
+ 
+|Description
+ 
+|1983
+ 
+|1984
+ 
+|1985
+ 
+|1986
+ 
+|1987
+ 
+|
+
+
+
+
+
+
+
+ 
+|Metals
+ 
+|721,000
+ 
+|406,828
+ 
+|450,325
+ 
+|391,250
+ 
+|536,872
+ 
+|
+ 
+|Plastics
+ 
+| 
+|529
+ 
+|520
+ 
+|169,434
+ 
+|257,378
+ 
+|
+ 
+|Wings
+ 
+| 
+|54,657
+ 
+|50,125
+ 
+|15,093
+ 
+|24,661
+ 
+|
+ 
+|Leathers
+ 
+| 
+|171,469
+ 
+|65,694
+ 
+|43,607
+ 
+|77,207
+ 
+|
+ 
+|Others 28
+ 
+| 
+|165
+ 
+| 
+|44,287
+ 
+|192,912
+ 
+|
+ 
+|Total
+ 
+|721,000
+ 
+|633,648
+ 
+|566,664
+ 
+|663,671
+ 
+|1,089,030
+ 
+|
+ 
+| 
+| 
+| 
+| 
+| 
+| 
+ 
+|
+
+
+
+
+
+
+
+|||B & L Hong Kong
+ 
+|||
+|Description
+ 
+|1983 29
+ 
+|1984
+ 
+|1985
+ 
+|1986
+ 
+|1987
+ 
+|
+
+
+
+
+
+
+
+ 
+|Metals
+ 
+| 
+|383,860
+ 
+|426,546
+ 
+|428,012
+ 
+|456,312
+ 
+|
+ 
+|Leathers
+ 
+| 
+|38,391
+ 
+|42,545
+ 
+|35,902
+ 
+|39,176
+ 
+|
+ 
+|Wings
+ 
+| 
+|18,528
+ 
+|26,379
+ 
+|16,085
+ 
+|4,078
+ 
+|
+ 
+|Others
+ 
+| 
+| 
+| 
+|8,008
+ 
+|3,701
+ 
+|
+ 
+|Total
+ 
+|452,262
+ 
+|779
+ 
+|495,470
+ 
+|488,007
+ 
+|503,267
+ 
+|
+
+
+
+
+B&L Ireland transferred the sunglasses it assembled to a distribution warehouse located in Culembourg, Holland. B&L Ireland did not maintain a sales or marketing staff. The marketing for B&L Ireland was handled by Bausch & Lomb United Kingdom (B&L United Kingdom) in London. The sunglasses assembled by B&L Ireland were sold primarily for distribution in Europe and the Middle East. Most of its European customers were B&L subsidiaries that operated warehouses in most of the European countries. In the Middle East, most of B&L Ireland’s customers were independent distributors that sold other products in addition to Ray-Bans. B&L Ireland did not sell any sunglasses in Ireland.
+ 
+*19 Not all of the B&L sunglasses sold in Europe and the Middle East were assembled at the B&L Ireland sunglass assembly facility. B&L Ireland tended to manufacture SKUs of the biggest runners (i.e., the best selling styles of sunglasses) so that it was not required to train employees to assemble those products that were in less demand.
+ 
+B&L Hong Kong sold the sunglasses it assembled for distribution in Southeast Asia. It sold sunglasses directly to retail optical shops in Hong Kong and sold to both related and independent distributors for distribution in the remainder of Southeast Asia. In addition to selling the sunglasses it assembled, B&L Hong Kong sold B&L sunglasses not assembled by it as well as other B&L products.
+ 
+In general, B&L Ireland and B&L Hong Kong sold sunglasses at prices equal to the international distributor list price (1) less 25 percent for related distributors and (2) less 10 to 15 percent for unrelated distributors.
+ 
+Neither B&L Ireland nor B&L Hong Kong assembled sunglasses for distribution in the United States. Nor did either company sell sunglass parts to retailers except as replacements for repair work. Neither B&L Inc., B&L Ireland, B&L Hong Kong, nor anyone else in the sunglass industry sold sunglass parts to the ultimate consumer.
+ 
+
+
+Tax Return Treatment
+For each year at issue, petitioners reported none of the income of B&L Ireland and of B&L Hong Kong from the sale of sunglasses they assembled as income under subpart F of the Code (subpart F).
+ 
+For each of their taxable years ended December 30, 1984, December 29, 1985, and December 28, 1986, petitioners reported certain of B&L Hong Kong’s income from sources other than the sale of sunglasses assembled by it as subpart F income.30 Petitioners did not report any of B&L Hong Kong’s income as subpart F income for its taxable year ended December 25, 1983. A memorandum prepared by B&L in connection with the tax audit of petitioners’ taxable years ended December 25, 1983, and December 30, 1984, indicated that petitioners did not report any of B&L Hong Kong’s income as subpart F income for their taxable year ended December 25, 1983, because that company “generated an overall loss from subpart F operations” for that year.
+ 
+
+
+Polaroid
+From 1960 through the early 1980s, Sidney P. Davis (Mr. Davis) was an employee of Polaroid U.K., which marketed and distributed sunglasses in the United Kingdom. At the time he joined Polaroid U.K., it sold sunglasses that were assembled for it by Polarizer U.K., an unrelated company, from lenses that Polaroid U.K. imported from the United States and from frames purchased by Polaroid U.K. After joining Polaroid U.K., Mr. Davis, acting as a representative of that company, became the production manager of the assembly operations conducted by Polarizer U.K. His work included improving the quality control of the vendors supplying frames and training the Polarizer U.K. staff in quality control procedures. In Mr. Davis’ view, the Polarizer U.K. factory in which he worked was a manufacturing unit engaged in production, and he was a manufacturing manager.
+ 
+*20 The assembly operations conducted by Polaroid U.K. and Polarizer U.K. throughout the period during which Mr. Davis was production manager were very similar to the assembly operations conducted by B&L Ireland and by B&L Hong Kong. Parts were purchased, sorted, and inspected. The parts were assembled into finished sunglasses with each operator responsible for quality control. The finished sunglasses underwent a final inspection before they were shipped.
+ 
+
+
+OPINION
+
+Evidentiary Matters
+We deal first with the admissibility of certain facts and exhibits to which the parties stipulated, but as to which the parties preserved evidentiary objections in the stipulations of facts. At trial, we admitted those facts and exhibits into evidence conditionally, subject to our ruling on their admissibility.
+ 
+The bases for most of the objections in the stipulations of facts are that certain stipulated facts and exhibits are inadmissible under rule 402 of the Federal Rules of Evidence because they are not relevant as defined in rule 401 of those rules and that, if such facts and exhibits are relevant, they are in any event inadmissible under rule 403 of those rules. We have examined each of the stipulated facts and exhibits in question and find each of them to be relevant. Fed. R. Evid. 401. In addition, we find that the probative value of each of those facts and exhibits outweighs any potential for unfair prejudice, confusion, or other basis for inadmissibility stated in rule 403 of the Federal Rules of Evidence. Accordingly, we overrule all of the parties’ evidentiary objections based on rules 401, 402, and 403 of the Federal Rules of Evidence.
+ 
+Each party also objected in the stipulations of facts to certain stipulated exhibits on grounds of hearsay. “‘Hearsay’ is a statement, other than one made by the declarant while testifying at trial or hearing, offered in evidence to prove the truth of the matter asserted.” Fed. R. Evid. 801(c). Petitioners objected to the following exhibits on those grounds: (1) “The Story of Bausch & Lomb”, (2) “articles from a ‘manufacturing journal’ prepared by Petitioners”, (3) two “newspaper articles” from “Democrat and Chronicle, July 20, 1987” and “USA Today, May 6, 1987”, (4) “Bausch & Lomb Magazine, Vol. 4, No. 3, dated September 1987”, (5) “advertisements that appeared in Boating Monthly, a Hong Kong Yachting Association publication, dated November 1979”, and (6) “a document prepared by petitioners”. We find that, with the exception of the two newspaper articles, petitioners and/or their agents prepared the exhibits in question and that they are admissions by a party opponent within the meaning of rule 801(d)(2) of the Federal Rules of Evidence that are not hearsay. We find that the two newspaper articles in question are hearsay as defined in rule 801 of those rules, and respondent has not argued that any exception to the hearsay rule applies to those articles.
+ 
+Respondent objected to one paragraph of a “memorandum from D.L. McGinnis to D. Earhart, dated November 14, 1979” (McGinnis memorandum) on the ground that it is hearsay included within hearsay that is not otherwise admissible pursuant to rule 805 of the Federal Rules of Evidence. The paragraph at issue in that memorandum, viz., the third narrative paragraph that begins “Regarding salaries”, relates D.L. McGinnis’ notes from a conversation that he had with another individual concerning the availability of training grants from the IDA for B&L Ireland’s contact lens operations. We find that that paragraph constitutes hearsay within hearsay not otherwise admissible pursuant to rule 805 of the Federal Rules of Evidence.
+ 
+*21 In conclusion, the two newspaper articles and the third paragraph of the McGinnis memorandum are inadmissible hearsay. We unconditionally admit into evidence the remaining stipulated facts and exhibits to which the parties objected and make them part of the record in these cases.
+ 
+
+
+Foreign Base Company Sales Income--Section 954(d)(1)
+Under subpart F (sections 951 through 964), a U.S. shareholder of a CFC must include in gross income a pro rata share of certain classes of income of that CFC including, inter alia, foreign base company sales income.31 Section 954(d) provides in pertinent part:
+(d) Foreign Base Company Sales Income.--
+(1) In General.--For purposes of subsection (a)(2), the term “foreign base company sales income” means income (whether in the form of profits, commissions, fees, or otherwise) derived in connection with the purchase of personal property from a related person and its sale to any person * * * where--
+(A) the property which is purchased * * * is manufactured, produced, grown, or extracted outside the country under the laws of which the controlled foreign corporation is created or organized, and
+(B) the property is sold for use, consumption, or disposition outside such foreign country * * *.
+ 
+The legislative history of subpart F provides some guidance on the meaning of foreign base company sales income. In its explanation of subpart F, the Senate Finance Committee stated:32
+The “foreign base company sales income” referred to here means income from the purchase and sale of property, without any appreciable value being added to the product by the selling corporation. This does not, for example, include cases where any significant amount of manufacturing, major assembling, or construction activity is carried on with respect to the product by the selling corporation. On the other hand, activity such as minor assembling, packaging, repackaging or labeling will not be sufficient to exclude the profits from this definition.
+The sales income with which your committee is primarily concerned is income of a selling subsidiary (whether acting as principal or agent) which has been separated from manufacturing activities of a related corporation merely to obtain a lower rate of tax for the sales income. * * * [S. Rept. 1881, 87th Cong., 2d Sess. (1962), 1962-3 C.B. 703, 790.]
+In their technical explanations of the bill enacting subpart F, both the Senate Finance Committee and the House Ways and Means Committee further explained that the definition of “foreign base company sales income”:
+does not apply to income of a controlled foreign corporation from the sale of a product which it manufactures. In a case in which a controlled foreign corporation purchases parts or materials which it then transforms or incorporates into a final product, income from the sale of the final product would not be foreign base company sales income if the corporation substantially transforms the parts or materials, so that, in effect, the final product is not the property purchased. Manufacturing and construction activities (and production, processing, or assembling activities which are substantial in nature) would generally involve substantial transformation of purchased parts or materials. [S. Rept. 1881, supra, 1962-3 C.B. at 949; H. Rept. 1447, 87th Cong., 2d Sess. (1962), 1962-3 C.B. at 592-593.]
+ 
+*22 Under 954(d)(1), if a CFC purchases property from a related person that it sells to any person for use or consumption outside the country under which it is organized, a U.S. shareholder of that CFC is subject to U.S. income tax on that stockholder’s pro rata share of the income generated by such sale unless the property sold is manufactured, produced, grown, or extracted in the country in which the CFC is organized. If, however, the CFC manufactures, produces, grows, or extracts the property that it sells in the country in which it is organized, the income from the sale of that property is not foreign base company sales income, regardless where the property is used or consumed. Dave Fischbein Manufacturing Co. v. Commissioner, 59 T.C. 338, 355 (1972); see sec. 1.954-3(a)(4)(i), Income Tax Regs.
+ 
+Although the terms “manufactured” and “produced” are not defined by the Code, section 1.954-3(a)(4)(i), Income Tax Regs., provides that a CFC will be considered “to have manufactured, produced, or constructed personal property which it sells if the property sold is in effect not the property which it purchased.” That regulation further provides that the property sold will not be considered the property purchased if the provisions of either section 1.954-3(a)(4)(ii) or (iii), Income Tax Regs., are met.
+ 
+Section 1.954-3(a)(4)(ii), Income Tax Regs., provides in pertinent part:
+(ii) Substantial transformation of property. If purchased personal property is substantially transformed prior to sale, the property sold will be treated as having been manufactured, produced, or constructed by the selling corporation. * * *
+That regulation also includes the following three examples of a substantial transformation: (1) Wood pulp into paper, (2) steel rods into screws and bolts, and (3) fresh fish into canned fish.
+ 
+Section 1.954-3(a)(4)(iii), Income Tax Regs., provides:
+(iii) Manufacture of a product when purchased components constitute part of the property sold. If purchased property is used as a component part of personal property which is sold, the sale of the property will be treated as the sale of a manufactured product, rather than the sale of component parts, if the operations conducted by the selling corporation in connection with the property purchased and sold are substantial in nature and are generally considered to constitute the manufacture, production, or construction of property. Without limiting this substantive test, which is dependent on the facts and circumstances of each case, the operations of the selling corporation in connection with the use of the purchased property as a component part of the personal property which is sold will be considered to constitute the manufacture of a product if in connection with such property conversion costs (direct labor and factory burden) of such corporation account for 20 percent or more of the total cost of goods sold. In no event, however, will packaging, repackaging, labeling, or minor assembly operations constitute the manufacture, production, or construction of property for purposes of section 954(d)(1). The application of this subdivision may be illustrated by the following examples:
+*23 Example (1). Controlled foreign corporation A, incorporated under the laws of foreign country X, sells industrial engines for use, consumption, and disposition outside country X. Corporation A, in connection with the assembly of such engines, performs machining and assembly operations. In addition, A Corporation purchases, from related and unrelated persons, components manufactured in foreign country Y. On a per unit basis, A Corporation’s selling price and costs of such engines are as follows:
+ 
+
+
+
+
+ 
+ 
+|Selling price	
+ 
+|$400
+ 
+|
+ 
+|Cost of goods sold:
+ 
+| 
+|
+ 
+| 
+|Material—
+ 
+|
+ 
+| 
+| 
+|Acquired from related persons
+ 
+|$100
+ 
+| 
+ 
+| 
+ 
+|
+ 
+| 
+| 
+|Acquired from others
+ 
+|40
+ 
+| 
+| 
+|
+ 
+| 
+| 
+| 
+|Total material
+ 
+|$140
+ 
+| 
+|
+ 
+| 
+|Conversion costs (direct labor and factory burden)
+ 
+|70
+ 
+| 
+|
+ 
+| 
+| 
+| 
+|Total cost of goods sold
+ 
+|210
+ 
+| 
+|
+ 
+|Gross profit	
+ 
+|190
+ 
+|
+ 
+|Administrative and selling expenses	
+ 
+|50
+ 
+|
+ 
+|Taxable income	
+ 
+|140
+ 
+|
+
+
+
+
+The conversion costs incurred by A Corporation are more than 20 percent of total costs of goods sold ($70/$210 or 33 percent). Although the product sold, an engine, is not sufficiently distinguishable from the components to constitute a substantial transformation of the purchased parts within the meaning of subdivision (ii) of this subparagraph, A Corporation will be considered under this subdivision to have manufactured the product it sells.
+Example (2). Controlled foreign corporation B, incorporated under the laws of foreign country X, operates an automobile assembly plant. In connection with such activity, B Corporation purchases from related persons assembled engines, transmissions, and certain other components, all of which are manufactured outside of country X; purchases additional components from unrelated persons; conducts stamping, machining, and subassembly operations; and has a substantial investment in tools, jigs, welding equipment, and other machinery and equipment used in the assembly of an automobile. On a per unit basis, B Corporation’s selling price and costs of such automobiles are as follows:
+
+
+
+
+ 
+ 
+|Selling price	
+ 
+|$2,500
+ 
+|
+ 
+|Cost of goods sold:
+ 
+| 
+|
+ 
+| 
+|Material—
+ 
+|
+ 
+| 
+| 
+|Acquired from related persons
+ 
+|$1,200
+ 
+| 
+ 
+| 
+ 
+|
+ 
+| 
+| 
+|Acquired from others
+ 
+|275
+ 
+| 
+| 
+|
+ 
+| 
+| 
+| 
+|Total material
+ 
+|$1,475
+ 
+| 
+|
+ 
+| 
+|Conversion costs (direct labor and factory burden)
+ 
+|325
+ 
+| 
+|
+ 
+| 
+| 
+| 
+|Total cost of goods sold
+ 
+|1,800
+ 
+| 
+|
+ 
+|Gross profit	
+ 
+|700
+ 
+|
+ 
+|Administrative and selling expenses	
+ 
+|300
+ 
+|
+ 
+|Taxable income	
+ 
+|400
+ 
+|
+
+
+
+
+The product sold, an automobile, is not sufficiently distinguishable from the components purchased (the engine, transmission, etc.) to constitute a substantial transformation of purchased parts within the meaning of subdivision (ii) of this subparagraph. Although conversion costs of B Corporation are less than 20 percent of total cost of goods sold ($325/$1,800 or 18 percent), the operations conducted by B Corporation in connection with the property purchased and sold are substantial in nature and are generally considered to constitute the manufacture of a product. Corporation B will be considered under this subdivision to have manufactured the product it sells.
+*24 Example (3). Controlled foreign corporation C, incorporated under the laws of foreign country X, purchases from related persons radio parts manufactured in foreign country Y. Corporation C designs radio kits, packages component parts required for assembly of such kits, and sells the parts in a knocked-down condition to unrelated persons for use outside country X. These packaging operations of C Corporation do not constitute the manufacture, production, or construction of personal property for purposes of section 954(d)(1).
+(Hereinafter, we shall refer to the standards of section 1.954-3(a)(4)(iii), Income Tax Regs., that the operations conducted be substantial in nature and be generally considered to constitute the manufacture of a product as the facts and circumstances test of that regulation, and we shall refer to the standard of section 1.954-3(a)(4)(iii), Income Tax Regs., that the conversion costs be equal to 20 percent of the total cost of goods sold as the mechanical test of that regulation.)
+Respondent determined that the income for each of the years at issue from the sale of sunglasses assembled by B&L Ireland and by B&L Hong Kong constitutes foreign base company sales income as defined in section 954(d)(1) that is includible in petitioners’ gross income under section 951(a)(1). Petitioners argue that that income is not foreign base company sales income as defined in that section because the sunglasses assembled by B&L Ireland and by B&L Hong Kong were manufactured by those companies within the meaning of section 954(d)(1) and section 1.954-3(a)(4)(ii) and (iii), Income Tax Regs. Petitioners bear the burden of proof on that issue. Rule 142(a); Welch v. Helvering, 290 U.S. 111, 115 (1933). We need not address petitioners’ contention that the sunglass assembly operations of B&L Ireland and of B&L Hong Kong satisfy section 1.954-3(a)(4)(ii), Income Tax Regs. This is because we find that those operations satisfy the facts and circumstances test of section 1.954-3(a)(4)(iii), Income Tax Regs. See sec. 1.954-3(a)(4)(i), Income Tax Regs.
+ 
+Before turning to the application of the facts and circumstances test of section 1.954-3(a)(4)(iii), Income Tax Regs., to the facts and circumstances established by the record in these cases, we summarize our views of the experts on whom the parties rely to support their respective positions (experts) as to whether the sunglass assembly operations conducted by B&L Ireland and by B&L Hong Kong constitute the manufacture of sunglasses under section 954(d)(1) and the regulations thereunder.
+ 
+
+
+The Experts
+Each of the experts prepared an opening report and a rebuttal report, except respondent’s expert Joel S. Cohen, Ph.D. (Dr. Cohen) who prepared only an opening report and petitioners’ expert Irving H. Plotkin, Ph.D. (Dr. Plotkin) who prepared only a rebuttal report. Certain of those experts provided additional testimony at trial.
+ 
+We evaluate the opinions of experts in light of the qualifications of each expert and all other evidence in the record. Estate of Christ v. Commissioner, 480 F.2d 171, 174 (9th Cir. 1973), affg. 54 T.C. 493 (1970); IT&S of Iowa, Inc. v. Commissioner, 97 T.C. 496, 508 (1991); Parker v. Commissioner, 86 T.C. 547, 561 (1986). We have broad discretion to evaluate “the overall cogency of an expert’s analysis.” Sammons v. Commissioner, 838 F.2d 330, 334 (9th Cir. 1988) (quoting Ebben v. Commissioner, 783 F.2d 906, 909 (9th Cir. 1986), affg. in part and revg. in part on another issue T.C. Memo. 1986-318. We are not bound by the formulae and opinions proffered by an expert, especially when they are contrary to our own judgment. Orth v. Commissioner, 813 F.2d 837, 842 (7th Cir. 1987), affg. Lio v. Commissioner, 85 T.C. 56 (1985); Silverman v. Commissioner, 538 F.2d 927, 933 (2d Cir. 1976), affg. T.C. Memo. 1974-285; Estate of Kreis v. Commissioner, 227 F.2d 753, 755 (6th Cir. 1955), affg. T.C. Memo. 1954-139. Instead, we may reach a decision based on our own analysis of all the evidence in the record. Silverman v. Commissioner, supra at 933. The persuasiveness of an expert’s opinion depends largely upon the disclosed facts on which it is based. See Tripp v. Commissioner, 337 F.2d 432, 434 (7th Cir. 1964), affg. T.C. Memo. 1963-244. While we may accept the opinion of an expert in its entirety, Buffalo Tool & Die Manufacturing Co. v. Commissioner, 74 T.C. 441, 452 (1980), we may be selective in the use of any portion of such an opinion. Parker v. Commissioner, supra at 562. Furthermore, we may reject the opinion of an expert witness in its entirety. See Palmer v. Commissioner, 523 F.2d 1308, 1310 (8th Cir. 1975), affg. 62 T.C. 684 (1974); Parker v. Commissioner, supra at 562-565.
+ 
+*25 Petitioners rely on the opinions of Douglas E. Nieh (Mr. Nieh) who was employed by Polaroid Corporation (Polaroid) in its sunglass business from 1956 through 1988. His opinions were based on his experience in the sunglass industry. We found Mr. Nieh’s opinions to be helpful in resolving the issues presented, and we rely on them to the extent discussed below in making our findings and reaching our conclusions herein.
+ 
+Although respondent does not rely on an expert from the sunglass industry, she does rely on the opinions of Dr. Cohen, a licensed optician and an associate professor of Ophthalmic Dispensing Technology at Cuyahoga Community College. We have found that there are significant differences between the assembly of prescription glasses and the assembly of noncorrective sunglasses. We did not find Dr. Cohen’s opinions to be helpful in resolving the issues in these cases, and we do not rely on them in making our findings and reaching our conclusions herein.
+ 
+Both parties rely on the opinions of engineers. Petitioners rely on the opinions of Harry W. Matthews, Jr. (Mr. Matthews), an engineer employed by Arthur D. Little’s Manufacturing and Transportation Industries Section, who had no experience in the sunglass industry. Although Mr. Matthews concluded that B&L Ireland and B&L Hong Kong constituted separate manufacturing entities, he did not address whether the assembly operations of each of those companies were generally considered to constitute the manufacture of sunglasses. We also question some of the facts underlying Mr. Matthews’ analysis. For example, he concluded that the respective sunglass assembly operations of B&L Ireland and B&L Hong Kong involved approximately 65 steps in order to assemble metals, 70 steps to assemble leathers, and an additional 95 steps to apply leather to metal frames.33 He further concluded that the sunglass assembly operations of B&L Ireland involved approximately 75 steps in order to assemble plastics. Even petitioners do not argue that the respective assembly operations of B&L Ireland and B&L Hong Kong involved that many steps. We did not find Mr. Matthews’ opinions to be helpful in resolving the issues in these cases, and we do not rely on them in making our findings and reaching our conclusions herein.
+ 
+Respondent relies on the opinions of Michael L. Philpott, Ph.D. (Dr. Philpott), a manufacturing engineer, who, as of the time of the trial herein, was employed as an assistant professor of engineering responsible for teaching classes in manufacturing. Dr. Philpott had no experience in the sunglass industry. His opinions were formulated from the perspective of an engineer and set forth certain hypertechnical views that we do not believe Congress had in mind when it enacted section 954(d)(1) and that we did not find helpful to our resolution of the issues herein. By way of illustration, Dr. Philpott drew subtle distinctions among the terms “manufacture”, “manufacturer”, and “manufacturing”. As discussed below, we do not believe Congress had any such distinctions in mind when it made section 954(d)(1) part of the Code.
+ 
+*26 To illustrate further our concerns with the opinions of Dr. Philpott, he utilized a definition of the term “manufacturer” that neither Congress could have intended when it enacted section 954(d)(1) nor the Treasury could have meant when it promulgated section 1.954-3(a)(4)(iii), Income Tax Regs. Dr. Philpott opined during the trial of these cases that, unless a company designed a product, it could not be considered the manufacturer of that product if it performed only assembly, and no parts fabrication operations. However, he further testified that product design was not considered part of the manufacturing process during the early and mid-1960s when Congress enacted subpart F and the Treasury issued the regulations thereunder.
+ 
+We also note that Dr. Philpott opined that the assembly of automobile parts into automobiles constitutes a substantial transformation of those parts. That opinion contradicts the view of the Treasury set forth in example two of section 1.954-3(a)(4)(iii), Income Tax Regs., that the assembly of automobile parts into automobiles does not constitute a substantial transformation of those parts under section 1.954-3(a)(4)(ii), Income Tax Regs.
+ 
+In conclusion, we did not find Dr. Philpott’s opinions to be helpful in resolving the issues presented in these cases, and we do not rely on them in making our findings and reaching our conclusions herein.
+ 
+Both parties rely on the opinions of experts who performed quantitative analyses to determine whether the respective assembly operations conducted by B&L Ireland and B&L Hong Kong were substantial in nature within the meaning of section 1.954-3(a)(4)(iii), Income Tax Regs.34 Petitioners rely on the opinions of Gary E. Holdren (Mr. Holdren), a certified public accountant (C.P.A.). His analyses were made from an accounting perspective. Respondent relies on the opinions of three employees (viz., Scott D. Hakala, Ph.D. (Dr. Hakala), who holds a Ph.D. in economics; Martin D. Hanan, who is a chartered financial analyst and an accredited senior appraiser; and Ray A. Sheeler, who is a C.P.A.) of Business Valuation Systems (BVS) who prepared an opening report (BVS report) and a rebuttal report. Although the BVS report incorporated accounting concepts, it primarily sets forth economic analyses of the respective assembly operations of B&L Ireland and B&L Hong Kong.
+ 
+The respective opinions of Mr. Holdren and the authors of the BVS report appear to require different conclusions with respect to the substantiality of the respective assembly operations conducted by B&L Ireland and B&L Hong Kong. It appears that at least part of the differences in those opinions is attributable to the fact that Mr. Holdren’s analyses were based on accounting principles and the analyses in the BVS report were based primarily on economic principles. Both accounting and economic analyses seem to be reasonable and appropriate methods of analysis for purposes of section 954(d)(1). Compare sec. 1.954-3(a)(4)(iii), Income Tax Regs., with S. Rept. 1881, supra, 1962-3 C.B. 703, 790.
+ 
+*27 Nonetheless, we have reservations regarding the respective analyses performed by Mr. Holdren and the three individuals who prepared the BVS report. For example, with respect to Mr. Holdren, he adopted the classifications that B&L Ireland and B&L Hong Kong used to classify certain purchased parts as either direct or indirect materials, rather than making his own independent determinations of such classifications. Although the classifications used by B&L Ireland and by B&L Hong Kong are not necessarily inappropriate for management accounting purposes, there appear to be different, acceptable methods of classifying certain types of materials for those purposes. Petitioners have not convinced us that the classification method chosen by B&L Ireland and by B&L Hong Kong, and adopted by Mr. Holdren, is the most appropriate method for purposes of section 954(d)(1) and the regulations thereunder.35
+ 
+With respect to the three individuals who prepared the BVS report, in making the analyses reflected therein, they assumed that the prices that B&L Ireland and B&L Hong Kong paid to B&L Inc. and that B&L Ireland paid to B&L GmbH for sunglass parts were not arm’s length and that those prices should be estimated based upon the fair rates of return for the assets used in the sunglass assembly operations conducted by each of those companies. However, reports prepared by respondent’s economist and her examining agent for purposes of determining whether transfer pricing adjustments should be made for petitioners’ taxable years ended December 29, 1985, through December 27, 1987, state that the transfer prices paid by B&L Ireland and by B&L Hong Kong for sunglass parts, which were the same transfer prices that the parties agreed to use for petitioners’ taxable years ended December 25, 1983, and December 30, 1984, were appropriate and that no transfer pricing adjustments were necessary.36
+ 
+The parties have not persuaded us of the reliability and accuracy of the respective opinions of Mr. Holdren and the three individuals who prepared the BVS report for purposes of applying section 954(d)(1) and the regulations thereunder. Except as stated below, we did not find those opinions to be helpful in resolving the issues in these cases. We did not find it necessary or appropriate to rely on questionable, quantitative analyses of the respective assembly operations conducted by B&L Ireland and B&L Hong Kong in order to resolve whether those operations satisfy the facts and circumstances test of section 1.954-3(a)(4)(iii), Income Tax Regs. Except as noted below, we do not rely on the opinions of either Mr. Holdren or the three individuals who prepared the BVS report in making our findings and reaching our conclusions herein.
+ 
+To rebut the respective opinions expressed by Dr. Philpott and the three individuals who prepared the BVS report, petitioners rely on the opinion of Dr. Plotkin, an economist employed by Arthur D. Little, Inc. While we found that Dr. Plotkin effectively rebutted those opinions, we generally do not rely on his opinions because they were provided to rebut the opinions of experts upon whom we generally do not rely.
+ 
+*28 All of the experts who prepared opening reports, except Dr. Cohen, prepared rebuttal reports expressing opinions intended to refute the opinions expressed in the opening reports of one or more of the experts relied upon by the other party. Except for Mr. Nieh’s rebuttal of Dr. Cohen that we found to be helpful in explaining the differences between the assembly of sunglasses and the assembly of prescription eyeglasses, we generally do not rely upon those rebuttal reports.
+ 
+
+
+Judicial Interpretations of Relevant Regulations
+In Dave Fischbein Manufacturing Co. v. Commissioner, 59 T.C. 338 (1972), petitioner Dave Fischbein Manufacturing Company (DFMC) manufactured the parts for portable bag-closing machines37 and assembled those parts into portable bag-closing machines. It also sold some of the parts it manufactured to its wholly owned subsidiary, Compagnie Fischbein, S.A. (CFSA), a Belgian corporation. CFSA, in turn, assembled those parts into bag-closing machines. CFSA did not maintain a sales force, did not design its own products, and purchased most of the parts used in assembling the bag-closing machines from DFMC.38 Dave Fischbein Manufacturing Co. v. Commissioner, supra at 350-351.
+ 
+Relying on section 1.954-3(a)(4)(iii), Income Tax Regs., we found on the facts presented in the Dave Fischbein Manufacturing Co. case that the income generated by CFSA from the sale of the portable bag-closing machines it assembled did not constitute foreign base company sales income as defined in section 954(d)(1) because the assembly operations conducted by CFSA were substantial in nature and were generally considered to constitute the manufacture of property within the meaning of that regulation. Id. at 359. The facts on which we relied in reaching those conclusions included the following:
+CFSA (a) tailors and finishes some of its purchased components in order to place these parts in usable condition; (b) puts these tailored components and others together in a 6-hour, 58-step process to form salable, quality bag-closing machines; and (c) possesses in its plant all of the tools and equipment necessary for these activities. As a result of CFSA’s operations, the purchaser of one of these devices is guaranteed a carefully put together, well tested, and operable machine.
+ 
+	
+​
+It was the caliber of CFSA’s mechanics which resulted in a smooth-running operation rather than a lack of complexity of the operations. [Id. at 360.]
+ 
+Except for Dave Fischbein Manufacturing Co. v. Commissioner, supra, no court has had occasion to consider and apply the facts and circumstances test of section 1.954-3(a)(4)(iii), Income Tax Regs. However, on two separate occasions, we considered and applied certain language in section 1.993-3(c)(2)(iii), Income Tax Regs., that is similar to the language prescribing the facts and circumstances test of section 1.954-3(a)(4)(iii), Income Tax Regs. Garnac Grain Co. v. Commissioner, 95 T.C. 7 (1990); Webb Export Corp. v. Commissioner, 91 T.C. 131 (1988).
+ 
+*29 Section 1.993-3(c)(2)(iii), Income Tax Regs., is designed to determine whether a corporation is engaged in the manufacture or production of a product in the United States for purposes of section 993, one of the provisions applicable to a domestic international sales corporation (DISC). That regulation provides:
+(iii) Operations generally considered to constitute manufacturing. Property is manufactured or produced by a person if the operations performed by such person in connection with such property are substantial in nature and are generally considered to constitute the manufacture or production of property.
+“Assembly or packing operations” are not operations generally considered to constitute the manufacture of property under section 1.993-3(c)(2)(iii), Income Tax Regs. See sec. 1.993-3(c)(2)(i), Income Tax Regs. Nonetheless, judicial interpretations of language in section 1.993-3(c)(2)(iii), Income Tax Regs., provide useful guidelines for interpreting the same language in section 1.954-3(a)(4)(iii), Income Tax Regs. Cf. Webb Export Corp. v. Commissioner, supra at 142-143.
+ 
+In the first case in which we considered and applied section 1.993-3(c)(2)(iii), Income Tax Regs., the Webb Export Corp. case, the taxpayer purchased standing timber and harvested that timber through a series of operations including felling, delimbing, bucking, skidding, loading, and hauling the timber. Id. at 133-134. We found therein: “These various steps, a time-consuming, yet time-constrained, process in which petitioner possessed all the necessary tools and equipment utilized in its logging operations, when combined, constitute a process substantial in nature.” Id. at 144. We further found that the taxpayer’s operations were generally considered to constitute production. We based that finding by considering, inter alia, “how harvesting or logging is generally perceived in the forest products industry”. Id. at 148. In that regard, we found, inter alia, that:
+(1) Loggers consider themselves to be producers; (2) standing timber is not particularly useful to manufacturers; (3) substantial activities are required before such materials are useful to manufacturers; and (4) the items considered to be raw materials and who is perceived to be a producer, varies depending upon one’s position in the manufacturing and/or production process. [Id.]
+ 
+We again considered the meaning of and applied section 1.993-3(c)(2)(iii), Income Tax Regs., in Garnac Grain Co. v. Commissioner, supra. There, the taxpayer purchased grain that it stored in its grain elevators, processed that grain in a series of operations including drying, cleaning, aerating, blending, and fumigating, and sold it for export purposes. We found that the taxpayers’ operations were substantial in nature because they required “trained and experienced personnel employing both skill and judgment in the performance of their duties.” Id. at 28. However, relying primarily on the fact that the grain industry considered the taxpayers’ operations to constitute grain handling or grain merchandising, rather than the production or manufacture of a product, we further found that the taxpayers’ operations were not generally considered to constitute the manufacture or production of grain within the meaning of section 1.993-3(c)(2)(iii), Income Tax Regs. Id. at 23-32.
+ 
+
+
+Application of the Facts and Circumstances Test of Section 1.954-3(a)(4)(iii), Income Tax Regs., to the Present Cases
+
+Were the Assembly Operations At Issue Substantial in Nature?
+*30 Petitioners contend that the respective assembly operations conducted by B&L Ireland and B&L Hong Kong were substantial in nature. Respondent disagrees.
+ 
+To determine whether the respective sunglass assembly operations conducted by B&L Ireland and B&L Hong Kong were substantial in nature, we must examine the facts and circumstances surrounding those operations. Sec. 1.954-3(a)(4)(iii), Income Tax Regs. Respondent contends that those assembly operations were so simple that they did not require sufficient skill and judgment to rise to the level of being substantial in nature. We disagree.
+ 
+We have found that operators at both B&L Ireland and B&L Hong Kong required training and experience in sunglass assembly techniques before they became proficient at assembling sunglasses. At the B&L Ireland sunglass assembly facility, the training period for each new operator, which included one-on-one supervision by a full-time instructor, lasted 13 weeks. At the B&L Hong Kong sunglass assembly facility, new operators also received extensive training supervised by the assistant production supervisor and group leaders.
+ 
+During the first few weeks of training, the percentage of salable sunglasses assembled by a new operator at both B&L Ireland and B&L Hong Kong was very low. Even at the end of the 13-week training program at the B&L Ireland sunglass assembly facility, the typical operator was able to assemble only 70 percent of B&L Ireland’s basic target of 200 sunglasses per day. Although the typical operator at the B&L Hong Kong sunglass assembly facility was able to achieve the basic daily productivity target of 150 sunglasses per day within four to six weeks after the commencement of the training program, that person generally was not able to achieve B&L Hong Kong’s average output of 380 sunglasses per day until some time in that person’s second year of employment. Not all operators were able to assemble all SKUs of sunglasses assembled by B&L Ireland and by B&L Hong Kong, and some operators were not able to reach a sufficient level of proficiency to continue to function as operators. At the B&L Ireland sunglass assembly facility, if an operator began assembling a new style of sunglasses or switched from assembling plastics to metals, the operator underwent additional training.
+ 
+In addition to the training provided to operators, both B&L Ireland and B&L Hong Kong provided extensive training to inspectors, even if those persons had been operators prior to becoming inspectors.
+ 
+B&L Ireland’s experiences in establishing its sunglass assembly operations illustrate the need for trained and experienced personnel (including operators, inspectors, and management) to assemble quality sunglasses. When it first began assembling sunglasses during 1982 and 1983, B&L Ireland experienced a rejection rate of approximately 80 percent of the sunglasses assembled by its operators. To improve the quality of its product, B&L Ireland’s sunglass operations (1) instituted its own training program, including hiring full-time instructors beginning in May 1983; (2) underwent a quality audit performed during 1984 by the quality manager of B&L Ireland’s contact lens operations in order to develop standard operating procedures; (3) replaced its quality assurance manager shortly after concluding the quality audit; (4) reduced its expected output in its production budget for its second year of operation (viz., 1984); and (5) hired outside consultants during 1983 and 1984 to develop a job evaluation system and improve the efficiencies of its operations. Most quality problems at the B&L Ireland sunglass assembly facility with respect to the basic SKUs tended to disappear over time as the operators and management became more skillful in their respective functions and responsibilities in the sunglass assembly operations.39
+ 
+*31 B&L Ireland and B&L Hong Kong relied upon their respective operators to perform their functions and responsibilities properly. If those operators had failed to perform them properly, the sunglasses assembled by those companies would not have met B&L’s quality standards or the appearance and fit expectations of the ultimate consumers of quality sunglasses. While some operator errors, such as failure to make an appropriate adjustment during the truing process or failure to correct a lens gap problem, were able to be fixed through reworking the sunglasses, many operator errors, such as chipped lenses or broken solder on the endpieces, required the damaged parts to be scrapped and replaced. As the operators at B&L Ireland and B&L Hong Kong became more experienced at assembling particular SKUs, the operators became skilled at reducing damage to the parts and meeting B&L’s specifications for quality. They tended to learn, for example, (1) how much pressure to apply to a part in order to bend it without breaking or otherwise damaging it; (2) how much to adjust the speed and temperature controls on the heating tunnel in order to make the plastic fronts sufficiently malleable to insert lenses without overheating the fronts; (3) how to recognize and correct lens gap problems; and (4) how to overcome problems caused by tolerance stacking.
+ 
+To support her position that the respective sunglass assembly operations conducted by B&L Ireland and B&L Hong Kong did not require substantial skill, training, or experience, respondent relies on the testimony of Dr. Cohen. At the time of the trial herein, Dr. Cohen was a licensed optician and an associate professor of Ophthalmic Dispensing Technology. Dr. Cohen testified that he had taught basic assembly of prescription eyeglasses to students of various levels of education and that it did not require much time or training for a person to become competent at assembling eyeglasses. Dr. Cohen admitted, however, that his experience related to the dispensing of prescription eyeglasses through optical shops and that it did not include mass production techniques.
+ 
+We are unwilling to rely on Dr. Cohen’s testimony to refute the direct evidence of the training and experience required of operators at B&L Ireland and B&L Hong Kong in order to assemble sunglasses that met B&L’s quality standards. It appears that a person assembling prescription eyeglasses for a retail optical shop is not required to learn a standard technique for that assembly. All that is important is the end result, not the method utilized to achieve that result. For example, Dr. Cohen testified that when students in the Cleveland Job Corps, a program in which Dr. Cohen trained nontraditional students in Ophthalmic Dispensing Technology, including prescription eyeglass assembly, were learning how to insert lenses into metal frames, they were given study guides that outlined the materials to be used and the basic tasks to be performed, and they were allowed to perform those tasks at their own pace. Dr. Cohen did not provide instruction in assembly techniques unless a student was having difficulty completing the assembly.
+ 
+*32 While such result-oriented instruction may have been acceptable in a setting such as the Cleveland Job Corps where the participants were expected to assemble an optimum of 15 to 20 pairs of eyeglasses per week, B&L Ireland and B&L Hong Kong trained their respective employees to use a standard technique for sunglass assembly that the operators could repeat several hundred times per day efficiently and correctly so as to result in consistently producing quality sunglasses. Unlike prescription eyeglasses that are assembled to fit a particular face and for a specific prescription, sunglasses must be assembled to fit a standard face. Consequently, there is a greater need for consistent results with respect to the assembly of sunglasses than with respect to the assembly of prescription eyeglasses. The use of a standard technique for sunglass assembly allowed operators at B&L Ireland and at B&L Hong Kong to achieve maximum output of finished sunglasses that met B&L’s quality standards with the least damage to the parts occurring during the process. See Webb Export Corp. v. Commissioner, 91 T.C. at 143. The record in these cases shows that it took significant periods of training and experience for operators to learn the standardized techniques utilized by B&L Ireland and by B&L Hong Kong to assemble sunglasses ready for sale to the ultimate consumers. Even Dr. Cohen admitted that certain problems encountered by B&L Ireland and by B&L Hong Kong might have been attributable to the fact that they were mass producing sunglasses, rather than assembling prescription eyeglasses for a retail optical shop.
+ 
+In addition, the sunglasses assembled at both B&L Ireland and B&L Hong Kong were inspected at least once by someone other than the operator who assembled them to ensure that the sunglasses complied with B&L’s quality standards. Dr. Cohen testified that, at least in Ohio, an optician was required to examine prescription eyeglasses before they were distributed to the ultimate consumer. Although the position of an inspector at B&L Ireland and at B&L Hong Kong was not the equivalent of an optician who is licensed and trained to dispense prescription eyeglasses, the record in these cases establishes that inspectors at B&L Ireland and at B&L Hong Kong required significant periods of training and experience in order to perform their jobs properly. The need for trained inspectors to ensure that the sunglasses assembled by B&L Ireland and by B&L Hong Kong met B&L’s quality standards further demonstrates the substantiality of the assembly operations conducted by each of those corporations.
+ 
+Respondent also contends that the assembly operations at issue did not require a sufficient investment in physical capital to be substantial in nature. Although we agree with respondent that the respective sunglass assembly operations conducted by B&L Ireland and B&L Hong Kong did not require a large investment in physical capital, her contention ignores the fact that those operations required a substantial investment in human capital in order to produce quality sunglasses. Without a trained and experienced workforce, neither B&L Ireland nor B&L Hong Kong would have been able to produce quality sunglasses that met B&L’s quality standards. In fact, both B&L Ireland and B&L Hong Kong experienced significant quality problems during their respective first years of operation. Those operations could not readily be relocated since they were dependent on a trained and experienced workforce. In fact, the IDA considered B&L Ireland’s sunglass assembly operations to create jobs of a sufficiently permanent nature to warrant the issuance of training grants to compensate B&L Ireland for the period during which its employees were not efficient at producing quality sunglasses.
+ 
+*33 Respondent further contends that the actual assembly of sunglasses by B&L Ireland and by B&L Hong Kong did not require substantial amounts of time to accomplish and therefore cannot be substantial in nature under the facts and circumstances test prescribed in section 1.954-3(a)(4)(iii), Income Tax Regs.40 We disagree. Nothing in that test suggests that operations that do not require substantial amounts of time to complete can never be substantial in nature. To the contrary, all of the facts and circumstances surrounding the operations at issue must be examined under that test in order to determine whether those operations are substantial in nature. See sec. 1.954-3(a)(4)(iii), Income Tax Regs.
+ 
+Moreover, respondent’s contention that the actual assembly of sunglasses by B&L Ireland and by B&L Hong Kong did not require substantial amounts of time and therefore cannot be substantial in nature ignores the range of the sunglass assembly operations conducted by each of those corporations. Both B&L Ireland and B&L Hong Kong performed the full range of activities necessary to assemble sunglass parts into finished, quality sunglasses. Both companies (1) leased production facilities to assemble sunglasses and warehouses to store finished goods; (2) employed management teams to prepare production plans and order parts from their suppliers; (3) hired and trained the necessary personnel to carry out their operations; (4) inspected purchased parts for defects and prepared those parts for assembly; (5) assembled sunglass parts into finished sunglasses; (6) inspected finished sunglasses for cosmetic and functional defects; and (7) cleaned and packaged sunglasses to prepare them for distribution. All of those activities were necessary and essential to the assembly by B&L Ireland and by B&L Hong Kong of the purchased sunglass parts into finished, quality sunglasses that met B&L’s quality standards and that were ready for sale to the ultimate consumers.
+ 
+Respondent also argues that the respective assembly operations conducted by B&L Ireland and B&L Hong Kong were not substantial in nature when compared to the fabrication of the parts used in those operations. Respondent’s argument misses the mark. Section 1.954-3(a)(4)(iii), Income Tax Regs., requires a determination of whether “the operations conducted by the selling corporation in connection with the property purchased and sold are substantial in nature”. Under those regulations, we examine the distinct operations conducted by the CFC with respect to the purchased property to determine if those operations, standing alone and without regard to the operations conducted by the related party who sold the property to the CFC, are substantial in nature.
+ 
+Based on our examination of the entire record before us, we find that the sunglass assembly operations conducted by B&L Ireland and by B&L Hong Kong with respect to the parts they purchased from related parties were substantial in nature within the meaning of section 1.954-3(a)(4)(iii), Income Tax Regs.
+ 
+
+
+Were the Assembly Operations at Issue Generally Considered to Constitute the Manufacture of Sunglasses?
+*34 Petitioners contend that the respective sunglass assembly operations conducted by B&L Ireland and B&L Hong Kong were generally considered to constitute the manufacture of sunglasses. Respondent disagrees.
+ 
+The determination of whether the assembly operations of a company are generally considered to constitute the manufacture of a product is based on the facts and circumstances surrounding those operations. Sec. 1.954-3(a)(4)(iii), Income Tax Regs. The most important factor in making that determination is whether the industry in which the company is involved generally considers those operations to constitute the manufacture or production of property. See Garnac Grain Co. v. Commissioner, 95 T.C. at 29; Webb Export Corp. v. Commissioner, 91 T.C. at 148.
+ 
+Petitioners argue that we should look to the sunglass industry to determine whether it generally considers the respective sunglass assembly operations conducted by B&L Ireland and B&L Hong Kong to constitute the manufacture of sunglasses. Respondent expresses no position as to whether we should look to that or any other industry to determine whether those operations constitute the manufacture of sunglasses. We take respondent’s silence to mean that she agrees with petitioners’ position that the pertinent industry is the sunglass industry.
+ 
+In any event, we agree with petitioners’ position. See Garnac Grain Co. v. Commissioner, supra at 26-27; Webb Export Corp. v. Commissioner, supra at 148. The products at issue herein are sunglasses. Sunglasses involve at least two distinct market segments: (1) Low-end or regular sunglasses, and (2) high-end or quality sunglasses. Sunglasses constitute a separate and distinct product from prescription eyeglasses. Sunglasses have noncorrective lenses, are tailored to fit a standard face, and are assembled prior to reaching the retailer. In contrast, prescription eyeglasses contain individually finished lenses, are tailored for a specific prescription and to fit an individual face, and are assembled by retail optical shops. We also note that the sunglass industry has its own trade organization, viz., the Sunglass Association of America (SAA), and that the American National Standards Institute (ANSI) has established standards for the sunglass industry to follow.
+ 
+Our next inquiry is whether the sunglass industry generally considers the respective assembly operations of B&L Ireland and B&L Hong Kong to constitute the manufacture or production of sunglasses. In this respect, we find the opinions expressed by petitioners’ expert Mr. Nieh to be most instructive. Mr. Nieh was employed by Polaroid in its sunglass business from 1956 through 1988. In addition to his participating in Polaroid’s sunglass business, Mr. Nieh participated in, and served as the president of, the SAA and served on committees of ANSI in areas relating to sunglass standards.
+ 
+In his opening report, Mr. Nieh discussed the sunglass industry in general, including the differences between low-end or regular sunglasses and high-end or quality sunglasses. He described the importance of “appearance” and “fit” to the consumer of quality sunglasses; that is to say, a consumer will not purchase a pair of quality sunglasses that are priced two-to-ten times higher than regular sunglasses unless they meet his or her standards for appearance and fit. He described the sunglass industry as a “cottage industry” because several levels of manufacturing, including parts fabrication and final assembly, are necessary to convert raw materials into finished sunglasses. Although Mr. Nieh recognized the importance of each level of manufacturing, he indicated that the sunglass industry considers the assembler, which he referred to as the finished goods manufacturer, as the most important stage in the manufacture of quality sunglasses. This is because the assembler “must produce the acceptable and marketable sunglass product.” Mr. Nieh noted that sunglass parts are not sold to ultimate consumers. He also detailed the reliance of the assembler of quality sunglasses on a trained and experienced work force and the quality procedures that must be utilized by that assembler to ensure that the sunglasses produced meet the consumers’ standards for appearance and fit. Based on his experience in the sunglass industry, Mr. Nieh concluded that B&L Ireland and B&L Hong Kong conducted “manufacturing operations” and that “the sunglass industry would certainly recognize B&L Ireland and B&L Hong Kong as engaged in the manufacture and sale of ‘quality sunglasses.”’
+ 
+*35 In addition to the testimony of Mr. Nieh, we also rely on the testimony of Mr. Davis who testified as a fact, and not an expert, witness. From 1963 through the early 1980s, Mr. Davis was an employee of Polaroid U.K., which marketed and distributed sunglasses in the United Kingdom. At the time he joined Polaroid U.K., it sold sunglasses that were assembled for it by Polarizer U.K., an unrelated company, from lenses that Polaroid U.K. imported from the United States and from frames purchased by Polaroid U.K. After joining Polaroid U.K., Mr. Davis, acting as a representative of that company, became the production manager of the assembly operations conducted by Polarizer U.K. His work included improving the quality control of the vendors supplying frames and training the Polarizer U.K. staff in quality control procedures.
+ 
+The assembly operations conducted by Polaroid U.K. and Polarizer U.K. throughout the period during which Mr. Davis was production manager were very similar to the assembly operations conducted by B&L Ireland and by B&L Hong Kong. Parts were purchased, sorted, and inspected. The parts were assembled into finished sunglasses with each operator responsible for quality control. The finished sunglasses underwent a final inspection before they were shipped.
+ 
+Mr. Davis testified that the factory in which he worked was a “manufacturing unit” and that he was classified as a “manufacturing manager”. He also referred to the work of Polarizer U.K. as “production” and indicated that customer returns were due to “production problems”. Thus, it appears that Polaroid U.K. generally considered the assembly operations conducted by Polarizer U.K., which were very similar to the sunglass assembly operations conducted by B&L Ireland and by B&L Hong Kong, to constitute the manufacture of sunglasses.
+ 
+In addition, although we assume that most, if not all, of B&L’s current and former employees who testified in these cases were prepared by counsel before trial, and we recognize that their testimony served B&L’s interests, we note that those witnesses generally referred to the assembly operations of B&L Ireland and B&L Hong Kong as manufacturing or production. See Webb Export Corp. v. Commissioner, 91 T.C. at 148. For example, Peter McNally, who was the production manager of B&L Ireland’s sunglass assembly operations, testified: “The sunglass operation [conducted by B&L Ireland] is generally known as the Sunglass Manufacturing Plant because it was the center for the manufacturing of sunglasses for the European and Middle Eastern market.”
+ 
+Petitioners also argue that the respective assembly operations conducted by B&L Ireland and B&L Hong Kong were generally considered to constitute the manufacture of sunglasses from various other perspectives. Both B&L Ireland and B&L Hong Kong used standard cost accounting to assist their management. Mr. Holdren, a C.P.A. relied upon by petitioners as an expert witness, concluded that the type and complexity of the respective cost accounting systems utilized by B&L Ireland and B&L Hong Kong are indicative of manufacturing companies and not distribution operations. Thus, both B&L Ireland and B&L Hong Kong used the types of accounting systems utilized by companies engaged in the manufacture of products.
+ 
+*36 We also note that the Government of Ireland generally considered the assembly operations conducted by B&L Ireland to constitute the manufacture of sunglasses. Prior to the time during 1982 at which B&L Ireland initiated it sunglass assembly operations, the IDA awarded B&L Ireland both capital and training grants that were generally given only to manufacturing concerns that exported products from Ireland. Moreover, pursuant to an exemption that was generally available only with respect to goods manufactured in Ireland, B&L Ireland was relieved of its obligation to pay Ireland’s corporation tax with respect to practically all, if not all, of its income from its sunglass assembly operations. Nor was B&L Ireland required to pay Ireland’s VAT on the sunglass parts it imported into Ireland. This was because the regulations under the VAT provided an exemption for firms engaged in a manufacturing business that were importing goods for use in that business.
+ 
+Although we do not place determinative weight on the definition of manufacturing used by other governments, that the Government of Ireland generally considered the assembly operations of B&L Ireland to constitute the manufacture of sunglasses is consistent with other evidence herein on which we rely supporting a finding that those operations, as well as the assembly operations of B&L Hong Kong, were generally considered to constitute the manufacture of sunglasses for purposes of section 954(d)(1) and section 1.954-3(a)(4)(iii), Income Tax Regs.
+ 
+On brief, respondent concedes that the respective assembly operations conducted by B&L Ireland and B&L Hong Kong were manufacturing operations. Even her expert, Dr. Philpott, stated that “the processes and operations used [by B&L Ireland and by B&L Hong Kong] would be considered ‘manufacturing’ in the broadest engineering sense”. Nonetheless, Dr. Philpott testified, and respondent argues, that even though those operations were part of the manufacturing process, they do not by themselves constitute the manufacture of sunglasses.
+ 
+The analyses of respondent and her expert Dr. Philpott are based on their belief that there is a distinction between a company that is engaged in manufacturing and one that manufactures a product or is considered a manufacturer of a product. While any distinctions among the terms “manufacturing”, “manufacturer”, and “manufacture” may be important to an engineer like Dr. Philpott, we do not find any such distinctions to be important to our determination of whether the respective sunglass assembly operations of B&L Ireland and B&L Hong Kong were generally considered to constitute the manufacture of sunglasses for purposes of section 954(d)(1) and section 1.954-3(a)(4)(iii), Income Tax Regs. In fact, the legislative history of subpart F uses all three words interchangeably. See S. Rept. 1881, supra, 1962-3 C.B. 703, 790, 949. We do not believe that Congress in enacting section 954(d)(1) or the Treasury in promulgating section 1.954-3(a)(4)(iii), Income Tax Regs., intended to draw such technical engineering distinctions among those three words. We rely, inter alia, on the admissions by respondent and her expert that the respective sunglass assembly operations conducted by B&L Ireland and B&L Hong Kong were generally considered manufacturing in determining whether those operations were generally considered to constitute the manufacture of sunglasses.
+ 
+*37 Based on our examination of the entire record before us, we find that the sunglass assembly operations conducted by B&L Ireland and by B&L Hong Kong with respect to the sunglass parts purchased by those companies were generally considered to constitute the manufacture or production of sunglasses for purposes of section 954(d)(1) and section 1.954-3(a)(4)(iii), Income Tax Regs.
+ 
+
+
+Were the Assembly Operations at Issue Limited to Minor Assembly?
+Respondent directs the Court’s attention to the third sentence of section 1.954-3(a)(4)(iii), Income Tax Regs. That sentence provides: “In no event, however, will packaging, repackaging, labeling, or minor assembly operations constitute the manufacture, production, or construction of property for purposes of section 954(d)(1).” Based on that sentence, respondent contends, inter alia, that even if the sunglass assembly operations conducted by B&L Ireland and by B&L Hong Kong were substantial in nature and were generally considered to constitute the manufacture of sunglasses so that such operations satisfied the facts and the circumstances test of section 1.954-3(a)(4)(iii), Income Tax Regs., those operations were limited to “packaging, repackaging, labeling, or minor assembly” and therefore cannot constitute the manufacture of sunglasses for purposes of section 954(d)(1). Petitioners counter, inter alia, that the assembly operations conducted by B&L Ireland and by B&L Hong Kong were not limited to packaging, repackaging, labeling, or minor assembly because those operations were substantial in nature and were generally considered to constitute the manufacture of sunglasses.
+ 
+We have serious reservations about respondent’s argument that the third sentence of section 1.954-3(a)(4)(iii), Income Tax Regs., modifies the facts and circumstances test of that regulation. We fail to see how an operation can satisfy that test (i.e., be substantial in nature and be generally considered to constitute the manufacture of a product) if it is limited to packaging, repackaging, labeling, or minor assembly.
+ 
+However, we need not decide whether respondent’s argument about the third sentence of section 1.954-3(a)(4)(iii), Income Tax Regs., is correct because even if it were, we would nonetheless find that the respective sunglass assembly operations conducted by B&L Ireland and B&L Hong Kong were not limited to packaging, repackaging, labeling, or minor assembly. B&L Ireland and B&L Hong Kong purchased sunglass parts that could not be sold to the ultimate consumers no matter how they were packaged. Through a series of operations, those companies assembled the parts that they purchased into quality sunglasses ready for sale to the ultimate consumers. Those sunglass assembly operations were not minor, nominal, or insignificant. They required trained and experienced personnel who could quickly and efficiently assemble sunglasses that met B&L’s quality standards. In addition to the actual assembly of sunglasses, those operations also required trained inspection personnel to detect quality problems in both the purchased parts and the finished sunglasses and a management staff to plan and oversee the production operation. Although the assembly operations of B&L Ireland and B&L Hong Kong also included labeling and packaging operations, those operations were not limited to such “ministerial functions”. See Dave Fischbein Manufacturing Co. v. Commissioner, 59 T.C. at 360.
+ 
+*38 To support her position that the assembly operations conducted by B&L Ireland and by B&L Hong Kong constituted minor assembly, respondent relies on the testimony of Dr. Philpott. In his opening report, Dr. Philpott opined that the assembly operations of each of those companies “would be considered by an industrial or manufacturing engineer as minor assembly, labeling, packaging, or repackaging.” Dr. Philpott admitted, however, that the phrase “minor assembly” is not a term commonly used by industrial or manufacturing engineers. Rather than giving an opinion concerning an industry standard, it appears that Dr. Philpott gave his opinion as to the meaning of the term “minor assembly” for purposes of section 1.954-3(a)(4)(iii), Income Tax Regs. That is not the role of an expert, see Marx & Co. v. Diners’ Club Inc., 550 F.2d 505, 508-511 (2d Cir. 1977); Garnac Grain Co. v. Commissioner, 95 T.C. at 26-27, and we do not rely on Dr. Philpott’s definition of the term “minor assembly” in making our findings and reaching our conclusions herein.
+ 
+Based on our review of the entire record before us, we find that the assembly operations conducted by B&L Ireland and by B&L Hong Kong were not limited to packaging, repackaging, labeling, or minor assembly within the meaning of the third sentence of section 1.954-3(a)(4)(iii), Income Tax Regs.
+ 
+
+
+Conclusion41
+Based on our review of the entire record in the present cases, we find that the sunglasses assembled by B&L Ireland and by B&L Hong Kong were manufactured in Ireland and Hong Kong, respectively, for purposes of section 954(d)(1) and that therefore the income from the sale of those sunglasses for each of the years at issue does not constitute foreign base company sales income as defined in that section. Accordingly, such income is not includible in petitioners’ income under section 951(a)(1).
+ 
+
+
+B&L Hong Kong--Section 954(b)(4)
+In addition to arguing that the sunglass assembly operations of B&L Hong Kong constituted the manufacture of sunglasses for purposes of section 954(d)(1) and that therefore the income from those operations does not constitute gross income to petitioners, petitioners further argue that, pursuant to section 954(b)(4), the income of B&L Hong Kong is excludible from their gross income for their taxable years ended December 25, 1983, through December 28, 1986.42
+ 
+Section 954(b)(4) provides in pertinent part:
+(4) Exception for Foreign Corporations Not Availed of To Reduce Taxes.--For purposes of subsection (a), foreign base company income does not include any item of income received by a controlled foreign corporation if it is established to the satisfaction of the Secretary that neither--
+(A) the creation or organization of such controlled foreign corporation under the laws of the foreign country in which it is incorporated * * *, nor
+(B) the effecting of the transaction giving rise to such income through the controlled foreign corporation,
+*39 has as one of its significant purposes a substantial reduction of income, war profits, or excess profits or similar taxes. * * *
+ 
+The exception in section 954(b)(4) applies only “if it is established to the satisfaction of the Secretary” that the reduction of taxes was not a significant purpose for forming the CFC or effecting the transactions that gave rise to the income. R.E. Dietz Corp. v. United States, 939 F.2d 1, 5 (2d Cir. 1991). We do not substitute our judgment for that of respondent; we review respondent’s judgment only to determine whether she abused her discretion in concluding that tax avoidance was a significant purpose. The question whether respondent abused her discretion is a question of fact. Capitol Fed. Sav. & Loan v. Commissioner, 96 T.C. 204, 213 (1991). We will not overturn respondent’s judgment unless it is shown to be arbitrary and capricious. R.E. Dietz Corp. v. United States, supra at 5; Capitol Fed. Sav. & Loan v. Commissioner, supra at 213.
+ 
+For purposes of section 954(b)(4), “to be significant a purpose must be important, but it is not necessary that it be the principal purpose or the purpose of first importance.” Sec. 1.954-1(b)(3)(iii), Income Tax Regs. To determine if tax reduction was a significant purpose, we must examine all of the facts and circumstances. Sec. 1.954-1(b)(3)(iv), Income Tax Regs. Among the factors to be considered are the following: (1) The various purposes for the action, (2) the type of business carried on, (3) the classes of income derived, (4) the frequency with which the particular item of income is derived, (5) the effective rate of tax imposed on the income, (6) the place in which the income-producing transaction occurs or the source of such income, and (7) the location of the persons purchasing the goods or services. Id. Generally, if the income-producing activity of the CFC takes place within the country in which the CFC is organized, the formation of that company will not be considered to have a significant purpose of reducing taxes. Id.
+ 
+Petitioners argue, and respondent does not dispute, that during petitioners’ taxable years ended December 25, 1983, through December 28, 1986, B&L Hong Kong had income from the following three principal sources: (1) The sale of sunglasses assembled by B&L Hong Kong, (2) the sale of B&L products not assembled by B&L Hong Kong,43 and (3) interest. It is not clear from the record whether B&L Hong Kong had income from any other sources during those years. To the extent that B&L Hong Kong had any such income that is at issue herein, petitioners have failed to carry their burden of proving that such income is excludible from their gross income for those years under section 954(b)(4).
+ 
+As for the three sources of B&L Hong Kong’s income about which petitioners argue under section 954(b)(4), we have held that the income of B&L Hong Kong attributable to the sale of sunglasses it assembled is not subpart F income for any of the years at issue. Therefore, we need not determine whether the exception in section 954(b)(4) applies to that income.
+ 
+*40 In addition, certain income of B&L Hong Kong from the sale of B&L products it did not assemble is not at issue for petitioners’ taxable years ended December 25, 1983, through December 28, 1986. Specifically, the record discloses that neither the income of B&L Hong Kong from the sale of B&L products for use or consumption in Hong Kong, see sec. 954(d)(1)(B), nor its income during petitioners’ taxable year ended December 30, 1984, from the sale of products purchased from B&L Ireland, see sec. 1.954-1(b)(4)(iii)(a), Income Tax Regs., is at issue. It is not clear from the record whether any other income of B&L Hong Kong from the sale of B&L products it did not assemble is at issue. However, we presume that the parties will exclude any such income that is not at issue when making their computations herein under Rule 155.
+ 
+We now turn to the parties’ arguments under section 954(b)(4) relating to B&L Hong Kong’s income from the sale of B&L products it did not assemble and from interest that the parties and/or the record make clear is at issue. Respondent argues that she did not abuse her discretion under section 954(b)(4) by failing to exclude the income at issue of B&L Hong Kong from the sale of B&L products it did not assemble and from interest from petitioners’ gross income for their taxable years ended December 25, 1983, through December 28, 1986. Although the record in these cases might support a finding that B&L Hong Kong was not formed for a significant purpose of reducing taxes, it does not necessarily follow that respondent abused her discretion by failing to exclude the income at issue of B&L Hong Kong from the sale of B&L products it did not assemble and from interest from petitioners’ gross income for their taxable years ended December 25, 1983, through December 28, 1986. In any event, the instant record does not support a finding that respondent abused her discretion by failing to determine that reduction of taxes was not a significant purpose for effecting the transactions that gave rise to that income.
+ 
+We initially note that petitioners reported certain of B&L Hong Kong’s income from sources other than the sale of sunglasses assembled by it as subpart F income for each of their taxable years ended December 30, 1984, through December 28, 1986. Although petitioners did not report subpart F income from B&L Hong Kong for their taxable year ended December 25, 1983, a memorandum prepared by B&L in connection with the tax audit of petitioners’ taxable years ended December 25, 1983, and December 30, 1984, indicated that petitioners did not report any such income for their taxable year ended December 25, 1983, because B&L Hong Kong “generated an overall loss from Subpart F operations” for that year. Petitioners did not assert that any portion of B&L Hong Kong’s income at issue from the sale of B&L products it did not assemble and from interest was excludible from their gross income under section 954(b)(4) until they filed their amended petitions in these cases less than three months prior to trial. It appears that, at least prior thereto, petitioners themselves had reason to believe that that income was not excludible from their gross income under section 954(b)(4) for their taxable years ended December 25, 1983, through December 28, 1986.
+ 
+*41 With respect to B&L Hong Kong’s interest income at issue, petitioners do not point to any evidence to support a finding that reducing taxes was not a significant purpose for effecting the transactions that gave rise to that interest income.44 Although petitioners argue on brief that B&L Hong Kong had interest income from investments of its working capital, it is not clear from the record what transactions gave rise to the interest income at issue. On the record before us, we find that petitioners failed to prove that respondent abused her discretion by failing to conclude that reducing taxes was not a significant purpose for effecting the transactions that gave rise to B&L Hong Kong’s interest income at issue.45
+ 
+With respect to B&L Hong Kong’s income at issue from the sale of B&L products it did not assemble, petitioners argue that the factors set forth in section 1.954-1(b)(3)(iv), Income Tax Regs., show that the transactions that gave rise to that income were not effected for a significant purpose of reducing taxes. We disagree. We have examined all of the facts and circumstances disclosed by the record with respect to that income and find that petitioners have failed to show that respondent abused her discretion by failing to determine that the transactions that gave rise to B&L Hong Kong’s income at issue from the sale of B&L products it did not assemble were not effected for a significant purpose of reducing taxes.
+ 
+Although the testimony of current and former B&L employees (viz., Mr. Chan and John Vay) establishes that tax avoidance was not a significant purpose for the formation of B&L Hong Kong, the record is silent, particularly with respect to petitioners’ taxable years ended December 25, 1983, through December 28, 1986, as to petitioners’ purpose for structuring as they did the transactions that gave rise to B&L Hong Kong’s income at issue from the sale of B&L products it did not assemble.
+ 
+In addition, the type of business carried on by B&L Hong Kong that gave rise to the income at issue from the sale of B&L products it did not assemble was a sales business that derived income from the sale of B&L products that it (1) purchased from its parent or other related companies, (2) sold for use or consumption outside Hong Kong, and (3) did not manufacture or assemble in Hong Kong. Thus, the class of income at issue that B&L Hong Kong derived from that business was foreign base company sales income as defined in section 954(d)(1).
+ 
+Petitioners concede that the tax rates in Hong Kong were lower than the tax rates in the United States. Moreover, the record shows that B&L’s management was aware of the differences between the tax rates in Hong Kong and the United States during and immediately prior to the years at issue and that B&L’s management made efforts during those years to reduce its overall tax burden.
+ 
+Although most of B&L Hong Kong’s sales activity may have occurred in Hong Kong, the fact that the income at issue of B&L Hong Kong from the sale of B&L products it did not assemble was derived from the sale of those products for use or consumption outside Hong Kong indicates to us that B&L Hong Kong’s customers were located outside Hong Kong.
+ 
+*42 In sum, the present record does not support a finding that respondent abused her discretion by failing to determine that the transactions that gave rise to B&L Hong Kong’s income at issue from the sale of B&L products it did not assemble were not effected for a significant purpose of reducing taxes. In fact, the record does not even support a finding that tax reduction was not a significant purpose for effecting those transactions.
+ 
+Based on our review of the entire record before us, we find that petitioners failed to prove that respondent abused her discretion by failing to conclude that the transactions that gave rise to B&L Hong Kong’s income at issue from the sale of B&L products it did not assemble and from interest were not effected for a significant purpose of reducing taxes for their taxable years ended December 25, 1983, through December 28, 1986.46 Accordingly, we hold that respondent did not abuse her discretion under section 954(b)(4) by failing to exclude that income from petitioners’ gross income for those years.
+ 
+To reflect the foregoing and the concessions of the parties,
+ 
+Decision in docket No. 13983-91 will be entered under Rule 155.
+ 
+All Citations
+T.C. Memo. 1996-57, 1996 WL 64832, 71 T.C.M. (CCH) 2031, T.C.M. (RIA) 96,057, 1996 RIA TC Memo 96,057
+
+
+
+Footnotes
+|
+1
+|Prior to the trial herein, the Court granted the parties’ joint motion to sever a capital loss carryback issue relating to, inter alia, petitioners’ taxable year ended Dec. 27, 1987. Since that year is one of the years at issue in docket No. 1215-92, no decision may be entered in that case at the present time.
+|
+2
+|Unless otherwise indicated, our use herein of the words “assembled”, “produced”, “manufactured”, and similar words does not reflect the Court’s view as to whether the sunglasses assembled by Bausch & Lomb Ireland, Ltd. and by Bausch & Lomb Hong Kong, Ltd. were manufactured by each of those companies for purposes of sec. 954(d)(1).
+All section references are to the Internal Revenue Code (Code) in effect for the years at issue. All Rule references are to the Tax Court Rules of Practice and Procedure.
+|
+3
+|Not all of B&L Hong Kong’s income from sources other than the sale of sunglasses it assembled is at issue herein. See discussion infra.
+|
+4
+|In light of our holding on issue (1), we need not, and shall not, address petitioners’ contention that B&L Hong Kong’s income from the sale of sunglasses it assembled is excludible from petitioners’ gross income for each of those years under sec. 954(b)(4).
+|
+5
+|At the conclusion of the trial herein, the Court ordered the parties to file seriatim briefs and limited the parties’ respective briefs to a total of 150 pages, including the proposed findings of fact. Petitioners’ opening and reply briefs totaled exactly 150 pages. It appears that they were able to so limit their briefs only by violating Rule 151(e)(3). That Rule requires the opening briefs of the parties to contain:
+Proposed findings of fact * * * based on the evidence, in the form of numbered statements, each of which shall be complete and shall consist of a concise statement of essential fact and not a recital of testimony nor a discussion or argument relating to the evidence or the law. * * *
+Petitioners’ opening brief did not contain any “Proposed findings of fact * * * in the form of numbered statements” with respect to any facts to which the parties stipulated in the revised first stipulation of facts (first stipulation) and to which neither party objected on evidentiary grounds. Respondent objected in her brief to petitioners’ failure to propose such stipulated facts and their resultant violation of Rule 151(e)(3). However, respondent did not request the Court to impose sanctions on petitioners.
+During the pretrial and trial phases of these cases, petitioners’ lead counsel made it known to the Court on a number of occasions that he is no stranger to this Court, since he has appeared before us as attorney of record in a number of different cases. We therefore presume that he is, and in any event he and all counsel who appear before us should be, thoroughly familiar with this Court’s Rules, including Rule 151(e)(3). Since respondent did not seek any sanctions from the Court for petitioners’ failure to comply with Rule 151(e)(3), which we view as nothing more than their attempt to circumvent the page limitation we placed on the briefs in these cases, we shall impose no sanctions at this time. However, we caution petitioners and their counsel that any further violations of our Rules and Orders will be met with the imposition of appropriate sanctions, regardless whether respondent makes a request for sanctions.
+|
+6
+|Each party objected to certain stipulations in the first stipulation, the second stipulation of facts, and the third stipulation of facts. (Those stipulations will be referred to collectively as the stipulations of facts.) We address those objections below.
+|
+7
+|Unless otherwise indicated, our Findings of Fact and Opinion herein relate to the years at issue.
+|
+8
+|Hereinafter, we shall refer to B&L Inc. and all of its subsidiaries, not just those subsidiaries that were consolidated for Federal income tax purposes, as B&L.
+|
+9
+|As used herein, the term “sunglasses” means sunglasses with noncorrective lenses.
+|
+10
+|B&L was also involved in certain biomedical fields. However, that segment of its business is not relevant to the issues presented in these cases.
+|
+11
+|The Ophthalmic Division was one of two main divisions of B&L Inc. at the time the decision to incorporate B&L Hong Kong was made.
+|
+12
+|Metals included styles of sunglasses known as large metals, large metals II, Outdoormans, and Caravans.
+|
+13
+|Plastics included a style of sunglasses known as Wayfarers.
+|
+14
+|B&L purchased the nylon temples and nylon fronts from an unrelated vendor.
+|
+15
+|B&L also conducted some aspects of its sunglass operations in Oakland, Maryland.
+|
+16
+|It is unclear from the record whether B&L Ireland leased or purchased the facility into which it moved its sunglass assembly operations during 1987.
+|
+17
+|The Consumer and Ophthalmic International Division succeeded the Ophthalmic Division as the division of B&L Inc. responsible for overseeing B&L Hong Kong.
+|
+18
+|For example, B&L produced different SKUs of sunglasses that used the same type of frame, but lenses of different colors. Lenses of the same design also were used interchangeably in certain different styles of sunglass frames. Each style of frame with each color of lens represented a different SKU. If B&L Hong Kong had not decided to assemble sunglasses in Hong Kong, it would have needed to maintain a finished goods inventory for every SKU in order to process orders quickly. By maintaining a sunglass assembly facility in Hong Kong, B&L Hong Kong was able to process an order without needing to maintain a finished goods inventory for every SKU. Rather, it simply needed to maintain an adequate supply of the interchangeable parts. By way of illustration, if B&L Hong Kong had not conducted assembly operations in Hong Kong and had estimated that it would sell 100 pairs of large metals, but had been unable to estimate whether its sales would be for large metals with green or with gray lenses, it would have needed to stock 100 finished pairs of each of those SKUs. However, if B&L Hong Kong were to conduct assembly operations, it could fill an order for 100 large metals with gray lenses, 100 large metals with green lenses, or some combination thereof simply by maintaining 100 pairs of frames for large metals, 100 pairs of gray lenses, and 100 pairs of green lenses. Thus, the total number of frames in B&L Hong Kong’s inventory could be less than the number of frames in its inventory if it maintained enough finished goods inventory to fill those orders.
+|
+19
+|Except as stated below, the sunglass assembly operations conducted by B&L Ireland and by B&L Hong Kong were substantially the same. The sunglass assembly operations conducted by B&L Inc. in Rochester with respect to metals, plastics, Wings, and leathers were substantially similar to the sunglass assembly operations conducted by B&L Ireland with respect to those styles of sunglasses and by B&L Hong Kong with respect to those styles except plastics that B&L Hong Kong did not produce. Even at its facilities in Rochester, B&L Inc. treated sunglass assembly as a separate function from the fabrication of sunglass parts. The assembly operations at B&L Inc., B&L Ireland, and B&L Hong Kong received some parts from the same parts warehouse located in Rochester.
+|
+20
+|Prior to placing an actual order for parts, B&L Hong Kong also prepared a quarterly report that it sent to B&L Inc. in Rochester to alert it to B&L Hong Kong’s expected needs for parts.
+|
+21
+|Parts placed in quarantine by B&L Ireland were not used for assembling sunglasses unless absolutely necessary. If it became necessary to use the quarantined parts, those parts were inspected to sort out the unusable parts. Quarantined parts were sometimes reworked to make them acceptable before they were used.
+|
+22
+|B&L and we refer to the process of inserting lenses into the fronts as lensing.
+|
+23
+|B&L and we refer to the process of attaching the temple to the front as templing.
+|
+24
+|B&L and we refer to the processes of examining and adjusting the various angles and determining the presence of and eliminating rocking temples as truing.
+|
+25
+|The plaque is the metal piece on the plastic front. It appears sunken when the plastic around the metal becomes so hot that it swells and covers the plaque.
+|
+26
+|B&L and we refer to the process of cutting the temples with a mitring machine as mitring.
+|
+27
+|Primer was also applied to metal temples.
+|
+28
+|The category “Others” primarily included styles called Classic Colours and Precious Metals. Those styles were metals that were coated with sprayed-on paint in the case of Classic Colours or with a coating of rhodium and ruthenium in the case of Precious Metals. B&L Ireland experienced some difficulty in assembling Classic Colours and Precious Metals because the coatings on those styles, which were applied by a third party, chipped off very easily.
+|
+29
+|The record does not disclose the breakdown of the styles of sunglasses assembled by B&L Hong Kong during 1983.
+|
+30
+|It is not clear from the record what all of the sources of B&L Hong Kong’s reported subpart F income were for those years.
+|
+31
+|Sec. 951(a)(1) provides that a U.S. shareholder of a CFC must include in gross income, inter alia, a pro rata share of the subpart F income of that CFC for the year ended during such shareholder’s tax year. Sec. 952(a) defines the term “subpart F income” to include “foreign base company income”. Sec. 952(a)(2). Sec. 954(a) defines “foreign base company income” to include “foreign base company sales income” as defined in sec. 954(d). Sec. 954(a)(2).
+|
+32
+|The House Ways and Means Committee used similar language in its report on subpart F. H. Rept. 1447, 87th Cong., 2d Sess. (1962), 1962-3 C.B. 402, 466.
+|
+33
+|The number of steps that Mr. Matthews concluded are required for the assembly of sunglasses does not include a number of support operations, such as incoming inspections and quality audits.
+|
+34
+|Some of the quantitative analyses performed by those experts related to whether the respective assembly operations of B&L Ireland and B&L Hong Kong satisfy the mechanical test of sec. 1.954-3(a)(4)(iii), Income Tax Regs. We rely on the facts and circumstances test of that regulation in holding for petitioners herein. Consequently, we need not, and do not, consider application of the mechanical test of sec. 1.954-3(a)(4)(iii), Income Tax Regs., to these cases.
+|
+35
+|We also note that Mr. Holdren admitted at trial that he made an error in the analyses contained in his opening report.
+|
+36
+|We also note that the individuals who prepared the BVS report admitted that the data that they used in making their analyses were incomplete and inconsistent, especially with respect to B&L Ireland.
+|
+37
+|A bag-closing machine is a type of sewing machine used to close the mouth of an open bag for products such as animal feed, seed, fertilizer, and processed food. Dave Fischbein Manufacturing Co. v. Commissioner, 59 T.C. 338, 340 (1972).
+|
+38
+|CFSA also purchased from unrelated suppliers some of the standard parts used in portable bag-closing machines, such as screws, nuts, and switches. Dave Fischbein Manufacturing Co. v. Commissioner, supra at 350.
+|
+39
+|B&L Hong Kong also undertook certain actions to improve the quality problems it suffered during the first year (viz., 1983) of its sunglass assembly operations.
+|
+40
+|Records from B&L Hong Kong for the years at issue show that the actual “Time for 1 unit assembled” ranged from a high of approximately two minutes during 1983 to a low of approximately one minute during 1987. Although no such records exist for B&L Ireland, Dr. Philpott, a manufacturing engineer and expert relied upon by respondent, estimated the time for assembly for (1) metals at 1.77 minutes, (2) plastics at 1.84 minutes, and (3) leathers (including applying the leather to the frames) at 4.06 minutes. Dr. Philpott made his estimates of the time required for assembly of the various styles of sunglasses using a design for assembly (DFA) analysis. DFA analysis utilizes a database of time required to perform certain assembly-related tasks in order to aid engineers in designing products in such a way that they can be assembled most efficiently.
+|
+41
+|Although we do not address herein every argument advanced by respondent under sec. 954(d)(1), we have considered all of her arguments and find them to be without merit.
+|
+42
+|Petitioners’ argument does not relate to their last taxable year at issue (viz., the year ended Dec. 27, 1987) because sec. 954(b)(4) in effect for their taxable years ended Dec. 25, 1983, through Dec. 28, 1986, was amended in 1986 and was no longer effective for that last year.
+|
+43
+|Petitioners do not argue that B&L Hong Kong sold any products manufactured in Hong Kong other than the sunglasses it assembled.
+|
+44
+|On brief, respondent argues that the issue whether B&L Hong Kong’s interest income is excludible under sec. 954(b)(4) is not a proper issue because it was not raised in the pleadings. Respondent is wrong. Petitioners amended their petition to assert that B&L Hong Kong’s income from the sale of B&L products it did not assemble and from “other revenues” was excludible under sec. 954(b)(4).
+|
+45
+|Petitioners argue that B&L Hong Kong’s interest income at issue is excludible from their gross income pursuant to sec. 954(b)(3)(A). The record does not establish the total amount of B&L Hong Kong’s foreign base company income (determined without regard to sec. 954(b)(2) and (5)) for any of the taxable years ended Dec. 25, 1983, through Dec. 28, 1986. Consequently, we are unable to determine whether B&L Hong Kong’s interest income (or any other foreign base company income that we have found herein) is excludible pursuant to sec. 954(b)(3)(A).
+|
+46
+|Although we do not address herein every argument advanced by petitioners under sec. 954(b)(4), we have considered all of their arguments and find them to be without merit.
+|
+
+
+
+
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

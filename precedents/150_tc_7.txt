@@ -1,0 +1,1313 @@
+
+
+
+
+
+KeyCite Red Flag - Severe Negative Treatment
+Reversed by Mazzei v. Commissioner of Internal Revenue, 9th Cir., June 2, 2021
+150 T.C. 138
+United States Tax Court.
+Celia MAZZEI, Petitioner
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent
+Angelo L. Mazzei and Mary E. Mazzei, Petitioners
+v.
+Commissioner of Internal Revenue, Respondent
+Docket Nos. 16702–09, 16779–09
+|
+Filed March 5, 2018
+Synopsis
+Background: Married taxpayers and their daughter petitioned for redetermination of excise-tax deficiencies arising from their routing of funds from their family business through a Bermuda-based foreign sales corporation (FSC) and then into Roth individual retirement accounts (IRAs).
+ 
+Holdings: The Tax Court, Thornton, J., held that:
+ 
+[1] periods of limitations for excise tax never began to run;
+ 
+[2] normal substance doctrines applied to determination of economic realities of relationships among taxpayers, their Roth IRAs, and FSC;
+ 
+[3] taxpayers, not Roth IRAs, controlled right to receive income from FSC, and thus FSC’s payments to IRAs were, in substance, not dividends but excess IRA contributions by taxpayers that were subject to excise tax; and
+ 
+[4] taxpayers were not liable for additions to tax for failure to timely file returns and pay tax shown on valid substitutes for return (SFRs) prepared by IRS.
+ 
+Decision for IRS in part and for taxpayers in part.
+ 
+Paris and Pugh, JJ., filed concurring opinion in which they were joined by Thornton, Goeke, and Lauber, JJ.
+ 
+Holmes, J., filed dissenting opinion in which he was joined by Foley and Buch, JJ., as to Parts I through IV, and Morrison, J., as to Parts I through III.
+ 
+
+
+West Headnotes (12)
+
+
+[1]
+|Internal RevenuePresentation of grounds of review
+|
+|IRS waived or conceded any issue with respect to Roth individual retirement account (IRA) contribution limit of $2000 that was claimed by related taxpayers, in action for redetermination of excise-tax deficiencies arising from taxpayers’ routing of funds from their family business through a Bermuda-based foreign sales corporation (FSC) and then into Roth IRAs, where IRS described, but did not challenge, corporate restructuring that taxpayers contended resulted in sufficiently low modified adjusted gross income (MAGI) to permit $2000 contribution for each of them. 26 U.S.C.A. §§ 408A(c)(2), 408A(c)(3).
+1 Case that cites this headnote
+|
+
+
+[2]
+|Internal RevenueEffect of erroneous, false, or fraudulent returns;  failure to file return
+|
+|Periods of limitations for excise tax never began to run, where related taxpayers did not file Forms 5329, Additional Taxes on Qualified Plans (Including IRAs) and Other Tax–Favored Accounts, with respect to their routing of funds from their family business through foreign sales corporation (FSC) and then into Roth individual retirement accounts (IRAs), which IRS determined was subject to excise tax as excess contributions to IRAs. 26 U.S.C.A. §§ 408A, 4973.
+1 Case that cites this headnote
+|
+
+
+[3]
+|Internal RevenueExcess contributions
+|
+|Normal substance doctrines applied to determination of economic realities of relationships among related taxpayers, their Roth individual retirement accounts (IRAs), and foreign sales corporation (FSC) in which IRAs nominally purchased stock, in action for redetermination of excise taxes on what IRS contended were excess contributions to Roth IRAs arising as result of taxpayers’ routing of funds from family business through FSC and then into Roth IRAs; taxpayers contended that FSC statutes approved of FSC form without regard to substance, but FSC statutes and regulations neither stated nor implied that purchases or transfers of FSC stock, or transactions at shareholder level or between FSC and its owners, were exempt from application of substance doctrines. 26 U.S.C.A. §§ 408A, 482, 925, 4973; 26 C.F.R. § 1.925(a)–1T(e)(2).
+2 Cases that cite this headnote
+|
+
+
+[4]
+|Internal RevenuePersons Liable
+|
+|In an ordinary case, attribution of income is resolved by asking whether a taxpayer exercises complete dominion over the income in question.
+1 Case that cites this headnote
+|
+
+
+[5]
+|Internal RevenueAssignors or assignees
+|
+|To resolve question of attribution of income where a taxpayer formally transfers a right to income to another, the question becomes whether the assignor retains dominion over the income-generating asset, because the taxpayer who owns or controls the source of the income, also controls the disposition of that which he could have received himself and diverts the payment from himself to others as the means of procuring the satisfaction of his wants.
+1 Case that cites this headnote
+|
+
+
+[6]
+|Internal RevenueAssignors or assignees
+|
+|To resolve question of attribution of income where a taxpayer formally transfers a right to income to another, crucial question remains whether the assignor retains sufficient power and control over the assigned property or over receipt of the income to make it reasonable to treat him as the recipient of the income for tax purposes.
+1 Case that cites this headnote
+|
+
+
+[7]
+|Internal RevenueExcess contributions
+|
+|Related taxpayers, not their Roth individual retirement accounts (IRAs), controlled right to receive income from foreign sales corporation (FSC), although IRAs held FSC’s stock, and thus FSC’s payments to IRAs were, in substance, not dividends but excess IRA contributions by taxpayers that were subject to excise tax; IRAs were exposed to no risk, being protected from liability by FSC’s corporate shield and paying only negligible price of $500, of which only $1 was for stock with remainder being access fee, and no independent holder of FSC stock could realistically have expected to benefit from formal stock ownership, as taxpayers routed funds to FSC via their family business and could control whether any such payments would ever be made and could even take back prior payments. 26 U.S.C.A. §§ 408A, 482, 925, 4973; 26 C.F.R. § 1.925(a)–1T(e)(2).
+1 Case that cites this headnote
+|
+
+
+[8]
+|Internal RevenueExcess contributions
+|
+|Heightened scrutiny applied to determination of economic realities of relationships among related taxpayers, their Roth individual retirement accounts (IRAs), and foreign sales corporation (FSC) in which IRAs nominally purchased stock, and thus relevant question was what benefits independent holder of FSC stock could realistically have expected on basis of objective nature of FSC stock, in action for redetermination of excise taxes on what IRS contended were excess contributions to Roth IRAs arising as result of taxpayers’ routing of funds from family business through FSC and then into Roth IRAs; because taxpayers were in complete control of IRAs, their business, and FSC, all of these parties were related for all practical economic purposes. 26 U.S.C.A. §§ 408A, 482, 925, 4973; 26 C.F.R. § 1.925(a)–1T(e)(2).
+1 Case that cites this headnote
+|
+
+
+[9]
+|Internal RevenueMinimization, Avoidance or Evasion of Liability
+|
+|Any one may so arrange his affairs that his taxes shall be as low as possible; he is not bound to choose that pattern which will best pay the Treasury; there is not even a patriotic duty to increase one’s taxes.
+
+|
+
+
+[10]
+|Internal RevenueMinimization, Avoidance or Evasion of Liability
+|
+|Taxpayer is free to adopt such organization for his affairs as he may choose, but on the other hand, the Government may not be required to acquiesce in the taxpayer’s election of that form; the Government may look at actualities and upon determination that the form employed for doing business or carrying out the challenged tax event is unreal or a sham may sustain or disregard the effect of the fiction as best serves the purposes of the tax statute.
+
+|
+
+
+[11]
+|Internal RevenueFailure to make returns
+Internal RevenueFailure to pay tax in general
+Internal RevenueReasonable cause
+|
+|Related taxpayers’ failure to file returns, and their nonpayment of excise tax for excess contributions to Roth individual retirement accounts (IRAs), were not due to willful neglect, but rather were due to reasonable cause based on professional advice, and thus taxpayers were not liable for additions to tax for failure to timely file return and pay tax shown on valid substitutes for return (SFRs) prepared by IRS; taxpayers justifiably relied on advice of accountant, who practiced for 29 years and was competent professional with sufficient expertise to justify reliance, they presented him with necessary information regarding IRA contributions, he had no connection to taxpayers’ transactions, and he had worked for them for several years before advising them on transactions at issue. 26 U.S.C.A. §§ 6020(b), 6651(a)(1), 6651(a)(2).
+2 Cases that cite this headnote
+|
+
+
+[12]
+|PatentsIn general;  utility
+|
+|US Patent 4,123,800. Cited.
+
+|
+
+
+
+Ps entered into a prepackaged plan to save taxes by routing funds from their family business through a Bermuda-based foreign sales corporation (FSC) and then into Roth IRAs created for this purpose. Pursuant to this plan, in 1998 each P directly contributed $2,000, the applicable contribution limit, to his or her newly created Roth IRA, which then paid a nominal amount for stock in the FSC. From 1998 to 2002 Ps routed payments totaling $533,057 from their family business, through the FSC, and into their Roth IRAs.
+ 
+Ps contend that we should respect the form of these transactions as payments from Ps’ business to the FSC, followed by payments of dividends by the FSC to the Roth IRAs. R contends that the payments from the FSC to Ps’ Roth IRAs represented, in substance, contributions from Ps to their Roth IRAs. R contends that because these payments exceeded Ps’ contribution limits for their Roth IRAs, Ps are liable for excise taxes under I.R.C. sec. 4973.
+ 
+Held: On the facts presented, Ps and not their Roth IRAs were the owners, for Federal tax purposes, of the FSC stock; in substance the FSC dividends were income to Ps, who contributed the funds to their Roth IRAs. Summa Holdings, Inc. v. Commissioner, 848 F.3d 779 (6th Cir. 2017), rev’g T.C. Memo. 2015-119, distinguished.
+ 
+Held, further, pursuant to I.R.C. sec. 4973 Ps are liable for excise taxes on excess contributions to their Roth IRAs.
+ 
+Held, further, R’s imposition of additions to tax under I.R.C. sec. 6651(a)(1) and (2) is not sustained.
+ 
+Attorneys and Law Firms
+Lewis Richard Walton and Lewis Richard Walton, Jr., for petitioners.
+Erin Kathleen Salel, Kathleen A. Tagni, and Miles B. Fuller, for respondent.
+
+
+THORNTON, Judge:
+
+*138 CONTENTS
+FINDINGS OF FACT...––––
+I. WGA’s FSC/IRA Program...––––
+ 
+II. Petitioners’ Contribution Limits...––––
+ 
+III. Petitioners’ Entrance Into WGA’s FSC/IRA Program...––––
+A. Operations Procedure Memorandum...––––
+B. Commission Agreement...––––
+*139 C. Services Agreement...––––
+D. Management Agreement...––––
+E. Shareholders’ Agreement...––––
+F. Compliance Guide...––––
+ 
+IV. Operations of the FSC/IRA Program...––––
+ 
+V. Procedural Background...––––
+ 
+OPINION...––––
+I. Burden of Proof...––––
+ 
+II. Statutory Framework: Roth IRAs and Excess Contributions...––––
+ 
+III. The Parties’ Arguments...––––
+ 
+IV. General Principles: Substance Over Form...––––
+ 
+V. The FSC Provisions...––––
+A. Relaxed Transfer Pricing Rules...––––
+B. Effective Tax Rate Cut for Qualifying Income...––––
+C. Application of FSC Rules to Petitioners’ Transactions...––––
+D. The Limited Scope of the FSC Provisions...––––
+ 
+VI. The Payments to the Roth IRAs Were Contributions...––––
+A. The Roth IRAs Were Exposed to No Risk...––––
+B. The Roth IRAs Could Expect No Upside Benefits...––––
+C. Conclusion...––––
+ 
+VII. Petitioners’ Counterarguments...––––
+A. Summa Holdings II...––––
+B. Petitioners’ Ownership Argument...––––
+C. Petitioners’ Congressional Purpose Arguments...––––
+ 
+VIII. Response to Dissent...––––
+A. Our Analysis Does Not Sham or Disregard Any Entities...––––
+B. Our Analysis Properly Considers the Facts as a Whole...––––
+C. The Substance Inquiry Is Appropriate...––––
+D. Our Approach Appropriately Considers Value...––––
+E. The Dissent’s Hypothetical Misconceives Our Analysis...––––
+F. The Dissent’s Approach Lacks Support in the Code...––––
+ 
+IX. Conclusion...––––
+ 
+X. Additions to Tax...––––
+ 
+By notice of deficiency, respondent determined excise tax deficiencies for Angelo and Mary Mazzei for 2002–07, and additions to tax under section 6651(a)(1) and (2):1
+ 
+*140
+
+
+
+
+||Additions to tax
+ 
+|
+Year
+ 
+|Deficiency
+ 
+|Sec. 6651(a)(1)
+ 
+|Sec. 6651(a)(2)
+ 
+|
+2002
+ 
+|$6,637
+ 
+|$1,493
+ 
+|$1,659
+ 
+|
+2003
+ 
+|9,408
+ 
+|2,116
+ 
+|2,352
+ 
+|
+2004
+ 
+|10,523
+ 
+|2,367
+ 
+|(1)
+ 
+|
+2005
+ 
+|11,349
+ 
+|2,553
+ 
+|(1)
+ 
+|
+2006
+ 
+|13,759
+ 
+|3,095
+ 
+|(1)
+ 
+|
+2007
+ 
+|15,914
+ 
+|3,580
+ 
+|(1)
+ 
+|
+
+
+
+
+1 Amounts to be determined.
+ 
+In a separate notice of deficiency, respondent determined excise tax deficiencies for Celia Mazzei for 2002–07, and additions to tax under section 6651(a)(1) and (2):
+ 
+
+
+
+
+||Additions to tax
+ 
+|
+Year
+ 
+|Deficiency
+ 
+|Sec. 6651(a)(1)
+ 
+|Sec. 6651(a)(2)
+ 
+|
+2002
+ 
+|$4,889
+ 
+|$1,100
+ 
+|$1,222
+ 
+|
+2003
+ 
+|6,148
+ 
+|1,383
+ 
+|1,537
+ 
+|
+2004
+ 
+|6,372
+ 
+|1,433
+ 
+|(1)
+ 
+|
+2005
+ 
+|6,817
+ 
+|1,533
+ 
+|(1)
+ 
+|
+2006
+ 
+|7,850
+ 
+|1,766
+ 
+|(1)
+ 
+|
+2007
+ 
+|8,616
+ 
+|1,938
+ 
+|(1)
+ 
+|
+
+
+
+
+1 Amounts to be determined.
+ 
+While residing in California, petitioners timely petitioned this Court with respect to both notices of deficiency. These cases have been consolidated for trial, briefing, and opinion. The issues for decision are (1) whether petitioners are liable for excise taxes under section 4973 for 2002–07 and (2) whether petitioners are liable for section 6651(a)(1) and (2) additions to tax.
+ 
+
+FINDINGS OF FACT
+Angelo Mazzei graduated from college with a science degree in industrial technology and a minor in business administration. In 1977 he filed his first patent application for an “injector that mixes chemicals with water (for use primarily in agriculture).”2 Mr. Mazzei got *141 patent No. 4,123,800—“Mixer Injector”—and in 1978, seeing business potential in his idea, he and his wife, Mary Mazzei, formed the Mazzei Injector Corp. (Injector Corp.), an S corporation.3
+ 
+Initially Mrs. Mazzei was very active in the business and was Injector Corp.’s bookkeeper. She still discusses the business with Mr. Mazzei but is no longer an employee. Mr. and Mrs. Mazzei’s daughter, Celia Mazzei, has taken a much more active role in the business. After graduating from college with a degree in mathematics, she became vice president of research and development for Injector Corp. and still works with her father to invent new products. She now owns 10% of both ALM Corp., see infra p. 9, and Injector Corp.
+ 
+After its inception in 1978 Injector Corp. grew quickly and by its second year started working with distributors to market and sell its products. In or about 1984 Injector Corp. started selling overseas through foreign distributors. Although sales have fluctuated, by 1998 export sales provided a reliable stream of income. Today, Mr. Mazzei has patents in the United States and several foreign countries including Canada and Japan. He has also adapted his injectors for several different industries, including water treatment, wine production, and spa manufacturing.
+ 
+
+
+I. WGA’s FSC/IRA Program
+The same year Mr. Mazzei got his patent, he joined the Western Growers Association (WGA)—a trade association for farmers. Sometime in the 1990s WGA began creating and selling interests in foreign sales corporations (FSCs) to its members. FSCs were foreign corporations which elected to be taxed under now-repealed sections 921–927.4 WGA’s FSCs *142 were located in Bermuda and managed by a company called Quail Street Management (Quail Street).5 To participate in WGA’s FSC/individual retirement account (IRA) program, the individual shareholders or owners of WGA’s corporate or passthrough members had to have self-directed section 408 IRAs (traditional IRAs), which the shareholders or owners used to purchase stock in one of WGA’s FSCs. When section 408A Roth IRAs (Roth IRAs) were added to the Code in August 1997, see Taxpayer Relief Act of 1997, Pub. L. No. 105–34, sec. 302, 111 Stat. at 825, WGA changed its program, substituting Roth IRAs for traditional IRAs. WGA marketed its FSC/IRA program to its members, emphasizing that the FSC/IRA structure would provide tax benefits without any loss of control over the business.
+ 
+
+
+II. Petitioners’ Contribution Limits
+Contributions to a Roth IRA are limited according to a statutory formula. See sec. 408A(c)(2). The limitation for any year decreases as the taxpayer’s modified adjusted gross income (MAGI) increases; if MAGI is high enough, the limitation is reduced to zero. See sec. 408A(c)(3).
+ 
+Petitioners’ pre–1998 contribution limits were customarily zero, but as a result of some restructuring, petitioners claim that they each had a respective contribution limit of $2,000 for 1998. Their restructuring is a bit mysterious even after trial. Mr. and Mrs. Mazzei each started with 45% of Injector Corp. Celia Mazzei owned the remaining 10%. Petitioners organized another S corporation, ALM Corp., owned in the same proportions. ALM Corp. and Injector Corp. then formed an LLC named Mazzei Injector Co. (Injector Co.), which was treated for tax purposes as a partnership.6
+ 
+*143 [1]Respondent describes this restructuring but has not challenged it, so we deem respondent to have waived or conceded any issue with respect to it. Accordingly, we find that each petitioner’s contribution limit was $2,000 for 1998. Each petitioner’s contribution limit was zero for 1999, 2000, 2001, and 2002.7
+ 
+
+
+III. Petitioners’ Entrance Into WGA’s FSC/IRA Program
+In February 1998 Injector Co. applied to WGA’s FSC/IRA program. Injector Co.’s application to the program valued its annual export sales at approximately $1.5 million. Once Injector Co. was accepted into the program, each petitioner opened a self-directed Roth IRA and contributed $2,000. Each petitioner then directed his or her respective Roth IRA to buy one-third of a new account inside one of WGA’s FSCs.
+ 
+Under former section 927(g), if an FSC “maintain[ed] a separate account for transactions with each shareholder”, each separate account was to be treated as a separate corporation. By virtue of this provision, multiple WGA members could share one of WGA’s FSCs without intermingling their finances. Each of petitioners’ three Roth IRAs formally purchased 33–1/3 shares of one of WGA’s FSCs at $5 per share; altogether, the Roth IRAs paid $500 for 100 shares. The shares formally purchased by petitioners’ Roth IRAs were all attributable to a single, new, and empty “separate account”. There were no other shares attributable to this separate account. When we refer to “petitioners’ FSC” or “the FSC”, we mean petitioners’ separate account, treated as a separate corporation under section 927(g).
+ 
+Injector Co. received a packet of program materials that included: (1) an operations procedure memorandum; (2) a foreign *144 trade commission, sale, license, lease, and services agreement (commission agreement); (3) an export-related services agreement (services agreement); (4) a management agreement; (5) a shareholders’ agreement; and (6) a compliance guide prepared by Price Waterhouse, LLP, describing tax and recordkeeping issues associated with the IRA/FSC program. Each agreement was executed early in 1998.8 We will briefly discuss each item.
+ 
+
+
+A. Operations Procedure Memorandum
+The operations procedure memorandum provided an overview of the packet and a general explanation of how the FSC/IRA program was to operate.
+ 
+
+
+B. Commission Agreement
+The commission agreement provided that petitioners’ FSC would perform a variety of export-related activities for Injector Co.; in exchange, Injector Co. was to pay a commission. The commission agreement specified that Injector Co. retained the power to decide whether to pay a commission. For example, the agreement specified that any services commission
+shall be agreed upon by the parties and may vary from time to time by mutual agreement, so as to provide the maximum [F]ederal income tax benefits to * * * [Injector Co.] and [the] FSC * * *. * * * [Injector Co.] shall have the final decision as to whether [the] FSC is considered to have solicited or promoted a transaction with a customer and may prospectively or retroactively add or delete transactions entitling [the] FSC to a commission.
+(Identical provisions existed for other types of payments.)
+ 
+
+
+C. Services Agreement
+The services agreement, which was executed simultaneously with the commission agreement (as required by the commission agreement), provided that all of the activities *145 contracted to the FSC had to be delegated back to Injector Co., in exchange for a fee which could not exceed the commission paid by Injector Co.
+ 
+
+
+D. Management Agreement
+The management agreement provided that Injector Co. would pay a fee to Quail Street to administer its participation in the IRA/FSC program. The management agreement specified that (1) the fee would be equal to 0.001 of the FSC’s foreign trading gross receipts9 and that (2) the fee would be at least $3,500 and at most $10,000.
+ 
+
+
+E. Shareholders’ Agreement
+The shareholders’ agreement provided that “[e]arnings in the form of commissions on business originated by each shareholder shall be credited to the respective shareholder’s separate account.”10 This agreement also required each shareholder to pay its share of any annual maintenance costs for the FSC.11
+ 
+Additionally, the shareholders’ agreement specified that the $500 purchase price for 100 shares of FSC stock included $1 of “paid-in capital” and $499 of “paid-in surplus”. The shareholders’ agreement also restricted the sale of the FSC stock in at least two ways: (1) any shareholder that wished to sell its stock needed the approval of the FSC’s directors12 and (2) the sale price for the FSC stock was set as the “paid-in capital” amount, i.e., $1.
+ 
+
+
+F. Compliance Guide
+The compliance guide advised Injector Co. on how to report its activities in its accounting records and on its tax returns.
+ 
+In the aggregate, the agreements described above did not require the FSC to perform any export-related activities for *146 Injector Co., and any payments to the FSC were optional (excepting a few management and operational fees paid to Quail Street). That is, Injector Co. retained, at all times, the right not to make commission payments to the FSC.
+ 
+
+
+IV. Operations of the FSC/IRA Program
+Every quarter, Quail Street asked Injector Co. for a report of its foreign sales for the period. This request included a template worksheet for reporting sales. Injector Co. bookkeepers were to complete the report and return it to Quail Street. Quail Street would then compute the maximum commission payment allowed under section 925(b) and associated temporary regulations, see infra pp. 29–34, and send a letter inviting petitioners to fund their IRAs. In relevant part, the letter said:
+Based on the recent export sales and cost information that you reported, we calculate the amount of [$X] is due [i.e., for Federal corporate tax on the FSC]. To reimburse us for the quarterly FSC tax that we paid to the IRS on your behalf, your estimated FSC tax payment of [$X] should be wired to the address below. If you also wish to fund your IRA accounts at this time, you may wire an additional [$Y] at this time, for a total of [$X + $Y].
+ 
+Injector Co. made regular payments to the FSC, and in total between 1998 and March 2002 the FSC paid $533,057 to petitioners’ Roth IRAs:
+ 
+
+
+
+
+Export year
+ 
+|Payments to FSC
+ 
+|Tax paid by the FSC
+ 
+|Amount deposited into IRAs
+ 
+|
+1998
+ 
+|$157,966
+ 
+|$7,211
+ 
+|$150,754
+ 
+|
+1999
+ 
+|139,682
+ 
+|6,377
+ 
+|133,306
+ 
+|
+2000
+ 
+|138,095
+ 
+|6,304
+ 
+|131,791
+ 
+|
+2001
+ 
+|122,812
+ 
+|5,607
+ 
+|117,206
+ 
+|
+Total
+ 
+|||533,057
+ 
+|
+
+
+
+
+(For further explanation of these amounts, see infra pp. 35–36.)
+Petitioners participated in WGA’s FSC/IRA program with respect to export transactions occurring from 1998–2001, but some of the payments from the FSC to the Roth IRAs were made in the year after the export transactions to which they were attributable. The final payments from the FSC were *147 paid out in March 2002 as WGA wound up its FSC/IRA program.
+ 
+As of the close of each year at issue, petitioners’ Roth IRAs had the following balances:13
+ 
+
+
+
+
+Year
+ 
+|Angelo Mazzei
+ 
+|Mary Mazzei
+ 
+|Celia Mazzei
+ 
+|
+2002
+ 
+|$59,878
+ 
+|$50,753
+ 
+|$81,484
+ 
+|
+2003
+ 
+|81,082
+ 
+|75,722
+ 
+|102,473
+ 
+|
+2004
+ 
+|96,650
+ 
+|78,746
+ 
+|106,206
+ 
+|
+2005
+ 
+|96,790
+ 
+|92,369
+ 
+|113,504
+ 
+|
+2006
+ 
+|110,493
+ 
+|118,835
+ 
+|130,847
+ 
+|
+2007
+ 
+|118,856
+ 
+|146,389
+ 
+|143,601
+ 
+|
+
+
+
+
+
+
+V. Procedural Background
+Before entering into these transactions, petitioners presented the transaction paperwork to their accountant, Mr. Bedke, a tax partner at an accounting firm (where he had practiced for 29 years). Petitioners had been Mr. Bedke’s clients for several years before they sought his advice about their FSC transactions, and he was familiar with their business. Mr. Bedke prepared petitioners’ tax returns for each year at issue. Mr. Bedke had no connection with WGA and no interest in, or expectation of profits from, petitioners’ transactions. Mr. Bedke and another partner at his firm reviewed petitioners’ information and advised them that their business could use an FSC. He also advised them that it was not prohibited for a Roth IRA to invest in an FSC.
+ 
+In December 2003 the IRS issued Notice 2004–8, 2004–1 C.B. 333, to advise taxpayers that the IRS considered some transactions using Roth IRAs to be abusive tax-avoidance transactions.14 With their Forms 1040, U.S. Individual *148 Income Tax Return, for the tax years 2004–07, petitioners filed protective disclosures using Form 8886, Reportable Transaction Disclosure Statement, which disclosed that they participated in a program potentially covered by Notice 2004–8, supra. Petitioners did not, however, file Forms 5329, Additional Taxes on Qualified Plans (Including IRAs) and Other Tax–Favored Accounts.
+ 
+For 2002–07 respondent prepared substitute Forms 5329 for each petitioner under section 6020(b). In the notice of deficiency respondent determined that the section 4973 excise tax on excess contributions was due from each petitioner for each of the years at issue.
+ 
+
+OPINION
+From 1998 to 2002 petitioners indirectly transferred $533,057 from their business to their Roth IRAs by routing these funds through an FSC. Respondent determined that in substance these transfers represented contributions by petitioners to their Roth IRAs. If respondent is correct, then petitioners owe excise taxes under section 4973 for excess contributions to their Roth IRAs. Petitioners assert that respondent erred in recharacterizing the transfers as something other than dividends from the FSC directly to the Roth IRAs. If petitioners are correct, then they are not liable for the section 4973 excise taxes.
+ 
+
+
+I. Burden of Proof
+The Commissioner’s determinations in a notice of deficiency are generally presumed correct, and the taxpayer bears the burden of proving those determinations erroneous by a preponderance of the evidence. Rule 142(a); Welch v. Helvering, 290 U.S. 111, 115, 54 S.Ct. 8, 78 L.Ed. 212 (1933). Petitioners have not argued that the burden should be shifted to respondent.
+ 
+
+
+II. Statutory Framework: Roth IRAs and Excess Contributions
+A Roth IRA is “a trust created or organized in the United States for the exclusive benefit of an individual or his beneficiaries”. See secs. 408(a), 408A(a). Contributions to a Roth IRA are not deductible, income that accrues is tax-free, and *149 qualified distributions are not included in a taxpayer’s gross income. Sec. 408A(c)(1), (d)(1); Taproot Admin. Servs., Inc. v. Commissioner, 133 T.C. 202, 206 (2009), aff’d, 679 F.3d 1109 (9th Cir. 2012).
+ 
+As noted, contributions to a Roth IRA are limited according to a statutory formula. See sec. 408A(c). Contributions in excess of the yearly limitation are not directly prohibited, but section 4973(a) imposes a 6% tax on the lesser of excess contributions remaining in a Roth IRA or the fair market value of the account at the close of the taxable year. The tax not only applies for the year a taxpayer made an excess contribution but continues to apply for each year until the taxpayer removes an amount corresponding to the excess contribution. Sec. 4973(b)(2).
+ 
+In 1998 each petitioner directly contributed $2,000 to his or her respective Roth IRA, thereby maxing out each petitioner’s contribution limit for that year. In all relevant years thereafter—1999 to 2002—each petitioner’s contribution limit was zero.
+ 
+[2]In addition to making initial $2,000 contributions to their respective Roth IRAs in 1998, petitioners also indirectly transferred $533,057 from their business to their Roth IRAs between 1998 and 2002 by routing those funds through an FSC. It is undisputed that, if those payments constituted contributions to the Roth IRAs, they exceeded petitioners’ contribution limits under section 408A and were therefore excess contributions subject to section 4973 excise taxes for the years at issue, 2002–07. Consequently, the determinative question is whether the payments from the FSC to the Roth IRAs were “contributions” under sections 408A and 4973.15
+ 
+*150 Because petitioners’ Roth IRAs experienced investment losses, the fair market value of each account in each year at issue was less than the total amount of payments from the FSC to each account. Accordingly, if the payments from the FSC were contributions, the amount of excise tax due from each petitioner for each year from 2002–07 is 6% of the fair market value of his or her respective Roth IRA account at yearend.16
+ 
+
+
+III. The Parties’ Arguments
+Respondent contends that the payments to the Roth IRAs were contributions within the meaning of sections 408A and 4973. Broadly invoking the doctrine of substance over form, respondent asks us “to recharacterize petitioners’ entire scheme” on the basis of all the facts and circumstances. Respondent wants us to recharacterize the entire FSC/IRA program as a device for making contributions to petitioners’ Roth IRAs.
+ 
+Petitioners contend that the payments to the Roth IRAs were not contributions. They insist that the substance over form doctrine is “archaic” and that we must respect the form of their transactions, which they say Congress has sanctioned.
+ 
+We think both parties’ arguments fall short, relying too much on broad generalizations and hypotheses. Respondent makes vague references to “substance” but fails to explain in any detail how the substantive economic facts of petitioners’ cases support the broad recharacterization he has requested. Similarly, petitioners make vague references to various statutes but fail to explain exactly how those statutes apply to the facts of these cases or exactly why those statutes should be thought to excuse a lack of substance.
+ 
+The Court of Appeals for the Ninth Circuit—to which any appeal of these cases would ordinarily lie—has cautioned:
+Reference to the vague terms “form” and “substance,” which Judge Learned Hand pointedly referred to as “anodynes for the pains of reasoning,” is * * * inadequate to determine the tax treatment of a particular transaction. Instead, courts must make a more specific inquiry, finding what the facts are and deciding whether those facts fall within *151 the intended scope of the Internal Revenue Code provision at issue.
+Stewart v. Commissioner, 714 F.2d 977, 988 (9th Cir. 1983) (quoting Commissioner v. Sansome, 60 F.2d 931, 933 (2d Cir. 1932), rev’g 22 B.T.A. 1171 (1931) ), aff’g T.C. Memo. 1982-209.
+ 
+With that admonition in mind, we resolve these cases on their particular facts, applying the text of the relevant Code provisions. For the reasons discussed below, we reject petitioners’ broadest argument—that the substance doctrines have no place in our analysis. We also reject respondent’s request for a complete recharacterization of all petitioners’ transactions. Instead, we resolve these cases on a narrower factual basis: We conclude on the basis of the facts in the record that petitioners, and not their Roth IRAs, were the substantive owners of the FSC stock at all relevant times. Consequently, we conclude that in substance the payments from the FSC were income to petitioners rather than to their Roth IRAs and then excess contributions by petitioners to their Roth IRAs.
+ 
+
+
+IV. General Principles: Substance Over Form
+The Supreme Court and lower courts (including this Court) have repeatedly affirmed the substance over form inquiry.17 *152 We recently acknowledged that courts applying the so-called economic substance, sham transaction, and substance over form doctrines have not always used consistent terminology. CNT Inv’rs, LLC v. Commissioner, 144 T.C. 161, 193 (2015) (“The doctrines’ substantive similarities would not, alone, generate uncertainty for taxpayers * * * if courts applying the doctrines did so using consistent terminology. We have not.”). But notwithstanding some fluidity in terminology, these so-called “doctrines” simply reflect a body of caselaw describing different aspects of a well-recognized and accepted general inquiry into the practical economic realities underlying claimed tax attributes.18
+ 
+The Court of Appeals for the Ninth Circuit has stated that it “generally applies a two-pronged inquiry addressing the objective nature of the transaction (whether it has economic substance beyond tax benefits) and the subjective motivation of the taxpayer (whether the taxpayer had a non-tax business purpose for the transaction).” Reddam v. Commissioner, 755 F.3d 1051, 1057 (9th Cir. 2014), aff’g T.C. Memo. 2012-106; see also Bank of N.Y. Mellon Corp. v. Commissioner, 801 F.3d 104, 115 (2d Cir. 2015), aff’g 140 T.C. 15 (2013) and T.C. Memo. 2013-225. As the Court of Appeals has also noted, however, “the economic substance doctrine is not a rigid two-step analysis, but instead focuses holistically on whether the transaction had any practical economic effects other than the creation of income tax losses.” Reddam v. Commissioner, 755 F.3d at 1060 (internal quotation marks and citations omitted) (quoting Sacks v. Commissioner, 69 F.3d 982, 988 (9th Cir. 1995), rev’g T.C. Memo. 1992-596); see also Bank of N.Y. Mellon Corp. v. Commissioner, 801 F.3d at 115 (“[T]he test is not a rigid two-step process with discrete prongs; rather, we employ a ‘flexible’ analysis where both prongs are factors to consider in the overall inquiry into *153 a transaction’s practical economic effects.”). “[B]usiness purpose and economic substance are simply more precise factors to consider in the application of this court’s traditional sham analysis”. Reddam v. Commissioner, 755 F.3d at 1059 (quoting Sochin v. Commissioner, 843 F.2d 351, 354 (9th Cir. 1988), aff’g 85 T.C. 968 (1985) ).19
+ 
+Moreover, this general inquiry is merely a commonsense application of the plain language of the Code to the particular economic facts of each case. As the Court of Appeals for the First Circuit recently put it: “The [F]ederal income tax is, and always has been, based on statute. The economic substance doctrine, like other common law tax doctrines, can thus perhaps best be thought of as a tool of statutory interpretation”. Santander Holdings USA, Inc. v. United States, 844 F.3d 15, 21 (1st Cir. 2016) (fn. ref. omitted); see also Summa Holdings, Inc. v. Commissioner, 848 F.3d 779, 785 (6th Cir. 2017), rev’g T.C. Memo. 2015-119.20
+ 
+*154 We have recently applied the substance over form doctrine in several cases similar to petitioners’. See Block Developers, LLC v. Commissioner, T.C. Memo. 2017-142; Polowniak v. Commissioner, T.C. Memo. 2016-31; Repetto v. Commissioner, T.C. Memo. 2012-168, 103 T.C.M. (CCH) 1895 (2012). In all those cases, the taxpayers directed their Roth IRAs to purchase interests in a newly formed partnership or C corporation, which then purportedly provided services, or patent licenses, to the taxpayers’ operating businesses in exchange for cash. In Repetto, we held that funds routed through a newly formed C corporation to the taxpayers’ Roth IRAs represented, in substance, excess contributions because “the preponderance of credible evidence compels a finding that in substance the services agreements and the resulting payments were nothing more than a mechanism for transferring value to the Roth IRAs.” Repetto v. Commissioner, 103 T.C.M. (CCH) at 1901.21 In Polowniak and Block Developers, we likewise looked to substance over form in holding that the transactions at issue in those cases resulted in excess contributions to the taxpayers’ respective Roth IRAs.
+ 
+Although petitioners’ transactions are similar to those considered in Repetto, Polowniak, and Block Developers, a principal difference is that petitioners used an FSC instead of a partnership or C corporation. Petitioners suggest that because their transactions included an FSC, we are not permitted to examine the substance of any part of their transactions. We disagree. As we discuss in greater detail below, the scope and effect of the FSC provisions are more limited than petitioners suggest and do not foreclose our application of normal substance principles to petitioners’ transactions, at least in deciding who actually owned the FSC stock.
+ 
+An understanding of the actual, limited scope of the FSC provisions, and how they applied to petitioners’ transactions, requires some explanation. We turn to those matters before *155 proceeding with our analysis of the substance of petitioners’ transactions.
+ 
+
+
+V. The FSC Provisions
+Before they were phased out,22 FSCs were foreign corporations electing to be taxed under former sections 921–927, which provided advantageous income tax treatment for export income routed through an FSC. This tax advantage was achieved in two ways. First, through a series of highly technical rules, the FSC provisions allowed taxable income to be allocated to the FSC by relaxing the section 482 transfer pricing rules that generally apply in allocating income and deductions among related taxpayers. Second, the FSC provisions effectively lowered the tax rate for qualifying export-related taxable income allocated to the FSC.
+ 
+
+
+A. Relaxed Transfer Pricing Rules
+Section 925(a) provided relaxed transfer pricing rules for the sale of export property by a domestic exporting business (which the regulations call the “related supplier”, see, e.g., sec. 1.925(a)–1T(b), Temporary Income Tax Regs., 52 Fed. Reg. 6444–6445 (Mar. 3, 1987) ) to a related FSC (sale 1), provided that the FSC resold that property to a foreign customer (sale 2). In particular, section 925(a) permitted an FSC and its related supplier to use any price they wished for sale 1, provided that the taxable income derived by the FSC from sale 2 did not exceed the greatest of: 1.83% of the “foreign trading gross receipts”23 of sale 2, sec. 925(a)(1);24 23% of the combined taxable income of the FSC and its related supplier from sale 1 and sale 2, sec. 925(a)(2); and the taxable income of the FSC as computed after applying the section 482 method to sale 1, sec. 925(a)(3).25
+ 
+*156 More simply, section 925(a)(1) and (2) allowed the FSC and its related supplier to set the sale 1 price at any amount so long as it was above a certain threshold. The threshold varied depending on the profit margin of the overall export transaction (by profit margin, we mean the aggregate taxable income from sale 1 and sale 2 divided by the gross proceeds from sale 2). Essentially, if the profit margin was below 3.98%, the FSC and its related supplier could assign a maximum of 46% of the combined income to the FSC (by adjusting the sale 1 transfer price). If the profit margin was between 3.98% and 7.96%, the maximum amount of taxable income assignable varied inversely from 46% to 23%, respectively. If the profit margin exceeded 7.96%, they could assign a maximum of 23% of the combined taxable income to the FSC.26 The FSC and its related supplier could also choose to deal at arm’s length (but presumably would do so only if that *157 provided a better result than the section 925(a)(1) and (2) methods).
+ 
+Section 925(b) allowed the FSC and its related supplier to depart from the section 925(a) paradigm and achieve similar tax results (which is what happened in petitioners’ cases). See, e.g., sec. 1.925(a)–1T(d)(2), Temporary Income Tax Regs., 52 Fed. Reg. 6447 (Mar. 3, 1987). The related supplier was permitted to pay the FSC a “commission” for services (relating to an export transaction) that were not, in substance, performed by the FSC (although the FSC could perform such services if it wished). Id. That is, for the purpose of computing “the taxable income” of the FSC and its related supplier under section 925(a), the FSC and its related supplier were allowed to set and pay a commission for services (that might not actually have been rendered), so long as the taxable income derived from the commission payment by the FSC did not exceed the amount computed under section 925(a). See sec. 925(b). In general, the related supplier would carry out the export sale itself (i.e., a sale corresponding to sale 2, above) and then pay a commission to the FSC equal to the taxable income that would have been attributed to the FSC, if the section 925(a) paradigm had been followed. The commission payment was deductible by the related supplier and constituted foreign trading gross receipts to the FSC.
+ 
+
+
+B. Effective Tax Rate Cut for Qualifying Income
+If a corporation qualified as an FSC under section 922, its “exempt foreign trade income” (EFTI) was not taxed by the United States (more precisely, EFTI was treated as foreign source income which was not effectively connected with the conduct of a trade or business within the United States). See secs. 864(c), 881, 882, 884, 921(a).27
+ 
+EFTI was generally the sum of: sixteen twenty-thirds of however much “foreign trade income” of the corporation was attributable to transactions utilizing the section 925(a)(1) and (2) methods; and 32% of any remaining foreign trade income—i.e., income computed under the section 482 method pursuant to section 925(a)(3). See secs. 923(a), 925(a) and (b); see also former sec. 291(a)(4). Foreign trade income was the *158 gross income attributable to foreign trading gross receipts. Sec. 923(b).28
+ 
+In sum, section 925 allowed part of the income from an export transaction to be assigned to an FSC, and section 921(a) excluded part of the assigned income from the tax base, resulting in an effective tax rate cut for export income. Moreover, if the relaxed transfer pricing rules of section 925(a)(1) and (2) were used instead of the normal section 482 rules, then the lower the profit margin on a particular export transaction, the lower the effective marginal tax rate for that transaction (because as the profit margin decreased, the amount of taxable income assignable to the FSC increased).
+ 
+
+
+C. Application of FSC Rules to Petitioners’ Transactions
+Pursuant to section 925(a)(2) and (b), petitioners assigned to their FSC 23% of the combined income from Injector Co.’s export sales (column 2, below).29 The taxable income of their FSC was equal to seven twenty-thirds of the amount so assigned (column 3). See sec. 923(a)(3). For each year from 1998 to 2001, the taxable income of the FSC was less than $50,000, so the FSC was subject to tax at a 15% corporate rate (column 4). See sec. 11(b)(1)(A). The difference between the amount assigned to the FSC and the FSC tax was paid, *159 nominally, as a dividend to petitioners’ Roth IRAs (column 5).30
+ 
+
+
+
+
+|(1)
+ 
+|(2)
+ 
+|(3)
+ 
+|(4)
+ 
+|(5)
+ 
+|
+Year
+ 
+|Combined income
+ 
+|Income assigned to FSC
+ 
+|FSC taxable income
+ 
+|FSC tax
+ 
+|Dividends
+ 
+|
+1998
+ 
+|$686,808
+ 
+|$157,966
+ 
+|$48,077
+ 
+|$7,211
+ 
+|$150,754
+ 
+|
+1999
+ 
+|607,315
+ 
+|139,682
+ 
+|42,512
+ 
+|6,377
+ 
+|133,306
+ 
+|
+2000
+ 
+|600,414
+ 
+|138,095
+ 
+|42,029
+ 
+|6,304
+ 
+|131,791
+ 
+|
+2001
+ 
+|533,967
+ 
+|122,812
+ 
+|37,378
+ 
+|5,607
+ 
+|117,206
+ 
+|
+Total
+ 
+|||||533,057
+ 
+|
+
+
+
+
+
+
+D. The Limited Scope of the FSC Provisions
+There were three parts to petitioners’ transactions. (1) Petitioners created self-directed Roth IRAs, which nominally purchased stock in an FSC. Petitioners’ business, Injector Co., simultaneously executed a series of agreements with the FSC.31 (2) Petitioners’ business made a series of commission payments to the FSC under section 925(b). (3) After withholding taxes, the FSC paid the balance of the payments to petitioners’ Roth IRAs.
+ 
+Petitioners claim that the substance doctrines do not apply to any of the three parts of their transactions because the FSC statutes approve of the FSC form without regard to substance. But nothing in these statutes or the associated regulations suggests any application to the first and third parts of petitioners’ transactions.
+ 
+As illustrated above, it is true that sections 921–927 allowed a limited safe harbor from section 482 for the second part of petitioners’ transactions—the commission payments to the FSC. But sections 921–927 modify or relax the normal rules only for the purpose of computing the income taxes of the FSC and its related supplier and only for specific transactions between the FSC and its related supplier. In particular, section 925(a) clearly states that it allows “the taxable income of such FSC and [the related supplier]” to be based on a transfer price computed under the three transfer *160 pricing methods provided. Regardless of whatever lack of substance is excused by section 925, the plain terms of section 925 extend that excuse, specifically, only for the purpose of computing “the taxable income” of “such FSC” and its related supplier.
+ 
+[3]No part of the FSC statutes and regulations states, or even implies, that purchases or transfers of FSC stock, or any transactions at the shareholder level or between the FSC and its owners, are exempt from application of the substance doctrines, which are our normal “tool[s] of statutory interpretation”. Santander Holdings USA, Inc. v. Commissioner, 844 F.3d at 21. Therefore, the normal substance doctrines apply in these cases, at least for the purpose of determining the economic realities of the relationships among petitioners, their Roth IRAs, and the FSC.32
+ 
+
+
+VI. The Payments to the Roth IRAs Were Contributions.
+Under the plain terms of section 408A, value may enter a Roth IRA in only two ways: as a contribution, see sec. 408A(c), or as income on an investment held by the Roth IRA, see secs. 408A(a), 408(e)(1). Respondent argues that the payments were contributions by petitioners, whereas petitioners argue that the FSC paid dividends, i.e., a form of income, directly to the Roth IRAs. The critical question, then, is whether the funds transferred from the FSC to petitioners’ Roth IRAs were contributions (as respondent claims) or income (as petitioners claim) to the Roth IRAs.
+ 
+[4] [5]On the record before us, it is evident that the payments from the FSC were dividends to someone—either to petitioners or to their Roth IRAs. An old and well-developed body of law explains how we are to decide who, in substance, receives income under the Code. “In an ordinary case attribution *161 of income is resolved by asking whether a taxpayer exercises complete dominion over the income in question.” Commissioner v. Banks, 543 U.S. 426, 434, 125 S.Ct. 826, 160 L.Ed.2d 859 (2005) (citing Commissioner v. Glenshaw Glass Co., 348 U.S. 426, 431, 75 S.Ct. 473, 99 L.Ed. 483 (1955) ). In cases where a right to receive income is allegedly transferred before the income arises, courts have held that a taxpayer received income if the taxpayer controlled the source of the income, even where the taxpayer did “not have dominion over the income at the moment of receipt.” Id. In other words, where a taxpayer formally transfers a right to income to another,
+the question becomes whether the assignor retains dominion over the income-generating asset, because the taxpayer “who owns or controls the source of the income, also controls the disposition of that which he could have received himself and diverts the payment from himself to others as the means of procuring the satisfaction of his wants.” * * * Looking to control over the income-generating asset, then, preserves the principle that income should be taxed to the party who earns the income and enjoys the consequent benefits.
+Id. at 434–435 (quoting Helvering v. Horst, 311 U.S. 112, 116–117, 61 S.Ct. 144, 85 L.Ed. 75 (1940) ).33
+ 
+[6]In petitioners’ cases, the “income-generating asset” was the FSC.34 Petitioners suggest that when their Roth IRAs formally purchased the FSC, the Roth IRAs thereby acquired the right (represented by the FSC stock) to receive income from the FSC. But a formal purchase does not necessarily mean that for tax purposes the Roth IRAs should be treated as the recipients of income from the FSC; the question is who *162 had power and control over the FSC or over receipt of the dividend income. As the Supreme Court has stated: “The crucial question remains whether the assignor retains sufficient power and control over the assigned property or over receipt of the income to make it reasonable to treat him as the recipient of the income for tax purposes.” Commissioner v. Sunnen, 333 U.S. 591, 604, 68 S.Ct. 715, 92 L.Ed. 898 (1948). “[T]axation is not so much concerned with the refinements of title as it is with actual command over the property taxed—the actual benefit for which the tax is paid.” Corliss v. Bowers, 281 U.S. 376, 378, 50 S.Ct. 336, 74 L.Ed. 916 (1930).
+ 
+As described above, section 925 effectively allowed assignment of income relating to export transactions from the related supplier to the FSC. Respondent does not dispute this. But the question is not whether income could be assigned to the FSC. Rather, the question is: Who owned and controlled the FSC in substance?
+ 
+In cases involving the substance of ownership, the Court of Appeals for the Ninth Circuit has looked to Frank Lyon Co. v. United States, 435 U.S. 561, 98 S.Ct. 1291, 55 L.Ed.2d 550 (1978), and to Casebeer v. Commissioner, 909 F.2d 1360 (9th Cir. 1990), aff’g in part, rev’g in part Larsen v. Commissioner, 89 T.C. 1229 (1987), and aff’g Casebeer v. Commissioner, T.C. Memo. 1987-628, Moore v. Commissioner, T.C. Memo. 1987-626, and Sturm v. Commissioner, T.C. Memo. 1987-625. See Sacks v. Commissioner, 69 F.3d at 988 (“Our analytic task is to decide whether Mr. Sacks’ sale and leaseback was more like Frank Lyon, or more like Casebeer.”).
+ 
+In Frank Lyon, a bank sold a building to the taxpayer, who leased the building back to the bank. The taxpayer financed the purchase of the building with a recourse loan from a third-party lender. The Commissioner took the position that the sale and leaseback arrangement had no substance, and that the true owner of the building was the bank. As the Court of Appeals for the Ninth Circuit has stated:
+The Supreme Court held for the taxpayer * * *. In so holding, the Court said “most significantly” the * * * [taxpayer], and not the bank, was personally liable on the loan to the third party lender. The * * * [taxpayer’s] personal liability was significant because he had a “real and substantial risk” such that, “should anything go awry” in the plan to have the bank’s rent always cover the obligation on the note, the * * * [taxpayer’s] capital and assets were exposed. It also mattered to the decision *163 that the depreciation deductions were not created ex nihilo by paper shuffling; the bank would have been entitled to them if the investor had not purchased the real estate.
+Sacks v. Commissioner, 69 F.3d at 987 (internal citations omitted).
+ 
+The Court of Appeals for the Ninth Circuit examined a similar arrangement in Casebeer but reached the opposite result because when the court “penetrated the papers ostensibly selling and leasing back the computers, it became clear that the investors had nothing at risk and nothing to gain except tax benefits. The computer company retained all of the benefits and risks of ownership.” Id. at 988. The taxpayer in Casebeer used a nonrecourse financing arrangement (unlike the taxpayer in Frank Lyon, who used a recourse financing arrangement).
+ 
+Finally, in Sacks, another sale and leaseback case, the Court of Appeals for the Ninth Circuit again focused on the benefits and risks of ownership to determine whether a sale transaction had “practical economic effects” in addition to the shifting of tax benefits. Id. Sacks focused on whether the claimed purchaser was personally liable (recourse or nonrecourse liability), whether the price paid represented fair market value, and whether “part of the speculative risk” was shifted to the claimed purchaser. Id. at 990–992.35
+ 
+[7]Consistent with the approach of Frank Lyon, Casebeer, and Sacks, we ask whether petitioners’ Roth IRAs were exposed to any downside risk or could have expected any upside benefits from their claimed ownership of the FSC. In doing so, we consider all the facts and circumstances, keeping in mind that “[t]he high stakes in tax cases, and the high intelligence of tax lawyers, make[ ] it impossible to have a simple checklist or rigid formula for determining whether a transaction is a sham.” Id. at 988. In sum, we examine the entire transaction to decide whether substantive ownership and control of the benefits and burdens represented by the FSC stock were transferred to the Roth IRAs.
+ 
+
+
+*164 A. The Roth IRAs Were Exposed to No Risk.
+In 1998 each petitioner contributed a small sum of cash to his or her respective self-directed Roth IRA. An even smaller portion of that cash—$500 in total—was purportedly used by the Roth IRAs to purchase the FSC stock from WGA. Petitioners suggest that because a small sum was paid to set up the entity, that sum is a substantive investment which the Roth IRAs stood to lose. We disagree.
+ 
+A “de minimis risk does not necessarily give substance to a transaction that is otherwise without risk.” John Hancock Life Ins. Co. (U.S.A.) v. Commissioner, 141 T.C. 1, 94 (2013) (citing ASA Investerings P’ship v. Commissioner, 201 F.3d 505, 514–515 (D.C. Cir. 2000), aff’g T.C. Memo. 1998-305). Petitioners have not shown, and the record does not suggest, that the Roth IRAs ever paid any costs or fees other than the initial $500 amount. Moreover, the FSC was a corporate entity; the Roth IRAs were protected from liability by the FSC’s corporate shield, and nothing in the record suggests that creditors would have been likely to pierce the corporate veil (nor does the record suggest that the FSC had any creditors, other than possibly Injector Co.). Therefore, on the basis of the entire record, we conclude that the $500 price represented at most a de minimis risk which was insufficient to give substance to the Roth IRAs’ purported ownership of the FSC stock.36
+ 
+*165 In any event, petitioners have failed to show that the negligible $500 “purchase price” of the FSC stock amounted to anything more than a fee paid to WGA to set up a new and empty FSC. Nothing in the record suggests that the prearranged $500 “price” bore any relationship to the actual value of what was purportedly purchased, i.e., the FSC stock. At trial the parties agreed that the stock in the FSC was worth only $100 when it was purchased. We note, however, that whether the value of the stock was $500 or $100 at the moment of purchase, the shareholders’ agreement (which was entered into simultaneously with the purchase) specifies that, if the Roth IRAs were to sell their FSC stock, the total sale price for all 100 shares was to be $1, rather than $500 or $100. The fixed discrepancy between the predetermined $500 purchase price and the immutable $1 sale price strongly suggests that all but the nominal amount of $1 was a fee for access to the FSC rather than a payment for property. Cf. Hewlett–Packard Co. v. Commissioner, 875 F.3d 494 (9th Cir. 2017) (differentiating between fees and bona fide losses), aff’g T.C. Memo. 2012-135. Consequently, considering the FSC stock in the light of the shareholders’ agreement, we conclude that the Roth IRAs paid only $1 for the FSC stock. The rest was a fee. Petitioners have not cited, nor are we aware of, any authority for the proposition that such a fee is capable of lending substance to a series of transactions.37
+ 
+*166 Petitioners also suggest that their transactions have substance because the Roth IRAs were eventually exposed to risk with respect to investments purchased with alleged dividends received from the FSC. But any contribution is exposed to risk when a Roth IRA subsequently invests it. The subsequent risk does not transform the initial contribution into income. The relevant question here is whether the FSC stock was owned, for tax purposes, by the Roth IRAs. The fact that the Roth IRAs were eventually exposed to risk on investments made with cash derived from these transactions is irrelevant.
+ 
+
+
+B. The Roth IRAs Could Expect No Upside Benefits.
+[8]Because petitioners were in complete control of their Roth IRAs, their business, and their FSC, all of these parties were related for all practical economic purposes. Consequently, we apply heightened scrutiny to these transactions. See Brown v. United States, 329 F.3d 664, 673 (9th Cir. 2003) (“The parties are related, so heightened scrutiny is appropriate.” (citing Kornfeld v. Commissioner, 137 F.3d 1231, 1235 (10th Cir. 1998), aff’g T.C. Memo. 1996-472) ). In doing so, we ask what benefits an independent holder of the FSC stock could realistically have expected on the basis of the “objective nature” of the FSC stock. Reddam v. Commissioner, 755 F.3d at 1057.
+ 
+Injector Co. retained complete control over whether any of its export receipts would flow to the FSC in any year. The commission agreement between petitioners’ business and the FSC states: “At all times * * * [petitioners’ business] shall have the discretion as to when and how much it wishes to pay FSC and no account receivable shall ever exist between FSC and * * * [petitioners’ business].” Consequently, no independent holder of the FSC stock would have been entitled to, or would have expected, any upside; Injector Co. retained complete control over whether any payments would ever be made.
+ 
+*167 Furthermore, Injector Co.’s control over upside profits extended beyond the discretion to direct commission payments to the FSC. The commission agreement also allowed Injector Co. to reach into the FSC and take back any payments that had already been made—i.e., under the commission agreement, petitioners’ business controlled any profits even after those profits had been paid to the FSC.38
+ 
+On these facts, no independent holder of the FSC stock could realistically have expected to receive any benefits (before or after tax) due to its formal ownership of the FSC stock; Injector Co. retained control over any benefits at all relevant times.
+ 
+
+
+C. Conclusion
+In form, petitioners’ Roth IRAs purchased FSC stock for $1 and the FSC simultaneously entered into a series of contracts with Injector Co., which were executed as part of the plan of purchase. As described, the Roth IRAs effectively paid nothing for the FSC stock, put nothing at risk, and from an objective perspective, could not have expected any benefits. From that nominal initial investment, petitioners claim that their Roth IRAs earned dividends totaling $533,057 over four years.
+ 
+*168 Considering all the facts in the record, however, it is evident that the Roth IRAs’ formal purchase of the FSC stock for $1 did not reflect the underlying reality; i.e., petitioners’ capacity (through Injector Co.)39 and clear intention to direct Injector Co. to make large commission payments to the FSC. The form of the transactions the Roth IRAs entered into does not reflect the underlying related-party expectations and intentions. Petitioners’ transactions attempt to utilize this mismatch between substance and form to defeat the contribution limits. We have not found any textual support in the Code or the regulations that would allow such a mismatch between the form and substance of a purchase by these Roth IRAs. We therefore disregard the purchase.
+ 
+Furthermore, because petitioners (through various passthrough entities) controlled every aspect of the transactions in question, we conclude that they, and not their Roth IRAs, were the owners of the FSC stock for Federal tax purposes at all relevant times.40 The dividends from the FSC are therefore properly recharacterized as dividends from the FSC to petitioners, followed by petitioners’ contributions of these amounts to their respective Roth IRAs. All of these payments exceeded the applicable contribution limits and were therefore excess contributions. We therefore uphold respondent’s determination of excise taxes under section 4973.
+ 
+
+
+VII. Petitioners’ Counterarguments
+
+A. Summa Holdings II
+Petitioners argue that the reasoning of the Court of Appeals for the Sixth Circuit in Summa Holdings, Inc. v. Commissioner (Summa Holdings II), 848 F.3d 779—which reversed in part Summa Holdings, Inc. v. Commissioner (Summa Holdings I), T.C. Memo. 2015-119—applies to petitioners’ cases and precludes application of the substance over form doctrine. We disagree. We are not bound to follow *169 Summa Holdings II in these cases, which are appealable to the Court of Appeals for the Ninth Circuit in the absence of a stipulation to the contrary. See sec. 7482(b)(1)(A), (2). In any event, the holding in Summa Holdings II pertained to a related but different issue.
+ 
+In Summa Holdings I a domestic international sales corporation (DISC) was used generally in the same way the FSC was used in these cases.41 Individual taxpayers owned Roth IRAs and a business (which was organized as a C corporation). The Roth IRAs nominally owned stock in a DISC. The C corporation made payments to the DISC (under a set of statutes and regulations somewhat similar to those of the FSC regime), and the DISC made payments to the Roth IRAs, which the taxpayers claimed were dividend income to the IRAs. Holding for the Commissioner, we concluded that in substance the payments to the Roth IRAs were contributions and not income from the DISC.
+ 
+The taxpayers before this Court in Summa Holdings I were individual taxpayers (who resided in the First and Second Circuits) and their C corporation (which had its principal place of business in the Sixth Circuit). All of these taxpayers appealed. The only taxpayer before the Court of Appeals for the Sixth Circuit in Summa Holdings II was the C corporation; consequently the issue before that court was limited to whether the commissions paid to the DISC were deductible by the taxpayers’ business, i.e., the C corporation. The Court of Appeals for the Sixth Circuit decided that the commissions were deductible but appropriately did not consider the issue of whether the payments to the Roth IRAs were contributions. That shareholder-level issue is among the *170 issues currently before the Courts of Appeals for the First and Second Circuits, to which the individual taxpayers in Summa Holdings I have appealed (under the names Benenson v. Commissioner, Nos. 16–2066 and 16–2067, and Benenson v. Commissioner, No. 16–2953, respectively). Accordingly, as the case presently before us involves only the shareholder-level issue (any corporate-level issues are barred by the statute of limitations), the holding in Summa Holdings II is not directly on point; that opinion did not analyze the payments to the Roth IRAs, the facts specifically relating to those payments, or the ownership of the DISC stock for tax purposes.
+ 
+Moreover, there are differences between DISCs and FSCs that make these cases different from Summa Holdings II. Payments to a DISC that are distributed to individual shareholders generally escape corporate-level taxation (which is not true in the FSC case, as FSCs pay corporate-level tax), and payments from a DISC to a Roth IRA are generally subject to an unrelated business income tax under section 995(g). See secs. 401(a), 408(a), 408A(a), 501(a), 511, 995(g); see also sec. 1.921–2(c), Q & A–6, Income Tax Regs. (explaining how FSCs differ from DISCs).
+ 
+Petitioners attempt to analogize their cases to the DISC situation, arguing that because Congress acknowledged ownership of DISCs by IRAs when it added section 995(g), see H.R. Rept. No. 101–247, at 1425–1426 (1989), 1989 U.S.C.C.A.N. 1906, 2895–2896, it must also have approved generally of avoidance of the contribution limits via related-party transactions, not only for DISCs, but also for FSCs. We disagree.
+ 
+Section 995(g) responds specifically to DISC mechanics (rather than to elements common to both DISCs and FSCs), which—before enactment of section 995(g)—allowed the income routed through a DISC to an IRA to escape both corporate- and shareholder-level taxes entirely. Congress determined that this was too much of a benefit and in response passed section 995(g), which taxes DISC dividends to IRAs. See H.R. Rept. No. 101–247, at 1425, 1989 U.S.C.C.A.N. at 2895 (“This treatment was intended to prevent taxable entities from seeking to exempt active business income from tax[.]”). FSC mechanics are different—unlike DISCs, FSCs pay a (lowered) corporate income tax.
+ 
+*171 In any event, although section 995(g) may contemplate ownership of DISCs by IRAs in general, in these cases we are not concerned with the ownership of FSCs in general; rather our concern is whether, on the particular facts and circumstances of these cases, petitioners’ Roth IRAs owned the FSC in substance. As we have found, these cases involve related-party transactions which did not in substance transfer any investment to the Roth IRAs. Section 995(g) therefore does not resolve the issue before us.42
+ 
+
+
+B. Petitioners’ Ownership Argument
+Petitioners also argue that Swanson v. Commissioner, 106 T.C. 76 (1996), Hellweg v. Commissioner, T.C. Memo. 2011-58, 101 T.C.M. (CCH) 1261 (2011), and Ohsman v. Commissioner, T.C. Memo. 2011-98, indicate that Roth IRAs may own FSC stock and that therefore the form of their transactions must be respected. But respondent has not disputed that Roth IRAs may sometimes own FSC stock, and nothing in our holding today suggests otherwise. Those three cases do not specifically address whether related-party transactions which do not in substance transfer any investment to a Roth IRA can give rise to income for the Roth IRA. Rather, those cases address issues that are not specifically presented in petitioners’ cases.
+ 
+In Swanson v. Commissioner, 106 T.C. at 86–92, the Court rejected the Commissioner’s arguments that sections 408(e)(2) and 4975 prohibit (1) a new entity from issuing all of its stock to an IRA or (2) an entity wholly owned by an IRA from issuing dividends to the IRA. But respondent has not asserted that sections 408(e)(2) and 4975, which address certain prohibited transactions, apply to these cases. Respondent argues these cases under section 4973, which pertains to excess contributions. Consequently petitioners’ reliance on Swanson is misplaced.
+ 
+*172 In Hellweg and Ohsman the Court rejected the Commissioner’s attempt to recharacterize the taxpayers’ transactions for the purposes of the section 4973 excise tax without asserting adjustments to the taxpayers’ income tax. In Hellweg v. Commissioner, 101 T.C.M. (CCH) at 1267, we stated: “Our decision does not prevent the Service from recharacterizing the [t]ransaction consistently for income tax and excise tax purposes.” As we decided in an earlier Memorandum Opinion denying petitioners’ motion for summary judgment, Mazzei v. Commissioner, T.C. Memo. 2014-55, any income tax issues are barred by the statute of limitations, and so Hellweg and Ohsman are inapplicable.
+ 
+
+
+C. Petitioners’ Congressional Purpose Arguments
+Petitioners argue that recharacterizing ownership of the FSC stock and the payments to the Roth IRAs would frustrate the congressional purpose of the FSC provisions. But nothing in the FSC provisions suggests that either the plain language of the Code (which we have discussed in detail above), or any purpose of the FSC regime, would be contravened or frustrated by determining ownership of the FSC stock in accord with substance and characterizing the payments to the Roth IRAs in accord with that substance. Petitioners have not identified, nor are we aware of, any specific legislative purpose for the FSC provisions other than to provide a lower corporate rate for qualifying export-related income—something petitioners achieved, irrespective of who owned the FSC stock. There was no discernible legislative purpose to allow taxpayers to use FSCs to defeat the contribution limits for Roth IRAs, as petitioners seek to do.
+ 
+Petitioners also suggest that we cannot recharacterize these transactions because that would run contrary to the congressional purpose behind section 408A. They seem to suggest that we cannot make a substance inquiry because there could never be a nontax business purpose for contributing assets to an IRA; the only reason to contribute assets to an IRA is to take advantage of a congressionally sanctioned tax reduction mechanism. Petitioners’ argument might have more force if they were claiming that their transactions resulted in contributions; then we might agree that there need be no nontax business purpose for those contributions. But petitioners claim that their transactions gave rise, not to *173 contributions, but to income to the Roth IRAs. We have therefore tested petitioners’ income claim in accord with well-established caselaw by asking whether the FSC was owned in substance by the Roth IRAs. Our analysis merely applies the factors laid out in cases like Sacks v. Commissioner, 69 F.3d at 982.
+ 
+Finally, petitioners argue that any recharacterization of their transactions is prohibited by section 1.926(a)–1T(a), Temporary Income Tax Regs., 52 Fed. Reg. 6458 (Mar. 3, 1987), which provided: “Any distribution by an FSC (or former FSC) to its shareholder with respect to its stock will be includible in the shareholder’s gross income in accordance with the provisions of section 301.” But that regulation does not indicate that we should depart from well-established principles in deciding who, as a matter of substance, the FSC “shareholders” really were, considering the practical economic realities of the transactions and taking into account the actual benefits and risks of ownership.
+ 
+
+
+VIII. Response to Dissent
+
+A. Our Analysis Does Not Sham or Disregard Any Entities.
+The dissent reflects throughout an incorrect belief that our analysis shams or disregards the FSC or the Roth IRAs. To be clear, we do not disregard, sham, ignore, or otherwise challenge the reality of the FSC or the Roth IRAs as such under the Code. Instead, we examine the purchase, by the Roth IRAs, of the FSC stock. The dissent does not explain why our analysis of this purchase is incorrect. Its entire argument relates to why we should not sham the entities, which in fact we do not do.43
+ 
+
+
+B. Our Analysis Properly Considers the Facts as a Whole.
+The dissent argues that the Court cannot look at the nominal amount paid by the Roth IRAs for the FSC stock, or at the Roth IRAs’ related-party expectations, intentions, and plan, or at the common control present in petitioners’ transactions *174 because, it says, any one of these things could be unobjectionable if considered in isolation in some hypothetical scenario. But our analysis does not depend upon any one of these factors in isolation. Rather, considering all the facts and circumstances, we conclude that the purchase of the FSC stock by the Roth IRAs, together with the contracts that were entered into in consideration of that purchase, created an untenable discrepancy between the form petitioners claimed and the related-party substance underlying their transactions. In focusing on the various factors individually, the dissent forgets that the analysis, according to the Court of Appeals for the Ninth Circuit, must be “holistic[ ]”. Reddam v. Commissioner, 755 F.3d at 1060.
+ 
+
+
+C. The Substance Inquiry Is Appropriate.
+The dissent argues that the substance doctrines, however characterized, do not apply to petitioners’ circumstances because, it says, the Code permits petitioners to do what they did. We strongly disagree. The Code does not explicitly or implicitly authorize the Roth IRAs’ purchase on these facts.
+ 
+Having examined the Roth IRA and FSC provisions, we have not found—nor has the dissent offered—any textual evidence to support the notion that a discrepancy between substance and form in the purchase of FSC stock should be ignored. Attempting to defend such a notion, the dissent says that FSCs are not “meant to do anything except transfer value to get tax benefits”, see dissenting op. p. 80, and that “Congress set up both the FSC structure and Roth IRAs not to have any purpose other than tax reduction or avoidance”, see id. p. 97. These overbroad statements reflect a misunderstanding of how the FSC provisions work.
+ 
+It is true that sections 921–927 provided FSCs a particular type of tax benefit, i.e., effective rate reduction for export income. But that does not mean, as the dissent apparently thinks, that the purpose of FSCs is “tax avoidance” writ large. As we have explained, section 925 provides carefully worded exceptions to normal transfer pricing rules. These exceptions allow “the taxable income of such FSC and [the related supplier]” to be based on a transfer price computed under the three transfer pricing methods provided. These special transfer pricing methods apply only if the related supplier has qualifying export receipts or makes an export-related *175 sale to the FSC. Insofar as an FSC does anything, therefore, other than receiving qualifying export commissions or purchasing qualifying export property from a related supplier, the FSC is treated no differently for tax purposes from the way it would be treated if it were a C corporation. See, e.g., sec. 921(d).44 Consequently, contrary to the dissent’s suggestion, and far from being a carte blanche exception from the substance doctrines for all FSC transactions, the text of section 925 extends exceptions, specifically, to a very narrow set of circumstances, i.e., (1) commission payments, sales, etc. that are (2) related to export sales in a very clearly defined way (3) between parties that are related (under the section 482 definition of a related party), one of which is a qualifying FSC.
+ 
+There is no dispute that the requirements for applying the section 925 pricing methods were met with respect to the commission payments between Injector Co. and the FSC. But that is not the issue here. The issue is whether the form of the purchase of FSC stock by the Roth IRAs must accord with its substance. And because by its own terms section 925 does not apply to FSC stock purchase transactions, there is no basis in the text of the FSC provisions, or elsewhere in the Code for that matter, to conclude that we should turn a blind eye to the substance of such transactions.
+ 
+In short, the dissent leaps from an unsupported belief that the purpose of sections 921–927 is “tax avoidance” to a conclusion that this generalized purpose precludes the substance inquiry whenever FSCs happen to be involved, even though that interpretation would extend the exception provided in section 925 beyond its stated terms.
+ 
+
+
+*176 D. Our Approach Appropriately Considers Value.
+The dissent suggests that there is something incorrect in asking whether what the Roth IRAs paid for the FSC stock bore any relation to the future value of the FSC. But fair market value is the present value of future expected cashflows. See, e.g., Estate of O’Connell v. Commissioner, 640 F.2d 249, 252 (9th Cir. 1981) (“[E]xpected future earnings * * * are the true indicators of present worth[.]” (citing Rev. Rul. 59–60, 1959–1 C.B. 237) ), aff’g in part, rev’g in part on another issue T.C. Memo. 1978-191.45
+ 
+We have merely examined the disconnect between the claimed fair market value of the FSC stock and the related-party value of the same stock, considering that petitioners controlled every aspect of their transactions throughout. The question is whether the formal purchase price and contracts, which were entered into without the benefit of arm’s-length pressure, capture the economic deal adequately enough to justify basing the tax treatment of the transactions on petitioners’ formal characterization of the deal.
+ 
+To be clear, on the basis of the paperwork that was executed, there was no chance that commission payments would be made, in the absence of related-party control. The contracts do not require or even incentivize Injector Co. to make commission payments, and so neither the FSC nor an independent holder of the FSC stock, from a formal perspective, could expect to receive anything. Petitioners’ transactions pay only if the same parties control both Injector Co. and the Roth IRAs; i.e., payment on the contracts at issue, in the absence of related-party control, would be gratuitous from Injector Co.’s or the FSC’s perspective. The FSC stock therefore had no fair market value, if all one considers is the claimed form of the transactions.46
+ 
+*177 Meanwhile, the substantive value, i.e., the value considering economic reality, of the FSC stock to the Roth IRAs was extremely high at the moment of purchase, considering petitioners’ capacity and intention to direct commission payments from Injector Co. to the FSC. Our analysis has nothing to do with investment “hopes”, see dissenting op. p. 92, and everything to do with the economic reality of these transactions, including the established capacity and clear intention to make payments. Comparing the nonexistent claimed value of the FSC stock with the high substantive economic value of the stock to these parties, we find a disconnect between substance and form in the stock purchase, which as described is not sanctioned by section 925 (or any other section). The formal FSC stock price and contracts do not reflect the economic reality of the purchase of that stock.
+ 
+
+
+E. The Dissent’s Hypothetical Misconceives Our Analysis.
+The dissent claims, bizarrely, that our analysis could “wreak havoc” on many, “perhaps hundred of thousands”, of small corporations. See dissenting op. p. 94. The dissent’s unfounded fears reflect a serious misunderstanding, as evidenced by what the dissent says next:
+By the majority’s reasoning, someone who created a business, incorporated it, issued himself 100% of the stock in exchange for a small capital investment, and continued to run the day-to-day operations wouldn’t really own his corporation—especially if it was a success. We’d have to disregard the corporation because the initial investment was too small and didn’t accurately predict the business’s future earnings.
+See dissenting op. p. 94. This is nonsense. The dissent’s hypothetical scenario would not involve a mismatch between substance and form. At the initial point of capitalization, the fair market value and the substantive economic value would be identical and equal to *178 the capital investment. As the day-to-day operations commenced, that initial value would begin to change in concert with changing expectations regarding future cashflows. The fair market value and the substantive economic value of the stock would remain identical, whether the business was a success or not. Petitioners’ situation is different because at the moment of purchase petitioners’ formal characterization of the purchase did not match the underlying substantive and related-party economics.47
+ 
+
+
+F. The Dissent’s Approach Lacks Support in the Code.
+The dissent concludes by declaring that “the great textualist counterrevolution” makes our approach “untenable”. See dissenting op. p. 98. Yet the cornerstone of the dissent’s analysis appears to be its highly generalized claim that the purpose of a Roth IRA or an FSC is tax avoidance. See id. pp. 87, 93. We are unaware of any support, textual or otherwise, for such a generalized claim with respect to sections 408A and 921–927.
+ 
+Rather than taking up arms on one side or another of some grand “counterrevolution”, and far from ignoring the text of the Code, we mind the teaching of the Court of Appeals for the Ninth Circuit, making a “more specific inquiry” and “deciding whether * * * [the] facts fall within the intended scope of the Internal Revenue Code provision[s] at issue.” Stewart v. Commissioner, 714 F.2d at 988. For the reasons explained, petitioners have failed to show that their facts fall within the scope of the Code provisions at issue.
+ 
+
+
+*179 IX. Conclusion
+[9] [10]We are mindful that “[a]ny one may so arrange his affairs that his taxes shall be as low as possible; he is not bound to choose that pattern which will best pay the Treasury; there is not even a patriotic duty to increase one’s taxes.” Helvering v. Gregory, 69 F.2d 809, 810 (2d Cir. 1934), rev’g 27 B.T.A. 223 (1932), aff’d, 293 U.S. 465, 55 S.Ct. 266, 79 L.Ed. 596 (1935). But this does not mean that we should ignore the substance of the taxpayer’s transactions. As the Supreme Court stated in Higgins v. Smith, 308 U.S. 473, 477, 60 S.Ct. 355, 84 L.Ed. 406 (1940):
+A taxpayer is free to adopt such organization for his affairs as he may choose[,] * * * [but o]n the other hand, the Government may not be required to acquiesce in the taxpayer’s election of that form * * *. The Government may look at actualities and upon determination that the form employed for doing business or carrying out the challenged tax event is unreal or a sham may sustain or disregard the effect of the fiction as best serves the purposes of the tax statute.
+ 
+We have not found, nor have petitioners or the dissent identified, support in the Code or the regulations for their claim that the Roth IRAs’ purchase of the FSC stock need have no substance. As the Court of Appeals for the Sixth Circuit recently put it: “When someone calls a dog a cow and then seeks a subsidy provided by statute for cows, the obvious response is that this is not what the statute means.” Summa Holdings II, 848 F.3d at 787–788 (quoting Joseph Isenbergh, “Musings on Form and Substance in Taxation: Federal Taxation of Incomes, Estates, and Gifts”, 49 U. Chi. L. Rev. 859, 865 (1982) ).
+When the courts decide how to classify a transaction, they focus, quite appropriately, on the transaction’s workaday realities, not the labels used by the taxpayers. Take “income.” If a taxpayer receives something of value, * * * he can call it whatever he wants—this, that, or something else. What the taxpayer cannot do is claim that the label he affixes on the transaction precludes it from being “income” under the Code or prevents the courts from treating it as “income” under the Code.
+Id. at 785. Similarly, petitioners cannot label substantive contributions to their Roth IRAs “income” and thereby successfully claim *180 exemption from the section 4973 excise tax on excess contributions.48
+ 
+
+
+X. Additions to Tax
+Respondent asserts that petitioners are liable for additions to tax under section 6651(a)(1) and (2) for each year at issue. Respondent has the burden of production. Sec. 7491(c).
+ 
+Section 6651(a)(1) imposes an addition to tax for failure to timely file a tax return. Respondent has met his burden of production because petitioners stipulated that they did not file their Forms 5329 for each year at issue. See Paschall v. Commissioner, 137 T.C. 8, 15–17 (2011).49
+ 
+Section 6651(a)(2) imposes an addition to tax for failure to timely pay a tax shown on a return. Because petitioners failed to file their Forms 5329, respondent prepared substitutes for return (SFRs) under section 6020(b) for each year and for each petitioner. These SFRs are treated as petitioners’ returns for purposes of determining the addition to tax under section 6651(a)(2). See sec. 6020(b); Wheeler v. Commissioner, 127 T.C. 200, 208–209 (2006), aff’d, 521 F.3d 1289 (10th Cir. 2008). Petitioners have not disputed the validity of the SFRs, nor have they argued that they have paid any portion of the amounts shown on the SFRs. Respondent has therefore met his burden to show that petitioners are liable for the section 6651(a)(2) addition to tax for failure to pay a tax shown on a return for each year at issue.
+ 
+[11]Petitioners can avoid these additions to tax by showing that their nonfiling and nonpayment were due to reasonable cause and not willful neglect. See sec. 6651(a)(1) and (2). Willful neglect is defined as “a conscious, intentional failure or reckless indifference.” United States v. Boyle, 469 U.S. 241, 245, 105 S.Ct. 687, 83 L.Ed.2d 622 (1985). Petitioners argue that their failures to file and pay were not due to willful neglect, and respondent has not contested that point. We therefore deem respondent to *181 have conceded that petitioners’ failures to file and pay were not due to willful neglect.
+ 
+A failure to timely file or pay is due to reasonable cause if a taxpayer can show good-faith reliance on professional advice. Pizza Pro Equip. Leasing, Inc. v. Commissioner, 147 T.C. ––––, –––– (slip op. at 52) (Nov. 17, 2016). Reliance on professional advice is reasonable cause if: (1) the adviser was a competent professional with sufficient expertise to justify reliance; (2) the taxpayer provided necessary and accurate information to the adviser; and (3) the taxpayer actually relied on the adviser’s judgment in good faith. Id. (quoting Neonatology Assocs., P.A. v. Commissioner, 115 T.C. 43, 99 (2000), aff’d, 299 F.3d 221 (3d Cir. 2002), and explaining that “[w]hile Neonatology Assocs. dealt with section 6662 accuracy-related penalties, we have applied its tripartite analysis to section 6651 additions to tax as well.”); Charlotte’s Office Boutique v. Commissioner, 121 T.C. 89, 109–111 (2003), aff’d, 425 F.3d 1203 (9th Cir. 2005).
+ 
+Petitioners contend that they relied on their accountant Mr. Bedke. They assert that Mr. Bedke advised them that the FSC transactions were valid. At the time of trial, Mr. Bedke was a tax partner at an accounting firm where he had practiced for 29 years. We find that he was a competent professional with sufficient expertise to justify reliance.
+ 
+Petitioners had been Mr. Bedke’s clients for several years, and he was therefore familiar with their business. Mr. Bedke prepared petitioners’ tax returns for each year at issue. Petitioners presented the FSC transaction paperwork to Mr. Bedke, who testified that he and another partner reviewed the information and determined that petitioners qualified to use an FSC. He also advised them that it was not prohibited for a Roth IRA to invest in an FSC. Upon review of the entire record, we are satisfied that petitioners provided the necessary information to Mr. Bedke.
+ 
+A taxpayer cannot rely on professional advice if the professional was a promoter of the transaction. Neonatology Assocs., P.A. v. Commissioner, 115 T.C. at 98. A promoter is “an adviser who participated in structuring the transaction or is otherwise related to, has an interest in, or profits from the transaction.” 106 Ltd. v. Commissioner, 136 T.C. 67, 79 (2011) (quoting Tigers Eye Trading, LLC v. Commissioner, T.C. Memo. 2009-121), aff’d, 684 F.3d 84 (D.C. Cir. 2012). *182 Mr. Bedke had no connection to WGA and no interest in, or profits from, petitioners’ transactions. We therefore find that Mr. Bedke was not a promoter.
+ 
+Finally, we conclude that petitioners justifiably relied on Mr. Bedke’s advice. Mr. Bedke represented petitioners for a number of years before they came to him seeking advice about the FSC transactions. Mr. Bedke examined the transactions with another partner and advised petitioners that they could use the FSC/IRA program.
+ 
+Accordingly, petitioners are not liable for section 6651(a)(1) or (2) additions to tax.
+ 
+To reflect the foregoing,
+ 
+Decisions will be entered for respondent as to the deficiencies and for petitioners as to the additions to tax.
+ 
+Reviewed by the Court.
+ 
+MARVEL, VASQUEZ, GALE, GOEKE, GUSTAFSON, PARIS, KERRIGAN, LAUBER, NEGA, PUGH, and ASHFORD, JJ., agree with this opinion of the Court.
+
+
+PARIS and PUGH, JJ.:
+
+We agree with the opinion of the Court and write separately to emphasize the following points.
+ 
+The opinion of the Court should not be construed as a requirement that an FSC have some substance beyond that prescribed by statute. The opinion of the Court does not disregard the Roth IRAs or the FSC. It does not address any income tax issues that may arise in other cases. It does not say that Roth IRAs may never own FSCs. It does not disturb the benefits that flow from the formation of the FSC.
+ 
+The sole issue we decide today is who in substance owned this FSC—petitioners or their Roth IRAs. The opinion of the Court focuses on the substance of a single step: the purported purchase of FSC stock by the Roth IRAs for the nominal price of $1, viewed together with the contracts that were entered into by petitioners, their Roth IRAs, and Injector Co., all in consideration of that nominal purchase.
+ 
+The opinion of the Court concludes that petitioners, not their Roth IRAs, owned the FSC that was set up by and through Western Growers Association (WGA). This conclusion *183 is based upon the following specific facts: (1) petitioners each contributed $2,000 to their Roth IRAs for 1998 and zero for 1999 through 2002 (amounts equal to petitioners’ respective section 408A(c) contribution limits for those years); (2) with these initial contributions petitioners caused their self-directed Roth IRAs to formally purchase the FSC’s stock from WGA for the stated price of $5 per share for a total of $500 for 100 shares, of which the opinion of the Court concludes $499 of the purchase price was a fee rather than an investment, see op. Ct. p. 45–46; (3) at all times under the stated terms of the contracts between the FSC and Injector Co. petitioners controlled-through Injector Co.—the profits to be earned by the FSC and therefore the amount of distributions from the FSC to the Roth IRAs; (4) when the FSC stock was purchased, petitioners had an established capacity to make large commission payments to the FSC because of established export receipts; and (5) petitioners intended to fund their Roth IRAs through the FSC/Roth IRA program using a portion of those export receipts (and petitioners did in fact fund their Roth IRAs to the fullest extent permitted throughout the years the FSC/Roth IRA program was in place).
+ 
+On these specific facts the opinion of the Court concludes that the nominal $1 purchase price the Roth IRAs paid for the FSC stock did not reflect the substance of the transaction in the light of petitioners’ established capacity and intention to direct large commission payments from Injector Co. to the FSC. See op. Ct. p. 49–50. The Roth IRAs’ formal lack of control over whether commission payments would be made was the basis for the nominal price that was set for the FSC stock. But in substance there was an established expectation and intention that commission payments would be made, and the Roth IRAs were directed to purchase the FSC stock on the basis of that expectation and intention. The formal basis for the purchase price therefore did not reflect the substance of the related-party transaction. Consequently, the opinion of the Court disregards the Roth IRAs’ purchase and concludes that in substance petitioners, who retained substantive control throughout all aspects of this transaction, owned the FSC.
+ 
+For these reasons we agree with the opinion of the Court.
+ 
+THORNTON, GOEKE, and LAUBER, JJ., agree with this concurring opinion.
+
+
+HOLMES, J., dissenting:
+
+*184 In Summa Holdings, Inc. v. Commissioner (Summa II), 848 F.3d 779, 781 (6th Cir. 2017), rev’g T.C. Memo. 2015-119, the Sixth Circuit—in the course of reversing our decision in a case nearly identical to this one—warned that a court that construes the Tax Code against its language and in favor of judge-made doctrine acts like Caligula, who famously posted tax laws in fine print and so high that Romans could not read them. See Suet. Cal. 41.
+ 
+It is our custom to reconsider an issue when a circuit court reverses us. And today we have to choose either a well-reasoned opinion by a highly respected judge in America’s heartland, or Caligula.
+ 
+We pick Caligula.
+ 
+I gingerly dissent.1
+ 
+I first review the DISC and Roth IRA regimes that led up to Summa II and take a look at that decision. I next explain what the parties here said about why it should or shouldn’t control and point out the biggest problems in the Court’s reasoning. Finally, I explain why we should have decided the cases differently.
+ 
+
+
+*185 I.
+As the majority explains, contributions to a Roth IRA aren’t deductible, earnings accrue in the account tax-free, and qualified distributions from the account aren’t part of a taxpayer’s gross income. Sec. 408A(a), (c)(1), (d)(1) and (2)(A); Taproot Admin. Servs., Inc. v. Commissioner, 133 T.C. 202, 206 (2009), aff’d, 679 F.3d 1109 (9th Cir. 2012). Once funds make it into a Roth IRA, they’re generally never taxed again, no matter how they’re invested or how much they grew through distributions or capital appreciation. But there’s a limit on how much a taxpayer can contribute, see sec. 408A(c)(2), and the Code taxes excess contributions 6% each year they remain in an account, sec. 4973(a); see also Paschall v. Commissioner, 137 T.C. 8, 18 (2011).2
+ 
+Because Roth IRAs offer substantial tax benefits, it’s not surprising that taxpayers look for ways to get more money into them. That’s what the taxpayers did in Repetto v. Commissioner, T.C. Memo. 2012-168, 2012 WL 2160440, Polowniak v. Commissioner, T.C. Memo. 2016-31, and Block Developers, LLC v. Commissioner, T.C. Memo. 2017-142. In each of those cases, the taxpayers had their Roth IRAs purchase shares in a newly formed C corporation3 or interests in an LLC,4 had their preexisting businesses pay those new entities for nonexistent services or licenses, and then had the entities distribute the payments—as dividends or partnership distributions—into the Roth IRAs. See Block Developers, at *8–*14; Polowniak, at *4–*7; Repetto, 2012 WL 2160440, at *3–*5.
+ 
+*186 The Commissioner doesn’t like this sort of thing. See Notice 2004–8, 2004–1 C.B. 333; Summa Holdings, Inc. v. Commissioner (Summa I), T.C. Memo. 2015–119, at *15–*16. He says that non-arm’s-length payments from a preexisting business to a related Roth IRA-owned entity are really distributions to shareholders followed by contributions to the Roth IRA. See Notice 2004–8, 2004–1 C.B. 333. In Repetto, Polowniak, and Block Developers we agreed. See Block Developers, at *30; Polowniak, at *21–*22; Repetto, 2012 WL 2160440, at *9–*11;. In each of those cases we disregarded a Roth IRA-owned C corporation or LLC because it didn’t actually do anything—each entity was “nothing more than a mechanism for transferring value to the Roth IRAs.” Repetto, 2012 WL 2160440, at *9; see also Block Developers, at *30–*31; Polowniak, at *21–*22.5 Because distributions (such as dividends or capital gains) to an IRA are unlimited, and contributions are very limited, the Commissioner usually benefits from recasting “distributions” as “contributions”.
+ 
+Some types of entities aren’t meant to do anything except transfer value to get tax benefits. A domestic international sales corporation (DISC) is set up to receive commission payments—usually in exchange for nothing—from a business that exports so that it can then distribute them to the business’s shareholders as income that was left untaxed at the corporate level. Secs. 991, 995(a) and (b)(1); sec. 1.994–1(a)(2), Income Tax Regs.; see Summa II, 848 F.3d at 782; Addison Int’l, Inc. v. Commissioner, 887 F.2d 660, 666 (6th Cir. 1989), aff’g 90 T.C. 1207 (1988); Hellweg v. Commissioner, T.C. Memo. 2011-58, 2011 WL 821090, at *5. FSCs were very similar—barely-there entities through which businesses could funnel “foreign trading gross receipts” to largely escape corporate-level tax. See secs. 924(a), 921–927, 245(c); sec. 1.925(a)–1T(a)(3), Temporary Income Tax Regs., 52 Fed. Reg. 6444 (Mar. 3, 1987). Unlike other types of corporations, DISCs and FSCs don’t need a business purpose—they’re intentionally nothing more than ways to reduce exporters’ effective tax rates. See, e.g., *187 Summa II, 848 F.3d at 786 (DISCs are “shell corporations * * * that have no economic substance at all”); cf. Block Developers, at *31 (LLCs “meant to have a real business purpose”). And the regulations made clear that DISCs and FSCs did not have to be owned by the operating business that was actually exporting goods. See sec. 1.922–1(f), Income Tax Regs. (method for counting individuals, corporations, estates, trusts, and partnerships for FSC’s 25–shareholder limit); sec. 1.992–2(b)(1)(iii), Income Tax Regs. (DISC election methods for shareholders who are individuals, minors, estates, and trusts). This meant that owners of closely held exporting businesses could set up DISCs or FSCs that they themselves—or a family trust, or the owner’s children, or other parties related to them—owned.
+ 
+So what happens when an operating business makes payments to a DISC-which is nothing but a vehicle for tax reduction—and the DISC then pays dividends to a Roth IRA—a type of account also designed to produce tax benefits? That’s essentially the situation we addressed in Summa I; and except for the fact that it involved a DISC rather than an FSC, it’s the Mazzeis’ situation, too. In Summa I, at *22,, we recharacterized the payments—which had no nontax business purpose—as dividends followed by contributions to the Roth IRAs. We decided that “substance over form principles” allowed us to do that even though the taxpayers had complied with the actual text of the Code. See id. at *17–*22.
+ 
+
+
+II.
+The Sixth Circuit said we were wrong. Summa II, 848 F.3d at 782, 790. In reversing us, it emphasized that DISCs necessarily lack economic substance. Id. at 789. And it found that section 995(g)—which makes tax-exempt entities pay unrelated business income tax (UBIT) on distributions they receive from DISCs—“made clear” that IRAs could own DISCs.6 Id. at 782. It therefore concluded that the Code *188 specifically allowed the taxpayers there to do what they did, and that neither the Commissioner nor the courts had any reason to use substance-over-form principles to recharacterize the transactions. Id. at 782, 784, 790.
+ 
+Summa II said that substance-over-form principles exist to prevent taxpayers from calling a transaction something it’s not in order to avoid tax. See id. at 785–86. And it carefully considered cases where courts applied those principles appropriately. Id. at 785–86. For example, it discussed Diedrich v. Commissioner, 457 U.S. 191, 196–97, 102 S.Ct. 2414, 72 L.Ed.2d 777 (1982), where the Supreme Court held that a donor who transferred property on the condition that the recipient pay the gift tax on it really just sold the property for the amount of the tax. Summa II, 848 F.3d at 785. It also approved of disregarding “sham” transactions that use “nominally independent” entities to disguise economic reality. See id. (citing Wells Fargo & Co. v. United States, 641 F.3d 1319, 1325 (Fed. Cir. 2011), and Richardson v. Commissioner, 509 F.3d 736, 741 (6th Cir. 2007), aff’g T.C. Memo. 2006-69).7 Summa II, at 786,, put Reppetto in this category.
+ 
+Substance-over-form principles become worrisome, according to Summa II, when the Commissioner recharacterizes into higher-tax forms transactions that have economic substance and comply with the Code. Id. The court traced the Commissioner’s claim to this power to an expansive reading of Commissioner v. Court Holding Co., 324 U.S. 331, 333, 65 S.Ct. 707, 89 L.Ed. 981 (1945), where the Supreme Court said that a corporation that distributed a building to shareholders who immediately sold it really just sold the building to the buyer directly.8 See *189 Summa II, 848 F.3d at 786. Summa II noted that when applying Court Holding “the line between disregarding a too-clever-by-half accounting trick and nullifying a Code-supported tax-minimizing transaction can be elusive.” Id. at 787. It also acknowledged that the Sixth Circuit itself has struggled with this distinction: For example, quoting Estate of Kluener v. Commissioner, 154 F.3d 630, 636 (6th Cir. 1998), aff’g in part, rev’g in part T.C. Memo. 1996-519, the court said that “the Commissioner may recharacterize transactions, even those with economic substance, if they have no ‘valid, non-tax business purpose.’ ” Summa II, 848 F.3d at 787. And in Aeroquip–Vickers, Inc. v. Commissioner, 347 F.3d 173, 183 (6th Cir. 2003), rev’g Trinova Corp. v. Commissioner, 108 T.C. 68 (1997), the Summa II Court recalled, the Sixth Circuit declined to treat a series of transactions as a reorganization because the taxpayer was motivated primarily by tax savings. See Summa II, 848 F.3d at 787.
+ 
+Summa II also surveyed cases from other circuits that likewise “straddle the line between holding that the transactions were a sham and suggesting that the Commissioner has a broad power to recharacterize transactions that minimize taxes.” Id. The court pointed to Feldman v. Commissioner, 779 F.3d 448, 457 (7th Cir. 2015), aff’g T.C. Memo. 2011-297, which disregarded a sham loan meant only to avoid income tax; Southgate Master Fund, LLC v. United States, 659 F.3d 466, 491–92 (5th Cir. 2011), which disregarded a partnership; and Rogers v. United States, 281 F.3d 1108, 1113–18 (10th Cir. 2002), which recharacterized a “loan” that had no hope for repayment. See Summa II, 848 F.3d at 787. The court emphasized, however, that even those cases don’t hold that a “tax-avoidance motive alone may nullify an otherwise Code-compliant and substantive set of transactions.” Id.
+ 
+Following this survey, the court said that “[t]he substance-over-form doctrine * * * makes sense only when it holds true to its roots—when the taxpayer’s formal characterization *190 of a transaction fails to capture economic reality and would distort the meaning of the Code in the process.” Id. The court reiterated that identifying such transactions can be tricky, but that the ones before it were “clearly on the legitimate side of the line.” Id. at 788. It pointed out that the “Commissioner’s effort to reclassify [the taxpayer’s] transactions as dividends followed by Roth IRA contributions does not capture economic reality any better than describing them as DISC commissions followed by dividends,” and that substance-over-form principles don’t allow the Commissioner to recharacterize a transaction merely to increase the amount of tax due. Id.
+ 
+Summa II concluded with the holding that substance-over-form principles can’t override “statutory provisions whose only function is to enable tax savings” under the Code. Id. at 789. And it found that DISCs were in that category, meaning that they didn’t need economic substance to be respected. Id. It explained that “[t]he point of [DISCs] is tax avoidance. The Commissioner cannot place ad hoc limits on them by invoking a statutory purpose * * * that has little relevance to the text-driven function of these portions of the Code.” Id. In other words, the talisman of a statute’s purpose “cannot be invoked to save the statute from itself.” Id. There’s no denying these provisions created a sort of loophole in the Code, but the Sixth Circuit said in Summa II that it is Congress’s job to sew it up. Id. at 790.
+ 
+
+
+III.
+After the Sixth Circuit released Summa II we told the parties here to submit supplemental briefs. The Mazzeis and the Commissioner agreed that the only difference between these cases and Summa II was that the Mazzeis used an FSC instead of a DISC. The Commissioner said this difference shouldn’t affect our analysis, and he admitted that the Mazzeis followed all of the necessary formalities. He nevertheless said we should ignore Summa II because it’s from a different circuit and only the commission payments’ deductibility was properly before the court there. He said we should instead follow Court Holding, look at the transaction as a whole, and decide the cases based on his views of the statute’s intent, not the Code’s plain language.
+ 
+*191 The Mazzeis urged us to follow Summa II’s reasoning. They said they should get the FSC and Roth IRA tax benefits the Code explicitly provides and that the Commissioner shouldn’t get to rewrite statutes based on his musings about congressional intent. And they said that their use of an FSC instead of a C corporation was enough to distinguish these cases from Repetto.
+ 
+The majority mostly sides with the Commissioner and finds that the Mazzeis were the FSC’s substantive owners at all relevant times.9 See op. Ct. p. 23. Its journey to this problematic conclusion begins promisingly enough—with an astute explanation of the transaction at issue. It points out that like the taxpayers in Repetto, Polowniak, and Block Developers, the Mazzeis used a type of corporation to route money from their operating business into their Roth IRAs. It even highlights the single relevant difference between those cases and the ones before us: The Mazzeis used an FSC, not a DISC, and not a C corporation or an LLC.
+ 
+The majority acknowledges, see op. Ct. p. 32, that the Code requires us to respect certain payments a business makes to an FSC in exchange for nothing, even though we wouldn’t do that for most types of corporations. It also acknowledges that the Code lets businesses deduct these payments even though they aren’t “ordinary and necessary.” See sec. 162. It recognizes that we treat these payments as income to the FSC, and it finds that the FSC here paid tax on this income.10 It also realizes that the funds the FSC paid out were dividends.
+ 
+*192 Up to this point the majority’s approach isn’t much different from that of Summa II. But once it turns to the Roth IRAs’ ownership of the FSC, things get weird.
+ 
+The majority creates a “dominion and control” test to determine who really gets FSC dividends. See op. Ct. p. 39. In support of its novel approach it doesn’t cite any cases about dividends or corporations—instead, it relies only on Commissioner v. Banks, 543 U.S. 426, 434, 125 S.Ct. 826, 160 L.Ed.2d 859 (2005), which says that the portion of a judgment that goes to an attorney’s contingency fee is still income to the litigant. There, the Supreme Court said contingency fees are anticipatory assignments of income even though the amount is uncertain, because the client at all relevant times controlled the “income-generating asset”—namely, the cause of action resulting from his injury. Id. at 434–35, 125 S.Ct. 826.
+ 
+Analogizing these cases to Banks, the majority calls the FSC an income-generating asset. See op. Ct. p. 40. That’s wrong. Injector Co. was the operating business that actually generated income. The FSC was a congressionally sanctioned vehicle for reducing Injector Co.’s effective tax rate on exports. All the FSC did was accept payments for nothing and distribute a large portion of them as dividends.
+ 
+After mistakenly identifying the FSC as an income-generating asset, the majority applies constructive-ownership tests from a series of sale-leaseback cases where courts said the party that incurred risk was the true owner, namely: Frank Lyon Co. v. United States, 435 U.S. 561, 581, 584, 98 S.Ct. 1291, 55 L.Ed.2d 550 (1978); Casebeer v. Commissioner, 909 F.2d 1360, 1370 (9th Cir. 1990), aff’g in part, rev’g in part 89 T.C. 1229 (1987), and aff’g T.C. Memo. 1987-625, and T.C. Memo. 1987-628; and Sacks v. Commissioner, 69 F.3d 982 (9th Cir. 1995), rev’g T.C. Memo. 1992-596.11 Trying to *193 apply this principle here, the majority says that the Roth IRAs didn’t actually own the FSC because they’d paid so little for it. See op. Ct. p. 43–44. But the Mazzeis also put nothing at risk to get the FSC, so by the majority’s reasoning they couldn’t have owned the FSC either. In fact, no one could ever own an FSC because FSCs never put capital at risk.
+ 
+The majority then asks another question: Did what the Roth IRAs paid for the FSC have any relation to its future value? The majority says it didn’t, which it finds is another sign that the Roth IRAs didn’t own the FSC. See op. Ct. p. 45. But the Code doesn’t require a founding shareholder to take as his basis what he hopes the earnings on his investment will be—it requires him to take as his basis only the cost or amount of whatever he contributed. Secs. 351, 358(a); see also sec. 1012 (basis is cost). And the Code certainly doesn’t treat his corporation as a sole proprietorship if it turns out to be profitable. What the Mazzeis’ Roth IRAs paid for the FSC stock is meaningless—which might be why the Commissioner didn’t challenge it.
+ 
+Still trying to shoehorn these cases into a sale-leaseback framework, the majority then says that because Injector Co. controlled how much cash went into the FSC, an unrelated Roth IRA couldn’t have expected any upside benefits from its small investment. See op. Ct. pp. 47–49. That’s true, but proves too much—any commonly controlled corporations between which the owners could readjust contractual rights at any time would be in the same situation.
+ 
+The majority’s application of sale-leaseback analysis also misses a larger point. The Supreme Court tells us to respect *194 a corporation for tax purposes as long as it’s a real business or its purpose is the “equivalent of business activity.” Moline Props., Inc. v. Commissioner, 319 U.S. 436, 439, 63 S.Ct. 1132, 87 L.Ed. 1499 (1943). And the regulations say that an FSC—a corporation—can receive commissions based not on the normal transfer-pricing rules but on a statutory formula unrelated to economic reality. See, e.g., sec. 925(a); sec. 1.925(a)–1T(a)(1), Temporary Income Tax Regs., 52 Fed. Reg. 6443–44 (Mar. 3, 1987). So as long as an FSC complies with the statute, we respect it as if it had a real business purpose—it doesn’t do anything, but the Code and regulations give it the “equivalent of business activity.” The same is essentially true for Roth IRAs—they have no nontax purpose, but the Code grants them tax benefits if they comply with certain formalities. Sec. 408A; see Summa II, 848 F.3d at 789 (point of Roth IRA is tax avoidance). And here the Commissioner concedes that the Mazzeis observed those formalities.
+ 
+Moline Properties was about income tax, see 319 U.S. at 438, 63 S.Ct. 1132, not the excise taxes at issue here, but that doesn’t change anything. In Hellweg we held that we have to treat transactions the same way for excise tax as we do for income tax. 2011 WL 821090, at *9. There we refused to recharacterize distributions from a DISC to a Roth IRA for excise-tax purposes because the Commissioner didn’t also make income-tax adjustments.12 Id. So if we would respect FSCs and Roth IRAs for income-tax purposes, we also would have to respect them for excise-tax purposes.
+ 
+The majority’s dominion-and-control test would wreak havoc on many-perhaps hundreds of thousands—of small individually- or family-owned corporations were we ever to apply it for anything other than disposing of these cases. By the majority’s reasoning, someone who created a business, incorporated it, issued himself 100% of the stock in exchange for a small capital investment, and continued to run the day-to-day operations wouldn’t really own his corporation—especially if it was a success. We’d have to disregard the corporation *195 because the initial investment was too small and didn’t accurately predict the business’s future earnings.
+ 
+The majority’s attempt to distinguish Summa II is also problematic. It says that Summa II had before it only the domestic company’s commission payments to the DISC and that it therefore doesn’t offer any guidance regarding the FSC’s payment of dividends to the Roth IRAs. See op. Ct. pp. 52–53. But Summa II examined the whole transaction when it questioned whether substance-over-form principles applied. See 848 F.3d at 784, 788. It had to because the Commissioner didn’t just recharacterize an individual component of the transaction—he recharacterized the whole thing. See id. at 782.
+ 
+The majority also finds it significant that the Mazzeis used an FSC instead of a DISC. It points out that these entities work differently—DISC payments to an IRA are subject to UBIT, see sec. 995(g), whereas FSCs pay some income tax at the corporate level, see sec. 921(a); sec. 1.921–2(c), Q & A–6, Income Tax Regs. But those differences don’t affect who actually owns them—especially under the majority’s dominion-and-control test. The Commissioner himself doesn’t even think the Mazzeis’ use of an FSC instead of a DISC makes a difference—he just doesn’t want us to follow Summa II.
+ 
+
+
+IV.
+
+A.
+The Commissioner may be trying to sew the wrong label onto these cases, as he uses in his briefs much the same language courts use in their opinions when they invoke the economic-substance doctrine. There’s overlap between substance-over-form principles and economic-substance doctrine, but one way of thinking about substance-over-form is that it is a rule of tax law that directs courts to decide ambiguous questions of fact by looking to the realities of a situation and not the labels parties put on them. (If a kennel and a taxpayer agree that a tail is a leg, a taxpayer might say he has a five-legged dog. But unless the Code or regulations tell us differently, his dog still has only four legs for tax law.)
+ 
+One way of thinking about economic-substance doctrine is that it is a rule of tax law that directs courts to decide questions of law by construing ambiguous parts of the Code by *196 looking to the economic realities of the situation and not the labels parties put on them. “Partnership”, under state law, may be defined as any entity that identifies itself as a partnership in paperwork filed with the secretary of state. But when, without more specificity, the Code says “partnership” courts look for a common intention to collectively pursue a joint economic outcome. See, e.g., Superior Trading, LLC v. Commissioner, 137 T.C. 70, 81–82 (2011) (disregarding partnership where parties lacked common intention to collectively pursue joint economic outcome), aff’d, 728 F.3d 676 (7th Cir. 2013); Markell Co., Inc. v. Commissioner, T.C. Memo. 2014–86, at *31 (disregarding partnership where there was little proof that business was a joint venture).
+ 
+That is at least a plausible way of understanding the doctrine’s origin in Gregory v. Helvering, 293 U.S. 465, 469–70, 55 S.Ct. 266, 79 L.Ed. 596 (1935), where the Court held that when Congress gave tax benefits to “reorganization[s]”, it meant only transactions that actually changed a taxpayer’s economic reality or had nontax consequences, even though Congress didn’t exactly say so. Today the economic-substance doctrine is part of the Code. Sec. 7701(o). But the Code also warns us that it isn’t always relevant. See id. (beginning “[i]n the case of any transaction to which the economic substance doctrine is relevant”).
+ 
+Neither of these doctrines helps the Commissioner here. These cases are not about substance over form, because the Mazzeis’ FSC is exactly what it purports to be: a corporation (or, more accurately, an account within a corporation) organized precisely in accord with the statutory rules. The Commissioner doesn’t dispute this. Their Roth IRAs were likewise just what they purported to be—the Commissioner doesn’t dispute this either.
+ 
+The economic-substance doctrine also doesn’t apply here. If it is a rule of statutory construction, there’s little to construe here—Congress set up both the FSC structure and Roth IRAs not to have any purpose other than tax reduction or avoidance. The Code defines both with great precision—they are not terms like “partnership” or “reorganization” or “interest” where courts have long imported meaning from outside tax law and done so with an eye to economic effects and nontax motivation.
+ 
+
+
+*197 B.
+What’s really going on here is that the Commissioner doesn’t like that the Mazzeis took two types of tax-advantaged entities and made them work together. He admits as much when he says that substance-over-form principles should prevent “consequences unintended by Congress.” He wants to be able to recharacterize any transaction that in his opinion achieves a result Congress didn’t anticipate, even if that transaction complies with the Code.
+ 
+There’s a difference, though, between an argument that a transaction is inconsistent with congressional intent and an argument that the Commissioner can recharacterize a transaction unless a taxpayer can show that Congress intended to let him do what he did. One is an argument about what a statute means, the other is an assertion that the IRS or the courts have a general power to recast transactions to reduce tax benefits unless Congress denied that power for the transaction at issue.
+ 
+That’s what is going on here. The majority’s approach—perhaps more common in tax law than in any other legal specialty—is to abandon general principles of statutory construction in favor of using judge-made doctrines that undermine or ignore the text of the Code to recast transactions to avoid “abuse”. And here “abuse” means something like a result inconsistent with a judge’s notion of a Code section’s purpose. The great textualist counterrevolution of the last few decades makes this untenable. A unanimous Supreme Court held in its first opinion of the current term:
+[W]e resist speculating whether Congress acted inadvertently. See Henson v. Santander Consumer USA Inc., 582 U.S. ––––, ––––-–––– (2017) (slip op., at 9–10) (“[W]e will not presume with [respondents] that any result consistent with their account of the statute’s overarching goal must be the law but will presume more modestly instead ‘that [the] legislature says ... what it means and means ... what it says.’ ” (quoting Dodd v. United States, 545 U.S. 353, 357, 125 S.Ct. 2478, 162 L.Ed.2d 343 (2005) ) ); Magwood v. Patterson, 561 U.S. 320, 334, 130 S.Ct. 2788, 177 L.Ed.2d 592 (2010) (“We cannot replace the actual text with speculation as to Congress’ intent.”). * * *
+Hamer v. Neighborhood Hous. Servs. of Chi., 583 U.S. ––––, ––––, 138 S.Ct. 13, 20, 199 L.Ed.2d 249 (2017).
+ 
+We should instead adopt the Sixth Circuit’s view of this—that substance-over-form simply lets courts look at what’s really going on regardless of the labels taxpayers use. See Summa II, 848 F.3d at 785; see also *198 Gregory, 293 U.S. at 469–70, 55 S.Ct. 266. That way taxpayers can’t get tax benefits just by calling something something it’s not. As the majority points out, if a taxpayer called dogs cows and then claimed subsidies for cows, substance-over-form principles would let us deny those subsidies. See op. Ct. p. 68; see also Summa II, 848 F.3d at 787–88 (quoting Joseph Isenbergh, “Musings on Form and Substance in Taxation: Federal Taxation of Incomes, Estates, and Gifts,” 49 U. Chi. L. Rev. 859, 865 (1982) ). But rich people buying cows they don’t otherwise need in order to get the cow subsidies isn’t the same thing. See id.13
+ 
+The economic substance doctrine doesn’t help the Commissioner here either. If that doctrine is one of statutory construction, Congress specifically turned it off for FSCs when it told us that the commissions they receive—and by extension the dividends they pay—don’t need a basis in economic reality. See secs. 245(c), 925; sec. 1.925(a)–1T(a)(3), Temporary Income Tax Regs, 52 Fed. Reg. 6444 (Mar. 3, 1987). And Congress likewise didn’t require IRAs to have any purpose other than tax-advantaged saving. I would therefore hold that we have no basis for recharacterizing the transaction here—there’s no statutory ambiguity and Congress said economic substance isn’t necessary. And as we have already held, if we couldn’t recharacterize a transaction for income-tax purposes, we can’t recharacterize it for excise-tax purposes. Hellweg, 2011 WL 821090, at *9.
+ 
+
+
+C.
+We should always remember that there are times in tax law where courts ought to put form over substance, and should respect transactions that have no nontax purpose. That’s what happened in *199 Cottage Savings Assoc. v. Commissioner, 499 U.S. 554, 111 S.Ct. 1503, 113 L.Ed.2d 589 (1991), where the Supreme Court respected a transaction that created different legal rights on paper—and tremendous tax losses—but didn’t change the taxpayer’s economic reality. In Moline Properties the Supreme Court similarly respected the corporation the taxpayer put his real estate into at the suggestion of a creditor even though the corporation had no books or bank accounts. 319 U.S. at 438–39, 63 S.Ct. 1132. And in Sacks the Ninth Circuit respected a transaction the taxpayer entered into to get renewable-energy credits without which the transaction wouldn’t have been profitable. 69 F.3d at 992.
+ 
+In cases like these, courts apply the language of the Code even when taxpayers discover that two sections interact to provide benefits Congress likely didn’t intend, or even foresee. The Supreme Court said as much in Gitlitz v. Commissioner, 531 U.S. 206, 121 S.Ct. 701, 148 L.Ed.2d 613 (2001). There, it held that the Code’s plain language let an insolvent S corporation14 exclude discharge-of-indebtedness income while simultaneously letting the S corporation’s solvent shareholders treat it as income that increased their bases against which they could take deductions. Id. at 216, 218, 121 S.Ct. 701. Lower courts had worried that this was a “double windfall” that Congress didn’t intend, but the Supreme Court held that “[b]ecause the Code’s plain text permits the taxpayers * * * to receive these benefits, we need not address this policy concern.” Id. at 219–20, 121 S.Ct. 701.
+ 
+We ourselves applied similar reasoning in Austin v. Commissioner, T.C. Memo. 2017–69, at *31–*35, where we refused to say that an employee stock ownership plan’s (ESOP’s) 100% ownership of an S corporation lacked economic substance even though all of the S corporation’s income flowed into the ESOP tax free. There we noted that scholars questioned “the wisdom of Congress’ decision to create the statutory framework of which petitioners took advantage. But that framework did exist.” Id. at *32. The ESOP was what it was supposed to be—a way to increase “retirement income security”—so we upheld the structure despite its unintended benefits. Id. at *34. We even cited *200 Summa II’s proclamation that “[t]he Commissioner cannot fault taxpayers for making the most of the tax-minimizing opportunities Congress created.” Id. at 32 (citing Summa II, 848 F.3d at 790).
+ 
+Caterpillar Tractor Co. v. United States, 218 Ct. Cl. 517, 589 F.2d 1040 (1978), also follows this approach. There, the Court of Claims said a corporation qualified as a DISC even though all of the export sales its commission payments came from were to a related Western Hemisphere trade corporation (WHTC)—another type of export-encouraging entity that no longer exists. Id. at 522, 589 F.2d 1040.15 This resulted in a “double benefit” that the Commissioner said Congress didn’t intend and that a regulation forbade. Id. at 528, 589 F.2d 1040. But the Court upheld the structure because it “fit[ ] solidly within the literal language of the statute.” Id. at 527, 589 F.2d 1040. It also noted that the taxpayer was doing what the Code allowed, not hiding the actual transaction behind a fictitious structure or label. See id. at 530, 589 F.2d 1040.
+ 
+As did the taxpayers in Gitlitz, Austin, and Caterpillar Tractor, so did the Mazzeis here—they grabbed for two benefits that the Code’s text plainly allows. Whether there is legislative history that shows anyone intended FSCs and Roth IRAs to work so well together for taxpayers like the Mazzeis shouldn’t matter. Substance-over-form principles don’t give courts free rein to choose results that fit their view of good tax policy. They simply tell us to treat things as what they really are, no matter what taxpayers call them. When Congress created FSCs and Roth IRAs, it said they didn’t need economic substance and taxpayers who used them didn’t need to have a nontax purpose. As long as taxpayers comply with statutory formalities, such entities are what they purport to be, and we have to respect them, even when they work together. Here the Mazzeis followed the formalities and didn’t play with labels. When it comes to FSCs and Roth IRAs, that’s enough.
+ 
+FOLEY and BUCH (join only Parts I through IV) and MORRISON (joins only Parts I through III), JJ., agree with this dissent.
+All Citations
+150 T.C. No. 7, 150 T.C. 138, Tax Ct. Rep. (CCH) 61,130, Tax Ct. Rep. Dec. (RIA) 150.7
+
+
+
+Footnotes
+|
+1
+|All section references are to the Internal Revenue Code (Code) in effect for the relevant year, unless otherwise indicated. All Rule references are to the Tax Court Rules of Practice and Procedure. Monetary amounts are rounded to the nearest dollar.
+|
+2
+|Mr. Mazzei’s injectors use a venturi to introduce various additives to a moving stream of fluid (i.e., his injectors use the same principle employed in a carburetor).
+|
+3
+|An S corporation is a domestic corporation taxed under subchapter S of chapter 1 of the Code. A C corporation is a corporation taxed under subchapter C of chapter 1 of the Code. Injector Corp. elected S corporation status in 1989.
+|
+4
+|In response to a World Trade Organization (WTO) ruling that declared the FSC regime a prohibited export subsidy, Congress phased out the FSC provisions. See Appellate Body Report, United States—Tax Treatment for “Foreign Sales Corporations”: Recourse to Article 21.5 of the DSU by the European Communities, WTO Doc. WT/DS108/AB/RW (adopted Jan. 14, 2002). An active FSC existing on September 30, 2000, could generally continue to receive the usual FSC benefits for transactions occurring in the ordinary course of trade or business before January 1, 2002, or occurring after December 31, 2001, if pursuant to a contract in effect on September 30, 2000. See FSC Repeal and Extraterritoral Income Exclusion Act of 2000, Pub. L. No. 106–519, 114 Stat. 2423. WGA shut down its FSC/IRA program as a result of the repeal.
+|
+5
+|WGA had formed Quail Street for use in insurance programs for WGA members. The same handful of employees that managed those programs absorbed the FSC activities into their routines.
+|
+6
+|According to respondent, petitioners had Injector Co. adopt a tax year ending on January 31 and report all the injector-related sales activities, while Injector Corp. maintained its calendar tax year and reported only expenses. Because income passed through from a partnership is reported by partners for the year in which the partnership’s tax year closes, petitioners claimed that the disparity in tax years coupled with the selective separation of sales activity reporting from expense reporting resulted in a net loss flowing through to petitioners from their S corporations in 1998. Consequently, each petitioner claimed that his or her respective MAGI was low enough to permit contribution of $2,000 to his or her respective Roth IRA in 1998.
+|
+7
+|Petitioners’ returns for 1999–02 show that each petitioner’s MAGI was sufficiently large to reduce the sec. 408A(c)(2) contribution limit to zero. The parties have not disputed this point.
+|
+8
+|The commission and services agreements were signed by Mr. Mazzei (as president of Injector Co.) and by Donald G. Dressler (as vice president of the FSC). The management agreement was signed by Mr. Mazzei (as president of Injector Co.) and by Donald G. Dressler (as vice president of the FSC) and also by Mark Moffat (president of Quail Street). The shareholders’ agreement was signed twice by Mr. Dressler (as vice president of the FSC and as vice president of Quail Street).
+|
+9
+|“Foreign trading gross receipts” was defined in sec. 924. See infra note 23.
+|
+10
+|As noted, petitioners’ three Roth IRAs owned shares in a single “separate account” inside one of WGA’s FSCs, and that account was treated as a separate corporation under sec. 927(g).
+|
+11
+|The record is not clear, but it would appear that Injector Co., rather than the Roth IRAs, may have paid these fees.
+|
+12
+|The operations procedure memorandum suggests that the FSC’s directors were to be “provide[d]” by the FSC’s management company, i.e., Quail Street.
+|
+13
+|The record does not show, nor have the parties argued, that (1) any amounts other than the payments from the FSC to the Roth IRAs were deposited into the Roth IRAs (other than the initial $2,000 contributions) at any time or that (2) any amounts were withdrawn from the Roth IRAs before the end of 2007. According to respondent, the sum of petitioners’ account balances at the close of 2002 was less than the $533,057 paid by the FSC because of investment losses in the Roth IRA accounts.
+|
+14
+|Notice 2004–8, 2004–1 C.B. 333, 334, identifies as potentially abusive an arrangement in which an individual who owns a preexisting business such as a corporation or sole proprietorship causes the business to engage in transactions with another corporation, substantially all the shares of which are owned by one or more Roth IRAs maintained for the benefit of the individual.
+|
+15
+|The income tax treatment of the payments from the FSC to the Roth IRAs is not before us because any income tax issues from 1998–2001 are barred by the sec. 6501 statute of limitations. See Mazzei v. Commissioner, T.C. Memo. 2014–55, at *12 (“[F]or income tax purposes the applicable respective periods of limitations for taxable years 1998 through 2001 during which the Mazzei partnership/Western Growers FSC transactions had taken place had expired by the time respondent learned of those transactions during respondent’s examination[.]”).
+Because petitioners did not file Forms 5329, the periods of limitations for excise tax under sec. 4973 never began to run. See Paschall v. Commissioner, 137 T.C. 8, 15–17 (2011). Therefore the excise taxes respondent seeks to assess against petitioners for tax years 2002–07 are not barred by the statute of limitations.
+|
+16
+|That is, the deficiencies listed supra pp. 5–6 are computed by taking 6% of the yearend balances listed supra p. 17.
+|
+17
+|E.g., Frank Lyon Co. v. United States, 435 U.S. 561, 98 S.Ct. 1291, 55 L.Ed.2d 550 (1978); Cooper v. Commissioner, 877 F.3d 1086, 1091 (9th Cir. 2017) (“A bedrock principle of tax law * * * is that substance controls over form.”), aff’g 143 T.C. 194 (2014); Santander Holdings USA, Inc. v. United States, 844 F.3d 15 (1st Cir. 2016); Bank of N.Y. Mellon Corp. v. Commissioner, 801 F.3d 104 (2d Cir. 2015), aff’g 140 T.C. 15 (2013) and T.C. Memo. 2013-225; Harbor Bancorp v. Commissioner, 115 F.3d 722, 729 (9th Cir. 1997) (“It is axiomatic that tax law follows substance and not form.”), aff’g 105 T.C. 260 (1995); Stewart v. Commissioner, 714 F.2d 977, 987–988 (9th Cir. 1983) (explaining that in making a substance over form argument, the Commissioner “may rely on a body of law” including the economic substance and business purpose tests), aff’g T.C. Memo. 1982-209; John Hancock Life Ins. Co. (U.S.A.) v. Commissioner, 141 T.C. 1 (2013); Lazarus v. Commissioner, 58 T.C. 854, 864 (1972) (“In laying the facts of petitioners’ case alongside the controlling statutory provisions, we are reminded that the substance of a transaction rather than the form in which it is cast is determinative of the tax consequences unless it appears from an examination of the statute that form is to govern.”), aff’d, 513 F.2d 824 (9th Cir. 1975); Block Developers, LLC v. Commissioner, T.C. Memo. 2017–142, at *27 (“We have applied substance-over-form again and again[.]”); Polowniak v. Commissioner, T.C. Memo. 2016–31, at *18 (“Generally, the substance and not the form of a transaction determines its tax consequences.”); Repetto v. Commissioner, T.C. Memo. 2012-168 (same).
+|
+18
+|E.g., Frank Lyon, 435 U.S. at 573, 98 S.Ct. 1291 (“In applying this doctrine of substance over form, the Court has looked to the objective economic realities of a transaction rather than to the particular form the parties employed.”); Gilman v. Commissioner, 933 F.2d 143, 148 (2d Cir. 1991) (“Whether the terminology used was that of ‘economic substance, sham, or section 183 profit motivation’ was not critical; what was important was reliance on objective factors in making the analysis.”), aff’g T.C. Memo. 1989-684.
+|
+19
+|The dissent, see dissenting op. pp. 95–97, characterizes the substance inquiry in a way that differs from the precedents of the Court of Appeals for the Ninth Circuit, which we have discussed, see supra pp. 23–26, and from the precedents of many other circuits and of this Court, see supra note 17. Whereas these precedents describe one general substance inquiry as a facts and circumstances inquiry into the practical economic effects of a transaction for the purpose of determining whether the economic facts fall within the meaning of the Code, e.g., Stewart v. Commissioner, 714 F.2d at 988, the dissent attempts to draw a sharp distinction between the substance over form and the economic substance doctrines, characterizing the former as a doctrine about fact-finding and the latter as a doctrine about questions of law. We think that the precedents of the Court of Appeals for the Ninth Circuit require us to carefully consider the law, the facts, and the application of law to fact, all in the light of economic reality.
+|
+20
+|In Summa Holdings, Inc. v. Commissioner, 848 F.3d 779, 788 (6th Cir. 2017), rev’g T.C. Memo. 2015-119, the Court of Appeals for the Sixth Circuit mused that the substance over form inquiry might be criticized as a “one-way street” in the Commissioner’s direction. But as the Court of Appeals for the Ninth Circuit noted long ago, if a transaction is unreal, “then it is not * * * [the taxpayer] but the Commissioner who should have the sole power to sustain or disregard the effect of the fiction since otherwise the opportunities for manipulation of taxes are practically unchecked.” Maletis v. United States, 200 F.2d 97, 98 (9th Cir. 1952). “The practical reason for such a rule is that otherwise the taxpayer could commence doing business * * * [using a particular form] and, if everything goes well, realize the income tax advantages therefrom; but if things do not turn out so well, may turn around and disclaim the business form he created”. Id.
+|
+21
+|The Court of Appeals for the Sixth Circuit described the result in Repetto with approval, as follows: “[W]hen a family sets up an ordinary corporation owned by Roth IRAs and pays the corporation fees for sham ‘services’ that it never performed, the Commissioner may rightly refuse to recognize the Roth IRA’s gains as investment earnings and may reclassify them as contributions.” Summa Holdings, Inc. v. Commissioner, 848 F.3d at 785–786.
+|
+22
+|See supra note 4.
+|
+23
+|Foreign trading gross receipts were defined in sec. 924 to include gross receipts from export sales or commission transactions.
+|
+24
+|The amount computed under sec. 925(a)(1) could not exceed twice the amount computed under sec. 925(a)(2)—i.e., 46% of the combined taxable income of the FSC and its related supplier from sale 1 and sale 2. Sec. 925(d).
+|
+25
+|The FSC regulations referred to the first two methods as “administrative pricing methods” and to the third method as the “section 482 method”. See, e.g., sec. 1.925(a)–1T(b)(1), Temporary Income Tax Regs., 52 Fed. Reg. 6444 (Mar. 3, 1987). Collectively they are referred to as “transfer pricing methods”. Id.
+Sec. 925(a) and (c) provided that the FSC and its related supplier could apply the sec. 925(a)(1) and (2) methods only if certain requirements were met. See sec. 1.925(a)–1T(b)(2)(ii), Temporary Income Tax Regs., 52 Fed. Reg. 6444–6445 (Mar. 3, 1987). These minimal requirements, however, could be contracted to another party (or back to the related supplier). See sec. 925(c); sec. 1.925(a)–1T(b)(2)(ii), Temporary Income Tax Regs., supra. That is, the FSC and its related supplier could essentially contract around the sec. 925(c) requirements (as happened in petitioners’ cases). Respondent has not argued that the sec. 925(c) requirements were not met in these cases. We therefore deem any such argument to have been waived or conceded.
+|
+26
+|If the profit margin on an overall export transaction (i.e., taxable income from sale 1 and sale 2 over gross receipts from sale 2) was below 3.98%, then 1.83% of gross receipts (i.e., 1.83% of the gross proceeds of sale 2) would always exceed 46% of combined taxable income (0.0398 × 0.46 = 0.0183), meaning that sec. 925(a)(1), as capped by sec. 925(d), see supra note 24, would always provide the most advantageous assignment of taxable income to the FSC (assuming that the sec. 482 method did not provide a better result). If the profit margin was greater than 7.96%, then 23% of combined taxable income would always exceed 1.83% of gross receipts (0.0796 × 0.23 = 0.0183), meaning that sec. 925(a)(2) would always provide the most advantageous assignment. If the profit margin was between 3.98% and 7.96%, then 1.83% of gross receipts would always be between 46% and 23% of combined taxable income, meaning that sec. 925(a)(1) would always provide the most advantageous assignment (and the sec. 925(d) cap would not apply).
+|
+27
+|Respondent agrees that petitioners’ FSC qualified under sec. 922.
+|
+28
+|Sec. 924(b) required that, for receipts to be treated as foreign trading gross receipts, the FSC had to be managed outside the United States, see sec. 924(c), and economic processes with respect to the receipts had to take place outside of the United States. There was an exception, however, for “small FSCs”, which did not have to meet either requirement. Secs. 922(b), 924(b)(2), 927(f). Petitioners claim, and respondent does not dispute, that their FSC was a small FSC.
+If the FSC received or accrued any (1) foreign trade income that was neither EFTI nor sec. 923(a)(2) nonexempt income, (2) interest, dividends, royalties or other investment income, or (3) carrying charges, that other income was taxed as income effectively connected with a United States trade or business. Sec. 921(d). Dividends from an FSC to a corporate parent—unlike most dividends from a foreign subsidiary—were generally not taxed because the parent received a 100% dividends received deduction for dividends from an FSC. See sec. 245(c).
+|
+29
+|All of Injector Co.’s export sales in 1998–2001 had a profit margin over 7.96%. Petitioners used commission transactions, and the FSC performed few if any services, so the sec. 925(a)(3) method, i.e., the normal sec. 482 method, was not used. Therefore, up to 23% of the combined income from Injector Co.’s export sales was assignable to the FSC through commission transactions. See supra note 26.
+|
+30
+|Any fees paid to Quail Street were built into the combined income calculation, and in practice some of the dividends may have been paid in the year after the commission transactions occurred.
+|
+31
+|Purchase and entrance into all contracts were each conditioned on the other, and so we treat this as one step.
+|
+32
+|The regulations support the conclusion that although an FSC may lack substance in one sense it is not exempt from normal application of the Code in other situations. For instance, transactions between an FSC and entities other than the related supplier are still subject to the normal transfer pricing rules. Sec. 1.925(a)–1T(e)(2), Temporary Income Tax Regs., 52 Fed. Reg. 6448 (Mar. 3, 1987), provides: “In applying section 482 to a transfer by a FSC to a related party, the parties [i.e., the FSC and its related supplier] are treated as if they were a single entity carrying on all the functions performed by the FSC and its related supplier with respect to the transaction.”
+|
+33
+|The dissent questions the applicability of Commissioner v. Banks, 543 U.S. 426, 125 S.Ct. 826, 160 L.Ed.2d 859 (2005), because Banks involved contingency fees rather than “dividends or corporations”. See dissenting op. p. 89. But Banks is not so tightly confined. As the Supreme Court explained in Banks, its holding is based on the anticipatory assignment of income doctrine, the principle that a “taxpayer cannot exclude an economic gain from gross income by assigning the gain in advance to another party.” Id. at 433, 125 S.Ct. 826. The Supreme Court has called this “the first principle of income taxation”, id. at 434, 125 S.Ct. 826, a principle first enunciated in such cases as Lucas v. Earl, 281 U.S. 111, 50 S.Ct. 241, 74 L.Ed. 731 (1930), and Corliss v. Bowers, 281 U.S. 376, 378, 50 S.Ct. 336, 74 L.Ed. 916 (1930). The assignment of income doctrine has been applied to efforts to shift income not only among individuals but also among entities. See generally Boris I. Bittker & Lawrence Lokken, Federal Taxation of Income, Estates, and Gifts, para. 75.2 (Westlaw 2018).
+|
+34
+|The dissent argues that the FSC was not an income-generating asset. We disagree. Although the FSC may be an unusual entity in some respects, it still generates dividends, which are income.
+|
+35
+|Sacks v. Commissioner, 69 F.3d 982, 988 (9th Cir. 1995), rev’g T.C. Memo. 1992-596, also briefly discussed another factor: whether the taxpayer’s business was genuine. We think that this factor is inapplicable because—as petitioners argue—an FSC need conduct little if any substantive business of its own.
+|
+36
+|The dissent argues that we are wrong to ask whether the Roth IRAs put anything at risk; it says that under our reasoning, “no one could ever own an FSC because FSCs never put capital at risk.” See dissenting op. p. 91. But it is incorrect to suggest that an FSC could never put capital at risk; nothing in the Code prevents an FSC shareholder from capitalizing its FSC. In any event, we are not concerned with whether the FSC had capital at risk; we ask whether the putative FSC shareholders, i.e., the Roth IRAs, bore any risk. We examine whether the Roth IRAs were exposed to risk because Frank Lyon, Casebeer, and Sacks each analyzed the taxpayer’s financing arrangements to determine whether the alleged owner was exposed to real economic risk. In accord with these precedents, we acknowledge that the presence of recourse liability (or something similar) would make ownership more likely. But the Roth IRAs were never exposed to appreciable economic risk; the full extent of their exposure was the negligible amount paid for the FSC stock. Petitioners’ cases are therefore more similar to Casebeer (where the court held against a taxpayer who used nonrecourse financing) than it is to Frank Lyon or Sacks (where the courts held for taxpayers who used recourse financing).
+|
+37
+|The dissent asserts that under our reasoning petitioners “couldn’t have owned the FSC either”, because petitioners also put nothing at risk. See dissenting op. p. 91. This is incorrect; petitioners were exposed at all times to the underlying business risk, i.e., that their investment in their export business would decline. The Roth IRAs were not exposed to that risk because they never made an investment (they paid only a nominal amount for the FSC stock and never capitalized the FSC) and because no fixed right to receive commission payments was ever transferred to the FSC (i.e., if a fixed right to receive a portion of the export income had been transferred to the FSC, the value of the FSC stock would have varied with the export market and the Roth IRAs would have been exposed to the risk that the right to receive income held by the FSC would decline with the export market).
+In any event, in these cases we are examining whether the purchase transaction was sufficient to transfer substantive ownership to the Roth IRAs; risk is just one factor to be considered. Even if petitioners bore little risk with respect to the FSC, they owned the FSC because they controlled every aspect of its existence through the contractual powers retained by Injector Co. (discussed in the next section); the Roth IRAs (unlike, for example, the taxpayer in Frank Lyon) put nothing at risk to alter this ownership equation.
+|
+38
+|More specifically, the commission agreement provided that any amount paid to the FSC by petitioners’ business
+shall be agreed upon by the parties and may vary from time to time by mutual agreement, so as to provide the maximum [F]ederal income tax benefits to * * * [petitioners’ business] and [the] FSC * * *. * * * [Petitioners’ business] shall have the final decision as to whether [the] FSC is considered to have solicited or promoted a transaction with a customer and may prospectively or retroactively add or delete transactions entitling [the] FSC to a commission. [Emphasis added.]
+(Similar provisions also existed for sale, license, and lease commissions.) The duration of the power to retroactively delete transactions is not specified, but nothing in the record rules out the possibility that petitioners’ business could have deleted a transaction even after the associated commission had been paid to the FSC. In other words, Injector Co. retained the power to decide—after the commissions were paid—that the FSC was not entitled to a commission with respect to a particular export transaction. Deletion of the export transaction would have had the effect of converting the associated commission payment into a loan from Injector Co. to the FSC under a section of the commission agreement detailing the treatment of overpayments.
+|
+39
+|Petitioners’ export receipts had fluctuated to some degree over the years, but they had reliable and established export receipts when they entered these transactions.
+|
+40
+|We note that, because no income tax issues are presented in these cases, we need not and do not consider whether the FSC was owned by and through one of petitioners’ passthrough entities rather than directly by petitioners.
+|
+41
+|DISCs are U.S. corporations electing to be taxed under secs. 991–997. Secs. 991–997 were enacted in 1971 and substantially modified in 1984 by the same act that introduced FSCs to the Code. See Deficit Reduction Act of 1984, Pub. L. No. 98–369, secs. 801–805, 98 Stat. at 985–1003; Revenue Act of 1971, Pub. L. No. 92–178, secs. 501–507, 85 Stat. at 535–553. FSCs were created to replace the pre–1984 version of DISCs. See generally Boris I. Bittker & James S. Eustice, Federal Income Taxation of Corporations and Shareholders, para. 15.23 (Westlaw 2018). The FSC statutes were repealed in 2000, see supra note 4, but the DISC provisions remain in the Code, as amended. In general, DISCs continue to allow a deferral benefit; i.e., qualifying export-related income held in a DISC is not subject to current taxation. See secs. 991–997. DISC shareholders are, however, subject to an annual interest charge on taxes deferred by the DISC. Sec. 995(f).
+|
+42
+|The dissent, see dissenting op. p. 81, similarly argues that, because the DISC and FSC regulations do not prohibit ownership by individuals or entities other than the related supplier, ownership of FSC stock by Roth IRAs is permitted under the Code in every circumstance. The dissent’s argument fails for the same reason petitioners’ arguments fails: Allowance for ownership of FSC stock by Roth IRAs in general does not mean that the Code allows petitioners’ specific purchase transactions.
+|
+43
+|For example, the dissent cites Moline Props. v. Commissioner, 319 U.S. 436, 63 S.Ct. 1132, 87 L.Ed. 1499 (1943), and discusses business purpose, arguing that we should respect the FSC. See dissenting op. p. 92. But we do respect the FSC. We do not apply a business purpose test to the FSC. Moline Props. is therefore irrelevant.
+|
+44
+|For example, if a related supplier had no export income in a particular year, the FSC would not be able to price commissions under sec. 925; the special transfer pricing rules would not apply. Or if an FSC and a related supplier attempted to make commission payments unrelated to exports without the FSC actually rendering real services to the related supplier, those commission payments would lack substance—under the normal substance doctrines. Nothing in the Code suggests that an FSC is not allowed to perform normal (i.e., non-sec. 925) transactions in addition to sec. 925 transactions.
+|
+45
+|The dissent also discusses shareholder basis, see dissenting op. pp. 91–92, which is entirely beside the point. Basis is, as the dissent points out, cost paid. But the fact that basis follows from cost does not mean that cost paid was equal to fair market value.
+|
+46
+|This complete lack of formal value is precisely why petitioners’ situation differs from that presented in Sacks v. Commissioner, 69 F.3d 982. In Sacks there was a possibility of after-tax return on the formal transaction. By contrast, as we have noted, see supra p. 49, no independent holder of the FSC stock, considering all the formal aspects of the deal that petitioners made, could expect to receive any benefits, before or after tax. Sacks stands for the proposition that a taxpayer can take tax effects or incentives into account when considering whether to make an investment. By contrast, the tax benefits petitioners claim here depend on commission payments actually being made, and the contracts the parties to these transactions entered into do not require or even incentivize any such commission payments. Consequently, unlike the situation in Sacks, even the after-tax return is zero from an arm’s-length examination of the form petitioners claim to have adopted.
+|
+47
+|The dissent, see dissenting op. pp. 100–104, attempts to contrast our approach with that of Cottage Sav. Assoc. v. Commissioner, 499 U.S. 554, 111 S.Ct. 1503, 113 L.Ed.2d 589 (1991), Gitlitz v. Commissioner, 531 U.S. 206, 121 S.Ct. 701, 148 L.Ed.2d 613 (2001), Austin v. Commissioner, T.C. Memo. 2017-69, and Caterpillar Tractor Co. v. United States, 218 Ct. Cl. 517, 589 F.2d 1040 (1978). None of these cases addresses the substance of ownership arising from a purchase in a related-party context. For example, the Commissioner did not challenge the purchase transaction in Austin; as the Court found, “the company funded the ESOP with a $500,000 loan * * * [and t]hese funds were used to purchase (on the basis of an outside appraisal) 5,000 shares of the company’s common stock.” Austin v. Commissioner, at *8. There was no dispute as to whether the ESOP owned the shares in substance. See also Cottage Sav. Assoc. v. Commissioner, 499 U.S. at 568, 111 S.Ct. 1503 (“[T]here is no contention that the transactions in this case were not conducted at arm’s length, or that Cottage Savings retained de facto ownership of the participation interests[.]”).
+|
+48
+|The dissent points out that there is nothing wrong with “rich people buying cows they don’t otherwise need in order to get * * * cow subsidies”. See dissenting op. p. 100. But whether we call the operative principle economic substance or substance over form, the Code at least requires us to ask whether the taxpayer actually bought the cows, or just claims to have done so.
+|
+49
+|Additions to tax under sec. 6651 are not subject to sec. 6751, under sec. 6751(b)(2)(A).
+|
+1
+|Caligula didn’t care if dissents were respectful or not. See, e.g., Suet. Cal. 20 (forcing unsuccessful orators to blot out their writings with sponges or their tongues), 27 (burning author alive for using double entendre), and 28 (ordering a senator torn to pieces and then having the pieces dragged through the streets).
+Our Court is somewhat more collegial. When a majority disagrees with the opinion of the judge who tries the case, the case may be reassigned and rewritten. See sec. 7460; Succession of McCord v. Commissioner, 461 F.3d 614, 622 (5th Cir. 2006), rev’g 120 T.C. 358 (2003). These disputes are almost always about the law and not about factfinding. As the trial judge in these cases, I have reviewed Judge Thornton’s opinion of the Court and agree with his findings of facts (with one exception, see infra note 9). I specifically agree with his findings regarding the Mazzeis’ liability for a penalty, which I would have made on the basis of my own observations of the testimony and other evidence received during trial if I had not concluded that this series of transactions worked on its merits.
+|
+2
+|A somewhat complicated formula sets the annual contribution limits. See sec. 408A(c)(2). When the Mazzeis began their FSC plan, the limit was generally $2,000 per year. See secs. 408A(c), 219(b)(1)(A). Today that limit is generally $5,500. See secs. 408A(c), 219(b)(5)(A)–(C).
+|
+3
+|“C corporation” is tax jargon for a corporation not taxed under subchapter S of the Code. A C corporation’s net income is taxed twice—first at the corporate level, and again at the individual level when the shareholders receive distributions of profits in the form of dividends.
+|
+4
+|LLC stands for limited liability company. LLCs are creatures of state statute and are a form of business ownership that allows one or more people or organizations to invest in an entity that provides them with limited liability. An LLC with more than one member is generally taxed as a partnership by default. Sec. 301.7701–3(b)(1)(i), Proced. & Admin. Regs.
+|
+5
+|In reaching its holding in Block Developers, LLC v. Commissioner, T.C. Memo. 2017–142, at *30, this division of the Court stressed that “the substance-over-form doctrine is not something the Commissioner can use to pound every Roth IRA transaction he doesn’t like.”
+|
+6
+|Summa II may be pushing it a bit when it says that by enacting section 995(g) Congress “made clear” that IRAs could own DISCs. Pension plans and charities seem to have been the types of tax-exempt shareholders Congress had in mind. See H.R. Rept. No. 101–247, at 1425–26 (1989), 1989 U.S.C.C.A.N. 1906, 2895–96. And Congress certainly wasn’t thinking about Roth IRAs, which it didn’t create until almost a decade after section 995(g) became effective. See Taxpayer Relief Act of 1997, Pub. L. No. 105–34, sec. 302, 111 Stat. at 825. Nevertheless, and if only through a maze of cross-references, section 995(g) does allow both traditional and Roth IRAs to own DISCs, see secs. 401(a), 408(a), 408A(a), 501(a), 511, and Congress hasn’t decided to change it.
+|
+7
+|Other examples the court discusses approvingly include Gregory v. Helvering, 293 U.S. 465, 468–69, 55 S.Ct. 266, 79 L.Ed. 596 (1935) (recharacterizing purported “reorganization” that was just shuffling shares from one entity to another to avoid capital gains tax), and Knetsch v. United States, 364 U.S. 361, 365–66, 81 S.Ct. 132, 5 L.Ed.2d 128 (1960) (recharacterizing a “loan” that had no business function or true obligation to pay).
+|
+8
+|Commissioner v. Court Holding Co., 324 U.S. 331, 65 S.Ct. 707, 89 L.Ed. 981 (1945), perhaps shouldn’t take too much blame for the Commissioner’s claim. That decision turned on the fact that the corporation had negotiated the sale and received a deposit from the buyer before the shareholders realized what the tax consequences would be and distributed the building to themselves. Id. at 333, 65 S.Ct. 707. Explaining Court Holding in a later case, the Supreme Court said that the sale there was really complete before the disregarded distribution occurred. United States v. Cumberland Pub. Serv. Co., 338 U.S. 451, 453, 70 S.Ct. 280, 94 L.Ed. 251 (1950). In that case, the Court recognized an asset distribution followed by the sale of those assets. Id. at 456, 70 S.Ct. 280.
+|
+9
+|If this is a finding of fact, it is one with which I as the trial judge, would disagree. It appears, however, that the question of “substantive” ownership might be something of a mixed question of law and fact. If so, it would appear that this “finding” is actually a conclusion of law based on the underlying facts specific to these cases about the Mazzeis’ operation of their FSC, operating company, and Roth IRAs. See Casebeer v. Commissioner, 909 F.2d 1360, 1365 (9th Cir. 1990) (determination that transaction lacked economic substance is factual finding reviewed only for clear error on appeal), aff’g in part, rev’g in part 89 T.C. 1229 (1987), and aff’g T.C. Memo. 1987-625, and T.C. Memo. 1987-628; but see Sacks v. Commissioner, 69 F.3d 982, 986 (9th Cir. 1995) (determination that transaction a sham is reviewed for clear error on underlying facts and de novo for correctness of legal standard), rev’g T.C. Memo. 1992-596.
+|
+10
+|I specifically agree with these findings of fact.
+|
+11
+|These are curious cases to cite in support of applying substance-over-form principles. In Frank Lyon Co. v. United States, 435 U.S. 561, 584, 98 S.Ct. 1291, 55 L.Ed.2d 550 (1978), the Supreme Court said “so long as the lessor retains significant and genuine attributes of the traditional lessor status, the form of the transaction adopted by the parties governs for tax purposes.” Casebeer primarily holds that the taxpayers there weren’t entitled to section 465 deductions because they were “protected against loss” under the meaning of section 465(b)(4). 909 F.2d at 1370. Sacks is perhaps an even weaker authority for the majority. There we allowed the Commissioner to recharacterize a transaction because the taxpayer would not have entered into it but for tax credits without which the transaction wouldn’t have been profitable. See Sacks v. Commissioner, T.C. Memo. 1992-596, 1992 WL 252948, at *35, rev’d, 69 F.3d 982. The Ninth Circuit reversed us and explained:
+If the Commissioner were permitted to deny tax benefits when the investments would not have been made but for the tax advantages, then only those investments would be made which would have been made without the Congressional decision to favor them. The tax credits were intended to generate investments in alternative energy technologies that would not otherwise be made because of their low profitability. Yet the Commissioner in this case at bar proposes to use the reason Congress created the tax benefits as a ground for denying them.
+Sacks, 69 F.3d at 992 (internal citations omitted).
+|
+12
+|The Commissioner here also doesn’t seek to redetermine income tax, but only because the statute of limitations has run—he says if it hadn’t, he’d redetermine the income tax too. We previously decided this was enough of a distinction from Hellweg to let these cases go forward on the excise-tax issue alone. Mazzei v. Commissioner, T.C. Memo. 2014–55, at *12–*13.
+|
+13
+|Professor Isenbergh goes on to say that “[m]any of the difficulties that bedevil that pursuit of ‘substance’ and ‘form’ in taxation stem from the assimilation of these two patterns.” Joseph Isenbergh, “Musings on Form and Substance in Taxation: Federal Taxation of Incomes, Estates, and Gifts,” 49 U. Chi. L. Rev. 859, 865–66 (1982). He then explains that we shouldn’t use the “rubric of form and substance” to conflate instances of mislabeling—where recharacterization is appropriate—and cases where a transaction “falls within the statute, but results in a bad thing” because “[m]any bad things * * * are precisely what they purport to be, and therefore cannot be swept aside as shams.” Id. at 866.
+|
+14
+|An S corporation is a corporation governed under the laws of subchapter S of the Internal Revenue Code. S corporations generally don’t pay federal income tax but are, like partnerships, passthrough entities that channel income and deductions to their owners. See Gitlitz, 531 U.S. at 209, 121 S.Ct. 701.
+|
+15
+|WHTCs were defined in sections 921–922, but were phased out from 1976–1980. See Tax Reform Act of 1976, Pub. L. No. 94–455, sec. 1052, 90 Stat. 1647–48.
+|
+
+
+
+
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

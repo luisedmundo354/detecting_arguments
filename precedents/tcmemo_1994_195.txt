@@ -1,0 +1,1948 @@
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+Acquiescence in Result Only Recommended by RE: NATIONAL SEMICONDUCTOR CORP. AND CONSOLIDATED SUBSIDIARIES V. COMMISSIONER, IRS AOD, October 30, 1995
+T.C. Memo. 1994-195
+United States Tax Court.
+NATIONAL SEMICONDUCTOR CORPORATION AND CONSOLIDATED SUBSIDIARIES, Petitioner,
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent.
+Nos. 4754–89, 8031–90.
+|
+May 2, 1994.
+Attorneys and Law Firms
+Joel V. Williamson, Joseph R. Goeke, William A. Schmalzl, Thomas C. Durham, Scott M. Stewart, Thomas L. Kittle–Kamp, Gregory L. Barton, Daniel A. Dumezich, Leslie A. Sowle, Chicago, IL, and Stephen A. Kubiatowski, Washington, DC, for petitioner.
+William E. Bonano, San Francisco, CA, John O. Kent, Los Angeles, CA, Christopher J. Croudace, San Jose, CA, Clifton B. Cates III, Washington, DC, Christopher J. Faiferlick, San Jose, CA, James G. LeBloch, Los Angeles, CA, and Paul G. Robeck, Portland, OR, for respondent.
+
+
+
+
+FINDINGS OF FACT
+ 
+|4
+ 
+|
+I.
+ 
+|Industry Background
+ 
+|5
+ 
+|
+|A.
+ 
+|General
+ 
+|5
+ 
+|
+|B.
+ 
+|Research and Development (R & D)
+ 
+|7
+ 
+|
+|C.
+ 
+|Wafer Fabrication
+ 
+|7
+ 
+|
+|D.
+ 
+|Semiconductor Manufacturers
+ 
+|8
+ 
+|
+|E.
+ 
+|The Packaging Process
+ 
+|9
+ 
+|
+|F.
+ 
+|Location of Packaging Operations
+ 
+|11
+ 
+|
+|G.
+ 
+|Testing
+ 
+|12
+ 
+|
+|H.
+ 
+|Individual Device Manufacturers (IDM’s)
+ 
+|13
+ 
+|
+|I.
+ 
+|Pricing in the Semiconductor Industry
+ 
+|15
+ 
+|
+|J.
+ 
+|Industry Recession in 1981 and 1982
+ 
+|17
+ 
+|
+II.
+ 
+|National Semiconductor Corporation
+ 
+|17
+ 
+|
+|A.
+ 
+|General
+ 
+|17
+ 
+|
+|B.
+ 
+|Division of Activities by Location
+ 
+|18
+ 
+|
+||1.
+ 
+|R & D
+ 
+|	18
+ 
+|
+||2.
+ 
+|Die Fabrication
+ 
+|	19
+ 
+|
+||3.
+ 
+|Asian Subsidiaries’ Organization and Operations
+ 
+|	19
+ 
+|
+||4.
+ 
+|Testing
+ 
+|	24
+ 
+|
+||5.
+ 
+|Sale of Completed Devices
+ 
+|	24
+ 
+|
+||6.
+ 
+|Other Foreign Subsidiaries
+ 
+|	25
+ 
+|
+|C.
+ 
+|NSC’s Accounting System
+ 
+|26
+ 
+|
+||1.
+ 
+|Standard Cost System
+ 
+|	26
+ 
+|
+||2.
+ 
+|Pricing of Semiconductor Products and Materials
+ 
+|	27
+ 
+|
+|||a.
+ 
+|Third–Party Pricing	
+ 
+|	27
+ 
+|
+|||b.
+ 
+|Transfer Pricing	
+ 
+|	27
+ 
+|
+III.
+ 
+|The Eurotechnique Transaction
+ 
+|29
+ 
+|
+IV.
+ 
+|Respondent’s Adjustments
+ 
+|30
+ 
+|
+OPINION
+ 
+|30
+ 
+|
+I.
+ 
+|Introduction
+ 
+|30
+ 
+|
+II.
+ 
+|Applicable Law
+ 
+|32
+ 
+|
+|A.
+ 
+|Allocations Under Section 482
+ 
+|32
+ 
+|
+|B.
+ 
+|Petitioner’s Burden of Proof
+ 
+|32
+ 
+|
+III.
+ 
+|Petitioner’s Evidence of Comparables
+ 
+|36
+ 
+|
+|A.
+ 
+|Applicable Law
+ 
+|36
+ 
+|
+|B.
+ 
+|Third–Party Prices as Comparable Uncontrolled Prices
+ 
+|39
+ 
+|
+IV.
+ 
+|Determination of Transfer Prices
+ 
+|42
+ 
+|
+|A.
+ 
+|Frank’s Analyses
+ 
+|42
+ 
+|
+||1.
+ 
+|The “Price-to-Price” Analysis
+ 
+|	43
+ 
+|
+||2.
+ 
+|Frank’s Extrapolation Procedures
+ 
+|	45
+ 
+|
+||3.
+ 
+|The “Cost–Plus” Analysis
+ 
+|	52
+ 
+|
+||4.
+ 
+|Frank’s Conclusions
+ 
+|	56
+ 
+|
+|B.
+ 
+|Pricing Guidelines
+ 
+|58
+ 
+|
+|C.
+ 
+|Respondent’s Analyses
+ 
+|59
+ 
+|
+||1.
+ 
+|Loss of U.S. Fabrication Operations
+ 
+|	59
+ 
+|
+|||a.
+ 
+|Respondent’s Accounting Analysis	
+ 
+|	59
+ 
+|
+|||b.
+ 
+|Petitioner’s Large–Die Argument	
+ 
+|	63
+ 
+|
+||2.
+ 
+|Horst’s Analyses
+ 
+|	70
+ 
+|
+|||a.
+ 
+|The “Transactional” Analysis	
+ 
+|	70
+ 
+|
+|||b.
+ 
+|The “Profit–Split” Analysis	
+ 
+|	72
+ 
+|
+|||c.
+ 
+|The Revised Transactional Analysis	
+ 
+|	75
+ 
+|
+|||d.
+ 
+|Proposed Eurotechnique Adjustment	
+ 
+|	77
+ 
+|
+|||e.
+ 
+|Horst’s Modifications	
+ 
+|	80
+ 
+|
+|D.
+ 
+|Determination of Reasonable Adjustment
+ 
+|83
+ 
+|
+||1.
+ 
+|Exclusion of Adjustments Attributable to Trade Sales and to Eurotechnique Markup
+ 
+|	84
+ 
+|
+||2.
+ 
+|Exclusion of Amounts Attributable to Entities Not Included in the Asian Subsidiaries
+ 
+|	84
+ 
+|
+||3.
+ 
+|No Adjustment for Dies and Materials Ultimately Sold to Other Foreign Affiliates
+ 
+|	86
+ 
+|
+
+
+
+
+
+
+
+
+MEMORANDUM FINDINGS OF FACT AND OPINION
+COHEN, Judge:
+*1 In these consolidated cases, respondent determined deficiencies in petitioner’s Federal income taxes as follows:
+ 
+
+
+
+
+Taxable Year Ended
+ 
+|Amount
+ 
+|
+May 31, 1976
+ 
+|$ 3,098,046
+ 
+|
+May 31, 1977
+ 
+|527,653
+ 
+|
+May 31, 1978
+ 
+|8,512,509
+ 
+|
+May 31, 1979
+ 
+|15,169,209
+ 
+|
+May 31, 1980
+ 
+|30,034,077
+ 
+|
+May 31, 1981
+ 
+|18,610,514
+ 
+|
+
+
+
+
+Unless otherwise indicated, all section references are to the Internal Revenue Code in effect for the years in issue, and all Rule references are to the Tax Court Rules of Practice and Procedure.
+ 
+Respondent’s notices of deficiency reallocate income to petitioner from its subsidiaries located in Southeast Asia (collectively, the Asian subsidiaries) as follows: (1) N.S. Electronics (Pte.) Ltd. (N.S. Singapore); (2) N.S. Electronics (Hong Kong) Ltd. (N.S. Hong Kong); (3) N.S. Electronics Sdn. Bhd., which changed its name to National Semiconductor Sdn. Bhd. in 1980 (N.S. Malaysia); (4) N.S. Electronics, Ltd. (N.S. Thailand); (5) P.T. NS Electronics Bandung (N.S. Indonesia); and (6) N.S. Electronics Philippines, Inc. (N.S. Philippines). National Semiconductor Corporation also owned subsidiaries in Europe, Japan, and other countries (the other foreign subsidiaries). The sole remaining issue for decision is whether income should be reallocated under section 482 to petitioner from its Asian subsidiaries for its 1978 through 1982 fiscal years.
+ 
+
+
+FINDINGS OF FACT
+Some of the facts have been stipulated, and the stipulated facts are incorporated in our findings by this reference.
+ 
+Petitioner is a Delaware corporation with its principal office in Santa Clara, California.
+ 
+National Semiconductor Corporation and certain U.S. subsidiaries filed consolidated Federal tax returns on an accrual basis. As used in this opinion, “petitioner” will hereafter refer to National Semiconductor Corporation together with these consolidated U.S. subsidiaries. “NSC” will refer to National Semiconductor Corporation and all of its worldwide subsidiaries, whether or not consolidated for U.S. income tax purposes.
+ 
+
+
+I. Industry Background
+
+A. General
+Semiconductors are devices that use miniature electronic patterns formed on tiny silicon dies to control the flow of electrical current. Semiconductor components are the fundamental electronic building blocks used in modern electronic equipment and systems. Described below are the major product groupings of the semiconductor industry during the years in issue, which consisted of: (1) Discrete devices; (2) bipolar linear and bipolar digital integrated circuits (IC’s); and (3) metal oxide semiconductor (MOS) IC’s, consisting of memories and microprocessors.
+ 
+The semiconductor industry began with the invention of the transistor in 1947 by three scientists of Bell Laboratories. Transistors used solid-state semiconducting materials to switch, control, and amplify electrical currents. Before the invention of the transistor, vacuum tubes were used to perform these functions. Transistors used less power, were less costly to manufacture, operated cooler, and were more reliable than vacuum tubes. The initial products from this new semiconductor technology were transistors, diodes, resistors, and capacitors. These items are known as discrete semiconductor devices. A discrete device is composed of only one electrical component in a single die of semiconducting material.
+ 
+*2 In 1959, it was discovered that several different discrete electrical components, such as transistors, diodes, resistors, and capacitors, could be formed on the same piece of semiconducting material and linked together in electrical circuits. These multicomponent semiconductors became known as IC’s.
+ 
+Bipolar linear IC’s (linear IC’s) modified or amplified continuously variable (analog) signals. They were used primarily in consumer electronics and in communications and industrial applications. Bipolar digital IC’s performed switching and data manipulation by use of digital signals. Bipolar digital IC’s were used in products such as personal and mainframe computers and peripheral equipment and in telecommunications, automotive, industrial, and military equipment. MOS IC’s such as memories and microprocessors used digital signals as well. However, references to “bipolar”, “digital”, or “logic” are understood in the industry to mean “bipolar digital IC’s” and not MOS IC’s.
+ 
+Bipolar digital, linear, and hybrid products consisted of dies that were small relative to the dies used in MOS IC’s. The circuit design and bipolar wafer processing technology for such small-scale integration products (“small-die” products) were well established and standard in the industry. Manufacturing of dies used in large-scale integration products (“large-die” products) such as MOS IC’s was relatively capital-intensive.
+ 
+The invention of the IC was followed by an explosion of IC designs. The semiconductor industry, which was initially U.S. based, grew from a very small market at its inception to worldwide shipments of over $8 billion by 1980.
+ 
+
+
+B. Research and Development
+The design of a new IC required extensive use of a highly skilled and experienced work force. Prior to the availability of computer-aided design systems in the early 1980s, the development of a state-of-the-art microprocessor die could require 1 to 2 years of work by six design engineers. After a die was made and tested, engineers might find that the die did not operate the way they would like, and another round of modifications would progress through each stage of the design loop. Designing and building a new complex IC was estimated in 1980 to cost $150,000. This contributed substantially to the U.S. semiconductor industry’s total research and development (R & D) costs, which averaged from 7 to 10 percent of sales during the years in issue. Debt was not typically used to finance R & D in the semiconductor industry, and R & D efforts were to a significant extent determined by profit availability. Semiconductor companies obtained funds to conduct R & D for speculative future endeavors through their current successful businesses.
+ 
+
+
+C. Wafer Fabrication
+Silicon dies were fabricated in the form of wafers. Each wafer could contain anywhere between a few and thousands of good dies, depending on the complexity of the die design.
+ 
+After wafer fabrication, in a process known as “wafer sort”, every die on a wafer was tested by placing the electrical probes of the testing equipment into contact with the bonding pads of the circuit to be tested (i.e., the points at which wires would be attached during assembly). Dies that failed were marked for later disposal. As a general rule, the cumulative fabrication yield depended on the die size, the number of patterning steps, and the cumulative production experience of the fabricator. The larger the die, the greater the possibility of physical defect. Defects were most likely introduced in the patterning steps. Yields tended to improve as the manufacturers obtained more test information and improved production processes.
+ 
+
+
+D. Semiconductor Manufacturers
+*3 U.S.-based semiconductor manufacturers (or die fabricators) included “merchant” manufacturers, such as NSC, which sold most of the semiconductors they manufactured to unrelated buyers, and “captive” manufacturers, which incorporated most or all of the semiconductors they manufactured into the electronic equipment they produced.
+ 
+The leading U.S. semiconductor merchant manufacturers included Texas Instruments (TI); Motorola; NSC; Advanced Micro Devices, Inc. (AMD); and Intel. TI had semiconductor packaging facilities in Malaysia, Singapore, the Philippines, Taiwan, and El Salvador. Motorola had packaging and/or final test operations in Hong Kong, Korea, Mexico, Malaysia, and the Philippines. Intel had packaging operations in Malaysia, Barbados, and the Philippines. In general, wafer design and fabrication occurred primarily in the United States and secondarily in Western Europe and Japan.
+ 
+
+
+E. The Packaging Process
+After wafer fabrication and wafer sort, the individual dies were encapsulated or “packaged” (also referred to as assembled) to protect them from physical abuse. The principal elements of the package were: (1) A metallic lead frame that connected the packaged circuit with metal lead wires (leads) to a printed circuit board; (2) thin wires that connected bonding pads on the die to the leads of the lead frame; and (3) a package made of epoxy (also called plastic), ceramic, metal, or another protective material in which the die was encapsulated.
+ 
+The packaging process began by sawing the wafer in a process called “scribe and break” to separate it into individual dies. Nonworking dies were discarded, and the remaining dies were optically inspected for edge integrity, contamination, and other defects.
+ 
+Dies used in customer product applications had to be secured and electrically connected to metal lead frames, containing multiple leads that were then plugged into a circuit board or other end-product application.
+ 
+The “die attach process” was used to secure and electrically connect the IC dies to lead frames. In the “eutectic” die attach process flow (“process flow” was a term used to refer to the sequence of events to manufacture a given package type), the die was connected to the lead frame by heating a precious metal, usually gold, and placing a spot of the heated metal on the frame; the die then would be placed on the heated spot and thereby bonded to the frame (gold eutectic die attach). In the “silver epoxy” die attach process flow, the die was connected, without the necessity of heating precious metal, by gluing the die to the frame with a spot of silver epoxy (epoxy die attach). In terms of materials’ cost, the gold eutectic die attach process flow was more expensive than the epoxy die attach process flow.
+ 
+After die attach, in a process called wire-bonding, microscopic wires were connected at one end to the bonding pads on the die and at the other end to the leads of the lead frame to establish the electrical connections. After optical inspection, the package was sealed. The external portion of the metallic leads was usually coated with lead-tin or plated with tin or gold to improve the electrical connection with a printed circuit board and to protect the leads from oxidation and corrosion. The leads were then trimmed and the package marked for future identification.
+ 
+*4 The packaging process did not add any electrical functions to the circuits. To the packager, the type of die was “transparent” to the packaging process because many types of die could be manufactured in the same package type. Thus, the electrical function of the die that was packaged in a finished semiconductor device was unimportant to packagers, because they were compensated based on the type of packaging process rather than on the type of die.
+ 
+The “dual-in-line” package (DIP), named for its two rows of in-line leads, was the dominant IC package type during the years in issue. “Plastic DIP”, which is also referred to as P–DIP, Molded DIP, or M–DIP (hereinafter referred to as M–DIP), with 8, 14, or 16 leads was considered a low-density or “low-lead” device, and an M–DIP device with 18 through 40 leads was considered a high-density or “high-lead” device. Low-lead M–DIP devices were the most widely produced IC package from 1978 through 1982.
+ 
+“Ceramic DIP” packages are packages of multilayered ceramic, glass/ceramic, or glass/ceramic/metal construction. Ceramic DIP packages are usually sealed using a gold-plated metal lid and a gold-tin eutectic sealing preform. “CerDIP” packages are packages that have a metalized ceramic base and cap, a separate lead frame, and a glass sealing material. For the same lead count, the materials’ cost of a Ceramic DIP package is considerably higher than the materials’ cost of a CerDIP package, although the required labor and overhead are the same. Ceramic DIP and CerDIP packages were more expensive than M–DIP packages.
+ 
+
+
+F. Location of Packaging Operations
+The overwhelming majority of semiconductors that were sold by U.S. merchant manufacturers to commercial customers were packaged outside the United States. In contrast to design and fabrication, semiconductor packaging operations traditionally required large amounts of low-skilled labor. Labor cost savings was the impetus for U.S. semiconductor manufacturers to locate assembly operations in the Far East. Wages there were low, and the labor force was reliable, disciplined, and comparatively well educated. The Far East also had low transportation costs and favorable labor laws, customs procedures, U.S. tariff provisions, and investment incentives, including tax holidays. The leading U.S. merchant semiconductor manufacturers had foreign affiliates assemble integrated circuits in low-wage countries, primarily in Southeast Asia. Therefore, NSC did not gain a competitive advantage, but avoided a disadvantage, through its Southeast Asian assembly operations.
+ 
+During the years in issue, the packaging process was becoming increasingly automated, resulting in increasing capital requirements and more complex equipment maintenance and operating procedures. Yields in the packaging stage typically were substantially higher than yields at the fabrication stage.
+ 
+
+
+G. Testing
+In 1978, of the 82 percent of the U.S. shipments of semiconductors packaged offshore, 28 percent were returned to the United States for the “final testing” that was performed after packaging and 54 percent were tested outside the United States.
+ 
+*5 The final tests that were performed included: (1) “Open/short testing”, to ensure that electrical current would flow through the device; (2) “burn-in” or “high-reliability” testing, which involved subjecting the device to an electrical flow and extremely high temperature for a specified period; and (3) “parametric” testing, which involved computerized testing of the parameters of the device to ensure proper functioning.
+ 
+
+
+H. Individual Device Manufacturers
+The die fabricators used a variety of individual device manufacturers (IDM’s) to assemble and/or test devices. IDM’s were, on average, smaller, less technologically advanced, and less capital-intensive than the U.S.-owned packaging subsidiaries. IDM’s were typically used by smaller semiconductor manufacturers and by the larger U.S. merchant manufacturers during peak market conditions to offset temporary shortfalls in in-house assembly capacity.
+ 
+IDM’s, during the years in issue, included Anam Industrial Co. (Anam) in Korea; Integrated Microelectronics, Inc. (IMI), in the Philippines; Dynetics, Inc. (Dynetics), in the Philippines; Elcap Electronics Ltd. (Elcap) in Hong Kong; Stanford Microsystems, Inc. (SMI), in the Philippines; and others.
+ 
+Some of the IDM’s had U.S. affiliates through which they sold their services. For example, Amkor Electronics, Inc. (Amkor), a U.S. company, sold the services of Anam to customers primarily in the United States, purchased equipment, acted as a marketing arm, and provided engineering support to Anam. Amkor also billed customers for packaging done by Anam. Anam and Amkor will sometimes be referred to as Anam/Amkor. Anam and Amkor generated consolidated financial statements. Amkor had no assembly or testing capabilities in the United States. Customers of Amkor could not deal directly with Anam. Interlek, Inc. (Interlek), a U.S. corporation, was the U.S. sales and marketing arm of Dynetics and was located in San Mateo, California. The ownership of the two corporations was identical. Dynetics and Interlek will sometimes be referred to as Dynetics/Interlek. Automated Microelectronics, Ltd. (AME), was the U.S. sales office for IMI, the manufacturing arm. AME and IMI will be referred to as AME/IMI.
+ 
+IDM’s performed the same type of individual device manufacturing that was performed by the Asian subsidiaries. Generally, semiconductor companies that developed and fabricated silicon wafers and contracted with IDM’s for packaging services consigned the silicon wafers to the IDM’s. The IDM’s then sawed the consigned wafers into individual dies and encapsulated the dies to produce fully manufactured individual devices. The prices that were charged by IDM’s for the manufacture of devices with consigned dies were “die-free” in that they did not include compensation for the dies.
+ 
+Typically, materials were provided by the IDM for the manufacture of M–DIP products, but not for Ceramic DIP and CerDIP packages. Ceramic materials were supplied by the die fabricators to IDM’s for both the Ceramic DIP and CerDIP packages.
+ 
+*6 In contrast to the Asian subsidiaries, the IDM’s typically did not perform parametric testing and high-reliability testing. Also in contrast to the Asian subsidiaries, not all IDM’s bore the costs of holding die and finished goods inventory for customers. Typically, IDM’s would ship finished products soon after the manufacture was complete. IDM’s, unlike the Asian subsidiaries, did not always bear the cost of shipping finished devices.
+ 
+
+
+I. Pricing in the Semiconductor Industry
+Competition is characteristic of the segment of the semiconductor industry in which NSC operates. During the years in issue, there was generally an excess capacity in the semiconductor industry. NSC, which conducted business other than the manufacture of semiconductors, competed with a number of major U.S. and Japanese companies whose semiconductor business was only a part of their overall operations.
+ 
+In the late 1970s, there was a growing, viable group of IDM’s in Asia. The IDM’s competed on price and quality to attract packaging business. Quality in the context of high yields often caused a seemingly higher-priced company to be preferable because the risk of a poor yield from the lower-priced company would be less desirable.
+ 
+Pricing determinations by the IDM’s were dictated by both internal and external factors. Competitive market forces, as well as internal costs, capital requirements, and profit objectives, were considered by the IDM when quoting prices. The internal costs and capital requirements of IDM’s differed depending on the type and range of manufacturing performed. An IDM that packaged a full range of package types and provided materials, engineering, support, and testing capabilities would have a different set of internal costs and capital requirements than an IDM that packaged a small range of products from consigned piece parts. The greater the manufacturing activities provided, the higher the price per unit.
+ 
+Margins earned by IDM’s varied from country to country depending on factors such as the local labor rates, length of time in business, source and costs of materials, local utilities, and political environment. While the cost varied, the sales price of an identical packaging service did not vary from one country to another, due to the competitive nature of the packaging service business. The result was, if the costs were higher and the selling price were the same, the margin would be less. However, if the services provided or the sales and financing terms differed, the sales price would reflect this.
+ 
+Volume pricing, i.e., discounts for volume purchases, was not negotiated by each package type but was determined by the total volume of the entire relationship between an IDM and its customer.
+ 
+An entity that was subcontracting with an IDM in a long-term relationship would wish to promote stability in the IDM and would also provide a sufficient profit to the IDM to allow it the capital required to advance technology with the next generation of equipment. In establishing a relationship with an IDM, price, quality, service, technology, and delivery were important factors.
+ 
+
+
+J. Industry Recession in 1981 and 1982
+*7 In the fourth quarter of calendar year 1981, the business climate in the semiconductor industry began to weaken. This downturn continued through calendar year 1982.
+ 
+
+
+II. National Semiconductor Corporation
+
+A. General
+NSC was formed in 1967 and sought to produce the full range of semiconductor products (linear, bipolar, and MOS). During the years in issue, NSC was engaged in the manufacture of a variety of electronic products for use by consumers, industry, and Government. Those products included IC’s, discrete devices, hybrid circuits, electronic displays, module components, calculators, digital watches, microcomputers, point-of-sale terminals, add-on computer memory systems, central processing units, and supplies for the semiconductor industry. Only some of these products are involved in these cases. NSC’s Semiconductor Division manufactured over 5,000 different IC’s, many in several versions, and was one of the world’s leading manufacturers of IC’s and semiconductor products. NSC derived the vast majority of its funds through equity financing.
+ 
+During the late 1970s, the management of NSC decided that NSC needed to enter the large-die market in order to continue growing. NSC’s existing small-die wafer fabrication facilities could not make large-die products.
+ 
+
+
+B. Division of Activities by Location
+1. Research and Development
+Petitioner’s headquarters and administrative operations were located in Santa Clara, California. NSC engaged in R & D in Santa Clara for new die circuit designs, semiconductor devices, and wafer processing technology. In its annual reports, NSC reported the following amounts as R & D expense during the taxable years in issue:
+ 
+
+
+
+
+Taxable Year
+ 
+| 
+|Amount
+ 
+|
+1978
+ 
+| 
+|$ 43,186,000
+ 
+|
+1979
+ 
+| 
+|67,935,000
+ 
+|
+1980
+ 
+| 
+|80,193,000
+ 
+|
+1981
+ 
+| 
+|96,043,000
+ 
+|
+1982
+ 
+| 
+|109,056,000
+ 
+|
+ 
+|Total
+ 
+|$396,413,000
+ 
+|
+
+
+
+
+NSC’s total expenditure on R & D (excluding depreciation) for all product lines was 9.4 percent of consolidated net sales for the 5 fiscal years 1978 through 1982. In 1982, NSC reported that its semiconductor component R & D expense was 11.7 percent of sales compared to overall R & D expense of 9.9 percent of consolidated sales.
+ 
+
+2. Die Fabrication
+NSC manufactured silicon dies in wafer form at wafer fabrication facilities in, among other locations, Santa Clara; Danbury, Connecticut; and Salt Lake City, Utah. National Semiconductor (U.K.) Ltd. (NSUK), organized under United Kingdom law and located in Greenock, Scotland, designed semiconductor dies and devices, manufactured and packaged silicon dies and completed semiconductor devices, and sold finished semiconductors and related devices. Petitioner and NSUK sold dies in wafer form to the Asian subsidiaries. NSC occasionally sold unpackaged semiconductor dies to unrelated parties.
+ 
+NSC’s subsidiary, Dyna–Craft, Inc. (Dyna–Craft or DCI), a California corporation located in Santa Clara, manufactured and electroplated, with precious metals, metal frames and headers that were used to manufacture semiconductors. Dyna–Craft sold frames and headers to related entities, including the Asian subsidiaries, and to unrelated persons.
+ 
+
+3. Asian Subsidiaries’ Organization and Operations
+*8 Petitioner and other U.S. semiconductor manufacturers began moving their semiconductor packaging operations to subsidiaries in Asia in the late 1960s. This allowed them to take advantage of lower-cost labor and overhead and of the tax and other investment incentives provided by local Asian governments. It was essential for NSC to achieve labor cost savings by locating its packaging operations in Southeast Asia, and the Asian subsidiaries were dependent on NSC for a secure source of semiconductor dies to justify their substantial investment in assembly equipment, packaging methods, and personnel.
+ 
+The Asian subsidiaries performed semiconductor packaging and associated activities at several plants in Malaysia, Singapore, Hong Kong, Thailand, Indonesia, and the Philippines. Unaffiliated IDM’s performed a small amount of packaging for NSC.
+ 
+N.S. Singapore was organized under the laws of Singapore in 1968. N.S. Singapore packaged and tested semiconductors and related devices. NSSG, a facility of N.S. Singapore, packaged semiconductors and related devices. The Dyna–Craft division of N.S. Singapore (DCIS) plated and performed other activities with respect to parts and supplies used in the semiconductor industry and sold them to related and unrelated persons.
+ 
+N.S. Hong Kong was organized under the laws of Hong Kong in 1969. It packaged and tested a variety of semiconductors, transistors, and related devices and subcontracted the packaging of similar devices. NSHK, a facility of N.S. Hong Kong, packaged semiconductors and related devices.
+ 
+N.S. Malaysia was organized under the laws of Malaysia in 1971. NSEP, NSEM, and NSSB, facilities of N.S. Malaysia, packaged semiconductors and related devices. The Dyna–Craft division of N.S. Malaysia (DCIP) plated and performed other activities with respect to parts and supplies used in the semiconductor industry and sold them to related and unrelated persons.
+ 
+N.S. Thailand was organized under the laws of Thailand in 1973. NSEB, a facility of N.S. Thailand, packaged semiconductors and related devices.
+ 
+N.S. Indonesia was organized under the laws of Indonesia in 1973. NSEI, a facility of N.S. Indonesia, packaged semiconductors and related devices.
+ 
+N.S. Philippines was organized under the laws of the Philippines. NSPH, a facility of N.S. Philippines, packaged semiconductors and related devices. In 1981, Dyna–Craft International Manila, Inc. (DCIM), a subsidiary of NSC, was merged into N.S. Philippines. DCIM plated and performed other activities related to parts and supplies used in the semiconductor industry and sold them to related and unrelated persons.
+ 
+DCIS (Singapore), DCIP (Malaysia), and DCIM (Manila, the Philippines) are collectively referred to as the Dyna–Craft divisions. The Dyna–Craft divisions’ customers included Anam, Elcap, and Dynetics.
+ 
+The relationships among the Asian subsidiaries and petitioner’s Asian facilities are summarized as follows:
+ 
+
+
+
+
+Legal Entity
+ 
+|Facility Within Legal Entity
+ 
+|
+N.S. Singapore
+ 
+|NSSG, DCIS
+ 
+|
+N.S. Hong Kong
+ 
+|NSHK
+ 
+|
+N.S. Malaysia
+ 
+|NSEP, NSEM, NSSB, DCIP
+ 
+|
+N.S. Thailand
+ 
+|NSEB
+ 
+|
+N.S. Indonesia
+ 
+|NSEI
+ 
+|
+N.S. Philippines
+ 
+|NSPH, DCIM1
+ 
+|
+
+
+
+
+*9 The Asian subsidiaries purchased dies from petitioner and purchased other materials, including lead frames, headers, packages, and circuit boards, from Dyna–Craft plants, from Japan, and from the country and local area of a plant. Equipment was also purchased from Japan.
+ 
+The Asian subsidiaries packaged the following products: IC’s, discrete devices, hybrid circuits, electronic displays, module components, calculators, digital watches, printed circuit boards, and electronic games. The Asian subsidiaries used the epoxy die attach method on the majority of its packages.
+ 
+Several of the Asian subsidiaries held dies and finished goods inventory and financed inventories held by them of the dies and sometimes of the finished goods. In addition, the Asian subsidiaries bore the cost of shipping finished devices. On the whole, the Asian subsidiaries had successful digital and linear lines and were efficient, cost-competitive packagers.
+ 
+The Asian subsidiaries employed as many as 22,700 employees, the majority of whom worked in the semiconductor facilities. As part of the Asian subsidiaries’ substantial investment in its packaging operations, they undertook considerable training and recruiting of their employees. For example, the training staff in NSEM (in Malacca), from 1978 through 1982, consisted of between 15 and 20 persons and trained workers to be operators and servicers. Servicers were operators who could service their own machinery. There was also a cross-training program that trained machine operators for multiple job functions and thus added flexibility to the work force. At that facility, training time for an operator took a minimum of 2 weeks. NSC’s Malacca facility also had a supervisors’ training program that dealt with production methods, management skills, and labor law compliance. NSEP (in Penang) instituted a training program for technical training in electronic engineering. It was a 3–year program that led to certification as a qualified technical person. In addition, the Asian subsidiaries contributed to improvements on machinery and equipment in the packaging facilities and to development of new equipment for the plants.
+ 
+The Asian subsidiaries increased the efficiency of the packaging through process improvements, which, among other things, improved output per operator. The Asian subsidiaries engaged in the following cost-control functions: (1) Use of a standard cost system with monitoring of labor and materials’ costs and (2) use of process engineering to obtain cost improvements, which were then incorporated into estimation of standard costs. Between 100 and 200 process engineers and at least one technician per engineer at the Asian subsidiaries were assigned on a full-time basis to improve the processes and process development at the Asian subsidiaries between 1978 and 1982.
+ 
+The Asian subsidiaries used “actual cost report kits”, which reported actual costs, as a systematic method to determine the cost of their processes and flows. The kits were prepared every 4–week period and covered virtually all of the package types and lead counts.
+ 
+
+4. Testing
+*10 Once the individual devices were completed, they were tested either in the United States or in Asia. The tests that were performed varied based on the nature of the device. The Asian subsidiaries performed testing on the majority of finished devices that they packaged, including open/short, high-reliability, and parametric testing. Generally, more than one Asian subsidiary location was involved in the manufacturing and testing of any one individual device.
+ 
+
+5. Sale of Completed Devices
+The majority of devices packaged by the Asian subsidiaries were ultimately sold to petitioner. The Asian subsidiaries also sold finished semiconductors and related devices to NSUK and to other related and unrelated parties.
+ 
+NSC sold finished semiconductors and related products that were bought from the Asian subsidiaries to original equipment manufacturers, independent distributors, NSC’s foreign subsidiaries, and the U.S. Government.
+ 
+
+6. Other Foreign Subsidiaries
+NSC had other subsidiaries in Asia, Australia, Japan, Taiwan, Malaysia, Hong Kong, Germany, Canada, and Israel. These subsidiaries variously designed semiconductors; purchased semiconductors and similar devices directly from petitioner and the Asian subsidiaries and sold devices to unrelated parties; manufactured precision tools; and performed electroplating of frames.
+ 
+NSC’s other foreign subsidiaries included the following entities: National Semiconductor Asia Pacific PTE Ltd. (N.S. Asia Pacific), organized in July 1980, which purchased completed semiconductors and similar devices from the Asian subsidiaries and petitioner and sold them to unrelated parties; N.S. Australia (formerly N.S. Electronics Pty. Ltd. and N.S. Distributors Pty. Ltd.), which purchased finished semiconductor devices from petitioner and the Asian subsidiaries for sale to unrelated parties; Micro Machining Sdn. Bhd. (NSMM), located in Malaysia, which manufactured precision tools; S.P.C. Ltd. (SPC), located in Hong Kong, which performed electroplating of frames; and National Semiconductor (Far East) Ltd. (N.S. Far East), organized on March 9, 1981.
+ 
+
+
+C. NSC’s Accounting System
+1. Standard Cost System
+Like most organizations that produce a large number of individual products using processes that are both complex and relatively standardized, NSC used a standard cost system for product costing. It assigned a specified cost to each material component and labor operation that was required to complete each stage in the production process. A standard amount of manufacturing overhead costs was also applied. The total standard cost was computed as the sum of the material, labor, and overhead costs when the product was completed.
+ 
+“Overhead” costs were those indirect costs that were most directly identifiable with the manufacturing activities and were allocated to production on a unit-by-unit basis. Indirect costs that were related to manufacturing activities, but not identifiable with specific units of production, were classified as “manufacturing period” expenses. The balance of indirect costs were commonly classified as nonmanufacturing period expenses, engineering, R & D, selling, and general and administrative expenses.
+ 
+*11 Any difference that was identified as a result of comparing the standard cost of producing a specific quantity of a product with the actual cost of producing that quantity was called a variance. Variances had two potential causes: either the standard cost was not accurate or production process irregularities resulted in changed actual costs of production. To determine which was the cause required a detailed investigation.
+ 
+
+2. Pricing of Semiconductor Products and Materials
+a. Third–Party Pricing
+Because petitioner faced stiff competition from other large merchant semiconductor manufacturers for most of its products, prices were set at levels allowed by the market. NSC’s sales representatives frequently participated in bids for semiconductor orders; therefore NSC had opportunities to learn the prices at which its competitors were willing to sell.
+ 
+NSC was first to introduce certain products and was expected to maintain a leadership position in them for around 12 to 18 months. In such cases, NSC had more flexibility in pricing and was able to earn higher margins. However, higher margins had to be balanced with the goal of encouraging a higher level of adoption of the products by customers.
+ 
+NSC regularly published catalogs of product prices. Prices varied by volume; on larger orders, customers negotiated for lower prices.
+ 
+
+b. Transfer Pricing
+For financial and tax reporting purposes, NSC treated as sales (1) the transfer of semiconductor dies in wafer form and associated materials to the Asian subsidiaries (outbound sales) and (2) the transfer of assembled devices from the Asian subsidiaries back to sales and marketing affiliates in the United States (inbound sales) or to affiliates in third countries.
+ 
+NSC’s Corporate Finance Manual for fiscal year 1981 stated that “The objectives of the transfer pricing system [were] to: * * * Allow all wafer fabrication locations to recover costs, recover research and development expenditures, and earn a reasonable profit” and made no reference to large-die or small-die lines or to successful or unsuccessful R & D. Under the system in place until NSC’s 1981 year, NSC spread its R & D expenditures among all of its product lines and over a 5–year recovery period. After 1981, R & D expenditures were to be determined only with respect to the “product family” to which they were related.
+ 
+Under NSC’s transfer pricing system, NSC’s U.S. wafer fabrication operations incurred substantial operating losses from the sale of semiconductor dies and materials (including sales from Dyna–Craft) to its affiliates in Southeast Asia during each of the years in issue. The Asian subsidiaries reported net profits in every year in issue.
+ 
+Petitioner’s losses from its wafer fabrication activities were as follows during the years in issue (in millions of dollars):
+ 
+
+
+
+
+|1978
+ 
+|1979
+ 
+|1980
+ 
+|1981
+ 
+|1982
+ 
+|Total
+ 
+|
+
+
+
+
+
+
+
+Net sales
+ 
+|160.2
+ 
+|244.1
+ 
+|282.7
+ 
+|372.5
+ 
+|366.3
+ 
+|1,425.9
+ 
+|
+Operating profit
+ 
+|(40.3)
+ 
+|(27.1)
+ 
+|(54.6)
+ 
+|(83.8)
+ 
+|(89.3)
+ 
+|(295.2)
+ 
+|
+Operating profit
+ 
+|||||||
+percentage
+ 
+|−25.2%
+ 
+|−11.1%
+ 
+|−19.3%
+ 
+|−22.5%
+ 
+|−24.4%
+ 
+|−20.7%
+ 
+|
+
+
+
+
+*12 Petitioner’s weighted average return on operating assets was negative 25.68 percent over the years in issue. Even including its distribution margins, under its transfer pricing system, petitioner reported, over the years in issue, income of only $11.8 million for the components packaged by the Asian subsidiaries while the Asian subsidiaries reported, over the years in issue, income of $182.8 million.
+ 
+
+
+III. The Eurotechnique Transaction
+On December 11, 1978, petitioner and Saint-Gobain-Pont-a-Mousson (SGPM), a French industrial group, executed a declaration of intent to establish a joint venture to design, manufacture, and market MOS IC’s. On April 10, 1979, petitioner and SGPM formed the joint venture company “Eurotechnique S.A.” (Eurotechnique). Petitioner acquired a 49–percent equity interest in Eurotechnique.
+ 
+In 1981, NSC entered into an agreement with Eurotechnique to provide packaging to Eurotechnique at certain of NSC’s Asian subsidiaries. Pursuant to this agreement, Eurotechnique consigned die, and the Asian subsidiaries provided packaging and test materials.
+ 
+The devices that were packaged for Eurotechnique by NSEB (a facility of N.S. Thailand) were 14, 16, and 18 lead M–DIP and Ceramic DIP. The devices were assembled by NSEB using the process already in use at NSEB at existing facilities. The Asian subsidiaries continued to package devices for Eurotechnique after 1982.
+ 
+
+
+IV. Respondent’s Adjustments
+Respondent’s notices of deficiency reallocated income to petitioner from its Asian subsidiaries in the following amounts for 1978 through 1982:
+ 
+
+
+
+
+Taxable Year Ended
+ 
+| 
+|Amount
+ 
+|
+May 31, 1978
+ 
+| 
+|$ 15,216,000
+ 
+|
+May 31, 1979
+ 
+| 
+|25,124,000
+ 
+|
+May 31, 1980
+ 
+| 
+|21,631,000
+ 
+|
+May 31, 1981
+ 
+| 
+|34,334,000
+ 
+|
+May 31, 1982
+ 
+| 
+|25,932,000
+ 
+|
+ 
+|Total
+ 
+|$122,237,000
+ 
+|
+
+
+
+
+Respondent’s expert’s final recommendation at trial was a reallocation of $83.1 million to petitioner. Because the notice amount was less than the expert’s recommendation in some years, the maximum total adjustment is under $77 million.
+ 
+
+
+OPINION
+
+I. Introduction
+The issue presented to the Court is whether the transfer prices that were charged between petitioner and its Asian subsidiaries meet the arm’s-length standard of section 482. Petitioner claims to have proven that respondent’s notice determinations are unacceptable and to have presented comparable transactions between unrelated parties and industry data which prove that its transfer prices satisfy the arm’s-length standard. Petitioner argues that, under the comparable uncontrolled transactions approach dictated by the regulations under section 482, petitioner’s proof must prevail. Respondent claims that petitioner has not presented comparable uncontrolled prices to prove that its transfer pricing system should be upheld and thus the amounts determined under the notices of deficiency should be sustained or, alternatively, that we should adopt the recommendations of respondent’s expert.
+ 
+*13 Both parties presented a number of experts to support their positions. All of the witnesses were well qualified and articulate. We do not list or discuss here the qualifications of the experts; our decision is not based on comparing qualifications, and listing them would unduly lengthen this opinion. Similarly, we do not use titles, such as “Doctor” or “Professor”, in this opinion, because we do not wish to imply any greater deference to the academic experts than to the industry experts who testified. Our conclusions here are not based on the credentials of the experts but on the degree to which their opinions are supported by the evidence and by consistent reasoning. We reject opinions that are explained only by allegiance to the party employing the expert. We do not discuss at length any opinion that, although undisputed or logically persuasive, does not affect our factual determinations in these cases.
+ 
+
+
+II. Applicable Law
+
+A. Allocations Under Section 482
+Section 482 gives respondent broad authority to allocate gross income, deductions, credits, or allowances between two related corporations if the allocations are necessary either to prevent evasion of taxes or clearly to reflect the income of the corporations. The applicable standard is arm’s-length dealing between taxpayers unrelated by ownership or control. Sec. 1.482–1(b)(1), Income Tax Regs. As stated in Sundstrand Corp. v. Commissioner, 96 T.C. 226, 353 (1991):
+The purpose of section 482 is to prevent the artificial shifting of the net incomes of controlled taxpayers by placing controlled taxpayers on a parity with uncontrolled, unrelated taxpayers. * * *
+* * * the regulations attempt to identify the “true taxable income” of each entity based on the taxable income which would have resulted had the entities been uncontrolled parties dealing at arm’s length. * * *
+ 
+
+
+B. Petitioner’s Burden of Proof
+When the Commissioner has determined deficiencies based on section 482, the taxpayer bears the burden of showing that the allocations are arbitrary, capricious, or unreasonable. Sundstrand Corp. v. Commissioner, supra at 353; Eli Lilly & Co. v. Commissioner, 84 T.C. 996, 1131 (1985), affd. on this issue, revd. in part, and remanded 856 F.2d 855, 860 (7th Cir.1988). Respondent’s section 482 determination must be sustained absent a showing of abuse of discretion. Sundstrand Corp. v. Commissioner, supra at 353; Bausch & Lomb, Inc. v. Commissioner, 92 T.C. 525, 582 (1989), affd. 933 F.2d 1084 (2d Cir.1991); G.D. Searle & Co. v. Commissioner, 88 T.C. 252, 358 (1987). “Whether respondent has exceeded his discretion is a question of fact. * * * In reviewing the reasonableness of respondent’s determination, the Court focuses on the reasonableness of the result, not on the details of the methodology used.” Sundstrand Corp. v. Commissioner, supra at 353–354.
+ 
+Before trial, petitioner filed a memorandum requesting that the burden of proof be shifted to respondent with regard to certain allegations in respondent’s amendments to answer, pertaining to methods of allocation based on outbound sales prices, because they were beyond the scope of the notices of deficiency. The Court issued an order providing that the burden of proof would not be shifted. Respondent argues that petitioner thus bears the further burden of proving that the adjustment made by Thomas A. Horst (Horst), respondent’s expert, to die and material pricing is arbitrary, capricious, or unreasonable.
+ 
+*14 Horst’s final recommended reallocations were substantially lower than the amounts determined by respondent and were based on a different methodology from that used to obtain the notice amounts. Horst’s recommendations bear no relation to the notice amounts. Thus, we agree with petitioner that petitioner bears the burden of proving only that the notice determinations are arbitrary, capricious, or unreasonable. Once it accomplishes that, it does not bear this burden with respect to Horst’s recommendations. Petitioner’s burden is then to persuade us that its prices were consistent with arm’s-length pricing. Eli Lilly & Co. v. Commissioner, 856 F.2d 855, 860 (7th Cir.1988), affg. in part, revg. in part, and remanding 84 T.C. 996 (1985); Seagate Technology, Inc. v. Commissioner, 102 T.C. ––––, –––– (1994) (slip op. at 20); Sundstrand Corp. v. Commissioner, supra at 354; Perkin–Elmer Corp. & Subs. v. Commissioner, T.C.Memo. 1993–414.
+ 
+Petitioner contends that respondent has not presented evidence to support the deficiencies in the notices. In determining the notice amounts, respondent grouped each Asian subsidiary’s production by package type or product. To determine allowed transfer prices, respondent determined an arm’s-length markup and then multiplied the estimated cost base excluding dies (the die-free cost) for each grouping by that markup. Respondent determined the deficiencies based on the difference between respondent’s allowed transfer prices and the amounts actually charged by the Asian subsidiaries.
+ 
+The range of allowed profit markup percentages used in the notices was as follows:
+ 
+
+
+
+
+1978
+ 
+|1979
+ 
+|1980
+ 
+|1981
+ 
+|1982
+ 
+|
+10 to 28.8%
+ 
+|10 to 28.8%
+ 
+|4 to 45%
+ 
+|5 to 32.5%
+ 
+|2.5 to 25%
+ 
+|
+
+
+
+
+Respondent did not support these markups at trial. Instead, respondent’s expert, Grant M. Clowery (Clowery), determined and Horst endorsed a 57–percent markup as the proper arm’s-length markup, which was higher than the markup percentages used in the notices.
+ 
+Petitioner also contends that the determinations in the notices should not be sustained because (1) respondent omitted purchases from the Dyna–Craft operations from its calculations and (2) the notices do not allow the Asian subsidiaries any return for holding inventories. Petitioner’s arguments are buttressed by Horst’s analysis, which included purchases from Dyna–Craft and conceded the need for computing a return for the inventory-holding function.
+ 
+Respondent did not support the proposed $122.2 million reallocation at trial and, instead, relied heavily on Horst’s analysis. Horst performed an economic analysis of the transfer prices charged by NSC for sales of semiconductor products to and from foreign subsidiary corporations in Southeast Asia (the SEA affiliates) during fiscal years ended May 31, 1978, to May 31, 1982. Horst’s analysis is at the core of respondent’s case and, at trial, respondent recommended Horst’s conclusion that only a total of $83.1 million should be reallocated to petitioner over the years in issue. The results of Horst’s analysis bear no recognizable relation to respondent’s notice amounts. Nevertheless, on brief, respondent argues that the deficiency notice determinations were reasonable without providing any further support of the $122.2 million reallocation or of the markups used to calculate this amount. Respondent’s advancement of Horst’s $83.1 million adjustment undercuts the notice determinations. That adjustment is almost $40 million less than the adjustments in the notices. Further, the notice determinations fail the test of reasonableness under Horst’s “profit-split” analysis for most of the years in issue. Respondent cannot contend that the notice adjustments are “reasonable” on the one hand while adopting an analysis that rejects such adjustments as unreasonable on the other.
+ 
+*15 Because evidence presented by each side demonstrated that the notices were unreasonable, we hold that the determinations in the notices are arbitrary, capricious, or unreasonable.
+ 
+
+
+III. Petitioner’s Evidence of Comparables
+
+A. Applicable Law
+We must next determine whether petitioner’s own allocations conform to the arm’s-length requirement of section 482. Section 1.482–2(e)(1), Income Tax Regs., for the years in issue, provides the following standard:
+(i) Where one member of a group of controlled entities (referred to in this paragraph as the “seller”) sells or otherwise disposes of tangible property to another member of such group (referred to in this paragraph as the “buyer”) at other than an arm’s length price (* * * a “controlled sale”), the district director may make appropriate allocations between the seller and the buyer to reflect an arm’s length price for such sale or disposition. An arm’s length price is the price that an unrelated party would have paid under the same circumstances for the property involved in the controlled sale. * * *
+ 
+The regulations further describe the methods that may be used to determine an arm’s-length price—the comparable uncontrolled price (sometimes referred to as CUP) method, the resale price method, and the cost-plus method—and the standards for applying each method. If there are “comparable uncontrolled sales”, the regulations require that the CUP method be utilized. If there are no comparable uncontrolled sales, the resale price method must be utilized if the standards for its application are met. If all of the standards for the mandatory application of the resale price method are not satisfied, either that method or the cost-plus method may be used, depending upon which method is more feasible and is more likely to result in an accurate estimate of an arm’s-length price. Where none of the three methods can reasonably be applied, some other appropriate method may be used. Sec. 1.482–2(e)(1), Income Tax Regs.
+ 
+Under the CUP method of pricing, the arm’s-length price of a controlled sale is equal to the price paid in comparable uncontrolled sales including necessary adjustments. “Uncontrolled sales” are sales in which the seller and the buyer are not members of the same controlled group. These include sales between a member of the controlled group and an unrelated party, as well as unrelated sales in which none of the parties are members of the controlled group. Uncontrolled sales are considered “comparable” to controlled sales if the physical property and circumstances involved in the uncontrolled sales are identical to the physical property and circumstances involved in the controlled sales or if such properties and circumstances are so nearly identical that any differences either have no effect on price or such differences can be reflected by a reasonable number of adjustments to the price of the uncontrolled sales. Adjustments can be made only where such differences have a definite and reasonably ascertainable effect on price. Some of the differences listed in the regulation as possibly affecting price are differences in quality, terms of sale, intangible property associated with the sale, level of the market, and geographic market in which the sale takes place. Whether differences render sales noncomparable depends upon the particular circumstances and property involved. Sec. 1.482–2(e)(2), Income Tax Regs.
+ 
+*16 The resale price method is not relevant to this opinion. Under the cost-plus method, the arm’s-length price is computed by adding to the cost of producing property a markup equal to such cost multiplied by the “appropriate gross profit percentage”, plus or minus any adjustments to make the sales comparable. The appropriate gross profit percentage is equal to the gross profit percentage earned by the seller (in the controlled sale) or another party on the uncontrolled sale most similar to the controlled sale in question.
+ 
+Petitioner claims to have proven through evidence of comparable prices that its transfer prices should be respected under section 482.
+ 
+
+
+B. Third–Party Prices as Comparable Uncontrolled Prices
+In addition to expert reports, each party introduced evidence consisting of prices listed on invoices, offers to sell, or price quotations for various devices. The prices listed varied broadly and required numerous adjustments to make them comparable with the prices charged by the Asian subsidiaries. Much of the evidence leaves uncertain whether transactions ever occurred with respect to many of the price quotes or purchase orders. This evidence related only to a few of the devices sold by petitioner during the years in issue.
+ 
+Petitioner claims that its comparable transactions involved high-volume, continuing relationships between leading U.S. fabricators and Asian contract packagers. Petitioner presented documents pertaining to the U.S. die fabricators—NSC, Commodore International, Ltd., including MOS technology (Commodore), TI, and AMD—and the Asian contract packagers—Anam/Amkor, Elcap, Dynetics/Interlek, and AME/IMI. Respondent disputes petitioner’s examples on the basis of differences in volume, market level, and type of customer. Respondent also claims that certain of petitioner’s proposed prices included charges unrelated to assembly or testing.
+ 
+Petitioner’s documentary evidence is insufficient to establish whether particular transactions are comparable to the transactions in issue, whether adjustments (e.g., for inventory holding, sales and payment terms, provision of materials, type of materials, etc.) are necessary, or whether any adjustments made by petitioner were appropriate.
+ 
+Respondent presented evidence regarding transactions between Motorola and Anam/Amkor that respondent claims reflects transactions for 14 and 16 lead M–DIP that were very close to the packaging work performed by the Asian subsidiaries and included functional and “burn-in” testing. Petitioner claims that Anam/Amkor packaged M–DIP devices for Motorola on terms materially different from those between the Asian subsidiaries and NSC in that, inter alia, Motorola paid Anam/Amkor for labor only and supplied to Anam/Amkor materials, assembly equipment, die attach equipment, bonding equipment, open/short testers, and molds. Petitioner claims that such differences cannot be quantified.
+ 
+Respondent asserts that packaging charges during the years in issue do not reflect payment to Motorola for equipment because such equipment was paid for through a temporarily reduced assembly fee during the early period of the transactions. The evidence does not disclose whether the equipment was entirely paid for by early reduced prices or that there was no residual effect on prices between these companies.
+ 
+*17 Small differences in unit prices create large changes in the total amounts reallocated to petitioner. “Comparable prices” cannot be determined with reasonable accuracy from the volumes of isolated transaction data presented to us by both parties.
+ 
+Further, we have no basis to translate a given price for a particular device for a particular year into a proper allocation of income among petitioner and the Asian subsidiaries. Other than through an expert report, which we find unacceptable for the reasons stated below, petitioner did not provide an analysis of the price examples it presented that would prove that petitioner’s transfer prices were at arm’s length. Respondent did not provide a comprehensive analysis of the prices respondent presented under which we could allocate petitioner’s income. The only value served by each party’s presentation of documents that reflect pricing is to negate reliance on the documents presented by the other party. Accordingly, we hold that neither party has introduced satisfactory CUP evidence, and we thus do not rely on prices presented by them to determine transfer prices in these cases.
+ 
+Petitioner argues that respondent’s failure to present contradictory comparable evidence should give rise to the inference that respondent either located evidence favorable to petitioner or was unable to locate evidence contradictory to petitioner’s evidence. As stated above, it is unclear whether transactions presented by either party were comparable. The most reasonable assumption on this record is that CUP evidence is not available, and that assumption does not help petitioner’s case. The result of the absence of reliable CUP evidence is that an alternative method of determining prices must be used.
+ 
+
+
+IV. Determination of Transfer Prices
+Because proper income allocations cannot be determined from the transaction evidence presented by the parties, we must look to opinions of their experts. As we have frequently stated, “we are not bound by the opinion of any expert witness. We may accept an expert’s opinion or we may reject testimony that is contrary to our own judgment”. See, e.g., Estate of Hall v. Commissioner, 92 T.C. 312, 338 (1989). Further, “We are not restricted to choosing the opinion of one expert over another, but may extract relevant findings from each in drawing our own conclusions.” Bausch & Lomb, Inc. v. Commissioner, 92 T.C. 525, 597 (1989), affd. 933 F.2d 1084 (2d Cir.1991).
+ 
+
+
+A. Frank’s Analyses
+The testimony and expert reports of Peter B. Frank (Frank) are the mainstay of petitioner’s position in these cases. Petitioner claims that Frank’s analyses were based on comparable uncontrolled prices as prescribed by the section 482 regulations and that, therefore, we must adopt them.
+ 
+Frank performed two analyses to establish the arm’s-length nature of the challenged transactions. The first analysis petitioner called the “price-to-price” analysis. It covered 1979 through 1982 and purported to encompass 45 percent of the dollar volume of the devices that were made by the Asian subsidiaries and sold to petitioner. In the second analysis, Frank used the putative arm’s-length prices determined in the price-to-price analysis and some additional prices to establish that the remainder of the transactions were at arm’s-length terms, through what Frank termed a “cost-plus” analysis. The prices used by Frank included adjustments made by him. Respondent argues that Frank did not use true comparable prices in his price-to-price analysis and that the comparable prices used by Frank were reached through unexplained extrapolation of prices over time and among products.
+ 
+
+1. The Price-to-Price Analysis
+*18 In his price-to-price analysis, Frank compared the die-free prices that were charged by the Asian subsidiaries to petitioner to die-free prices that were charged between third parties to package devices. Frank computed the die-free inbound prices for petitioner as the difference between the outbound price paid by the Asian subsidiaries for the dies and the price paid by petitioner for the corresponding completed device. Frank obtained third-party prices on an individual device basis from contracts, invoices, and other documents and claimed to have used the prices that required the fewest adjustments.
+ 
+Frank adjusted the third-party prices for contractual terms that were not consistent with the terms between the Asian subsidiaries and related entities. For example, in several instances where an IDM was not required to provide materials, Frank adjusted prices for the cost of materials but not for any additional profit for the procurement of such materials. However, Frank adjusted for the provision of materials by adding the cost for gold eutectic die attach, the most expensive type of die attach, even though the Asian subsidiaries mostly used the less expensive epoxy die attach process.
+ 
+Frank computed the effect of other differences in the production and transportation of devices such as parametric and high-reliability testing, performed by the Asian subsidiaries on finished products that were not typically performed by IDM’s. Further, the Asian subsidiaries (1) generally bore the cost of shipping, (2) bore the fluctuations in the market price of gold (gold adder), and (3) sometimes used different materials and processes to secure the die to the lead frame. Because Frank determined that these differences would increase the price that the Asian subsidiaries would be allowed to charge for manufacturing, he did not adjust the comparable uncontrolled die-free prices for these differences.
+ 
+Also, unlike many IDM’s, the Asian subsidiaries held die and finished goods inventories. Frank did not consider the extra inventory function in the price-to-price analysis, but he did consider it in reference to his “cost-plus” analysis.
+ 
+Respondent contends that Frank’s use of the more costly gold eutectic die attach process in determining comparable uncontrolled prices was improper because only a fraction of petitioner’s products used this expensive process. Frank determined that the effect of his using the gold eutectic die attach process flow in making adjustments caused a $46.8 million overstatement of the Asian subsidiaries’ allowed income due to the difference between the Asian subsidiaries’ average process cost and the gold eutectic process cost. However, according to Frank, if adjustments for shipping, gold adder, inventory holding, and testing were taken into account, in addition to an adjustment of $46.8 million, there would be an understatement by the Asian subsidiaries of $15.3 million compared to the comparable uncontrolled prices. Thus, if neither adjustment is made, petitioner claims that the use of the gold eutectic attach process did not overstate the arm’s-length prices for M–DIP devices. Frank concluded that, in the aggregate, the Asian subsidiaries transferred devices at prices that did not exceed arm’s-length pricing but, rather, that there was a net undercharge from the Asian subsidiaries to petitioner.
+ 
+
+2. Frank’s Extrapolation Procedures
+*19 The fees extracted from letters, invoices, price lists, price quotes, and purchase orders that were used by Frank in his analysis were included in a data base called “ALLPRICE” that was provided to respondent’s experts. ALLPRICE contained over 1,600 individual transactions, some of which may never have been carried out. Frank separately provided data upon which he relied (the supporting material) instead of discussing in his reports his sources and methodology.
+ 
+There is no discussion in Frank’s reports or supporting material of factors affecting the pricing of packaging activities, other than the arithmetic adjustments that have been made with respect to consigned materials (and inventory-holding adjustments for the cost-plus analysis). Frank did not identify the companies that were used as sources of comparable data in his reports. Frank did not discuss the method he used to choose comparable transactions, the circumstances surrounding the transactions he chose, or even which transactions he relied upon in his reports. Thus, we cannot determine whether Frank’s CUP data were drawn from transactions that were comparable, from an economic and business perspective, with those between petitioner and the Asian subsidiaries.
+ 
+Respondent’s expert, Clark Chandler (Chandler), reviewed the supporting material, including the ALLPRICE data base, describing NSC’s intercompany transfer pricing system and comparable transactions used by Frank. Chandler was asked by respondent to determine if the product comparables study submitted by Frank provided information and/or analyses that could be used to establish whether NSC’s intercompany transfer prices were consistent with those that would have been charged between unrelated parties. Chandler’s report concluded that the extrapolation procedures that were used by Frank were inadequate to generate reasonably accurate and substantial measures of such prices. Chandler was unable to determine why Frank used certain approaches, rather than possible alternatives, and could not replicate Frank’s results. Chandler testified that the sample of comparable transactions was too small and too fragmented to provide an adequate basis for evaluating or verifying the reasonableness of NSC’s intercompany pricing.
+ 
+Frank’s reports provided no information about the number of transactions or the dollar value of transactions used to generate the uncontrolled prices shown in his reports. Chandler determined from the supporting material that Frank had derived his uncontrolled die-free prices for packaging activities from 41 transactions with an identifiable total dollar value of less than $1 million over 1978 through 1982. Just 26 separate prices in the ALLPRICE data base were used in the price-to-price study, 14 of which reflected 1978 data, even though 1978 was not included in the price-to-price study. Frank adjusted these prices to reflect variations in the packaging activities provided among different packagers. Frank then extrapolated from these 26 prices to report the 96 prices in his price-to-price study. Frank, without explanation, used unweighted averages in his calculations; the prices would have changed if weighted rather than unweighted averages were used.
+ 
+*20 To extrapolate prices within a given year, Frank divided the packaging fee for a device by the number of its leads to derive an average price per lead that was then used to determine prices of other devices. Even after such extrapolation procedures, Frank was missing observations for certain packages for certain years. In such instances, Frank used the price reported in other years to set the missing price. Thus, the 1979 prices for 14 and 16 lead M–DIP and for Ceramic DIP are identical to those applied in 1978, the 1982 prices for Ceramic DIP are identical to those applied in 1981, and the 1980 and 1981 prices for 14 and 16 lead M–DIP are the same as the 1982 prices.
+ 
+Further, Frank determined that, because 14 and 16 lead M–DIP devices were manufactured concurrently on the same equipment and ran interchangeably throughout the manufacturing processes, they were priced the same from a labor and overhead standpoint. Frank thus computed a “comparable uncontrolled price” for the 14 lead M–DIP by reducing the 16 lead M–DIP price by the difference in the cost of materials between the 14 and 16 lead M–DIP devices.
+ 
+In making his adjustments to third-party prices, Frank used the Asian subsidiaries’ materials’ costs. Further, Frank used 1982 materials’ costs to determine 1980 and 1981 prices but did not explain why he extrapolated 1982 costs rather than using costs from 1980 and 1981 to determine prices in those years.
+ 
+Frank provided no explanation or justification of the extrapolation procedures he used, even though they generated a majority of the uncontrolled prices in his study. There was no other evidence that the categories of packaging activity used, within which extrapolations were made, were appropriate. The “thinness” and fragmentation of the sample used by Frank are troubling, given the range and diversity of products offered by NSC. Neither Frank’s reports nor his supporting material provides an analysis that suggests that the prices of a small number of scattered transactions can be used with any confidence to project the prices that would have been charged for all of the package types in issue. Certainly there is no industry evidence that establishes or suggests that prices would ever be set in the real world of uncontrolled prices using Frank’s methodology.
+ 
+Frank’s reports do not indicate that prices were reasonably consistent over time or between related products. The prices shown in the sample that can be compared with one another show variations in price over time or within the same year and in type of packaging activity. These variations raise questions about the reasonableness of extrapolating prices either forward (e.g., from 1978 to 1979) or backward (e.g., from 1982 to 1980) in time or among products.
+ 
+These variations are troubling because Frank’s conclusions were sensitive to the extrapolation procedures he used. For example, as stated above, Frank’s 1980 uncontrolled die-free prices for 14 and 16 lead M–DIP packaging activities were based on a 1982 transaction, while his 1979 uncontrolled die-free prices for these packaging activities were based on a 1978 transaction. If the 1978 price, rather than the 1982 price, were used in 1980, the Asian subsidiaries’ undercharge determined by Frank would be decreased by $26 million to a $2 million overcharge. This illustrates that different results would have been reached had different extrapolation procedures been chosen.
+ 
+*21 Chandler reported that petitioner’s die-free prices, which were compared with the third-party prices, varied widely within specific packaging categories and across related types of packaging. This indicates either that the procedures that were used to determine these intercompany charges were flawed, casting doubt on NSC’s transfer pricing methodology, or that wide variations in intercompany charges can be expected within a single type of packaging operation, in which case Frank’s extrapolation within categories becomes suspect. Despite these variations, all transaction codes within a single year and packaging activity were compared by Frank to a single uncontrolled die-free price. The trend of prices of petitioner’s related packages, as determined by Frank, also varied over time; for example, the intercompany die-free prices for 14 lead M–DIP more than doubled between 1979 and 1982, while the intercompany die-free price for 16 lead M–DIP fell over the same period. Further, according to Chandler, certain of the intercompany die-free prices used by Frank were negative. It thus appears that Frank’s conclusion that the Asian subsidiaries undercharged petitioner was based partially on the assumption that, under petitioner’s transfer pricing system, the Asian subsidiaries paid petitioner for the privilege of packaging certain dies.
+ 
+In sum, Frank’s reports provide insufficient detail as to why he chose certain comparables, the number of specific comparables used, or the volume of sales associated with such comparables. The price-to-price analysis does not cover the 1978 year. The analysis, Frank admitted, requires many adjustments to be made to the “comparable prices”, such as for shipping and material costs (e.g., for the use of gold eutectic die attach process costs instead of epoxy die attach costs), which Frank does not include in his analysis but merely states what the result would be if he did. Frank’s conclusions are sensitive to the prices he chooses to use, yet Frank extrapolates prices for certain years to other years and for certain devices to other devices without explanation. Thus, Chandler concluded that he could not assess economic comparability of the third-party data used by Frank. We too are unable to determine the propriety of the procedures used by Frank or the comparability of the resulting prices relied upon by Frank in his analysis.
+ 
+Petitioner relies on a statement of its expert, J. Gregory Ballentine (Ballentine), that the die-free prices used by Frank were the most accurate and most relevant type of information for evaluating what the Asian subsidiaries were paid for their manufacturing activity. Ballentine’s report had the narrow objective of evaluating the profit that an IDM would demand in order to maintain the dies and finished goods that were held in inventory by the Asian subsidiaries. Ballentine determined that any additional profit due to the Asian subsidiaries because of the inventory-holding functions should be offset by differences due to sales and payment terms. Ballentine also reviewed invoices and contracts that were used by Frank in his analysis and determined that such information provided an adequate basis for evaluating the prices and/or profit margins for the manufacturing activities of the Asian subsidiaries. Ballentine did not, however, opine as to whether the proper adjustments were made to the prices, whether the specific prices used by Frank were comparable, or whether the extrapolated prices used by Frank were appropriate.
+ 
+*22 To accept petitioner’s transfer prices based on comparable prices, we must be able to determine that the prices are “so nearly identical that any differences either have no effect on price, or can be measured and eliminated by making a reasonable number of adjustments”. Sundstrand Corp. v. Commissioner, 96 T.C. 226, 362 (1991). Based on Frank’s sparse explanation of his analysis, the prices used by Frank do not satisfy this standard. Frank’s analysis relies on too few true prices from uncontrolled transactions and relies heavily on unexplained and apparently arbitrary extrapolation. On the basis of these defects, we hold that Frank’s price-to-price analysis falls short of the requirements for comparable uncontrolled prices delineated in the section 482 regulations.
+ 
+
+3. The Cost–Plus Analysis
+In several instances, Frank did not locate specific transactions that were similar to the manufacturing and other activities undertaken by the Asian subsidiaries for petitioner. Additionally, petitioner did not locate specific transactions to use as comparables for the marketing activities undertaken by the Asian subsidiaries or for the Asian subsidiaries’ costs incurred to employ subcontractors.
+ 
+To determine the proper markup for devices for which he found no comparables, Frank first computed each Asian subsidiary’s costs to manufacture devices for which he found comparables. Where Frank could not obtain cost information, he again used extrapolation procedures. For example, Frank again used petitioner’s 1982 materials’ costs for computing arm’s-length charges for 14 and 16 lead M–DIP for 1980 and 1981 and used petitioner’s 1978 materials’ costs for 1979.
+ 
+Frank then compared what he determined to be comparable uncontrolled die-free prices, mostly from his price-to-price analysis, for a specific semiconductor package type or product to the Asian subsidiaries’ costs for an identical or more costly package type or product, in order to determine the proper markup for other related package types.
+ 
+Frank computed a manufacturing profit percentage based on third-party prices using the following formula:
+ 
+
+
+
+
+ 
+|“Comparable” Uncontrolled Price per Unit
+ 
+|
+less
+ 
+|Asian Subsidiary’s Cost per Unit
+ 
+|
+equals
+ 
+|“Arm’s–Length Profit” per Unit
+ 
+|
+divided by
+ 
+|Asian Subsidiary’s Cost per Unit
+ 
+|
+equals
+ 
+|“Arm’s–Length Manufacturing Profit Percentage”
+ 
+|
+
+
+
+
+Frank thus calculated what he termed the “arm’s-length manufacturing profit percentage” (ampp) for each device category.
+ 
+Where an ampp was calculated for a device in a category, it was associated to all devices within the same category; where multiple ampps were calculated within a category, the average ampp for the category was applied to all devices within that category. Because an ampp could not be computed for testing, Frank applied the average ampp from the manufacture of devices to the cost of device testing. If an ampp was not available for a category, the average ampp from that year or no markup was applied.
+ 
+*23 Frank determined an “arm’s-length” profit from manufacturing a device, for which he had no similar uncontrolled price, by multiplying the die-free manufacturing cost for each device in a category by the corresponding ampp. Frank then incorporated Ballentine’s computation of income associated with the Asian subsidiaries’ inventory-holding functions to yield the total allowed arm’s-length profit. Frank also made adjustments for transactions among the Asian subsidiaries.
+ 
+Respondent argues that Frank’s “cost-plus” analysis does not follow the section 482 regulations. Section 1.482–2(e)(4)(i), Income Tax Regs., requires adding to the cost of producing the property sold in a controlled sale an amount equal to such cost multiplied by the “appropriate gross profit percentage.” Section 1.482–2(e)(4)(iii), Income Tax Regs., provides that the “appropriate gross profit percentage is equal to the gross profit percentage (expressed as a percentage of cost) earned by the seller or another party on the uncontrolled sale or sales of property which are most similar to the controlled sale in question.” The determination of profit earned requires a comparison of costs and profit earnings of the same party, a comparison Frank failed to provide. Thus, Frank’s “cost-plus” percentages are not at arm’s length as described by the section 482 regulations because Frank compared third-party prices with Asian subsidiaries’ costs.
+ 
+Further, we have held that Frank’s CUPs do not qualify as comparable prices to the prices in issue, and, therefore, comparing such prices to the Asian subsidiaries’ costs is meaningless. Thus, to the extent that Frank relied on prices from his price-to-price analysis, we reject his cost-plus study.
+ 
+Respondent further contends that Frank’s extrapolation procedures in his cost-plus analysis were unexplained and produced the following suspect results: The cost-plus markups for some packaging activities were determined to be identical in different countries, implying that the costs in each of these locations were identical while, in others, the markups varied widely from location to location without explanation; in some cases, markups were fixed for several years, and, in other cases, there was sharp variation over time. It is unclear if these variations are due to market forces or extrapolation procedures. We agree that these unexplained variations in Frank’s results create uncertainty that is fatal to the credibility of Frank’s analysis. Thus, Frank’s cost-plus analysis fails to produce a usable markup both under the regulations and under the specific circumstances of these cases.
+ 
+
+4. Frank’s Conclusions
+Most importantly, the conclusions reached by Frank under his analysis are unreasonable. Frank determined that the Asian subsidiaries were not overcompensated with respect to their related party transactions, except for N.S. Thailand in 1978, N.S. Philippines in 1979, and N.S. Indonesia in 1981. Based on his CUP analysis alone, Frank determined that the Asian subsidiaries undercharged petitioner a total of $70.3 million from 1979 to 1982 and that petitioner was undercharged by an additional $15.3 million due to the Asian subsidiaries’ performance of the functions of shipping, testing, process adjustment, gold market price, and holding inventory. Thus, according to Frank’s CUP analysis, petitioner’s and other foreign subsidiaries’ income should be decreased and the Asian subsidiaries’ income should be increased by $85.6 million over the years in issue. Under his cost-plus analysis, Frank determined that the profit reported by the Asian subsidiaries should have been increased by over $259 million from 1978 to 1982.
+ 
+*24 Respondent argues that Frank never applied a test of reasonableness to his results. Increasing the operating profits of the Asian subsidiaries over the years in issue while decreasing that of petitioner and of NSC’s other foreign affiliates by $259 million would cause petitioner to have had an operating loss in every year in issue despite NSC’s overall profitability, while the Asian subsidiaries would have had a cumulative operating profit of over $448 million.
+ 
+Frank’s results are unreasonable in the face of the mutual dependence between the Asian subsidiaries and petitioner. Petitioner needed the labor cost savings of the Asian subsidiaries to remain competitive. IDM’s would not have served well as a large-scale, high-performance, responsive, and secure source for semiconductor assembly. The Asian subsidiaries needed a high and steady volume of semiconductor dies to justify their substantial investments in automated packaging equipment, sophisticated packaging methods, and personnel. In an arm’s-length situation, the Asian subsidiaries could not have afforded to risk losing the majority of its business by allowing petitioner to sustain large losses. Further, in arm’s-length negotiations, petitioner would not have agreed to sustain such losses while the Asian subsidiaries received high profits from the transactions. The prices for the sale of wafers and/or the purchase of assembled circuits, if negotiated at arm’s length, would have been adjusted to allow both entities to earn a profit sufficient to continue to attract the capital required to maintain, expand, and modernize their respective operations. Thus, in addition to the problems in his methodology described above, Frank’s analysis produces unreasonable results.
+ 
+
+
+B. Pricing Guidelines
+Petitioner claims that the prices charged by the Asian subsidiaries to petitioner were consistent with common per lead prices and with industry pricing guidelines and packaging prices in the industry guidelines reports and that the Asian subsidiaries’ return on assets was within the norm. Respondent claims that industry pricing was not used in negotiations and is not an appropriate measure of whether prices were at arm’s length. The regulations disqualify evidence from uncontrolled transactions where differences render such sales noncomparable. We have no basis for determining whether or how petitioner’s transactions materially differ from the transactions upon which per lead prices or the industry data are based. Further, given the sensitivity of the total allocation to small differences in device prices, such broad and generalized data are not helpful. Thus, we cannot rely on such information to determine proper arm’s-length prices for petitioner’s transactions. See sec. 1.482–2(e)(2)(ii), Income Tax Regs. Petitioner did not present evidence of comparable prices for die and material sales to support petitioner’s outbound transfer pricing of its sales to the Asian subsidiaries.
+ 
+*25 Thus, although petitioner has proven that the deficiencies set forth in the notices of deficiency are arbitrary, capricious, or unreasonable, petitioner has failed to prove that its transfer pricing or proposed alternative allocations satisfy the arm’s-length standard. Accordingly, we must determine from the record the proper allocation of income. See Seagate Technology, Inc. v. Commissioner, 102 T.C. ––––, –––– (1994) (slip op. at 66); Sundstrand Corp. v. Commissioner, 96 T.C. 226, 354 (1991).
+ 
+
+
+C. Respondent’s Analyses
+Respondent argues that we should adopt the determinations of respondent’s economic expert, Horst.
+ 
+
+1. Loss of U.S. Fabrication Operations
+Horst concluded in his initial report that, under NSC’s transfer pricing system, NSC’s U.S. wafer fabrication operations incurred substantial operating losses from sales of semiconductor dies to NSC’s SEA affiliates in every year from 1978 through 1982. The SEA affiliates, as referred to by Horst, consisted of the Asian subsidiaries plus DCIM, N.S. Asia Pacific, N.S. Australia, NSMM, SPC, and N.S. Far East.
+ 
+
+a. Respondent’s Accounting Analysis
+Respondent’s accounting expert, Clowery, was engaged by respondent to perform a cost accounting analysis, to review and analyze NSC’s accounting and other data, and to address several accounting-related issues regarding these cases. Clowery’s analysis was the basis of Horst’s economic analysis. Clowery calculated the operating profits that accrued to NSC’s affiliates in various geographic regions under NSC’s transfer pricing system. His primary source of data was NSC’s general ledger data base (the general ledger) that he extracted from computer tapes provided by petitioner. Clowery also calculated the operating profit of petitioner’s wafer fabrication and related activities (U.S. Fabrication) separate from the profits from all other activities (U.S. Other).
+ 
+According to Clowery’s results, petitioner incurred a loss on U.S. Fabrication in every year from 1978 through 1982. Clowery calculated the weighted average rate of return on average operating assets for petitioner’s U.S. Fabrication over the years in issue to be negative 25.68 percent.
+ 
+Horst examined companies of comparable size to petitioner with comparable levels of research and development and found no instance where a company comparable to petitioner had a rate of return as low as petitioner’s overall component operations or the negative 25.68–percent rate for petitioner’s wafer fabrication operations. Horst testified that, during 1978 through 1982, none of the companies similar to petitioner had a negative average rate of return on assets.
+ 
+Petitioner, through its cross-examination at trial and arguments on brief, attempted to discredit the results of Horst’s economic analysis through criticism of Clowery’s accounting analysis. Petitioner attributes numerous accounting errors to Clowery’s analysis, mostly without quantifying the effects of the purported errors. Some of the criticisms are contained in a rebuttal report prepared by Frank. Frank neither quantified nor substantiated any of the criticisms in this report. Apparently, petitioner attempts to cast doubt on respondent’s analysis so that we will not adjust its transfer prices during the years in issue. Petitioner has not proven that its transfer prices should be upheld through its own evidence and cannot do so by merely casting doubt on respondent’s position. We cannot make any adjustment to respondent’s recommendations based on petitioner’s unsubstantiated assertions, for which petitioner has either not presented or not proven a quantitative effect.
+ 
+*26 Petitioner claims that Clowery incorrectly included die trade sales in the U.S Other category rather than in the U.S. Fabrication category. Clowery testified that he could not determine from the information supplied to him by petitioner what portion, if any, of trade sales were dies but that die trade sales were a very small percentage of overall sales. Clowery further explained that, for U.S. locations that were only involved in wafer fabrication activity, everything (including die trade sales) was allocated to U.S. Fabrication and that only for the two multiple-activity locations, in Santa Clara and in Salt Lake City, were trade sales allocated to U.S. Other. Petitioner claims, without substantiation, that the amount of the die trade sales in question was $5.7 million. Because petitioner did not elaborate on how this number was determined or what portion of it was attributable to each of the years in question, we are unable to determine what, if any, adjustment should be made to Clowery’s analysis. Petitioner also claims that Clowery improperly failed to include certain product lines in U.S. Fabrication. However, petitioner failed to quantify any effect of this on petitioner’s income.
+ 
+Petitioner claims that the following were improperly included in U.S. Fabrication, instead of in U.S. Other, thereby increasing the U.S. Fabrication loss:
+ 
+1. Costs from petitioner’s consumer products division. Petitioner provided no substantiation that these products were improperly included. We will not make an adjustment based on petitioner’s mere allegation.
+ 
+2. Expenses from several product lines unrelated to fabrication activities. Petitioner has neither proven nor quantified an adjustment for these expenses.
+ 
+3. Unfavorable yield variances from packaging and testing. Clowery included such variances in U.S. Fabrication from the locations that did only wafer fabrication, but not from the two multiple-activity locations. Petitioner has neither proven nor quantified an adjustment for this amount.
+ 
+4. Returns from trade sales of finished devices and scrap costs from work-in-process. Clowery testified that he included everything from the locations that did only wafer fabrication in U.S. Fabrication and that there were no scrap cost allocations for the multiple-activity locations. Petitioner has neither proven nor quantified an adjustment for this amount.
+ 
+5. Labor and overhead variances and manufacturing period expenses relating to packaging and testing of finished devices rather than fabrication. Petitioner has neither proven nor quantified an adjustment for this amount.
+ 
+6. Variances relating to subcontractor costs. Frank stated in his report that the general ledger provided no guidance about the nature of the subcontractor activities. This does not show that these expenses should not be included in U.S. Fabrication, and once again petitioner provides no guidance as to how to quantify such amount.
+ 
+7. Expenses for 1982 relating to manufacturing by petitioner that did not involve Asian subsidiaries. Petitioner has not persuaded us that such costs were not wafer fabrication costs or that they did not relate to the Asian subsidiaries.
+ 
+*27 Petitioner had better access to its own documents, to its accounting information, and to witnesses who could explain those materials than did respondent. Petitioner should have been able to support its assertions with substantiation and quantification instead of merely attempting to discredit respondent’s expert. We therefore do not make any adjustments by reason of petitioner’s above criticisms in determining the proper allocations.
+ 
+
+b. Petitioner’s Large–Die Argument
+Petitioner claims that its lower than normal return for the products in issue is explained by massive losses suffered by petitioner in its failed effort to manufacture large-die products and that neither Horst nor respondent allowed for the possibility that petitioner’s reduced return on its assets resulted from unsuccessful attempts to enter the large-die market.
+ 
+According to its witnesses, before the years in issue, petitioner decided that it had to enter the market for large-die products in order to continue growing because its managers believed that the greatest market growth would occur in leading-edge MOS technology, i.e., Dynamic Random Access Memory products (DRAM’s) and microprocessors. Petitioner claims that, in order to enter the large-die market, it made sizable investments in R & D and capital equipment. Petitioner asserts that it was always late to market with its DRAM products and was driven out of that market by the Japanese and that its microprocessor business failed as well.
+ 
+Petitioner argues that the effect of large-die losses should be restricted to the large-die product line and essentially contends that petitioner alone should have borne this loss, while the Asian subsidiaries remained at the same level of profitability.
+ 
+Petitioner asserts that costs from unsuccessful R & D for large-die should not be recovered by sales to the Asian subsidiaries. Patrick Verderico, petitioner’s former corporate controller, explained that petitioner’s transfer pricing policy, until petitioner’s 1981 year, was intended to recover R & D expenditures from all product lines over a 5–year recovery period. Petitioner’s Corporate Finance Manual for fiscal year 1981 stated that “The objectives of the transfer pricing system [were] to: * * * Allow all wafer fabrication locations to recover costs, recover research and development expenditures, and earn a reasonable profit” and made no reference to large-die or small-die lines or to successful or unsuccessful R & D. After 1981, R & D expenditures were to be determined only with respect to the “product family” to which they were related.
+ 
+Respondent argues that the cost of R & D for the large-die products should have been recovered over all products. Respondent asserts that, although market forces place a ceiling on pricing levels, pricing for high-technology companies investing heavily in R & D almost by necessity must be set at levels to permit continued R & D on all products, including products that prove to be unsuccessful.
+ 
+*28 Gordon E. Moore (Moore), chief executive officer (CEO) of Intel Corporation during the years in issue, testified that R & D was necessary because technology moved so rapidly in the semiconductor industry. He stated that debt is not typically part of the financing in the industry and that R & D efforts were largely determined by profit availability. Thus, to determine if a project was affordable, a company would look at its own available resources and at whatever other sources of funding were available and would use its current successful businesses as a source of funds to fund its speculative future ones. He stated that companies were unlikely to enter into an R & D project if they were not able to pay their expenses currently.
+ 
+Moore testified that companies in the semiconductor industry did not expect, project by project, that each investment would successfully return the investment made because “R & D is a very speculative investment, and * * * sometimes you hit a home run and sometimes you hit a single, and very often you strike out.” The companies did expect that they would have enough successful products in order to earn a return on their investments averaged across all of their products. Moore testified that R & D was typically expensed in the industry. He stated that R & D was “so speculative that accountants would not let us put it on the balance sheet if we wanted to.”
+ 
+We agree with respondent that petitioner had to look at its current successful products to fund its R & D. The way petitioner had structured its transfer pricing, petitioner would not have been able to conduct any R & D for die fabrication. Petitioner’s pricing scheme was not only inconsistent with industry norms, it defied petitioner’s stated pricing objectives.
+ 
+Further, although petitioner claims that its expenditures on large-die products did not benefit its small-die products, there is evidence to the contrary. John Welty, former CEO of Motorola, testified that the ability to make things smaller and denser in the DRAM area also benefited new products and other product lines and that small-die products could be fabricated on large-die fabrication lines. Thus, the small-die products did benefit, albeit indirectly, from the investment in large-die products.
+ 
+We believe that the expenditures for the large-die sector of the fabrication operations should not be accounted for separately from wafer fabrication operations. Petitioner, like others in the semiconductor industry, would have had to fund its R & D from whatever sources were available to it.
+ 
+Petitioner cites Eli Lilly & Co. v. Commissioner, 856 F.2d 855 (7th Cir.1988), affg. in part, revg. in part, and remanding 84 T.C. 996 (1985), for the proposition that respondent is impermissibly shifting the cost of R & D to the Asian subsidiaries. First, the adjustment, as we allow it, does not shift the cost of R & D. It merely proposes that, at arm’s length, petitioner’s transfer pricing would not have caused petitioner’s U.S. wafer fabrication operations to operate at a loss, so that petitioner could not afford to pay its expenses, and to perform the R & D necessary to remain a successful company. Second, the Lilly case is distinguishable from the situation here. The Lilly case involved the issue of whether income should be reallocated to Eli Lilly & Company (Lilly) from its subsidiary “Lilly P.R.” This Court held in Eli Lilly & Co. v. Commissioner, 84 T.C. 996, (1985), that Lilly transferred valuable income-producing intangibles to Lilly P.R. at less than arm’s-length terms because the transfer did not generate cash for Lilly’s general R & D efforts. Id. at 1130. Lilly P.R. had already paid for the costs of research specific to its product, Darvon. Eli Lilly & Co. v. Commissioner, 856 F.2d at 866. The Court of Appeals rejected the Tax Court’s reasoning with respect to the distortion of Lilly’s income based on these general R & D expenses. Further, the Court of Appeals held that “Lilly’s gross profit * * * more than covered both the operating expenses and the research and development expenses that management, according to the Tax Court, ordinarily would have insisted on drawing from Darvon profits.” Id. at 868. The court stated:
+*29 We do not need to decide whether a reduction in research and development spending or a sharp departure from established methods of funding these activities would have defeated Lilly’s claim that the transfer met the arm’s length standard; these developments would certainly have presented a closer case than the one now before us. * * * [Eli Lilly & Co. v. Commissioner, 856 F.2d at 867 n. 16.]
+ 
+Here, the Asian subsidiaries did not pay for R & D that was related to the devices produced by them. Petitioner’s wafer fabrication operations lost money in every year in issue under its transfer pricing system. Petitioner’s own expert, Frank, admitted that the semiconductor product line lost money in 1978 and 1982. Such continuing losses would have had a severe effect on the ability to conduct R & D activities.
+ 
+Respondent claims that petitioner’s wafer fabrication operation could not have paid its bills had it been independent during the years in issue, because borrowing typically had not been part of the financing in the semiconductor industry and equity would not have been available to petitioner because its rate of return was less than its average cost of funds. Petitioner claims that its R & D from unsuccessful products does not necessarily have to be recovered and that some companies went out of business and never recovered their investments. Petitioner cannot change results that would occur at arm’s length by separating off an unsuccessful product line and claiming that that product line alone should bear R & D and capital losses related to it. The Asian subsidiaries were very profitable during the years in issue. They relied on petitioner for their success. In an uncontrolled situation, the Asian subsidiaries would not have allowed petitioner to go out of business, because that would mean economic death to the Asian subsidiaries as well. Dealing at arm’s length, the Asian subsidiaries would have at least allowed petitioner to break even. Dealing at arm’s length, petitioner would have charged prices for its die and material sales, to the extent the market would bear, so that it could continue to perform necessary R & D, and to meet its current expenses, across the semiconductor product lines.
+ 
+Finally, if petitioner had branched out successfully into large-die manufacturing, the Asian subsidiaries would likely have benefited. Petitioner’s failed attempt to enter the large-die market should have affected the Asian subsidiaries, as their business was almost entirely dependent on the success of petitioner. Petitioner’s contentions that it should bear all of the losses while the Asian subsidiaries reap all of the profits lead to an unreasonable outcome, which outcome would not occur if the parties were dealing at arm’s length.
+ 
+Given all of the facts and circumstances of these cases—the competitive nature of the semiconductor industry, the need for technological growth through R & D, the need for funds to finance such growth, and the mutually dependent relationship between the NSC affiliates—we believe that, at arm’s length, petitioner would have negotiated a better deal for itself.
+ 
+
+2. Horst’s Analyses
+*30 Horst performed two types of analyses, which he called the “transactional” analysis and the “profit-split” analysis. In his transactional analysis, he computed an adjustment that would allow petitioner’s wafer fabrication operations to break even, based on the belief that petitioner’s wafer fabrication operations would not have incurred losses if transfer prices had been negotiated at arm’s length. The premise of the profit-split analysis was that the return to each NSC entity should have been proportionate to the assets in that entity, such that each entity would be able to stay in business. Horst used his profit-split analysis as a test of reasonableness and only recommended results that satisfied this test. Horst modified his recommendations over the course of the proceedings in these cases to accommodate criticisms that arose.
+ 
+
+a. The “Transactional” Analysis
+According to Horst, petitioner should have been able to earn at least enough to offset these U.S. Fabrication losses even if no return on capital that was invested in such operations was recovered (the break-even level). Horst determined that part of the reason for petitioner’s losses in fabrication operations was that petitioner undercharged the SEA affiliates (including but not limited to the Asian subsidiaries) for dies and materials sold to them for the assembly of devices. Thus, Horst determined that such outbound prices needed to be increased, even if the inbound prices were reasonable.
+ 
+In order to determine the correct outbound prices for dies, Horst considered trade sales by petitioner to unrelated U.S. customers of limited quantities of unpackaged dies. The gross profit margins on these sales provided a basis for determining the arm’s-length gross profit margin on sales to NSC’s SEA affiliates. Horst determined that NSC’s average markup for these sales during 1978 through 1982 was 247 percent. In contrast, the average markup over standard cost for dies sold to the SEA affiliates during 1978 through 1982 was 109 percent. The high markup percentages on the trade sales may reflect the small volume of NSC’s third-party die sales. However, the substantial markup percentages that NSC achieved on third-party die sales reinforce the common sense conclusion that an independent manufacturer of dies would not have sustained losses of the duration and magnitude that petitioner sustained on die sales to its Asian subsidiaries.
+ 
+Based on Clowery’s accounting analysis, Horst concluded, in his initial report, that an increase in the prices for dies and materials sold by petitioner to its SEA affiliates of $295.2 million would bring petitioner’s fabrication operations to the break-even level. Many of these dies and materials were incorporated into semiconductors that were assembled by the SEA affiliates and sold back to petitioner (round-trip sales). Therefore, an increase in the prices of dies and materials sold by petitioner would in turn increase the prices of packaged devices sold by the SEA affiliates back to petitioner. The increase in the inbound prices of packaged devices due to the round-trip sales would, to an extent, offset the increased earnings from the outbound sales price increase. The result to petitioner, after the increase and offset, would reflect the increase in prices of dies and materials sold by petitioner to the SEA affiliates and then sold by the SEA affiliates to NSC’s other foreign affiliates and in trade sales to unrelated customers.
+ 
+*31 Horst determined a further adjustment to petitioner’s income based on a corrected markup, derived from the Eurotechnique transaction, for the SEA affiliates’ sales to petitioner. Horst’s initial recommended net adjustment to petitioner’s income was an increase of $110.3 million and to the SEA affiliates’ income was a decrease of $86.3 million.
+ 
+
+b. The “Profit–Split” Analysis
+As a test of the reasonableness of his adjustments, Horst used a profit-split analysis in which he compared the profits earned by the different NSC locations to the assets held by such locations. To determine the assets of each location, Horst adjusted net business assets (e.g., receivables, inventory, net plant, and equipment held for use in business) by an amount of imputed interest (based on NSC’s cost of debt) for petitioner’s net intercompany payables. This adjustment was intended to account for the benefit to petitioner of interest-free financing from the SEA affiliates and of the interest foregone by the SEA affiliates on amounts owed to them. Horst called the adjusted amount “external net business assets”. He then considered the distribution of the operating profits in relation to the “external net business assets” among NSC’s U.S., Southeast Asian, and other foreign affiliates to determine whether the profit split was appropriate in proportion to the distribution of assets.
+ 
+After making the adjustments determined in his initial report under his profit-split analysis, Horst concluded that petitioner’s share of NSC’s worldwide income would be 67.4 percent compared to its 53.7–percent share of the external net business assets and that the SEA affiliates’ share of worldwide income would be 13.6 percent compared to their 31.9–percent share of the external net business assets. Thus, Horst concluded that his initial transfer price adjustments were too great and that NSC’s income should be allocated instead according to a pure profit-split analysis.
+ 
+The result of applying the pure profit-split method to the years in issue would be to increase petitioner’s income by the amounts shown below:
+ 
+
+
+
+
+Increase in U.S. Affiliates’ Income
+ 
+|
+(In millions of dollars)
+ 
+|
+1978
+ 
+|1979
+ 
+|1980
+ 
+|1981
+ 
+|1982
+ 
+|Total
+ 
+|
+25.7
+ 
+|10.8
+ 
+|21.6
+ 
+|8.1
+ 
+|12.0
+ 
+|78.2
+ 
+|
+
+
+
+
+Petitioner’s expert, Irving H. Plotkin (Plotkin), testified in rebuttal to Horst. Plotkin criticized Horst’s profit-split analysis for creating unconventional measures of income and assets by making several complex adjustments to NSC’s reported operating income and operating assets, rather than using the well-known and widely used operating rate of return measurement.
+ 
+Horst’s adjustments to the net business assets that were measured by Clowery to determine “external net business assets” produced an unconventional measure. Plotkin concluded that Horst understated operating assets by subtracting out inventory when the payment on it was delayed. According to Plotkin, the inventory holder would still be subject to significant business risk on the inventory and should earn a rate of return on this asset.
+ 
+*32 Ballentine also testified in rebuttal to Horst’s analysis. Ballentine and Plotkin agreed that Horst’s use of the cost of debt rather than the weighted average cost of capital to calculate his adjustment violated basic principles of finance. According to Ballentine, the weighted average cost of capital for NSC would necessarily be higher than the cost of debt because the cost of equity is greater than the cost of debt and NSC was mostly equity-financed. Ballentine illustrated that using different costs of capital in Horst’s analysis would change the effects to both petitioner’s and the Asian subsidiaries’ income. Because we are persuaded by these criticisms, we do not use Horst’s profit-split test as the primary method to allocate income between petitioner and the Asian subsidiaries.
+ 
+
+c. The Revised Transactional Analysis
+In his rebuttal testimony, Horst determined a transactional reallocation that also met his profit-split test of reasonableness. First, he combined profits and losses of the U.S. Dyna–Craft division with the U.S. semiconductor components and consumer products divisions. Second, he reduced the transfer price adjustment for sales of dies and materials by the portion attributable to sales by petitioner to European and other third-country affiliates, rather than to SEA affiliates. Third, he adjusted the estimated share of dies and materials destined to return to the United States to reflect sales by the Southeast Asian operations of NSC’s consumer products division and not just by the sales of the semiconductor components division.
+ 
+In his rebuttal report, Horst determined that NSC’s U.S. wafer fabrication operations, including Dyna–Craft, had cumulative losses of $302.3 million for 1978 through 1982, $295.2 million of which was attributable to the semiconductor components and consumer products divisions. Of that amount, $293.2 million was attributable to sales of dies and materials to the SEA affiliates.
+ 
+Horst determined that, over the years in issue, $9.7 million worth of dies and materials was included in the ending inventory of the SEA affiliates. Thus, the $293.2 million increase to the U.S. affiliates’ income necessary to offset losses on sales of dies and materials to the SEA affiliates results in only a $283.5 million increase in the SEA affiliates’ cost of sales.
+ 
+Horst calculated that $206.5 million of the $283.5 million wafer fabrication loss was attributable to round-trip sales of dies and materials and $76.9 million was attributable to dies and materials included in sales by the SEA affiliates to unrelated customers in Southeast Asia and to other foreign affiliates of NSC. Based on his calculations, Horst recommended an $86.6 million adjustment to petitioner’s income for non-round-trip sales of dies and materials and for the SEA affiliates’ inventory, allocated as follows:
+ 
+
+
+
+
+Adjustment for Non–Round–Trip Sales of Dies and Materials
+ 
+|
+(In millions of dollars, Totals for 1978–1982)
+ 
+|
+Sales to SEA affiliates
+ 
+| 
+|$293.2
+ 
+|
+less
+ 
+| 
+| 
+|
+Round-trip sales to U.S. affiliates
+ 
+| 
+|206.5
+ 
+|
+equals
+ 
+| 
+| 
+|
+Non-round-trip sales
+ 
+| 
+|$ 86.7
+ 
+|
+Non-round-trip sales consisted of:
+ 
+|
+Inventory for round-trip sales
+ 
+|$7.5
+ 
+| 
+|
+plus
+ 
+| 
+| 
+|
+Inventory for other sales
+ 
+|2.3
+ 
+| 
+|
+equals
+ 
+| 
+| 
+|
+Total inventory at SEA affiliates
+ 
+| 
+|$ 9.7
+ 
+|
+plus
+ 
+| 
+| 
+|
+SEA affiliates’ trade sales and
+ 
+| 
+| 
+|
+sales to other foreign affiliates
+ 
+| 
+|76.9
+ 
+|
+equals
+ 
+| 
+|$ 86.6
+ 
+|
+(Totals do not match due to Horst’s rounding.)
+ 
+|
+
+
+
+
+*33 Included in the above adjustment are the following adjustments for dies and materials sold to the SEA affiliates and subsequently sold to third parties in trades sales:
+ 
+
+
+
+
+Horst’s Determination of Amounts Attributable to Trade Sales
+ 
+|
+(In millions of dollars)
+ 
+|
+1978
+ 
+|1979
+ 
+|1980
+ 
+|1981
+ 
+|1982
+ 
+|
+$5.9
+ 
+|$5.0
+ 
+|$10.0
+ 
+|$11.5
+ 
+|$11.0
+ 
+|
+
+
+
+
+
+d. Proposed Eurotechnique Adjustment
+In addition to those computations set forth above, Horst calculated a $32.6 million decrease to the inbound prices paid by petitioner to the Asian subsidiaries. This adjustment was based on a cost-plus analysis of transactions between the Asian subsidiaries and Eurotechnique.
+ 
+Eurotechnique was a joint venture company that manufactured MOS IC’s using technology transferred from NSC and that was owned 51 percent by SGPM and 49 percent by NSC; NSC offered to assemble and test dies from wafers manufactured by Eurotechnique. Respondent argues that the Eurotechnique transactions are the only transactions in the record in which the Asian subsidiaries performed comparable packaging activities for a third party and that they should therefore be given more weight under the section 482 regulations than transactions solely between third parties. See sec. 1.482–2(e)(4)(iv), Income Tax Regs.
+ 
+Clowery determined that the SEA affiliates’ gross profits from assembling and final testing of IC’s for Eurotechnique for 1981 through 1982 averaged 57 percent (the Eurotechnique markup) of their standard cost of labor and overhead (excluding cost of dies and direct materials). The Eurotechnique markup was applied over the years in issue to the SEA affiliates’ standard cost of labor, overhead, and materials purchased from third parties (not to dies and materials purchased from petitioner) that related to sales to petitioner.
+ 
+Petitioner argues that the Eurotechnique markup should not be used because it was based on a start-up period and used standard, instead of actual, costs. Respondent disputes that the Eurotechnique packaging was a start-up operation and argues that standard costs, which are derived from historical costs, reflect long-term conditions and, by definition, are not affected by start-up costs. Respondent determined the Eurotechnique markup based on data from only two of the years in issue. Petitioner presented testimony that the Eurotechnique transaction was in a start-up phase during 1981 and 1982, resulting in unusual overhead expenses not included in standard cost, and that standard cost is only an estimate of costs to be incurred, not the actual cost of producing the property. We agree with petitioner that the use of standard costs here would not give us a true markup if the standard costs varied significantly from the actual costs during the early stages of the Eurotechnique transaction. Under these circumstances, the reliability of the Eurotechnique markup is doubtful.
+ 
+*34 In addition, petitioner argues that Eurotechnique should not be used as a comparable because Eurotechnique and NSC were related parties and therefore not uncontrolled as required by the regulations. Despite the Eurotechnique transaction’s having occurred between petitioner’s subsidiaries and a company 49 percent owned by petitioner, respondent claims that these entities were not controlled and cites R.T. French Co. v. Commissioner, 60 T.C. 836 (1973), for the proposition that 49–percent ownership does not equal control. In that case, the Court stated:
+the opportunity may have existed for petitioner’s two unrelated British parent companies, which also jointly owned the company holding a majority of MPP’s [the jointly organized company] stock, to cause petitioner to agree to an arrangement that unfairly favored MPP, but it seems unlikely that petitioner’s parent companies would have done so, because they would thus have been diverting funds from a corporation (petitioner) in which they were the sole stockholders to another corporation (MPP) in which a stranger * * * owned 49 percent of the stock. * * * [Id. at 851.]
+ 
+In these cases, the opportunity may have existed for petitioner to favor Eurotechnique with lower than normal prices for the devices, and we cannot conclude that such pricing would have been detrimental to petitioner. The existence of control as defined by the regulations is a factual issue that depends on the circumstances of each individual case. See sec. 1.482–1(a)(3), Income Tax Regs. There is no evidence that Eurotechnique was not effectively controlled by NSC. Thus, we cannot conclude that the parties to the Eurotechnique transactions were not controlled for purposes of section 482. Accordingly, we reject the adjustment recommended by Horst with respect to the Eurotechnique transaction.
+ 
+
+e. Horst’s Modifications
+Horst’s adjustments before trial, described in detail at pages 70 through 80, are summarized as follows (in millions of dollars):
+ 
+
+
+
+
+ 
+|1978
+ 
+|1979
+ 
+|1980
+ 
+|1981
+ 
+|1982
+ 
+|
+Full Transactional Analysis:
+ 
+|
+(Non-round-trip sales of $76.9 million, Eurotechnique adjustment of $32.6 million, and inventory of $9.7 million)
+ 
+|
+Petitioner’s sales
+ 
+| 
+| 
+| 
+| 
+| 
+|
+of dies/materials
+ 
+| 
+| 
+| 
+| 
+| 
+|
+to SEA affiliates
+ 
+|38.2
+ 
+|25.2
+ 
+|51.7
+ 
+|83.7
+ 
+|94.3
+ 
+|
+SEA affiliates’
+ 
+| 
+| 
+| 
+| 
+| 
+|
+sales of devices
+ 
+| 
+| 
+| 
+| 
+| 
+|
+to petitioner
+ 
+|(16.8)
+ 
+|(20.6)
+ 
+|(17.6)
+ 
+|(54.8)
+ 
+|(64.2)
+ 
+|
+Total
+ 
+|21.5
+ 
+|4.7
+ 
+|34.2
+ 
+|28.9
+ 
+|30.1
+ 
+|
+Profit–Split Analysis:
+ 
+|
+ 
+|25.7
+ 
+|10.8
+ 
+|21.6
+ 
+|8.1
+ 
+|12.0
+ 
+|
+Partial Transactional Analysis:
+ 
+|
+(Non-round-trip sales
+ 
+| 
+| 
+| 
+| 
+| 
+|
+to SEA affiliates
+ 
+| 
+| 
+| 
+| 
+| 
+|
+including inventory
+ 
+| 
+| 
+| 
+| 
+| 
+|
+for non-round trip
+ 
+| 
+| 
+| 
+| 
+| 
+|
+sales)
+ 
+|10.7
+ 
+|.8
+ 
+|16.7
+ 
+|22.0
+ 
+|22.0
+ 
+|
+(Totals do not match due to Horst’s rounding.)
+ 
+|
+
+
+
+
+Because Horst’s full transactional analysis did not meet his profit-split test of reasonableness, he recommended his partial transactional analysis in his rebuttal report. Horst wrote that this adjustment, attributable to dies and materials included in devices that were not ultimately sold back to petitioner by the SEA affiliates, would be justified even if the SEA affiliates’ die-free prices for packaged devices sold back to the United States were at arm’s-length terms. This adjustment does not include any return on U.S. fabrication assets, tangible or intangible, that would normally be provided under a cost-plus analysis. The partial transactional analysis also resulted in allocations that met Horst’s test of reasonableness.
+ 
+*35 Horst conceded at trial that the Asian subsidiaries paid an arm’s-length price for the dies and materials that they bought from petitioner and sold to trade customers. However, instead of subtracting the portion of his adjustment that was due to trade sales, Horst reallocated such adjustment between round-trip die sales and sales to other foreign affiliates, which resulted in his following modified recommendation:
+ 
+
+
+
+
+ 
+|(In millions of dollars)
+ 
+|
+ 
+|1978
+ 
+|1979
+ 
+|1980
+ 
+|1981
+ 
+|1982
+ 
+|
+Adjustment
+ 
+|$16.9
+ 
+|$0.4
+ 
+|$26.1
+ 
+|$19.4
+ 
+|$20.2
+ 
+|
+
+
+
+
+This allocation, like Horst’s full transactional analysis, includes: (1) Non-round-trip sales to the SEA affiliates, (2) dies and materials in the SEA affiliates’ inventory, (3) the Eurotechnique adjustment to the inbound transfer prices, and (4) the reallocation of amounts formerly attributed to trade sales between round-trip sales and sales to other foreign affiliates. Under the profit-split test, the $83.1 million adjustment resulted in petitioner’s receiving 57.6 percent of the consolidated operating profit, while owning 53.7 percent of the external net business assets, and the Asian subsidiaries’ receiving 36.4 percent of the operating profit, while owning 31.9 percent of the external net business assets. (These percentages included pro forma adjustments to petitioner’s other foreign subsidiaries.) Horst concluded that this result passed his reasonableness test.
+ 
+
+
+D. Determination of Reasonable Adjustment
+Neither party provided the Court with evidence that would satisfy any of the described methods of transfer pricing under the section 482 regulations. We were not presented with any way to determine whether petitioner’s prices were per se comparable to any third-party prices. Most of the major U.S. die fabricators, like petitioner, owned packaging subsidiaries in foreign countries; thus the most similarly situated entities were not uncontrolled and could not be used as comparables. The IDM’s operated under different conditions than such subsidiaries; thus their prices needed too many adjustments to be comparable.
+ 
+We believe that, due to the interdependent nature of their relationship, petitioner should not have sustained losses over the years in issue while the Asian subsidiaries maintained high profits and, thus, in order clearly to reflect petitioner’s income, some adjustment needs to be made. The purpose of our adjustment to income is to bring the pricing relationship between petitioner and the Asian subsidiaries closer to what would have occurred at arm’s length. Such an adjustment could be apportioned in more than one way among the outbound and inbound transfer prices. Respondent has chosen to allocate the adjustment to the outbound transfer prices and then to adjust the prices accordingly. We adopt Horst’s full transactional analysis as the least unacceptable methodology presented to us, and we modify Horst’s recommended adjustment, where it erred and where it was inconsistent with the economic theory put forward by Horst for respondent. Our adjustments reduce Horst’s recommendations to amounts less than those that he found would satisfy his test of reasonableness under the profit-split analysis.
+ 
+
+1. Exclusion of Adjustments Attributable to Trade Sales and to the Eurotechnique Markup
+*36 Horst conceded that no adjustment was appropriate with respect to dies and materials sold to unrelated parties by the SEA affiliates; thus, we eliminate the amount determined by Horst to be attributable to trade sales to such parties rather than redistributing this amount. Further, for the reasons stated above, we exclude the amounts attributable to the Eurotechnique markup. These adjustments result in the following allocations:
+ 
+
+
+
+
+Adjustments to Horst’s Recommendations
+ 
+|
+(In millions of dollars)
+ 
+|
+
+
+
+
+
+
+
+ 
+|1978
+ 
+|1979
+ 
+|1980
+ 
+|1981
+ 
+|1982
+ 
+|
+Full Transactional Analysis
+ 
+|$21.5
+ 
+|$4.7
+ 
+|$34.2
+ 
+|$28.9
+ 
+|$30.1
+ 
+|
+less
+ 
+| 
+| 
+| 
+| 
+| 
+|
+Eurotechnique markup
+ 
+|(8.4)
+ 
+|2.9
+ 
+|(15.8)
+ 
+|(2.7)
+ 
+|(8.7)
+ 
+|
+Trade sales
+ 
+|(5.9)
+ 
+|(5.0)
+ 
+|(10.0)
+ 
+|(11.5)
+ 
+|(11.0)
+ 
+|
+Revised adjustment
+ 
+|$ 7.2
+ 
+|$2.6
+ 
+|$ 8.4
+ 
+|$14.7
+ 
+|$10.4
+ 
+|
+
+
+
+
+
+2. Exclusion of Amounts Attributable to Entities Not Included in the Asian Subsidiaries
+Petitioner asserts, and Clowery admits, that Clowery’s accounting analysis includes several entities not involved in respondent’s notice adjustments, to wit, the entities that were included in the SEA affiliates but not included in the Asian subsidiaries (the non-Asian subsidiaries). Horst used Clowery’s calculation of sales by U.S. Fabrication to the SEA affiliates in computing his adjustment. We agree with petitioner that Horst’s results must be reduced to account for the inclusion of the non-Asian subsidiaries.
+ 
+Clowery’s rebuttal report provided the percentage of U.S. Fabrication sales attributable to the Asian subsidiaries. To correct for the portion of the adjustment attributable to non-Asian subsidiaries, we divide the portion of U.S Fabrication sales attributable to the Asian subsidiaries (A) by the portion of U.S. Fabrication sales attributable to the SEA affiliates (B) to get the portion of sales to the SEA affiliates that actually went to the Asian subsidiaries (A/B):
+ 
+
+
+
+
+Year
+ 
+|A
+ 
+|B
+ 
+|A/B
+ 
+|
+1978
+ 
+|96.5%
+ 
+|99.9%
+ 
+|96.60%
+ 
+|
+1979
+ 
+|97.6%
+ 
+|99.9%
+ 
+|97.70%
+ 
+|
+1980
+ 
+|95.7%
+ 
+|99.8%
+ 
+|95.89%
+ 
+|
+1981
+ 
+|87.3%
+ 
+|94.8%
+ 
+|92.09%
+ 
+|
+1982
+ 
+|87.4%
+ 
+|95.6%
+ 
+|91.42%
+ 
+|
+
+
+
+
+We determine our final adjustment to petitioner’s income by reducing the allocations to correct for the overinclusion by Horst of non-Asian subsidiaries in his calculations as follows:
+ 
+
+
+
+
+Adjustment to Petitioner’s Income
+ 
+|
+(In millions of dollars)
+ 
+|
+
+
+
+
+
+
+
+ 
+|1978
+ 
+|1979
+ 
+|1980
+ 
+|1981
+ 
+|1982
+ 
+|
+ 
+|$ 7.2
+ 
+|$ 2.6
+ 
+|$ 8.4
+ 
+|$14.7
+ 
+|$10.4
+ 
+|
+ 
+|96.60%
+ 
+|97.70%
+ 
+|95.89%
+ 
+|92.09%
+ 
+|91.42%
+ 
+|
+Total Adjustment
+ 
+|$ 6.96
+ 
+|$ 2.54
+ 
+|$ 8.05
+ 
+|$13.54
+ 
+|$ 9.51
+ 
+|
+
+
+
+
+We hold that petitioner’s income should be increased by $6.96 million, $2.54 million, $8.05 million, $13.54 million, and $9.51 million in 1978, 1979, 1980, 1981, and 1982, respectively. The record does not indicate that this reallocation would surpass the prices the market would bear for the dies and materials in issue.
+ 
+
+3. No Adjustment for Dies and Materials Ultimately Sold to Other Foreign Affiliates
+*37 Finally, petitioner argues that adjustments pertaining to dies and materials included in devices sold by the Asian subsidiaries to other foreign subsidiaries should not be included in petitioner’s income. Petitioner asserts that any allocation based on such sales would be prejudicial because petitioner was unable to seek to avoid double taxation or to prepare evidence to dispute such adjustments by establishing that the sales of devices by the Asian subsidiaries to the other foreign affiliates or by the other foreign affiliates to unrelated parties were at arm’s-length terms. Petitioner further claims that income is being shifted from entities not here in issue and that, under Horst’s analysis, the other foreign affiliates reaped any profit from the less than arm’s-length die and material prices, presumably because the Asian subsidiaries passed along the savings.
+ 
+No income was shifted in these adjustments from the other foreign affiliates to petitioner. Horst merely made calculations with respect to the other foreign affiliates in order to perform his profit-split analysis. Whether the sales of these devices by the Asian subsidiaries or by the other foreign affiliates were at arm’s-length terms is irrelevant to our holdings in these cases that the sales by petitioner to the Asian subsidiaries were not. Finally, respondent argues that, even if the Asian subsidiaries did not benefit from the reduced outbound prices, respondent should not be precluded from adjusting less than arm’s-length prices between petitioner and the Asian subsidiaries. Respondent contends that Congress did not intend to allow taxpayers to avoid paying arm’s-length prices by passing the savings along to a second affiliate located outside the United States. We agree with respondent.
+ 
+We have considered the other arguments of the parties. They are either without merit or need no discussion in view of our resolution of the issues.
+ 
+Decisions will be entered under Rule 155.
+ 
+All Citations
+T.C. Memo. 1994-195, 1994 WL 159797, 67 T.C.M. (CCH) 2849, T.C.M. (RIA) 94,195, 1994 RIA TC Memo 94,195
+
+
+
+Footnotes
+|
+1
+|Separate legal entity until 1981.
+|
+
+
+
+
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

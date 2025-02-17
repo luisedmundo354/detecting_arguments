@@ -1,0 +1,214 @@
+
+
+
+
+110 T.C. 375
+United States Tax Court.
+UNION CARBIDE CORPORATION and Subsidiaries, Petitioner
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent
+No. 3501–94.
+|
+June 15, 1998.
+
+*375 P, the related supplier of UCFSC, a wholly owned foreign sales corporation (FSC) within the meaning of sec. 922, I.R.C., filed a motion for partial summary judgment, arguing that P is entitled to redetermine its FSC commission expenses for its taxable years 1987, 1988, and 1989 pursuant to sec. 925(a), I.R.C., and regulations thereunder. R objects to P’s motion and filed a cross-motion for partial summary judgment, arguing that P failed to claim additional FSC commission expenses within the time prescribed by sec. 1.925(a)–1T(e)(4), Temporary Income Tax Regs., 52 Fed.Reg. 6448 (Mar. 3, 1987).
+ 
+1. Held: Respondent’s cross-motion for partial summary judgment granted and petitioner’s motion for partial summary judgment denied; sec. 1.925(a)–1T(e)(4), Temporary Income Tax Regs., supra, requires that the period of limitations for claiming refunds under sec. 6511, I.R.C., be open for both petitioner and UCFSC in order for petitioner to claim additional FSC commission expenses for the years in dispute.
+ 
+2. Held, further, sec. 1.925(a)–1T(e)(4), Temporary Income Tax Regs., supra, is valid.
+ 
+Attorneys and Law Firms
+*376 Thomas M. Haderlein, James M. O’Brien, Jeffrey M. O’Donnell, Tamara L. Frantzan, and Jerry L. Robinson, for petitioner.
+Steven R. Winningham and Joseph F. Long, for respondent.
+
+
+
+
+OPINION
+NIMS, J.
+This matter is before the Court on petitioner’s motion and respondent’s cross-motion for partial summary judgment filed pursuant to Rule 121.
+ 
+Unless otherwise indicated, all section references are to sections of the Internal Revenue Code in effect for the years at issue. All Rule references are to the Tax Court Rules of Practice and Procedure.
+ 
+Respondent determined deficiencies in the Federal income taxes of petitioner for its taxable years ending December 31, 1987, 1988, and 1989 as follows:
+ 
+
+
+
+
+Year
+ 
+|Deficiency
+ 
+|
+ 
+||
+1987
+ 
+|$387,887
+ 
+|
+1988
+ 
+|24,156,481
+ 
+|
+1989
+ 
+|32,903,323
+ 
+|
+
+
+
+
+The issues for decision are: (1) Whether petitioner can claim additional foreign sales corporation (FSC) commission expenses pursuant to section 1.925(a)–1T(e)(4), Temporary Income Tax Regs., 52 Fed.Reg. 6448 (Mar. 3, 1987) (Regulation), with respect to export sales made during its taxable years 1987 through 1989, in connection with petitioner’s claims for refunds for overpayment of taxes for those years under section 6511; and, if not, (2) whether the Regulation is valid.
+ 
+Petitioner’s principal offices were located in Danbury, Connecticut, at the time the petition was filed.
+ 
+
+Background
+The facts related below are derived from the Stipulation of Facts, Foreign Sales Corporation Issue, filed on August 8, 1997, and attached exhibits. The facts are stated solely for purposes of deciding the matter before us and are not findings of fact in the event of a trial of this case. See Coca–Cola Co. & Subs. v. Commissioner, 106 T.C. 1, 2 (1996).
+ 
+*377 During the years at issue, petitioner manufactured or produced various chemicals, plastics, carbon products, and industrial gases in the United States. Petitioner sold a portion of its products to customers outside the United States.
+ 
+On December 31, 1984, petitioner organized Union Carbide Foreign Sales Corporation (UCFSC) under the laws of the U.S. Virgin Islands. UCFSC elected to be taxed as an FSC pursuant to section 922(a)(2) on March 13, 1985. UCFSC operated and qualified as an FSC throughout the relevant period.
+ 
+Under an Export Distribution and Commission Agreement (Agreement) dated December 28, 1984, petitioner paid UCFSC during the taxable years at issue amounts intended to be the maximum commission allowable on foreign trading gross receipts (FTGR) derived from the sale of its export products. Petitioner calculated UCFSC’s profit each year to be the maximum profit allowable under the administrative pricing rules of section 925(a) and accompanying regulations.
+ 
+On its 1987, 1988, and 1989 Forms 1120, U.S. Corporation Income Tax Return, petitioner reported FSC commission expenses under section 925(a) in the amounts of $32,670,323, $68,033,199, and $57,622,379, respectively. For purposes of calculating those expenses, petitioner used the administrative pricing rule set forth in section 925(a)(2), which requires taxpayers to determine the combined taxable income (CTI) of the FSC and the related supplier attributable to FTGR. For purposes of calculating CTI, petitioner allocated and apportioned operating expenses pursuant to the “sales factor” allocation method under section 861 and accompanying regulations.
+ 
+UCFSC filed its 1987, 1988, and 1989 Forms 1120–FSC, U.S. Income Tax Return of a Foreign Sales Corporation, on September 15, 1988, August 22, 1989, and September 10, 1990, respectively. (UCFSC is not a party in the instant case.)
+ 
+Petitioner is subject to respondent’s Coordinated Examination Program (CEP). Typically, every income tax return of a CEP taxpayer is surveyed or examined by respondent, usually in 2– or 3–year cycles. The examination of petitioner’s 1987 through 1989 tax years (1987–89 Cycle) commenced with an audit notification letter dated April 16, 1990. Shortly thereafter, a preaudit conference was held between petitioner and respondent’s examination team, at which the parties discussed the scope and timing of the pending examination.
+ 
+*378 At the preaudit conference, petitioner was informed that, because no FSC adjustments had been proposed as a result of respondent’s examination of its 1984–86 Cycle, respondent would not examine FSC issues in the 1987–89 Cycle. The examination team requested, and petitioner executed, Forms 872, Consent to Extend the Time to Assess Tax, for each of the years of the 1987–89 Cycle. During the course of the examination, respondent did not seek Forms 872 for UCFSC’s corresponding tax years, nor did petitioner file any protective claims for refund or solicit any extensions of the periods of limitations for UCFSC’s 1987, 1988, and 1989 tax years. During that time, petitioner did not anticipate making a redetermination of the FSC commissions paid to UCFSC during those years.
+ 
+The limitations periods for respondent to assess deficiencies under section 6501(a) (limitations on assessment and collection), and for UCFSC to file claims for refund under section 6511 (limitations on credit or refund), for UCFSC’s 1987, 1988, and 1989 tax years expired on September 15, 1991, August 22, 1992, and September 10, 1993, respectively.
+ 
+The examination of petitioner’s 1987–89 Cycle resulted in the issuance of a notice of deficiency to petitioner for those years on December 7, 1993. Petitioner filed a petition on February 28, 1994, in which, among other things, petitioner assigned error to the entire amount of deficiencies determined by respondent. On May 6, 1994, respondent advised petitioner that the case had been forwarded to the Internal Revenue Service (IRS) Appeals Office in an effort to resolve without a trial some or all of the adjustments set forth in the deficiency notice.
+ 
+Petitioner first learned of the potential tax benefit of redetermining its FSC commission expenses for the years in issue in connection with the preparation of its 1993 tax returns. On December 15, 1994, petitioner gave written notice to the Appeals officer who was then considering the case that petitioner intended to seek additional FSC commission expenses for the years in issue. The additional FSC commissions were premised on petitioner’s redetermination of the operating expenses allocable and apportionable using a “production cost” method under section 861(b) to determine CTI, instead of the sales allocation method previously used on petitioner’s returns. On May 5, 1995, petitioner filed an *379 amendment to its petition (first amendment), claiming additional FSC commission expenses in the amounts of $17,578,042, $18,638,279, and $23,111,671, for 1987, 1988, and 1989, respectively. On July 7, 1995, respondent filed an answer to the first amendment, asserting, among other things, that petitioner’s claims for additional FSC commissions were not made within the time prescribed by the Regulation.
+ 
+On August 21, 1996, petitioner advised respondent of its intent to amend the petition a second time (second amendment) to claim additional FSC commission expenses for its 1987, 1988, and 1989 tax years (over and above those claimed in the first amendment) attributable, among other things, to its use of the “transaction-by-transaction” method of determining FSC profits under section 1.925(a)–1T(c)(8), Temporary Income Tax Regs., 52 Fed.Reg. 6446 (Mar. 3, 1987), instead of a determination of FSC profit based on product groupings, as previously used on petitioner’s returns. The second amendment, filed on October 24, 1996, claimed additional FSC commissions in the amounts of $1,598,757, $8,911,740, and $28,106,979, for 1987, 1988, and 1989, respectively. On December 4, 1996, respondent filed an answer to the second amendment, again denying petitioner’s claims because they were not asserted within the time prescribed by the Regulation.
+ 
+On August 20, 1996, UCFSC filed amended returns for its 1987, 1988, and 1989 tax years, reporting additional FSC commission income in the amounts of $19,176,799, $27,550,019, and $51,218,650, respectively, and resulting additional income tax due. (These amounts match the total amounts of additional FSC commission expenses claimed by petitioner in its two amendments to the petition .) Respondent rejected UCFSC’s amended returns, and no additional tax has been assessed against UCFSC for the aforementioned years.
+ 
+On December 12, 1996, the parties held a telephone conference call with the Court in which it was agreed that the threshold issue of whether or not petitioner had timely asserted its claims for additional FSC commission expenses under the Regulation would be considered apart from the substantive merits of those recomputations. On the basis of that discussion, petitioner filed its motion, and respondent filed *380 its cross-motion, for partial summary judgment with respect to the threshold issue, along with supporting memoranda of law.
+ 
+
+Discussion
+Petitioner asks us to find overpayments of taxes for its 1987, 1988, and 1989 tax years, respectively, based on its recomputation of the commissions payable to its foreign subsidiary, UCFSC, during those years pursuant to section 925(a) and attendant regulations. We have jurisdiction to determine the amounts of any overpayments with respect to petitioner’s 1987, 1988, and 1989 tax years since respondent has determined a deficiency for each of those years. Sec. 6512(b); Barton v. Commissioner, 97 T.C. 548, 552 (1991). We must first decide whether the Regulation precludes petitioner from claiming additional FSC commission expenses for the years in issue. If we hold that it does, we must then decide whether the Regulation is valid.
+ 
+For the purpose of petitioner’s motion and respondent’s cross-motion, the parties agree that there are no genuine issues of material fact in dispute and that the matter before us is ripe for summary judgment. Rule 121(b); Exxon Corp. v. Commissioner, 102 T.C. 721, 725 (1994); Intel Corp. & Consol. Subs. v. Commissioner, 100 T.C. 616, 619 (1993), affd. 67 F.3d 1445 (9th Cir.1995). If we grant petitioner’s motion, further proceedings to determine the amounts of additional FSC commission expenses to which petitioner is entitled will be required. If, on the other hand, we grant respondent’s cross-motion, no further proceedings concerning this issue will be necessary.
+ 
+In deciding the matter before us, we first find it useful to synopsize the statutory and regulatory framework and history pertaining to FSC’s and their statutory predecessors, domestic international sales corporations (DISC’s).
+ 
+Congress enacted the DISC provisions in 1971 as a tax incentive to encourage and increase exports. Revenue Act of 1971, Pub.L. 92–178, sec. 501, 85 Stat. 497, 535. The DISC provisions are set forth in sections 991 through 997. Those sections allowed domestic corporations to defer taxes on a significant portion of profits from export sales similar to the tax benefits available to corporations manufacturing abroad *381 through foreign subsidiaries. H. Rept. 92–533, at 58–59 (1971), 1972–1 C.B. 498, 529; S. Rept. 92–437, at 90–91 (1971), 1972–1 C.B. 559, 609. A domestic corporation that conducts its foreign operations through a foreign subsidiary generally does not pay Federal tax on the income from those operations until the subsidiary’s income is repatriated to the domestic parent. General Dynamics Corp. & Subs. v. Commissioner, 108 T.C. 107, 116 (1997).
+ 
+Under the DISC provisions, Congress created intercompany pricing rules for the purpose of limiting the amount of income that the parent (related supplier) could allocate to the DISC, thus limiting the amount of tax incentive by means of income deferral. These rules provided for the price at which the related supplier was deemed to have sold its products to the DISC, regardless of whether any price was actually paid. Id. at 117. Section 994(a) provided three alternative pricing methods for DISC’s. The first two methods were safe harbors, created so that taxpayers might avoid the complexities of section 482. Sec. 994(a)(1) and (2); Brown–Forman Corp. v. Commissioner, 94 T.C. 919, 926 (1990), affd. 955 F.2d 1037 (6th Cir.1992). However, under section 994(a)(3), taxpayers could use the rules of section 482 to allocate an arm’s-length profit to the DISC if those rules would allow a greater allocation of profit to the DISC than either safe harbor. Sec. 994(a)(3); Brown–Forman Corp. v. Commissioner, supra at 926.
+ 
+The parent corporation either sold its product to the DISC for resale in foreign markets, a buy-sell DISC, or paid a commission to the DISC for selling goods in foreign markets, a commission DISC. Brown–Forman Corp. v. Commissioner, supra at 926–927. Although the section 994(a) pricing rules literally applied only to a buy-sell DISC, they were adopted for commission DISC’s pursuant to statutory authority granted to the Secretary. Sec. 994(b)(1); sec. 1 .994–1(d)(2)(i), Income Tax Regs.
+ 
+In 1984, Congress enacted the FSC provisions (sections 921 through 927) to replace and cure certain perceived shortcomings in the DISC provisions for taxable years beginning after December 31, 1984. Deficit Reduction Act of 1984, Pub.L. 98–369, sec. 801(a), 98 Stat. 494, 985; S. Prt. 98–169 (Vol.1), at 636 (1984); see Brown–Forman Corp. v. Commissioner,  *382 supra at 924–925, 946. The Senate Finance Committee explanation of the FSC legislation states that
+In general, where the provisions of the bill are identical or substantially similar to the DISC provisions under present law, the committee intends that rules comparable to the rules in regulations issued under those provisions will be applied to the FSC. [S. Prt. 98–169 (Vol.1), supra at 636.]
+ 
+As with DISC’s, under the FSC provisions, the FSC and its related supplier remain subject to section 482 but may elect between two safe harbor pricing methods to determine the profit of the FSC in order to avoid the complexities of section 482. Sec. 925(a)(1) and (2). The transfer pricing rules applicable to FSC’s are analogous to the rules applicable to DISC’s. Secs. 925(a), 994(a); General Dynamics Corp. & Subs. v. Commissioner, supra at 117–118. The FSC and related supplier may, subject to certain restrictions, select the most favorable of the administrative pricing methods of section 925(a) in order to reallocate income generated by export sales from the parent corporation to the FSC. The FSC provisions permanently exempt a portion of FSC profits (approximately 65 percent) from tax. Sec. 923(a). The FSC recognizes the nonexempt portion of its taxable income as income effectively connected with the conduct of a U.S. trade or business. Sec. 921(d).
+ 
+Section 925(a) provides in pertinent part:
+SEC. 925 (a). In General.—In the case of a sale of export property to a FSC by a person described in section 482, the taxable income of such FSC and such person shall be based upon a transfer price which would allow such FSC to derive taxable income attributable to such sale (regardless of the sales price actually charged) in an amount which does not exceed the greatest of—
+(1) 1.83 percent of the foreign trading gross receipts derived from the sale of such property by such FSC,
+(2) 23 percent of the combined taxable income of such FSC and such person which is attributable to the foreign trading gross receipts derived from the sale of such property by such FSC, or
+(3) taxable income based upon the sale price actually charged (but subject to the rules provided in section 482).
+ 
+Although section 925(a) applies literally only to buy/sell FSC’s, Congress authorized the Secretary to prescribe regulations setting forth consistent rules with respect to commission FSC’s. Sec. 925(b); General Dynamics Corp. & Subs. v. *383 Commissioner, supra at 118; sec. 1.925(a)–1T(d) (2), Temporary Income Tax Regs ., 52 Fed.Reg. 6447 (Mar. 3, 1987).
+ 
+The Regulation was adopted as part of a comprehensive set of temporary regulations intended to “provide immediate guidance necessary to FSC’s and their shareholders with respect to provisions under Title VIII of the Tax Reform Act of 1984 (Foreign Sales Corporations)” and is effective for taxable years beginning after December 31, 1984. T.D. 8126, 1987–1 C.B. 184, 191–211. The Regulation provides as follows (bracketed numerals supplied):
+(4) Subsequent determination of transfer price, rental income or commission. [1] The FSC and its related supplier would ordinarily determine under section 925 and this section the transfer price or rental payment payable by the FSC or the commission payable to the FSC for a transaction before the FSC files its return for the taxable year of the transaction. [2] After the FSC has filed its return, a redetermination of those amounts by the Commissioner may only be made if specifically permitted by a Code provision or regulations under the Code. [3] Such a redetermination would include a redetermination by reason of an adjustment under section 482 and the regulations under that section or section 861 and § 1.861–8 which affects the amounts which entered into the determination. [4] In addition, a redetermination may be made by the FSC and related supplier if their taxable years are still open under the statute of limitations for making claims for refund under section 6511 if they determine that a different transfer pricing method or grouping of transactions may be more beneficial. [5] Also, the FSC and related supplier may redetermine the amount of foreign trading gross receipts and the amount of costs and expenses that are used to determine the FSC’s and related supplier’s profits under the transfer pricing methods. [6] Any redetermination shall affect both the FSC and the related supplier. [7] The FSC and the related supplier may not redetermine that the FSC was operating as a commission FSC rather than a buy-sell FSC, and vice versa. [Sec. 1.925(a)–1T(e)(4), Temporary Income Tax Regs., 52 Fed.Reg. 6448 (Mar. 3, 1987).]
+ 
+Petitioner and respondent agree that the Regulation permits an FSC and its related supplier to redetermine the transfer price or commission reported on their original returns through the filing of amended returns, provided that the conditions of the Regulation are satisfied. The parties lock horns, however, over the scope of the requirements imposed by the Regulation on the redetermination of FSC commissions by a related supplier and an FSC. More specifically, the parties dispute the import of sentence No. 4 of the Regulation.
+ 
+Regulations that are valid exercises of the powers of the Secretary have the force and effect of law. Sim–Air, USA, *384 Ltd. v. Commissioner, 98 T.C. 187, 198 (1992). The rules for interpreting regulations resemble those governing the interpretation of statutes. See, e.g., KCMC, Inc. v. FCC, 600 F.2d 546, 549 (5th Cir.1979); Intel Corp. & Consol. Subs. v. Commissioner, 100 T.C. at 631. When construing a statute or a regulation, courts are to give effect to its plain and ordinary meaning unless doing so would produce absurd or unreasonable results. Green v. Bock Laundry Mach. Co., 490 U.S. 504, 509 (1989); KCMC, Inc. v. FCC, supra at 549; Exxon Corp. v. Commissioner, 102 T.C. 721 (1994). The most basic tenet of statutory construction is to start with the language of the statute itself. United States v. Ron Pair Enters., Inc., 489 U.S. 235, 241 (1989). When the plain language of the statute or regulation is clear and unambiguous, that is where the inquiry should end. General Dynamics Corp. & Subs. v. Commissioner, 108 T.C. at 121–122.
+ 
+On brief, petitioner presents a plenitude of alternative arguments in support of its claims for additional FSC commission expenses for the years in issue. Petitioner’s principal contention is that the plain language of sentence No. 4 requires only that the party in the overpayment position file its claims for refund relating to a redetermination of FSC commission expenses within the allowable time period under section 6511. In other words, petitioner maintains that the section 6511 period of limitations need be open only for its own taxes, not those of UCFSC, in order for petitioner to redetermine its FSC commission expenses. Thus, petitioner asserts that it can deduct additional FSC commission expenses in the amounts of $19,176,799, $27,550,019, and $51,218,650 for 1987, 1988, and 1989, respectively, subject to any “correlative adjustments” to UCFSC’s returns that, in petitioner’s view, are mandated by sentence No. 6 of the Regulation.
+ 
+Petitioner alternatively argues that, even if a “dual statute of limitations requirement” inheres in sentence No. 4, sentence No. 5 literally contains no such requirement. Therefore, petitioner reasons, it is entitled to claim additional expenses in the amounts of $17,578,042, $18,638,279, and $23,111,671 for 1987, 1988, and 1989, respectively, subject to any correlative adjustments to UCFSC’s returns. The foregoing amounts are based on the portion of petitioner’s FSC recomputations *385 attributable to its section 861(b) expense adjustments, as alleged in petitioner’s first amendment.
+ 
+As a further alternative argument, petitioner maintains that, if taxpayers must satisfy any dual limitations requirement under the Regulation, the period applicable to the party in the deficiency position must be based on section 6501 rather than section 6511. (The limitations periods contained in sections 6501 and 6511 are not uniformly parallel.) In that connection, petitioner argues that its claims for additional FSC commission expenses for 1988 and 1989 in the amounts of $18,638,279 and $51,218,650 are timely because they were made within the periods for petitioner to file claims for refund under section 6511 and for respondent to assess correlative deficiencies against UCFSC under section 6501(e)(1)(A) (the 6–year period of limitations applicable to omissions from gross income in excess of 25 percent of the gross income reported on the taxpayer’s return). (Petitioner acknowledges that both of its claims for 1987, as well as its revised claim for 1988, came after the 6–year period of limitations had expired with respect to UCFSC for those years, and are thus barred under this interpretation of the Regulation.)
+ 
+Respondent argues, on the other hand, that petitioner’s claims are proscribed by the plain language of the Regulation. Respondent maintains that sentence No. 4 allows the FSC and the related supplier to change their administrative pricing method, or the grouping of transactions to which the methods are applied, only if such redeterminations are made while the periods of limitations for making claims for refund under section 6511 are open for both the FSC and the related supplier (dual section 6511 requirement). Respondent further argues that the dual section 6511 requirement extends to any redeterminations made pursuant to sentence No. 5 as well.
+ 
+We agree with respondent. The Regulation is clear and unambiguous, and that is where our inquiry as to the meaning of the Regulation must end. See General Dynamics Corp. & Subs. v. Commissioner, supra at 122.
+ 
+In response to petitioner’s principal argument, the antecedents of the pronoun “their” in sentence No. 4 are unequivocally the related supplier and the FSC. Thus, sentence No. 4 on its face mandates that the period of limitations under section 6511 be open for both the related supplier *386 and the FSC in order for FSC commission expenses to be redetermined.
+ 
+Despite claiming to rely on the plain meaning of the Regulation, petitioner asks the Court to interpret sentence No. 4 essentially as follows:
+In addition, a redetermination may be made by the FSC and related supplier if either the related supplier’s or the FSC’s taxable year is still open under the statute of limitations for making claims for refund under section 6511 if they determine that a different transfer pricing method or grouping of transactions may be more beneficial.
+ 
+Petitioner reasons that a dual section 6511 requirement is superfluous insofar as sentence No. 6 calls for correlative adjustments to the returns of the party in the deficiency position. (Petitioner’s argument presupposes that correlative adjustments are authorized by sentence No. 6 even though the year of the taxpayer in the deficiency posture may already otherwise have closed. See discussion infra at pp. 24–25).
+ 
+We think sentence No. 4 and sentence No. 6 serve different functions, however. To wit, sentence No. 4 specifies the time within which redeterminations must be made by the parties, whereas sentence No. 6 underscores the fact that such redeterminations cannot be made unilaterally. The interpretation advanced by petitioner simply flies in the face of the plain language of the Regulation, and we decline to rewrite the Regulation to conform with petitioner’s tortured construction. Cf. Brown–Forman Corp. v. Commissioner, 94 T.C. at 939.
+ 
+Petitioner’s alternative position regarding redeterminations under sentence No. 5 is without merit as well. Petitioner argues, in effect, that since sentence No. 5 speaks to certain types of changes not permitted by sentence No. 4, sentence No. 5 must not incorporate the timeframe contained in sentence No. 4. But it defies logic to suppose that, in drafting the Regulation, the Secretary would have provided sub silentio a disparate rule for making redeterminations pursuant to sentence No. 5. Rather, we conclude that the dual section 6511 requirement set forth in sentence No. 4 applies equally to redeterminations of FTGR and the amounts of costs and expenses used to redetermine profits of the FSC and the related supplier under the transfer pricing methods of *387 section 925(a). In that connection, we observe that sentence No. 5 begins with the word “also”. According to Webster’s II New Riverside University Dictionary (1988), “also” means “in addition: likewise.” Moreover, the preamble to the FSC regulations states in pertinent part that a
+redetermination may be made by the FSC and related supplier if their taxable years are open under the statute of limitations for making claims for refund under section 6511 if they determine that a different transfer pricing method or grouping of transactions would be more beneficial. Likewise, * * * [the FSC and related supplier] may redetermine the amount of * * * [FTGR] and the costs and expenses that are used to determine their profit under the transfer pricing methods. * * * [T.D. 8126, 1987–1 C.B. at 189; emphasis added.]
+ 
+Petitioner has failed to persuade us that sentence No. 5 should be read inconsistently with, and divorced from, the requirement announced in sentence No. 4. Regulations, like statutes, “are to be considered, each in its entirety and not as if each of its provisions was independent and unaffected by the others.” Alexander v. Cosden Pipe Line Co., 290 U.S. 484, 496 (1934); see General Dynamics Corp. & Subs. v. Commissioner, 108 T.C. at 121.
+ 
+Petitioner’s argument regarding the applicability of section 6501 to the party in the deficiency position for purposes of satisfying the Regulation’s terms is also unavailing. While section 6501 undeniably governs respondent’s ability to assess deficiencies, the Regulation expressly ties taxpayers’ redeterminations of FSC expenses to the period of limitations under section 6511. These are wholly independent matters, which petitioner wrongly conflates. Accordingly, we disagree with petitioner’s attempt to insert the limitations period of its choosing in lieu of section 6511 in order to secure the benefits of the Regulation.
+ 
+Lastly, the fact that the Regulation utilizes section 6511 as a point of reference, even though any commission expense redetermination automatically places one of the taxpayers (either the FSC or the related supplier) in a deficiency position, does not effect an absurd or nonsensical result in our judgment. See Exxon Corp. v. Commissioner, 102 T.C. at 728. The dual section 6511 requirement simply specifies an uncomplicated timeframe within which the taxpayer seeking an additional deduction must act, nothing more.
+ 
+*388 Based on the above discussion, we hold that the Regulation requires that the period of limitations for claiming refunds under section 6511 be open for both petitioner and UCFSC in order for petitioner to claim additional FSC commission expenses for the taxable years in issue.
+ 
+Having decided that the Regulation, by its terms, precludes a redetermination of FSC commission expenses on the undisputed facts of this case, we now consider petitioner’s alternative contention that the Regulation must be declared invalid.
+ 
+Section 925(b) authorizes the Secretary to prescribe regulations with respect to commissions, rentals, and marginal costing that are consistent with the rules set forth in section 925(a). While there may be a question as to whether the Regulation falls within the scope of section 925(b) and is therefore entitled to an “especially high degree of deference” as a “legislative” regulation, we find it unnecessary to resolve this question. Cf. Sim–Air, USA, Ltd. v. Commissioner, 98 T.C. at 194. For reasons discussed below, even under the lesser degree of deference accorded “interpretative” regulations (those issued pursuant to the Secretary’s general rulemaking authority under section 7805(a)), we conclude that the Regulation is valid.
+ 
+Petitioner proffers a number of arguments in support of its position that the Regulation is both unreasonable and “contrary to the plain language, origins and purpose of section 925(a)”. See, e.g., National Muffler Dealers Association, Inc. v. United States, 440 U.S. 472, 477–478 (1979); Sim–Air, USA, Ltd. v. Commissioner, supra at 194; CWT Farms, Inc. v. Commissioner, 79 T.C. 1054, 1062 (1982), affd. 755 F.2d 790 (11th Cir.1985). None are cogent.
+ 
+Petitioner posits that the Regulation’s dual section 6511 requirement precludes taxpayers from maximizing their allowable FSC commissions via amended returns, in contravention of section 925(a) and congressional intent. In that connection, petitioner argues that the dual section 6511 requirement improperly adds to section 925(a) a limitation not envisioned by Congress. To bolster its position, petitioner quotes in part the Senate Finance Committee report accompanying the FSC legislation:
+*389 Under the administrative pricing rules, the transfer price from the related supplier to the FSC may be computed after the FSC sells the goods to a customer. Furthermore, the FSC and its related supplier may make adjustments upwards or downwards following the close of the taxable year in which the FSC sells the goods. [S. Prt. 98–169 (Vol.1), supra at 649.]
+ 
+Petitioner reads the statute and legislative history too broadly. Section 925(a) itself is silent on the issue of redeterminations of FSC commission expenses. Cf. Bankers Life & Cas. Co. v. United States, ___ F.3d ___, ___ (7th Cir., Apr. 17, 1998). Moreover, the legislative history excerpted above does not mention redeterminations via amended returns—it simply endorses adjustments to FSC expenses after the relevant tax year has closed. Cf. E.I. du Pont de Nemours & Co. v. Commissioner, 41 F.3d 130, 137 (3d Cir.1994), affg. 102 T.C. 1 (1994).
+ 
+Contrary to petitioner’s assertions, the Regulation does not conflict with the language of the underlying statute, nor is it inconsistent with legislative intent. See CWT Farms, Inc. v. Commissioner, supra at 1063–1064. The extent to which Congress intended taxpayers to be able to redetermine FSC commission expenses after their original tax returns have been filed is not explicitly stated in the statute or its legislative history. In light of the silence of section 925(a) on this score, the challenged Regulation in no way can be said to contradict or limit the “unambiguous” language of the statute. Cf. id. at 1064. On the contrary, the Regulation fosters the goal of section 925(a) of allowing taxpayers to maximize FSC expenses within certain parameters.
+ 
+In addition to being entirely consistent with the statute and legislative history, the dual section 6511 requirement is in no way unreasonable. See Faltesek v. Commissioner, 92 T.C. 1204, 1210–1211 (1989). Since the returns of both the FSC and the related supplier are necessarily affected by any redeterminations under the Regulation, it is logical to require any recomputations to be made within a timeframe applicable to both taxpayers. To deny the Secretary the ability to place time constraints on the benefits conferred by the Regulation would unduly circumscribe his authority under section 7805(a) to adopt “all needful rules and regulations” for the enforcement of the revenue statutes. (Emphasis added.) Moreover, the lack of such a time limit would raise the specter of ex post facto or retroactive tax planning—a *390 result which Congress could hardly have intended in enacting the FSC legislation, notwithstanding its interest in promoting foreign trade. See Faltesek v. Commissioner, supra at 1210–1211.
+ 
+Petitioner contends that, in a lengthy audit, to the extent it is respondent’s policy to refuse to grant consents solely for the purpose of extending the period for taxpayers to file claims for refund, the Regulation unreasonably bars the related supplier from claiming additional expenses after the period of limitations under section 6511 with respect to the FSC has expired.
+ 
+We disagree. Far from being arbitrary or unreasonable, the fact that the Secretary chose to confine taxpayers’ redeterminations to a period which may be extended instead of a fixed timeframe indicates to us that the Secretary was mindful that a closed-end period conceivably could bar redeterminations in the case of a lengthy audit. Cf. id. at 1211–1212. In the case before us, petitioner made no attempt to secure an extension for UCFSC to file claims for refund for the years at issue. Moreover, it is not respondent’s policy to deny invariably such extensions. See 2 Audit, Internal Revenue Manual (CCH), sec. 4541.6, at 8161–17 (“A consent, the sole purpose of which is to extend the period for filing claims for refund, should not be accepted unless the Chiefs, Examination Division * * *, authorizes [sic] the acceptance * * * [thereof].” (Emphasis added)).
+ 
+In any event, taxpayers ordinarily would not have to ask for consents during the course of a lengthy audit; respondent would likely request Forms 872 from a related supplier and an FSC in order to preserve his ability to assess any FSC-related deficiencies against one or the other. Here, respondent presumably did not request Forms 872 from UCFSC because the audit of the taxpayers’ previous 3–year cycle had not yielded any FSC-related adjustments. It is of course also true, as respondent recognizes, that regardless of the IRS’s willingness or unwillingness to grant consents, a taxpayer in petitioner’s shoes need only anticipate the possibility of favorable revisions to its FSC expenses and file a protective claim for refund within the proper time in order to preserve rights under the Regulation.
+ 
+Petitioner next argues that the Regulation unreasonably “creates a double standard, permitting respondent to ‘whipsaw’ *391 taxpayers with respect to the Commissioner’s FSC recomputations”; i.e., by assessing FSC-related deficiencies against one taxpayer after the period for the other taxpayer to claim refunds has expired. Although not identical, we think that the situation posed by petitioner is analogous to that in Collins Elec. Co. v. Commissioner, 67 T.C. 911 (1977). In that case we stated that
+Section 482 may contemplate a suspension of the running of the statute of limitation on claims for refund of the overpayment attributable to the correlative adjustment or, as the first sentence of section 1.482–1(d)(2), Income Tax Regs., * * * seems to suggest, may impose a positive duty on the Commissioner, without regard to the statute of limitation on refund claims, to refund such overpayment. * * * [Id. at 924.]
+In petitioner’s hypothetical situation, sentence No. 6 may compel respondent to refund such overpayments regardless of the expiration of section 6511. In any event, this scenario is not before us, and we need not resolve it at this time. Cf. id. at 924.
+ 
+Conversely, petitioner argues that the Regulation’s dual section 6511 requirement opens the door for taxpayers to whipsaw respondent. For example, a related supplier could claim a refund based on additional FSC commissions while the period of limitations under section 6511 is open for both the related supplier and the FSC, but after the period of limitations has expired under section 6501 for respondent to assess the FSC’s correlative deficiency. Petitioner correctly points out that in such a case section 6511 would be irrelevant to the assessment of an FSC’s deficiency stemming from additional commission income. Petitioner also states that the FSC’s filing of an amended return reporting a deficiency does not provide any basis for the assessment thereof if the period of limitations under section 6501 has expired. See Diamond Gardner Corp. v. Commissioner, 38 T.C. 875, 881 (1962); Melahn v. Commissioner, 9 T.C. 769, 778 (1947); Rev. Rul. 74–580, 1974–2 C.B. 400.
+ 
+Under the terms of the Regulation, however, petitioner is not entitled to its claims of additional FSC commission expenses so as to create a corresponding deficiency for UCFSC inasmuch as petitioner did not meet the dual section 6511 requirement, and UCFSC is not a party in this case. Whether or not, under the scenario conjured up by petitioner, respondent *392 would be able to assess deficiencies against the FSC, notwithstanding the expiration of the period of limitations under section 6501, is not a question before us, and we need not speculate about it.
+ 
+We conclude that the Regulation’s dual section 6511 requirement imposed on taxpayers represents a “reasonable accommodation of the competing interests of fairness, administrability, and avoidance of abuse.” Atlantic Mut. Ins. Co. v. Commissioner, 523 U.S. 382, ___ 118 S.Ct. 1413, 1415 (1998). In reaching our conclusion, we recognize that the Regulation conceivably could have been written in other ways, including the manner advocated by petitioner. Cf. L & F Intl. Sales Corp. v. United States, 912 F.2d 377, 381 (9th Cir.1990). However, such a possibility is extraneous to our inquiry. See, e.g., National Muffler Dealers Association, Inc. v. United States, 440 U.S. at 488 (“The choice among reasonable interpretations is for the Commissioner, not the courts.”); E.I. du Pont de Nemours & Co. v. Commissioner, 41 F.3d at 136; Brown v. United States, 890 F.2d 1329, 1338 (5th Cir.1989). Petitioner has failed to convince us that the Regulation is either unreasonable or inconsistent with the underlying statute, its origin, or its purpose. See Faltesek v. Commissioner, 92 T.C. at 1210–1211.
+ 
+We have considered the remaining arguments of the parties and, to the extent that they have not been addressed herein, find them to be either not germane or unconvincing.
+ 
+In light of the above, we hold that the Regulation is valid and, since petitioner has failed to follow its provisions, we further hold that petitioner is not entitled to its claims for additional FSC commission expenses, in whole or in part, for the taxable years at issue. Accordingly, respondent’s cross-motion is granted, and petitioner’s motion is denied.
+ 
+To reflect the foregoing,
+An order granting respondent’s cross-motion for partial summary judgment and denying petitioner’s motion for partial summary judgment will be issued.
+ 
+All Citations
+110 T.C. No. 28, 110 T.C. 375, Tax Ct. Rep. (CCH) 52,732, Tax Ct. Rep. Dec. (RIA) 110.28
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

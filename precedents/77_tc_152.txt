@@ -1,0 +1,569 @@
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+Distinguished by GENERAL COUNSEL MEMORANDUM, IRS GCM, December 4, 1986
+77 T.C. 152
+United States Tax Court
+BENTLY LABORATORIES, INC., PETITIONER
+v.
+COMMISSIONER of INTERNAL REVENUE, RESPONDENT
+BENTLY LABORATORIES, INC., and SENSOREX, PETITIONERS
+v.
+COMMISSIONER of INTERNAL REVENUE, RESPONDENT
+Docket Nos. 7755-76, 1232-78.
+|
+Filed July 30, 1981.
+Synopsis
+T Corp., an accrual basis corporation with a fiscal year ending Nov. 30, sells its products to a wholly owned domestic international sales corporation (DISC), with a fiscal year ending Jan. 31. The transfer price for T’s sales to the DISC is determined at the end of the DISC’s fiscal year under the intercompany pricing rules of sec. 994, I.R.C. 1954. T does not report the gross income from its sales to the DISC until the end of the DISC’s fiscal year in which such sales occur. Accordingly, the gross income from T’s sales to the DISC from Feb. 1 through Nov. 30 of T’s fiscal year is not reported until T’s succeeding fiscal year. Held, T must accrue the gross income from its sales to the DISC in T’s fiscal year (ended Nov. 30) in which such sales actually occur and in which its right to receive payment has become fixed, notwithstanding that the amount of such payment is finally determined as of the following Jan. 31, where T has failed to establish that such amount could not be reasonably estimated as of Nov. 30.
+ 
+Attorneys and Law Firms
+*153 C. Craig Carlson and Douglas F. Higham, for the petitioners.
+John O. Kent, for the respondent.
+
+
+
+
+OPINION
+RAUM , Judge:
+The Commissioner determined deficiencies of $453,968 and $438,995 in petitioners’ 1972 and 1973 income taxes, respectively. Petitioner Bentley Laboratories, Inc. (Bentley Labs or Labs), owns all of the stock of Bentley International Ltd., a domestic international sales corporation (DISC or International). Bentley Labs is an accrual basis taxpayer with a fiscal year ending November 30, and the DISC is an accrual basis taxpayer with a fiscal year ending January 31. The principal issue is whether profit from sales of products by Bentley Labs to the DISC should be included in the parent corporation’s income for the taxable year in which such sales are completed, or should be deferred until the succeeding taxable year when the precise transfer price1 for such sales is finally ascertained at the DISC’s yearend in accordance with the intercompany pricing rules set forth in section 994, I.R.C. 1954. The case was submitted on the basis of a stipulation of facts.
+ 
+Petitioner Bentley Laboratories, Inc., is a Delaware corporation organized on December 4, 1969. At the time of the filing of its petitions herein, its principal place of business was in Irvine, Calif. Sensorex is a California corporation organized on January 16, 1973, with a principal place of business in Irvine, Calif. Bentley Labs owns 95 percent of the issued and outstanding stock of Sensorex. Sensorex is a party to this action only because it joined Bentley Labs in filing a consolidated tax return for the year ended November 30, 1973, and Bentley Labs will accordingly sometimes hereinafter be referred to as the petitioner.
+ 
+Since 1969, petitioner has been engaged in the business of manufacturing and selling paramedical equipment. It maintains its books and records and prepares its income tax returns on the accrual method of accounting and on the basis of a fiscal year ending November 30.
+ 
+*154 Bentley International Ltd., a wholly owned subsidiary of petitioner, is a California corporation organized on January 18, 1972. It commenced doing business on February 1, 1972, and elected to be treated as a domestic international sales corporation for income tax purposes, in accordance with the provisions of sections 991 through 997, I.R.C. 1954. This election was in effect for the taxable years in issue, and it remained in effect at the time of the submission of this case. The books and records and the income tax returns of the DISC were maintained on the accrual method of accounting and on the basis of a fiscal year ending January 31. The books of the DISC were maintained and overseen by personnel of the petitioner but kept separately in accordance with section 1.992-1(a)(7), Income Tax Regs.
+ 
+Since commencing business, the DISC has purchased paramedical equipment from petitioner, and, in turn, has disposed of such equipment outside of the United States in accordance with an agreement between petitioner and the DISC dated February 1, 1972. In that agreement, International agreed to “accept billing for products from Labs in an amount which will yield to Labs the optimum tax benefit allowable” pursuant to section 994, I.R.C. 1954, which sets forth intercompany pricing rules for determining the “transfer price”2 with respect to sales by a parent corporation to a DISC. The agreement also provided that “International further agrees to accept estimated billings from Labs at interim periods which will be adjusted at the close of International’s fiscal year * * * to an amount which will satisfy the requirements of ” section 992, I.R.C. 1954, which specifies the requirements for qualification as a DISC.
+ 
+The transfer prices on sales by petitioner to the DISC during petitioner’s taxable year ended November 30, 1972, were determined at the end of the DISC’s fiscal year ended January 31, 1973, utilizing the 50-50 combined taxable income method provided by section 994(a)(2), I.R.C. 1954. All of the products sold by petitioner to the DISC qualified for grouping under section 1.994-1(c)(7), Income Tax Regs. Pursuant to this regulation, grouping of transactions was elected for the period *155 in issue, instead of computation of the transfer price on a transaction-by-transaction basis. The transfer price and costs of manufacture (together with the resulting gross profit) on such sales were reported on petitioner’s income tax return for petitioner’s taxable year ended November 30, 1973. Petitioner’s income tax return for the taxable year ended November 30, 1972, does not reflect the transfer price, manufacturing costs, or any profit on completed sales of goods to the DISC during the period February 1, 1972, through November 30, 1972. However, petitioner deducted its direct selling expenses on sales to the DISC for this period on its income tax return for the taxable year ended November 30, 1972. It also deducted on its return for that taxable year its full general and administrative expenses from February 1, 1972, through November 30, 1972, without eliminating that portion of such expenses allocable to its sales to the DISC that were completed during its taxable year ended November 30, 1972.
+ 
+On its books and records for the fiscal year ended November 30, 1972, petitioner recorded a total of $1,221,587.17 in sales to the DISC. It also recorded in its books and records for that year manufacturing costs in the amount of $687,119.06 with respect to the products sold to the DISC in that year. However, the sales to the DISC and the related cost of manufacturing the goods sold to the DISC were “journalled out” of petitioner’s accounts at the end of the taxable year, thereby causing a $534,468.11 decrease in petitioner’s taxable income for the taxable year ended November 30, 1972.
+ 
+Petitioner followed similar accounting procedures for the succeeding taxable year. It determined the transfer price on its sales to the DISC during the period February 1, 1973, through November 30, 1973, at the end of the DISC’s fiscal year ended January 31, 1974, utilizing the 50-50 combined taxable income method authorized by section 994(a)(2) of the Code as well as the grouping of transactions permitted by section 1.994-1(c)(7), Income Tax Regs. The transfer price and manufacturing costs (together with the resulting gross profit) on such sales were reported in petitioner’s income tax return for the taxable year ended November 30, 1974. Its income tax return for the taxable year ended November 30, 1973, does not reflect the transfer price, costs to manufacture, or any profit on sales of goods made to the DISC during the period February 1, 1973, *156 through November 30, 1973. Petitioner deducted all of its general and administrative expenses from February 1, 1973, through November 30, 1973, on its income tax return for the taxable year ended November 30, 1973, without eliminating that portion of such expenses allocable to its sales to the DISC made during this taxable year.
+ 
+During the period February 1, 1973, through November 30, 1973, petitioner’s cost to manufacture products sold to the DISC was $1,059,786, and, during this same period, petitioner recorded in its books and records the amount of $1,059,786 as sales to the DISC.
+ 
+For financial reporting purposes, petitioner and the DISC are parent and subsidiary. Because of this, and for reasons which are unrelated to the Federal income tax laws, the petitioner and DISC are required to prepare consolidated financial statements in which all sales, costs to manufacture, and related profits on transactions between petitioner and the DISC are eliminated. As a result of this elimination of intercompany transactions, petitioner’s financial statements for each of its years ended November 30 reflect sales between the DISC and third party customers.
+ 
+In the notices of deficiency issued to petitioner, the Commissioner determined that the gross receipts and related manufacturing costs with respect to petitioner’s sales to the DISC should be reported on petitioner’s return for the taxable year in which such sales take place, rather than in the taxable year following the end of the DISC’s taxable year. As an alternative position, the Commissioner determined that if sales to the DISC were not to be recorded as of the end of petitioner’s taxable year in which such sales take place, then the cost of goods sold, general and administrative expenses, and direct selling expenses related to such sales should not be recorded until the year in which the related sales to the DISC are recorded.
+ 
+Although the deficiency notices contain alternative methods of computing the amounts by which petitioner purportedly understated its gross sales for each of the taxable years in issue, the Government now argues only that the amount of petitioner’s sales to the DISC should be determined by computing a combined taxable income, realized by petitioner and the DISC from sales to third parties, and then working *157 from this amount to derive a transfer price for sales by petitioner to the DISC under one of the intercompany pricing methods specified in section 994.3 In the Government’s view, this transfer price, although only an estimate of the actual transfer price to be paid by the DISC upon an application of the intercompany pricing rules at the close of the DISC’s fiscal year, and the related costs of manufacturing the products sold to the DISC, must be reflected in petitioner’s income in the taxable year in which the sales to the DISC occur. The Government argues that petitioner’s sales of products to the DISC created a clear right for petitioner to receive income, and that the amount of such income could be estimated with reasonable accuracy from information available to petitioner that is set forth in the stipulation of facts. The Government therefore concludes that the “all events” test of section 1.451-1(a), Income Tax Regs., had been met, thereby requiring accrual of the income from petitioner’s sales to the DISC in the year of the sale.
+ 
+The figures which the Government uses in the alternative computation upon which it now relies in determining the transfer price of petitioner’s sales to the DISC have all been stipulated4 or derived from the stipulated figures and are the same as those in the deficiency notices, except that the stipulated amounts have not been rounded to the nearest dollar. That computation (in three parts) for petitioner’s taxable year ended November 30, 1972, is as follows:5
+ 
+
+
+
+
+I. COMPUTATION OF COMBINED TAXABLE INCOME OF PETITIONER & DISC WITH RESPECT TO DISC SALES FROM 2/1/72-11/30/72
+ 
+|
+ 
+|||
+DISC gross sales to third parties	
+ 
+||$1,632,885.00
+ 
+|
+
+
+
+
+
+
+
+Less:
+ 
+| 
+| 
+|
+Petitioner’s cost to manufacture
+ 
+| 
+| 
+|
+products sold to DISC	
+ 
+|$687,119.06
+ 
+| 
+|
+Petitioner’s direct selling
+ 
+| 
+| 
+|
+expenses on sales to DISC	
+ 
+|33,940.00
+ 
+| 
+|
+Petitioner’s general and
+ 
+| 
+| 
+|
+administrative expenses
+ 
+| 
+| 
+|
+apportioned to DISC sales6	
+ 
+|480,413.00
+ 
+| 
+|
+DISC export promotion expenses	
+ 
+|94,578.00
+ 
+|1,296,050.06
+ 
+|
+Combined taxable income
+ 
+| 
+| 
+|
+from DISC sales	
+ 
+| 
+|336,834.94
+ 
+|
+
+
+
+
+
+
+
+
+II. COMPUTATION OF DISC INCOME UNDER THE “50-50” COMBINED TAXABLE INCOME METHOD PROVIDED BY SEC. 1.994-1(c)(3), INCOME TAX REGS.7
+ 
+|
+ 
+ 
+| 
+|
+50% of combined taxable income	
+ 
+|$168,417.47
+ 
+|
+10% DISC export promotion expenses	
+ 
+|9,457.80
+ 
+|
+DISC income	
+ 
+|177,875.27
+ 
+|
+
+
+
+
+
+
+
+
+III. COMPUTATION OF TRANSFER PRICE ON PETITIONER‘S SALES TO DISC 2/1/72-11/30/72
+ 
+|
+ 
+|||
+DISC gross sales to third parties	
+ 
+||$1,632,885.00
+ 
+|
+
+
+
+
+
+
+
+Less:
+ 
+| 
+| 
+|
+DISC expenses	
+ 
+|$94,578.00
+ 
+| 
+|
+DISC income	
+ 
+|177,875.27
+ 
+|272,453.27
+ 
+|
+Transfer price for petitioner’s
+ 
+| 
+| 
+|
+sales to DISC	
+ 
+| 
+|1,360,431.73
+ 
+|
+
+
+
+
+*159 The Government contends that this estimated transfer price for sales to the DISC should be included in petitioner’s gross receipts for petitioner’s taxable year ended November 30, 1972. If such sales are recorded, then petitioner’s $687,119.06 cost to manufacture the products sold to the DISC would likewise be recorded in the same year. The net result of these adjustments would be a $673,312.67 increase in petitioner’s taxable income for the year ended November 30, 1972.
+ 
+With respect to petitioner’s taxable year ended November 30, 1973, the Government asserts that a similar procedure should be applied, with certain modifications. The Government first computes a separate “transfer price” for sales to the DISC from December 1, 1972, through January 31, 1973. From the transfer price reported by the DISC on its return for its purchases from petitioner during the DISC’s taxable year ended January 31, 1973, $1,602,640, the estimated transfer price determined for petitioner’s taxable year ended November 30, 1972, is subtracted. The difference between these sums, $242,208.27, would be the “transfer price” for petitioner’s sales to the DISC for the 2-month period ended January 31, 1973. The Government would then compute the transfer price for the remainder of petitioner’s taxable year ended November 30, 1973, in accordance with the method used for the preceding year.
+ 
+Utilizing the stipulated amounts of sales, cost of products sold, and expenses for petitioner and the DISC, the Government’s computations produce the following results:
+ 
+
+
+
+
+I. COMPUTATION OF COMBINED TAXABLE INCOME OF PETITIONER & DISC WITH RESPECT TO DISC SALES FROM 2/1/73-11/30/73
+ 
+|
+ 
+|||
+DISC gross sales to third parties	
+ 
+||$2,667,723.00
+ 
+|
+
+
+
+
+
+
+
+Less:
+ 
+| 
+| 
+|
+Petitioner’s cost to manufacture products sold to DISC	
+ 
+|$1,059,786.00
+ 
+| 
+|
+Petitioner’s direct selling expenses on sales to DISC	
+ 
+|22,839.00
+ 
+| 
+|
+Petitioner’s general and administrative expenses apportioned to DISC sales8 	
+ 
+|750,048.00
+ 
+| 
+|
+DISC export promotion expenses	
+ 
+|121,064.00
+ 
+|$1,953,737.00
+ 
+|
+Combined taxable income from DISC sales	
+ 
+| 
+|713,986.00
+ 
+|
+
+
+
+
+
+
+
+
+II. COMPUTATION OF DISC INCOME UNDER THE “50-50” COMBINED TAXABLE INCOME METHOD PROVIDED BY SEC. 1.994-1(c)(3), INCOME TAX REGS.9
+ 
+|
+ 
+ 
+| 
+|
+50 percent of combined taxable income	
+ 
+|$356,993.00
+ 
+|
+10 percent DISC export promotion expenses	
+ 
+|12,106.40
+ 
+|
+DISC income	
+ 
+|369,099.40
+ 
+|
+
+
+
+
+
+
+
+
+III. COMPUTATION OF TRANSFER PRICE ON PETITIONER’S SALES TO DISC 2/1/73-11/30/73
+ 
+|
+ 
+|||
+DISC gross sales to third parties	
+ 
+||$2,667,723.00
+ 
+|
+
+
+
+
+
+
+
+Less:
+ 
+| 
+| 
+|
+DISC expenses	
+ 
+|$121,064.00
+ 
+| 
+|
+DISC income	
+ 
+|369,099.40
+ 
+|490,163.40
+ 
+|
+Transfer price for petitioner’s
+ 
+| 
+| 
+|
+sales to DISC	
+ 
+| 
+|2,177,559.60
+ 
+|
+
+
+
+
+*160 The Commissioner determined that the above transfer price, plus the reconciled “transfer price” for sales to the DISC from December 1, 1972, through January 31, 1973 ($2,177,559.60 ​ $242,208.27 = $2,419,767.87), should be the amount of petitioner’s reported sales to the DISC for petitioner’s taxable year ended November 30, 1973. As set forth in the notice of *161 deficiency, petitioner’s gross receipts from sales to the DISC were previously reported as $1,618,644. Thus, the net effect of the Government’s position is an increase of $801,123.87 ($2,419,767.87 minus $1,618,644) in petitioner’s gross receipts. Similarly, petitioner’s $1,059,786 cost of manufacturing products sold to the DISC from February 1, 1973, through November 30, 1973, which petitioner deducted in the following year would be added to its manufacturing costs for its year ended November 30, 1973, and the $687,119.06 manufacturing costs allocable to the period February 1, 1972, through November 30, 1972, would have to be eliminated from manufacturing costs for the year ended November 30, 1973. As a result, there would be a net increase of $372,666.94 in deductions ($1,059,786 minus $687,119.06). The end result would be a net increase in petitioner’s taxable income in the amount of $428,456.93 ($801,123.87 net increase in gross receipts minus $372,666.94 net increase in manufacturing costs).10
+ 
+Petitioner argues that because it was entitled to determine the transfer price for its sales to the DISC on the basis of grouping transactions in accordance with section 1.994-1(c)(7), Income Tax Regs., an election which is made annually, the transfer price on sales between petitioner and the DISC is not determined until the DISC’s yearend and should not be reported until that time. Petitioner further asserts that under the accrual method of accounting, it need not record its sales to the DISC until after the determination of the transfer price at the DISC’s yearend, since transfer pricing estimates could not be made with reasonable accuracy prior to that time. Although petitioner criticizes the methodology employed by the Government in deriving an estimate of sales to the DISC, petitioner has not suggested any means of computing an estimated transfer price for sales to the DISC if its basic position as to the time for recording such sales is not accepted.
+ 
+*162 We hold that in the circumstances, neither section 994 nor petitioner’s election to group transactions in accordance with section 1.994-1(c)(7), Income Tax Regs., justifies petitioner’s failure to report income from its sales to the DISC in the year such sales occur. We hold that such sales gave petitioner a clear and indefeasible right to receive some amount of income, that petitioner has failed to prove that it could not have estimated that amount with reasonable accuracy as of the end of its taxable year, and that petitioner is therefore required to report the income from such completed sales to the DISC in the year of the sale in accordance with recognized principles of accrual accounting. In the absence of any showing by petitioner of reasonable alternate methods of computation of the estimated income from its sales to the DISC, the Government’s position (as modified in respect of the fiscal year ended November 30, 1973, see pp. 160-161 supra) is sustained.
+ 
+As part of the Revenue Act of 1971,11 Congress enacted sections 991 through 997 of the Code to offer a tax incentive for United States businesses to increase their export sales. The tax incentive provided by these provisions was the deferral of tax on one-half of the export sales profits retained by a domestic international sales corporation, a new type of corporation for purposes of taxation. See S. Rept. 92-437, 92d Cong., 1st Sess. 12 (1971); Caterpillar Tractor Co. v. United States, 218 Ct. Cl. 517, 589 F.2d 1040, 1044 (1978).
+ 
+In order to qualify as a DISC, 95 percent of a corporation’s sales must be export sales of products produced domestically by the DISC’s parent corporation, or “related supplier,” and at least 95 percent of the corporation’s assets must consist of property for export or assets related to or derived from the export sales of such property. See secs. 992(a)(1), 993(a) through (c), I.R.C. 1954. A DISC is not subject to income taxation. Sec. 991, I.R.C. 1954. Instead, the DISC’s shareholders are subject to tax on the earnings and profits of the DISC. Sec. 995(a), I.R.C. 1954. For every year that a corporation qualifies as a DISC, a portion of its income is deemed distributed to its shareholders and taxed to them as a dividend received as of the last day of the DISC’s taxable year. The *163 amount deemed distributed will generally be at least one-half of the taxable income of the DISC, and additional amounts may also be deemed distributed as a result of the DISC’s activities. See sec. 995(b), I.R.C. 1954; Longview Fibre Co. v. Commissioner, 71 T.C. 357, 363 (1978). To the extent that previously taxed DISC income is distributed to the DISC shareholders, it is excluded from their gross income. Sec. 996(a), I.R.C. 1954.
+ 
+Section 99412 provides intercompany pricing rules for sales by a related supplier to a DISC. These rules provide a mechanism for determining the price at which the parent corporation is deemed to have sold its products to the DISC, regardless of the price actually paid. The determination of the transfer price serves to allocate the combined taxable income from the export sale of the related supplier’s product between the DISC and its related supplier. In general, the intercompany pricing rules permit the DISC to earn at least one-half the *164 combined taxable income earned by the parent and the DISC from the export sale.13 The DISC is permitted to earn the greater of 4 percent of gross export receipts or 50 percent of the combined income from the manufacturing and selling of the export products, plus 10 percent of the DISC’s export promotion expenses; if an arm’s-length price computed in accordance with section 482 would permit the DISC to earn a greater portion of the profit, an arm’s-length price would be used. See S. Rept. 92-437, supra at 12, 107. It is undisputed that the DISC may use the pricing method which allocates the largest share of the combined profit to the DISC, and that any distribution (deemed or actual) of the DISC’s share of the combined profit is not taxable to petitioner until the end of the DISC’s taxable year, in accordance with sections 995(b), 996(c), I.R.C. 1954. The principal issue in this case is thus not when petitioner must account for its share of the DISC’s profits, but rather when it must account for its own profits derived from its sales to the DISC. Contrary to the contention insistently made by petitioner, the DISC provisions (secs. 991 through 997) do not address that question, and certainly do not explicitly render inapplicable the usual accrual accounting principles for determining when an item must be included in a taxpayer’s gross income. Our conclusions in this respect will be developed in greater detail hereinafter.
+ 
+Petitioner maintains its books and records and prepares its income tax returns on the accrual method of accounting. Section 1.451-1(a), Income Tax Regs., provides that under the “accrual method of accounting, income is includable in gross income when all the events have occurred which fix the right to receive such income and the amount thereof can be determined with reasonable accuracy.” Under petitioner’s sales agreement with the DISC, the DISC agreed to purchase products from petitioner and to accept billing for such products in an amount determined under the intercompany pricing rules provided by section 994. The DISC further agreed to accept “estimated billings” from petitioner at “interim periods,” with such bills to be adjusted at the close of the *165 DISC’s fiscal year to comply with the requirements of section 992.14 Under the terms of this sales agreement, it is clear that once petitioner transferred products to the DISC,15 it had performed under the terms of the sales agreement, and was thus entitled to the income earned from such performance. Indeed, petitioner could bill the DISC for the estimated transfer price on the products sold if it chose to do so.16 In the circumstances, once petitioner transferred goods to the DISC under the terms of the sales agreement, all events had occurred fixing petitioner’s right to income earned from the sale of such goods, although the exact amount of such income had not yet been computed. Spring City Foundry Co. v. Commissioner, 292 U.S. 182, 184-185 (1934); Continental Tie & Lumber Co. v. United States, 286 U.S. 290, 295 (1932); Dally v. *166 Commissioner, 227 F.2d 724, 726 (9th Cir. 1955), cert. denied 351 U.S. 908 (1956); Heer-Andres Investment Co. v. Commissioner, 17 T.C. 786, 787-788 (1951). Moreover, the regulations contemplate that a “reasonable estimate” of the transfer price can be determined. See note 14 supra. Under well-recognized principles of accrual accounting, petitioner would therefore be required to include the gross income from sales in income for the taxable year in which such sales occur, and in which the right to payment for the goods sold became indefeasibly fixed, unless the DISC provisions of the Code sanction a different accounting treatment or the amount of income received from the sales cannot be reasonably estimated.
+ 
+Petitioner argues that under the regulations,17 the transfer price on its sales to the DISC may be computed either on a transaction-by-transaction basis, or on the basis of grouping of transactions by product or product lines. The election to utilize grouping is made annually, and the DISC so elected during each of the years in issue. Because the final transfer price for sales by petitioner to the DISC cannot be computed until this election is made at the DISC’s yearend, and because the DISC’s *167 yearend is the event which triggers the flow of DISC income to the shareholders under sections 995(b) and 996(c), petitioner argues that all transfer pricing computations, including those affecting the determination of petitioner’s income from sales to the DISC, must be made only at the end of the DISC’s taxable year.
+ 
+Although petitioner is correct in arguing that the ultimate computation of the transfer price must await the end of the DISC’s taxable year, this does not bar interim transfer pricing computations necessary to determine the gross income realized by the DISC’s related supplier on sales to the DISC. First of all, petitioner is incorrect in stating that the Code and regulations “do not provide for computations relating to * * * the portion of the [DISC’s] taxable year which ends with the taxable year of the shareholder” when grouping is elected. Section 1.994-1(c)(5), Income Tax Regs., provides as follows with respect to “incomplete transactions”:
+(5) Incomplete transactions. (i) For purposes of the gross receipts and combined taxable income methods, where property (encompassed within the transaction or group chosen under subparagraph (7) of this paragraph) is transferred by a related supplier to a DISC during a taxable year of either the DISC or related supplier, but some or all of such property is not sold by the DISC during such year—-
+ 
+(a) The transfer price of such property sold by the DISC during such year shall be computed separately from the transfer price of the property not sold by the DISC during such year.
+ 
+(b) With respect to such property not sold by the DISC during such year, the transfer price paid by the DISC for such year shall be the related supplier’s cost of goods sold (see subparagraph (6)(ii) of this paragraph) with respect to the property, except that, with respect to such taxable years ending on or before August 15, 1975, the transfer price paid by the DISC shall be at least (but need not exceed) the related supplier’s cost of goods sold with respect to the property.
+ 
+(c) For the subsequent taxable year during which such property is resold by the DISC, an additional amount shall be paid by the DISC (to be treated as income for such year by the related supplier) equal to the excess of the amount which would have been the transfer price under this section had the transfer to the DISC by the related supplier and the resale by the DISC taken place during the taxable year of the DISC during which it resold the property over the amount already paid * * *
+ 
+[Emphasis added.]
+ 
+Under this provision in the regulations, the transfer price for a related supplier’s sale of products to a DISC must be computed separately from other transfer prices computed at the end of *168 the related supplier’s taxable year if the products sold to the DISC have not been resold within the related supplier’s taxable year. Although the evidence suggests that none of the transactions between petitioner and the DISC fit precisely within the scope of the regulation,18 we find the regulation instructive in its sanction of computations of the related supplier’s income from sales to the DISC at the end of the related supplier’s taxable year without waiting for the resale of the property at the close of the DISC’s taxable year.
+ 
+Moreover, even though petitioner rightly argues that the ultimate computation of the transfer price on petitioner’s sales to the DISC is to be made at the end of the DISC’s taxable year, acceptance of this proposition does not establish that petitioner is entitled to await the close of the DISC’s taxable year before recognizing the gross income from its sales to the DISC. The intercompany pricing rules of section 994 were intended to “be used in determining the permissible profits * * * which a DISC may earn on products which it purchases from a related company and then resells for export.” S. Rept. 92-437, supra at 107 (emphasis added). DISC “earnings and profits” are taxed to the shareholders in the amounts distributed or deemed distributed under section 995(b), and the purpose of the DISC provisions was to provide “tax deferral for * * * export-related profits * * * retained in a * * * ‘ DISC.’ ” S. Rept. 92-437, supra at 12 (emphasis added). To be sure, the use of the intercompany pricing rules provided by section 994 will necessarily affect the determination of the parent corporation’s income from sales to the DISC, but nothing in the statutory provisions, regulations, or legislative history has been called to our attention which suggests that the DISC provisions were intended to provide deferral of the parent corporation’s profit on sales to the DISC, in contravention of well-established principles of tax accounting. Had such a departure from the normal scheme of taxation been intended, it surely would have been stated in language more specific than the DISC provisions in sections 991 through 997 upon which petitioner relies.
+ 
+Petitioner also asserts that under section 451 and the *169 related regulations, it was not required to accrue income from sales to the DISC until the DISC yearend because the income derived from such sales could not be determined with reasonable accuracy until that time. However, as already noted (p. 166 supra), the regulations, themselves, are based on the assumption that it is possible to make a “reasonable estimate” of the transfer price. Moreover, the burden of proof is upon the petitioner (see Rule 142(a), Tax Court Rules of Practice and Procedure), and it has failed to establish that the gross income from its sales to the DISC could not have been ascertained with reasonable accuracy at the end of petitioner’s taxable year.
+ 
+At the end of petitioner’s taxable year, all of the information necessary for the computation of a combined taxable income on export sales of petitioner’s products by the DISC, and a transfer price on petitioner’s completed sales of such products to the DISC, could have been obtained from petitioner’s books or the DISC’s books, which were maintained and overseen by personnel of the petitioner.19 See sec. 1.994-1(c)(6), Income Tax Regs. The permissible methods for computing a transfer price are specified by section 994 and the related regulations, and petitioner and the DISC were obliged by the sales agreement to select the method which allocated the most income to the DISC. We conclude that as of the end of petitioner’s fiscal year, all events had occurred which fixed petitioner’s right to income from its sales to the DISC, and, absent a stronger showing by petitioner of the effects of subsequent unanticipated events on the transfer price determined, that the amount of such income could have been estimated with reasonable accuracy. See Continental Tie & Lumber Co. v. United States, 286 U.S. at 296-298 (1932); Dally v. Commissioner, 227 F.2d at 726-727; Cox v. Commissioner, 43 T.C. 448, 457-458 (1965); *170 Marquardt Corp. v. Commissioner, 39 T.C. 443, 457 (1962); Heer-Andres Investment Co. v. Commissioner, 17 T.C. at 787-788; cf. Stephens Marine, Inc. v. Commissioner, 430 F.2d 679, 684-685 (9th Cir. 1970).
+ 
+It is true that as of the end of petitioner’s taxable year, the transfer price on petitioner’s sales to the DISC could not be determined to a certainty. Although a transfer price could be precisely determined if petitioner elected to compute the transfer price on sales to the DISC on a transaction-by-transaction basis, petitioner also retained the option to compute the transfer price on the basis of grouping transactions by product or product lines, and did in fact utilize grouping for computing the transfer price at the end of the DISC’s taxable year. See sec. 1.994-1(c)(7), Income Tax Regs. If grouping is elected, price changes, changes in petitioner’s manufacturing or administrative costs, or other economic factors may have an effect on the transfer price ultimately determined, since these factors would enter into the computation of the transfer price based on transactions grouped for the DISC’s taxable year.20 Indeed, if grouping is elected, the aforementioned economic factors or events could result in a change in the transfer pricing method selected under section 994(a). However, petitioner has failed to establish that at the end of the first 10 months of the DISC’s fiscal year (Nov. 30) it was not reasonably ascertainable whether grouping would be elected, and it has also failed to establish that if grouping were elected, any adjustments to the transfer price determined as of the end of the petitioner’s taxable year would be so substantial that the transfer price at the end of petitioner’s taxable year could not be determined with reasonable accuracy.
+ 
+*171 The regulations dealing with the inclusion of income under the accrual method of accounting require that the amount of income be ascertainable “with reasonable accuracy,” not that the amount be established to a certainty. Secs. 1.446-1(c)(1)(ii), 1.451-1(a), Income Tax Regs.; see George K. Herman Chevrolet, Inc. v. Commissioner, 39 T.C. 846, 850-851 (1963); cf. Denise Coal Co. v. Commissioner, 271 F.2d 930, 936 (3d Cir. 1959). Here, petitioner’s taxable year ended just 2 months prior to the end of the DISC’s taxable year. If, as of the end of petitioner’s taxable year, it was determined that grouping of transactions would be utilized or was likely to be utilized to compute the transfer price for petitioner’s sales to the DISC as of the end of petitioner’s taxable year, then the amounts on the books at that time might require some adjustment in light of probable experience over the next 2 months. However, the fact that subsequent adjustments21 to the income determined from information on the books may be required has been held not to prevent accrual of such income, at least where petitioner has a clear right to the income determined as of that time. Cox v. Commissioner, 43 T.C. at 457-458; see Continental Tie & Lumber Co. v. United States, 286 U.S. at 296-298; Cappel House Furnishing Co. v. United States, 244 F.2d 525, 529-530 (6th Cir. 1957); cf. Harrold v. Commissioner, 192 F.2d 1002, 1004, 1006 (4th Cir. 1951). Under petitioner’s agreement with the DISC, “at interim periods” petitioner was even entitled to bill the DISC for the estimated transfer price on its sales to the DISC, and could presumably have collected payments from the DISC based on these estimated bills. This fact casts doubt on petitioner’s assertions that a transfer price could not have been computed with reasonable accuracy, and further establishes petitioner’s right to income from its sales to the DISC as of petitioner’s yearend. In the circumstances, we conclude that petitioner has failed to establish that the amount of income from its sales to the DISC could not have been ascertained with “reasonable accuracy” at the end of petitioner’s fiscal year.22 Since petitioner had a clear right to the income from *172 such sales, such income must be included in petitioner’s income for the years in which the sales occurred.
+ 
+Petitioner did not present any computations of the amount to be included in its income with respect to sales to the DISC if it did not prevail in its position that such amounts were not includable in its income until after the close of the DISC’s taxable year. In the absence of evidence as to other reasonable methods of determining the transfer price and petitioner’s income from sales to the DISC as of the end of petitioner’s taxable years ended November 30, 1972 and 1973, we accept the Government’s computations, in respect of transfer prices and resulting taxable income (as modified for the second year, see p. 161 supra). These computations represent a reasonable determination of the transfer price. Perhaps a different determination would have resulted from the use of transaction-by-transaction computations,23 adjustments to the price determined by use of grouping of transactions,24 or by other alterations in the Government’s methods,25 but the Commissioner’s determination (as qualified herein) has not been shown to be unreasonable.
+ 
+To reflect the foregoing and concessions by the parties,
+ 
+Decisions will be entered under Rule 155.
+ 
+
+
+
+
+$945,766
+ 
+|
+–––––––––– X $1,847,744 = $480,413
+ 
+|
+$3,636,694
+ 
+|
+
+
+
+
+
+
+
+
+$1,607,937
+ 
+|
+–––––––––– X $2,492,411 = $750,048
+ 
+|
+$5,343,178
+ 
+|
+
+
+
+
+All Citations
+77 T.C. 152
+
+
+
+Footnotes
+|
+1
+|As will appear more fully hereinafter, the term “transfer price” is an artificial concept based on the statutory provisions relating to domestic international sales corporations; it is not necessarily equal to the actual price the parent corporation charges its subsidiary.
+|
+2
+|The price at which the export property is deemed to be sold to the DISC is characterized in sec. 994 as the “transfer price.”
+|
+3
+|In addition to setting forth adjustments in petitioner’s income computed under the method described above, the deficiency notices also made an alternate determination that under the accrual method of accounting or sec. 482 “in order to clearly reflect income and to prevent distortion of income,” petitioner’s gross sales should be increased in each of its taxable years by an amount corresponding to the stipulated sales of the DISC to third parties during such taxable years. However, in its reply brief, the Government concedes that sec. 994 provides the appropriate intercompany pricing rules for sales from petitioner to the DISC, and that sec. 482 is inapplicable in the circumstances of this case. See sec. 1.994-1(a)(1), Income Tax Regs. Since this alternative method produced the greatest adjustments in taxable income, the deficiency notices increased taxable income in the amounts of such adjustments. Accordingly, in view of the Government’s present abandonment of that alternative method, the amounts of tax now involved are substantially less than those stated in the deficiency notices.
+|
+4
+|Petitioner has objected to such stipulated figures on the ground of relevance. We overrule those objections.
+|
+5
+|See sec. 1.994-1(c)(6), -1(g), example ( 3), Income Tax Regs.
+|
+6
+|Sec. 1.994-1(c)(6)(iii)(b), Income Tax Regs., requires that in computing the combined taxable income of a DISC and its related supplier, “a ratable part of any other expenses *** which are not definitely related to a class of gross income, determined in a manner consistent with the rules set forth in sec. 1.861-8,” shall be treated as costs relating to gross receipts from the sale of export property. See also sec. 1.994-1(g), example (3), Income Tax Regs.; sec. 1.861-8(g) example (22), Income Tax Regs.
+Petitioner’s general and administrative expenses for Feb. 1, 1972 through Nov. 30, 1972, were $1,847,744. The difference between sales by the DISC of petitioner’s products and petitioner’s cost to manufacture such products was $945,766. The combined gross profit of petitioner and the DISC for the period ended Nov. 30, 1972, without regard to the parties’ dispute regarding the application of sec. 994, was $3,636,694. The notice of deficiency for the taxable year ended Nov. 30, 1972, computed the apportionment of petitioner’s indirect expenses to DISC sales as follows:
+|
+7
+|Sec. 994(a) provides three methods for computing the taxable income in the DISC. However, the “4-percent” gross receipts method and the sec. 482 method appear to result in the allocation of less income to the DISC than the “50-50” combined taxable income method. Only the latter method is set forth above, since the agreement between petitioner and the DISC provides for the use of the intercompany pricing rule yielding the optimum tax benefit, i.e., the method that would allocate the maximum amount of profit to the DISC and correspondingly the minimum amount of profit to petitioner.
+|
+8
+|See note 6 supra.
+For the period Feb. 1, 1973, through Nov. 30, 1973, petitioner’s general and administrative expenses were $2,492,411. The difference between sales by the DISC to third parties and petitioner’s cost to manufacture the products sold to the DISC was $1,607,937. The combined gross profit of petitioner and the DISC for the period ended Nov. 30,1973 without regard to the parties’ dispute with respect to the application of sec. 994, was $5,343,178. The notice of deficiency for petitioner’s taxable year ended Nov. 30, 1973, computed the apportionment of petitioner’s indirect expenses to DISC sales as follows:
+|
+9
+|See note 7 supra.
+|
+10
+|The Government’s brief (in one of its requested ultimate findings) and the Commissioner’s determination in the notice of deficiency are not consistent with one another—-and are confusing—-in determining the ultimate consequence of the adjustments for this fiscal year. However, if we conclude as we in fact do hereinafter that the Government is correct in its basic position that petitioner’s income from sales completed as of Nov. 30 of each fiscal year must be accrued as of the end of such year, the amount of deficiency should be computed in accordance with the foregoing computation.
+|
+11
+|Pub. L. 92-178, 85 Stat. 497.
+|
+12
+|SEC. 994. INTER-COMPANY PRICING RULES.
+(a) IN GENERAL .—-In the case of a sale of export property to a DISC by a person described in section 482, the taxable income of such DISC and such person shall be based upon a transfer price which would allow such DISC to derive taxable income attributable to such sale (regardless of the sales price actually charged) in an amount which does not exceed the greatest of—-
+(1) 4 percent of the qualified export receipts on the sale of such property by the DISC plus 10 percent of the export promotion expenses of such DISC attributable to such receipts,
+(2) 50 percent of the combined taxable income of such DISC and such person which is attributable to the qualified export receipts on such property derived as the result of a sale by the DISC plus 10 percent of the export promotion expenses of such DISC attributable to such receipts, or
+(3) taxable income based upon the sale price actually charged (but subject to the rules provided in section 482).
+(b) RULES FOR COMMISSIONS, RENTALS, AND MARGINAL COSTING .—-The Secretary shall prescribe regulations setting forth—-
+(1) rules which are consistent with the rules set forth in subsection (a) for the application of this section in the case of commissions, rentals, and other income, and
+(2) rules for the allocation of expenditures in computing combined taxable income under subsection (a)(2) in those cases where a DISC is seeking to establish or maintain a market for export property.
+(c) EXPORT PROMOTION EXPENSES .—-For purposes of this section, the term “export promotion expenses” means those expenses incurred to advance the distribution or sale of export property for use, consumption, or distribution outside of the United States, but does not include income taxes. Such expenses shall also include freight expenses to the extent of 50 percent of the cost of shipping export property aboard airplanes owned and operated by United States persons or ships documented under the laws of the United States in those cases where law or regulations does not require that such property be shipped aboard such airplanes or ships.
+|
+13
+|See R. Feinschreiber, Domestic International Sales Corporations 208 (1978).
+|
+14
+|Sec. 992 sets forth the requirements for qualification as a domestic international sales corporation, including the requirement that 95 percent of its assets be qualified export assets. See sec. 992(a)(1)(B). Sec. 1.994-1(e)(3) through (6), Income Tax Regs., provides rules for the payment and adjustment of the transfer price charged the DISC. In general, the DISC’s initial payment of the transfer price must be made no later than 60 days following the close of the DISC’s taxable year in which the sale occurred. Sec. 1.994-1(e)(3)(i), Income Tax Regs. However, a DISC buying products from its related supplier generally finds it to its advantage to pay for purchases prior to its yearend to minimize the funds that must be invested in qualified export assets to meet the assets test. See R. Feinschreiber, supra at 120-121. If the transfer price actually paid by the DISC is different from the transfer price ultimately determined, an account receivable is created in favor of the DISC or its related supplier, depending on whether there was an overpayment or underpayment of the transfer price. If the DISC overpays, the account receivable created in its favor is a qualified export asset, provided that it is paid within 90 days of its creation. Sec. 1.994-1(e)(5)(i), Income Tax Regs. However, this rule does not apply if the amount originally paid did not represent a “reasonable estimate” of the transfer price to be determined under sec. 994, with the result that the receivable will not be a qualified export asset. Sec. 1.994-1(e)(3)(iii) and (iv), Income Tax Regs.
+|
+15
+|The exact point of sale would depend on the method used by petitioner in keeping its books. Sec. 1.446-1(c)(1)(ii), Income Tax Regs., provides that “a taxpayer engaged in a manufacturing business may account for sales of his product when the goods are shipped, when the product is delivered or accepted, or when title to the goods passes to the customer, whether or not billed.”
+|
+16
+|To the extent that petitioner actually received payment from the DISC with respect to products transferred to the DISC, petitioner would not in any event be entitled to defer the inclusion of such payments in income. Bay State Gas Co. v. Commissioner, 75 T.C. 410, 420 & n. 8 (1980); see Hagen Advertising Displays, Inc. v. Commissioner, 47 T.C. 139, 148-149 (1966), affd. 407 F.2d 1105, 1109-1110 (6th Cir. 1969); Farrara v. Commissioner, 44 T.C. 189, 191 (1965); Automobile Club of N.Y., Inc. v. Commissioner, 32 T.C. 906, 912-913 (1959), affd. 304 F.2d 781 (2d Cir. 1962). However, the record does not appear to contain sufficient information to determine the amount of payments petitioner actually received from the DISC, although it is not improbable that petitioner did in fact receive payments of reasonable estimates of the transfer price in respect of some, if not a substantial, portion of its sales to the DISC by Nov. 30 of each year. Cf. note 14 supra.
+|
+17
+|Sec. 1.994-1(c)(7), Income Tax Regs., provides in relevant part:
+(7) Grouping transactions. (i) Generally, the determinations under this section are to be made on a transaction-by-transaction basis. However, at the annual choice of the taxpayer some or all of these determinations may be made on the basis of groups consisting of products or product lines. *ss
+(iii) A choice by the taxpayer to group transactions for a taxable year on a product or product line basis shall apply to all transactions with respect to that product or product line consummated during the taxable year. However, the choice of a product or product line grouping applies only to transactions covered by the grouping and, as to transactions not encompassed by the grouping, the determinations are made on atransaction-by-transaction basis. For example, the taxpayer may choose a product grouping with respect to one product and use the transaction-by-transaction method for another product within the same taxable year.
+Sec. 1.994-1(c)(6), Income Tax Regs., further provides:
+(6) Combined taxable income. For purposes of this section, the combined taxable income of a DISC and its related supplier from a sale of export property is the excess of the gross receipts * * * of the DISC from such sale over the total costs of the DISC and related supplier which relate to such gross receipts. * * * In determining the gross receipts of the DISC and the total costs of the DISC and related supplier which relate to such gross receipts, the following rules shall be applied: *ss
+(iv) The taxpayer’s choice in accordance with subparagraph (7) of this paragraph as to the grouping of transactions shall be controlling, and costs deductible in a taxable year shall be allocated and apportioned to the items or classes of gross income of such taxable year resulting from such grouping.
+|
+18
+|The DISC’s returns for the years ended Jan. 31, 1973 and 1974, show no inventory, thus suggesting that the DISC immediately resold the products purchased from the petitioner.
+|
+19
+|It is stipulated that for financial reporting purposes, petitioner and the DISC were required to prepare consolidated financial statements reflecting sales by the DISC to third party customers and eliminating intercompany profits on sales between petitioner and the DISC. Such statements were prepared on the basis of petitioner’s fiscal year, and it would therefore not appear to have been unduly burdensome for petitioner to obtain the information necessary to compute a transfer price on its sales to the DISC at that time. Certainly, petitioner has presented no evidence that such information could not have been obtained from its accounting records and the records of the DISC.
+|
+20
+|On brief, petitioner has pointed to a number of hypothetical events, such as those mentioned above, as well as plant closings, bans on sales of petitioner’s products, or other drastic changes, which might require consideration in the computation of the transfer price for petitioner’s sales to the DISC. However, petitioner has not called our attention to evidence in the record indicating that any such hypothetical events actually occurred, or even if they did occur that the effects thereof could not have been reasonably anticipated. Moreover, although petitioner has argued that its recorded estimate of the transfer price for sales to the DISC as of Nov. 30, 1972, “turned out to be substantially in error,” petitioner has not shown the basis for the estimate recorded on its books. Although petitioner’s estimate proved to be incorrect, this does not provide a basis for finding that a reasonable estimate could not have been made by a proper consideration of the facts known to, or ascertainable by, petitioner at the end of its taxable year, since the record does not contain sufficient information to determine whether petitioner’s estimate was computed by the most reasonable means. Cf. Denise Coal Co. v. Commissioner, 271 F.2d 930, 936-937 (3d Cir. 1959).
+|
+21
+|It is undisputed that the Commissioner’s method (as shown by his computation relating to the second of the 2 years involved herein) actually does make the necessary subsequent adjustment.
+|
+22
+|Petitioner argues that Emery Kinkead, Inc. v. Commissioner, 35 T.C. 152 (1960), requires a contrary decision. However, the Kinkead case presented facts substantially different from the circumstances herein. In Kinkead, the Court held that where a subsidiary corporation was obligated to pay its parent a fair and reasonable amount for services rendered, the amount was not includable in the parent’s income until the end of the subsidiary’s fiscal year when the amount was determined. 35 T.C. at 155-156. The amount payable was determined in the discretion of the controlling shareholder of the parent corporation. 35 T.C. at 155-156. See also Globe Corp. v. Commissioner, 20 T.C. 299, 304 (1953). Here, under petitioner’s agreement with the DISC, the transfer price on sales to the DISC, and thus petitioner’s income from such sales, was to be determined under the method specified in sec. 994 which would produce the greatest tax benefit for petitioner by allocating the most income to the DISC. The method for computing the transfer price was thus established, and was not dependent upon further negotiations between the parties or upon what might be regarded as the unfettered discretion of one of the parties.
+|
+23
+|See sec. 1.994-1(c)(7), Income Tax Regs.
+|
+24
+|See p. 170.
+|
+25
+|For example, it might be contended that a different allocation method should be used to allocate petitioner’s general and administrative expenses to sales to the DISC. See sec. 1.994-1(g), example ( 3), Income Tax Regs.; Feinschreiber, “New Regulations Affect DISC Pricing,” 1 International Tax J., 325, 334 (1975). The marginal costing rules provided in sec. 1.994-2, Income Tax Regs., might also have been applicable.
+|
+
+
+
+
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

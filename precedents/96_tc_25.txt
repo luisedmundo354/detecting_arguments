@@ -1,0 +1,549 @@
+
+
+
+
+96 T.C. 652
+United States Tax Court
+COMPUTERVISION CORPORATION, Petitioner
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent
+Docket No. 17527-88.
+|
+Filed April 16, 1991.
+Synopsis
+P, a manufacturer of computer products, utilized a Domestic International Sales Corporation (DISC) as a commission agent for export sales of its products. HELD, combined taxable income (CTI) of P and its DISC computed under full cost accounting must be reduced by the full amount of discount incurred on the transfer of export accounts receivable from P to its DISC. Dresser Industries v. Commissioner, 92 T.C. 1276 (1989), affd. in part, revd. on an unrelated issue 911 F.2d 1128 (5th Cir. 1990), followed. HELD FURTHER, discount is incorporated into the computation of CTI of P and its DISC under marginal cost accounting, as limited by the overall profit percentage limitation, only to the extent that full costing CTI is a component of the numerator of the overall profit percentage fraction prescribed by sec. 1.994-2(c)(2)(i), Income Tax Regs. HELD FURTHER, P improperly included a portion of export promotion expenses in the computation of the commission payable to its DISC. Sec. 1.994-1(f), Income Tax Regs.
+ 
+Attorneys and Law Firms
+*653 John S. Brown, for the petitioner.
+Charles W. Maurer, Jr., and David N. Brodsky, for the respondent.
+
+
+
+
+OPINION
+NIMS, CHIEF JUDGE:
+Respondent determined a deficiency in petitioner’s 1981 Federal income tax in the amount of $385,708. The issues for decision are: (1) Whether petitioner properly apportioned and allocated the discount incurred on its transfer of accounts receivable to its Domestic International Sales Corporation (DISC) in computing the commission payable to the DISC under full cost accounting; (2) whether petitioner properly applied the discount incurred on its transfer of accounts receivable to its DISC in computing the commission payable to the DISC under marginal cost accounting as limited by the overall profit percentage limitation; and (3) whether export promotion expenses incurred by the DISC pursuant to the terms of a written agreement between petitioner and the DISC may be included in the commission payable to the DISC.
+ 
+Unless otherwise indicated, all section references are to sections of the Internal Revenue Code in effect for the year in issue and all Rule references are to the Tax Court Rules of Practice and Procedure.
+ 
+
+
+*654 BACKGROUND
+All of the facts have been stipulated and are so found. The stipulation of facts and related exhibits are incorporated herein by this reference.
+ 
+Computervision Corporation (petitioner) is a Delaware corporation which had its principal place of business in Bedford, Massachusetts, at the time of filing the petition herein. Petitioner, an accrual basis taxpayer using the calendar year, is in the business of designing, manufacturing and selling computer products. For 1981, petitioner timely filed a consolidated Federal income tax return with its subsidiaries Computervision Productivity Centre, Ltd., Computervision Australia, Ltd. and Computervision (Europe), Inc.
+ 
+Computervision International Corp. (International), a Massachusetts corporation, was a wholly-owned subsidiary of petitioner during the year at issue. International was an accrual basis taxpayer with its taxable year ending on January 31. During its taxable years ending January 31, 1981, and January 31, 1982, International qualified as a Domestic International Sales Corporation (DISC) pursuant to section 992.
+ 
+On March 22, 1972, petitioner and International entered into a written agreement entitled “Commission Agreement” appointing International as “Sales Agent” for petitioner. The Commission Agreement, in effect during 1981, provided that commissions payable to International on petitioner’s qualified export receipts would equal the maximum amount allowable under section 994.
+ 
+On February 1, 1980, petitioner and International entered into an agreement entitled “Agreement Designating Foreign Marketing Departments and Related Intercompany Accounts” (Foreign Marketing Agreement). The Foreign Marketing Agreement, in effect during 1981, provided that petitioner and International agreed “to designate certain departments * * * as Foreign Marketing Departments for the purpose of accounting for export promotion expenses to be incurred by CV International.” The Agreement further provided that the employees of petitioner’s foreign marketing departments would be deemed employees of International. However, petitioner would “carry out all human resource functions with respect to these employees” and *655 “act as a common paymaster, or as agent for CV International with respect to periodic payroll payments and with respect to the federal and state income, social security, and unemployment tax withholdings, and reporting obligations of CV International.”
+ 
+During 1981, petitioner treated the following expenses as export promotion expenses incurred by International pursuant to the Foreign Marketing Agreement:
+ 
+
+
+
+
+Expense	
+ 
+|Amount
+ 
+|
+Advertising	
+ 
+|$13,751
+ 
+|
+Salaries and wages	
+ 
+|610,506
+ 
+|
+Rents	
+ 
+|56,164
+ 
+|
+Employee benefit program	
+ 
+|169,343
+ 
+|
+Other:
+ 
+| 
+|
+Travel	
+ 
+|478,812
+ 
+|
+Telephone/telegraph	
+ 
+|304,939
+ 
+|
+Training	
+ 
+|14,866
+ 
+|
+Training/documentation	
+ 
+|699,393
+ 
+|
+Relocation	
+ 
+|147,528
+ 
+|
+Professional services	
+ 
+|21,418
+ 
+|
+Contract labor services	
+ 
+|46,148
+ 
+|
+Conferences/meetings	
+ 
+|85,274
+ 
+|
+Marketing/public relations	
+ 
+|6,695
+ 
+|
+Project materials	
+ 
+|41,196
+ 
+|
+Legal and audit	
+ 
+|6,880
+ 
+|
+Dues and subscriptions	
+ 
+|20,924
+ 
+|
+Leased equipment	
+ 
+|6,560
+ 
+|
+Expendable materials	
+ 
+|11,361
+ 
+|
+Miscellaneous	
+ 
+|3,626
+ 
+|
+ 
+|2,745,384
+ 
+|
+
+
+
+
+On January 31, 1981, petitioner and International entered into an agreement entitled “Accounts Receivable Purchase Agreement” (Purchase Agreement). Pursuant to the Purchase Agreement, International received, at a discount from face value, undivided interests in petitioner’s accounts receivable arising from export sales on which International had earned a commission. The following transactions were consummated between petitioner and International pursuant to the Purchase Agreement during 1981:
+ 
+
+
+
+
+|Face amount
+ 
+|
+Date of transfer
+ 
+|of receivables
+ 
+|
+02/02/81
+ 
+|$16,026,867
+ 
+|
+02/28/81
+ 
+|3,583,716
+ 
+|
+10/01/81
+ 
+|23,345,288
+ 
+|
+10/15/81
+ 
+|1,874,000
+ 
+|
+12/01/81
+ 
+|4,028,369
+ 
+|
+
+
+
+
+*656 During 1981, the discount from face value on accounts receivable transferred by petitioner to International totalled $4,661,028.
+ 
+Petitioner was obligated by the Purchase Agreement to produce, upon demand by International, a list of the accounts receivable in which International had an interest, including the identity of the account debtor, the amount of each account receivable and the date on which it arose. However, petitioner was required to bill and collect the accounts receivable on International’s behalf and, unless requested to remit the proceeds to International, provide International with an undivided interest in additional accounts receivable for those discharged.
+ 
+On its 1981 Federal income tax return, petitioner claimed deductions for commissions payable to International in the amount of $9,773,168, representing 50 percent of the combined taxable income of petitioner and International, and $324,044 (see infra, p. 14), representing 10 percent of International’s export promotion expenses.
+ 
+
+
+DISCUSSION
+Congress created the DISC in the Revenue Act of 1971, Pub. L. 92-178, 85 Stat. 535, as a tax incentive designed to stimulate exports of domestic products. The legislation was enacted to eliminate tax disadvantages confronting domestic production firms engaged in exporting through domestic corporations as opposed to foreign manufacturing subsidiaries. Thomas International Ltd. v. United States, 773 F.2d 300, 301 (Fed. Cir. 1985); H. Rept. 92-533 (1971), 1972-1 C.B. 498, 529; S. Rept. 92-437 (1971), 1972-1 C.B. 559, 609. The DISC provisions, codified in sections 991 through 997, provide for a deferral of a portion of the income derived by the DISC on export sales.
+ 
+In general, a corporation that qualifies as a DISC is not taxable on its profits. Section 991. Instead, the DISC’s shareholder is taxed each year on a specified portion of the DISC’s earnings and profits as deemed distributions, while the remaining portion of profits are not taxed until actually withdrawn from the DISC or until the erstwhile DISC ceases to qualify as a DISC. Section 995.
+ 
+To ensure that a DISC’s tax-deferred profits are used for export activities, Congress provided strict requirements for *657 qualification as a DISC. Garnac Grain Co. v. Commissioner, 95 T.C. 7, 20 (1990); H. Rept. 92-533, supra, 1972-1 C.B. at 529-533; S. Rept. 92-437, supra, 1972-1 C.B. at 610-614. Section 992(a)(1)(A) provides that for a corporation to qualify as a DISC at least 95 percent of its gross receipts (defined in section 993(f)) must consist of qualified export receipts (defined in section 993(a)). Section 992(a)(1)(B) provides that the adjusted basis of the DISC’s qualified export assets (defined in section 993(b)) at the close of the taxable year must equal or exceed 95 percent of the sum of the adjusted basis of all the DISC’s assets at the close of such year.
+ 
+Because of minimal capitalization and organizational requirements, a DISC may be no more than a corporation that serves primarily as a bookkeeping device to measure the amount of export earnings that are subject to tax deferral. Rocky Mountain Associates v. Commissioner, 90 T.C. 1231, 1235 (1988).
+ 
+Intercompany pricing rules for a DISC and its related supplier are contained in section 994 and section 1.994-1, Income Tax Regs. For purposes of computing the taxable income of a related supplier and its DISC, section 994(a) sets forth three intercompany pricing methods that may be applied to determine the transfer price charged on a sale of export property to a DISC by a related party. Section 994(a) provides:
+(a) IN GENERAL. -- In the case of a sale of export property to a DISC by a person described in section 482, the taxable income of such DISC and such person shall be based upon a transfer price which would allow such DISC to derive taxable income attributable to such sale (regardless of the sales price actually charged) in an amount which does not exceed the greatest of--
+ 
+(1) 4 percent of the qualified export receipts on the sale of such property by the DISC plus 10 percent of the export promotion expenses of such DISC attributable to such receipts.
+ 
+(2) 50 percent of the combined taxable income of such DISC and such person which is attributable to the qualified export receipts on such property derived as the result of a sale by the DISC plus 10 percent of the export promotion expenses of such DISC attributable to such receipts, or
+ 
+(3) taxable income based upon the sale price actually charged (but subject to the rules provided in section 482).
+ 
+ 
+Thus, sections 994(a)(1) and (2) are safe-harbor pricing methods which permit a DISC to derive taxable income not  *658 to exceed the greater of 4 percent of qualified export receipts On the sale of export property or 50 percent of the combined taxable income (CTI) of the DISC and the related party attributable to qualified export receipts, plus, under either method, 10 percent of the DISC’s export promotion expenses as defined in section 994(c). See section 1.994- 1(a)(1), Income Tax Regs. Then, section 994(a)(3) further allows for the derivation of taxable income based on the sale price actually charged, subject to section 482 rules, even though there results greater DISC taxable income than that computed under section 994(a)(1) and (2).
+ 
+The transfer pricing rules provide the means for allocating taxable income from an export sale between the DISC and its related supplier. Generally, intercompany pricing is made on a transaction- by-transaction basis. However, at the annual choice of the taxpayer some or all of the pricing may be made on the basis of groups consisting of products or product lines. Section 1.994-1(c)(7)(i), Income Tax Regs.
+ 
+Although the three intercompany pricing methods contained in section 994(a) literally apply to a DISC operating on a buy-sell basis, section 994(b)(1) provides that the Secretary shall prescribe regulations setting forth rules consistent with those applied in section 994(a) for DISCs operating on a commission basis. In this respect, section 1.994-1(d)(2), Income Tax Regs., permits a commission DISC to earn the same amount of income as a DISC operating on a buy-sell basis. In computing the commission, a fictional sale is deemed to have occurred between the related supplier and the DISC. Dresser Industries v. Commissioner, 92 T.C. 1276, 1281 (1989), affd. in part, revd. on an unrelated issue 911 F.2d 1128 (5th Cir. 1990). International operated on a commission basis during the year in issue.
+ 
+Section 1.994-1(c)(6), Income Tax Regs., defines combined taxable income -- CTI -- in pertinent part as follows:
+(6) COMBINED TAXABLE INCOME. For purposes of this section, the combined taxable income of a DISC and its related supplier from a sale of export property is the excess of the gross receipts (as defined in section 993(f)) of the DISC from such sale over the total costs of the DISC and related supplier which relate to such gross receipts. * * *
+ 
+ 
+Section 1.994-1(c)(6)(iii), Income Tax Regs., provides:
+*659 (iii) Costs (other than cost of goods sold) which shall be treated as relating to gross receipts from sales of export property are (a) the expenses, losses, and other deductions definitely related, and therefore allocated and apportioned, thereto, and (b) a ratable part of any other expenses, losses, or other deductions which are not definitely related to a class of gross income, determined in a manner consistent with the rules set forth in section 1.861-8.
+ 
+ 
+Thus, CTI of a DISC and its related supplier from a sale of export property generally is computed by reducing gross receipts as defined in section 993(f) by the expenses, losses and other deductions definitely related to such receipts, plus a ratable part of any other expenses, losses and other deductions not definitely related to a class of gross income consistent with the rules of section 1.861-8, Income Tax Regs. This method is hereinafter called the full costing method of accounting. See Brown-Forman Corp. v. Commissioner, 94 T.C. 919, 927-928 (1990), on appeal (6th Cir., Jan. 18, 1991).
+ 
+The regulations further provide that, subject to certain specified exceptions, the taxpayer’s method of accounting used in computing CTI will be accepted. Section 1.994-1(c)(6)(i), Income Tax Regs. In addition, cost of goods sold is to be determined in accordance with the provisions of section 1.61-3, Income Tax Regs. Section 1.994-1(c)(6)(ii), Income Tax Regs.
+ 
+In the case of a commission DISC, the gross income of the DISC is deemed to be the gross receipts derived by the principal from the sale, lease or rental of the property on which the commissions arose. Section 993(f); section 1.993-6(e), Income Tax Regs. Thus, CTI in the case of a commission DISC is determined without regard to commission income of the DISC, and the amount of commissions which the DISC may earn on a sale is backed into under section 994(a)(2) and the applicable regulations. See Brown-Forman Corp. v. Commissioner, supra at 927; section 1.994-(1)(d)(2), Income Tax Regs.
+ 
+As an alternative to the full costing method for determining CTI, section 994(b)(2) authorizes the Secretary to prescribe regulations setting forth special rules governing the allocation of expenses incurred on the sale of export property where a DISC is seeking to establish or maintain a market abroad. See *660 S. Rept. 92-437 (1971), 1972-1 C.B. 559, 619. In this regard, section 1.994-2(b), Income Tax Regs., provides that CTI may be computed taking into account only the marginal or variable costs of producing export items. This method is referred to as the marginal cost accounting or marginal costing method. See section 1.994-2(a), Income Tax Regs.
+ 
+Section 1.994-2(b)(3), Income Tax Regs., imposes an overall limitation on the use of the marginal costing method in computing CTI. Specifically, the overall profit percentage limitation (OPPL) limits CTI under the marginal costing method to a percentage of gross receipts from export sales. Such percentage, referred to as the overall profit percentage (OPP), is a measure of worldwide sales profitability, with profitability being expressed through a comparison of worldwide taxable income with worldwide gross receipts. See section 1.994-2(c)(2)(i), Income Tax Regs., defining the OPP; see also R. Feinschreiber, Domestic International Sales Corporations 279 (1978).
+ 
+We discussed the purpose and effect of the OPPL in Brown-Forman Corp. v. Commissioner, 94 T.C. at 929-930, and upheld the validity of section 1.994-2(b)(3), Income Tax Regs. 94 T.C. at 942. See section 1.994-2(e), Income Tax Regs., for examples of the application of the OPPL.
+ 
+The marginal costing method may be used to compute CTI only if CTI so computed is higher than that computed under the full costing method. Section 1.994-2(c)(1), Income Tax Regs.
+ 
+In addition to commission income, a DISC may earn income from the collection of accounts receivable transferred to it by the related party at a discount from face value. Under the statutory scheme, such transactions provide three specific benefits. First, the transferred accounts receivable constitute qualified export assets in the hands of the DISC and may be included to satisfy the 95-percent qualified export assets requirement of section 992(a)(1)(B). See H. Rept. 92-533, supra, 1972-1 C.B. at 533; S. Rept. 92-437, supra, 1972-1 C.B. at 614. Second, the discount income realized by the DISC upon collection of the accounts receivable constitutes qualified export receipts and may be included to satisfy the 95-percent qualified export receipts requirement of section 992(a)(1)(A). See H. Rept. 92-533, *661 supra, 1972-1 C.B. at 533; S. Rept. 92-437, supra, 1972-1 C.B. at 613. Finally, the sale of the accounts receivable gives the related party a means by which to obtain funds from the DISC without having to comply with the more stringent producer loan provisions of section 993(d). See Dresser Industries v. Commissioner, 92 T.C. at 1287-1288.
+ 
+In the case before us, petitioner calculated International’s commission by applying the intercompany pricing method contained in section 994(a)(2). Petitioner computed CTI by initially grouping total sales among its seven product lines. Five of the seven product lines generated qualified export receipts while the remaining product lines were wholly domestic. The five product lines generating qualified export receipts were Systems Division Europe (SDE), Systems Division NAD (NAD), Systems Division Asia/Far East (Far East), Cobilt Division (Cobilt) and Parts Division (Parts).
+ 
+CTI for the SDE and NAD product lines was computed under the full costing method. CTI for the Far East, Cobilt and Parts product lines was computed under the marginal costing method as limited by the OPPL.
+ 
+For purposes of computing CTI, petitioner treated the discount of $4,661,026 arising from its transfer of accounts receivable to International as interest expense. International treated the same amount as interest income. Petitioner allocated the discount among its product lines as follows:
+ 
+
+
+
+
+Product line
+ 
+|Discount
+ 
+|Total
+ 
+|
+SDE
+ 
+|$1,263,279
+ 
+|---
+ 
+|
+NAD
+ 
+|78,429
+ 
+|$1,341,708
+ 
+|
+Far East
+ 
+|301,431
+ 
+|---
+ 
+|
+Cobilt
+ 
+|137,164
+ 
+|---
+ 
+|
+Parts
+ 
+|---
+ 
+|438,595
+ 
+|
+ 
+|---
+ 
+|1,780,303
+ 
+|
+Domestic lines
+ 
+|---
+ 
+|1,780,693
+ 
+|
+Other income
+ 
+|---
+ 
+|1,178,030
+ 
+|
+ 
+|---
+ 
+|4,661,026
+ 
+|
+
+
+
+
+Petitioner calculated the export promotion expense component of International’s commissions by combining the export promotion expenses of $2,745,384 arising under the Foreign Marketing Agreement with sales commission expenses of $495,066 for a total of $3,240,450. Ten percent of this latter figure, or $324,044, was included in the commission payable to International.
+ 
+*662 The issues for decision are: (1) Whether petitioner properly allocated discount to domestic product lines and other income in computing CTI under the full costing method; (2) whether petitioner properly computed CTI under the marginal costing method as limited by the OPPL by including discount as a component of the numerator of the OPP; and (3) whether petitioner properly computed International’s export promotion expenses by including expenses “incurred” by International pursuant to the Foreign Marketing Agreement.
+ 
+
+
+COMPUTATION OF CTI -- FULL COST ACCOUNTING
+Petitioner contends that the discount incurred on the transfer of accounts receivable to International was properly allocated among all seven of its product lines (foreign and domestic), as well as its other income, in accordance with sections 1.994-1(c)(6)(iii) and 1.861-8, Income Tax Regs.
+ 
+Respondent argues that petitioner must allocate the discount in question exclusively to its product lines generating export receipts under section 1.994-1(c)(6)(v), Income Tax Regs. Respondent emphasizes that the validity of section 1.994-1(c)(6)(v), Income Tax Regs., was upheld by this Court in Dresser Industries v. Commissioner, 92 T.C. 1276, 1281 (1989), affd. in part, revd. on an unrelated issue 911 F.2d 1128 (5th Cir. 1990).
+ 
+Petitioner counters that section 1.994-1(c)(6)(v), Income Tax Regs., is invalid and that Dresser Industries was wrongly decided. We disagree.
+ 
+Section 1.994-1(c)(6)(v), Income Tax Regs., provides:
+(v) If an account receivable arising with respect to a sale of export property is transferred by the related supplier to a DISC which is a member of the same controlled group within the meaning of section 1.993-1(k) for an amount reflecting a discount from the selling price taken into account in computing (without regard to this subdivision) combined taxable income of the DISC and its related supplier, then the combined taxable income from such sale shall be reduced by the amount of the discount.
+ 
+Thus, under this regulation, if accounts receivable are transferred from a related supplier to its DISC at a discount from the face amount of the receivable, then full costing CTI is reduced by the amount of the discount.
+ 
+*663 Petitioner argues, as did the taxpayer in Dresser Industries, that section 1.994-1(c)(6)(v), Income Tax Regs., is invalid on the ground that section 1.994-1(c)(6)(iii), Income Tax Regs. (quoted supra p. 10), requires only that a ratable portion of the discount be deducted from CTI, not the entire amount of the discount. We rejected this contention in Dresser Industries v. Commissioner, 92 T.C. at 1292-1293, stating:
+The DISC legislation was intended to encourage domestic corporations to export U.S. goods. See H. Rept. 92-533, supra, 1972-1 C.B. at 502, 529; S. Rept. 92-437, supra, 1972-1 C.B. at 565, 609. However, Congress also clearly intended to limit deferral benefits “to situations which, in fact, involve export transactions.” H. Rept. 92-533, supra, 1972-1 C.B. at 533; S. Rept. 92-437, supra, 1972-1 C.B. at 614. Allowing a commission basis DISC to purchase export receivables from its related supplier achieves a parity with DISC’s operating on a buy-sell basis in meeting the qualification requirement that at least 95 percent of DISC assets be qualified export assets (Sec. 992(a)(1)(B)). However, by reducing deferral benefits attributable to the discount resulting from the simple expedient of “selling” export receivables between related parties, respondent’s regulation is consistent with Congressional intent.
+ 
+The regulation prevents the amount of income measured by the discount from being taken into account twice in determining DISC taxable income -- first as a component of CTI, and second as a qualified export receipt included in DISC taxable income but excluded from CTI.
+ 
+Accord Anchor Hocking Corp. v. United States, 11 Cl. Ct. 173 (1986).
+ 
+We are not persuaded that we should modify our views on this issue as expressed in Dresser Industries. We further note that the Fifth Circuit has stated its agreement with our reasoning on this issue. 911 F.2d at 1140. We also adhere to the view that section 1.994-1(c)(6)(v), Income Tax Regs., is consistent with congressional intent. We therefore hold that petitioner improperly allocated discount to its domestic product lines and other income in computing CTI under the full costing method, as determined by respondent.
+ 
+
+
+COMPUTATION OF CTI -- MARGINAL COST ACCOUNTING/OPPL
+Petitioner computed CTI -- combined taxable income -- for the Far East, Cobilt and Parts product lines under the marginal costing method subject to the OPPL -- the overall profit percentage limitation. Petitioner contends that discount is properly incorporated into the OPPL as a reduction *664 from full costing CTI in the numerator of the OPP -- the overall profit percentage.
+ 
+Respondent argues that discount should be accorded consistent treatment whether CTI is computed under full cost or marginal cost accounting. Consequently, respondent argues that discount should be subtracted in full directly from the OPPL.
+ 
+Section 1.994-2(c)(1), Income Tax Regs., provides that the marginal costing method may be employed in computing CTI with respect to sales of an item, product or product line of export property if CTI so computed is greater than full costing CTI. However, section 1.994-2(b)(3), Income Tax Regs., provides that marginal costing CTI may not exceed the OPPL.
+ 
+Section 1.994-2(c)(2), Income Tax Regs., defines the OPP in pertinent part as follows:
+(2) OVERALL PROFIT PERCENTAGE. (i) For purposes of this section, the overall profit percentage for a taxable year of the DISC for a product or product line is the percentage which --
+ 
+(a) THE COMBINED TAXABLE INCOME OF THE DISC AND ITS RELATED SUPPLIER plus all other taxable income of its related supplier from all sales (domestic and foreign) of such product or product line during the DISC’s taxable year, COMPUTED UNDER THE FULL COSTING METHOD, is of
+ 
+(b) The total gross receipts (determined under section 1.993-6) from all such sales. [Emphasis added.]
+ 
+Thus, the OPP for a product or product line can be summarized by the following formula:
+ 
+
+
+
+
+|CTI (Full Costing) + Other Taxable Income (OTI) (from product or product line)
+ 
+|
+OPP=
+ 
+|	
+ 
+|
+|Total Gross Receipts (TGR) (from product or product line)
+ 
+|
+
+
+
+
+The OPPL is in turn computed by multiplying the DISC’s gross receipts (DGR) from the product or product line by the OPP. Section 1.994-2(b)(3), Income Tax Regs. The OPPL essentially limits the profitability of export sales, for purposes of computing taxable income under the marginal costing method, to the profitability of worldwide sales, or overall profitability, of the product or product line (determined under the full costing method). See Brown-Forman Corp. v. Commissioner, 94 T.C. at 929-930.
+ 
+As noted, the parties disagree on the manner in which the discount in question is to be incorporated into the OPPL *665 formula. The parties’ respective positions are reflected in the following formulas:
+ 
+
+
+
+
+Petitioner
+ 
+|
+ 
+|||
+||([CTI - DISCOUNT] + OTI)
+ 
+|
+OPPL
+ 
+|=
+ 
+|------------------------ X DGR
+ 
+|
+||TGR
+ 
+|
+ 
+|||
+Respondent
+ 
+|
+ 
+|||
+||([CTI + OTI]
+ 
+|
+OPPL
+ 
+|=
+ 
+|------------ X DGR) - DISCOUNT
+ 
+|
+||TGR
+ 
+|
+
+
+
+
+For the purposes of the above formula --
+CTI means the full costing combined taxable income of the DISC and its related supplier;
+ 
+OTI means all “other” taxable income from the product line realized by the related supplier, excluding CTI;
+ 
+TGR means the total gross receipts from the product line; and
+ 
+DGR means the gross receipts of the DISC from the product line.
+ 
+ 
+We agree with petitioner. Section 1.994-2(c)(2), Income Tax Regs., provides that full costing CTI is included in the numerator of the formula for the OPP. As previously discussed, full costing CTI must be reduced by the amount of any discount arising from the transfer of accounts receivable from a related supplier to a DISC. See section 1.994-1(c)(6)(v), Income Tax Regs. Finally, section 1.994-2(c)(4), Income Tax Regs., provides that “the term ‘full costing method’ is the method for determining combined taxable income set forth in section 1.994-1(c)(6).” Thus, a plain reading of the regulations supports petitioner’s position that discount is subtracted from full costing CTI in the numerator of the OPP.
+ 
+In contrast, there is no express support in the regulations for respondent’s position that discount is to be subtracted directly from the OPPL. In fact, there simply is no mention of discount in the regulations prescribing the rules for marginal cost accounting.
+ 
+To the extent that the Secretary was directed by section 994(b)(2) to prescribe regulations setting forth rules for the allocation of expenditures in computing CTI where a DISC is seeking to establish or maintain a market for export *666 property, those regulations, being “legislative” in nature, are entitled to great weight. Brown-Forman Corp. v. Commissioner, 94 T.C. at 942, and cases cited therein. But, we are under no particular compulsion to sustain an interpretation advocated by respondent when such interpretation has conspicuously not been included in those regulations. See Ludwig v. Commissioner, 68 T.C. 979, 991 n.8 (1977). Rather, we agree with petitioner that discount is incorporated into the computation of the OPPL by subtracting the discount from full costing CTI in the numerator of the OPP. Section 1.994-2(c)(2), Income Tax Regs.
+ 
+
+
+EXPORT PROMOTION EXPENSES
+Petitioner and International entered into a Designation Agreement for the purpose of accounting for export promotion expenses to be incurred by International. The agreement provided that the employees of petitioner’s foreign marketing departments would be deemed employees of International.
+ 
+Respondent determined that International did not incur export promotion expenses under the Designation Agreement because International did not perform substantial economic functions as required by section 1.994-1(a)(2), Income Tax Regs. Respondent argues that the Designation Agreement was of no real effect.
+ 
+Petitioner maintains that International did incur export promotion expenses by virtue of the Designation Agreement. Petitioner argues that:
+Petitioner and International were parties to an effective Foreign Marketing Agreement designating Foreign Marketing Departments. Pursuant to the agreement, certain expenses of a type described in section 994(c) and Treas. Reg. section 1.994- 1(f)(2) were incurred by those departments, disbursed by Petitioner, and reimbursed by International to Petitioner. As a result, 10% of these expenses may be included in the export promotion expense component of the commission payable by Petitioner to International during the taxable year of Petitioner at issue.
+ 
+ 
+The transfer pricing rules of section 994(a)(1) and (2) permit a DISC to earn the greater of 4 percent of qualified export receipts on the sale of export property or 50 percent of the CTI attributable to such receipts, plus, under either *667 method, 10 percent of the DISC’s export promotion expenses.
+ 
+The regulations contain detailed rules respecting the proper treatment of export promotion expenses. In this regard, section 1.994-1(a)(2), Income Tax Regs., provides:
+(2) PERFORMANCE OF SUBSTANTIAL ECONOMIC FUNCTIONS. If the minimum requirements of paragraph (1) of section 1.993-1 that must be met for a DISC to be subject to section 994 have been satisfied, the application of section 994(a)(1) or (2) does not depend on the extent to which the DISC performs substantial economic functions (EXCEPT WITH RESPECT TO EXPORT PROMOTION EXPENSES). [Emphasis added.]
+ 
+Thus, a DISC may be allocated income by virtue of the transfer pricing rules of section 994(a), notwithstanding that the DISC might not be treated as a separate corporate entity for other purposes under the Internal Revenue Code. See section 1.992-1(a), Income Tax Regs. Conversely, export promotion expenses may be included in DISC income to the extent that the DISC performs substantial economic functions.
+ 
+The regulations defining the term “export promotion expenses” provide further limitations with respect to the proper treatment of export promotion expenses. In particular, the general definition of export promotion expenses contained in section 994(c) is incorporated in and expanded upon by section 1.994-1(f)(1), Income Tax Regs., which provides that export promotion expenses must be incurred or treated as incurred by the DISC (under section 1.994-1(f)(7), Income Tax Regs.) for the purpose of advancing the sale, lease or other distribution of export property for use, consumption or distribution outside of the United States.
+ 
+In addition, section 1.994-1(f)(2), Income Tax Regs., provides that the only expenses or costs which may be export promotion expenses are the ordinary and necessary expenses of the DISC paid or incurred during the DISC’s taxable year in carrying on any trade or business, allowable as deductions under section 162, such as expenses for market studies, advertising, salaries and wages of sales, clerical and other personnel, rentals on property, sales commissions, warehousing and other selling expenses. Under this provision, export promotion expenses also include a *668 reasonable allowance for depreciation of property of the DISC, as well as costs of freight, packaging and labeling.
+ 
+Section 1.994-1(f)(7), Income Tax Regs., describes the manner inwhich a DISC may incur or be treated as incurring export promotion expenses in part as follows:
+(7) DISC MUST INCUR EXPORT PROMOTION EXPENSES -- (i) IN GENERAL. In order for an expense to be an export promotion expense it must be incurred or treated as incurred under this subparagraph by the DISC. For example, an expense is incurred by a DISC if the expense results from (a) the DISC incurring an obligation to pay compensation to its employees, (b) depreciation of property owned by the DISC and used by its employees, (c) the DISC incurring an obligation to pay for office supplies used by its employees, (d) the DISC incurring an obligation to pay space costs for use by its employees, or (e) the DISC incurring an obligation to pay other costs supporting efforts by its employees.
+ 
+ 
+
+
+* * * * *
+(iii) EXPENSES INCURRED BY RELATED PARTIES.
+Reimbursement or other payments by a DISC to a related party are export promotion expenses only if the expenses of the related party for which reimbursement is made are for space in a building actually used by employees of the DISC or for export property owned by the DISC. * * *
+ 
+ 
+
+
+* * * * *
+(vi) An expense may be incurred by the DISC under subdivisions (i) through (v) of this subparagraph even if the accounting for and payment of such expense is handled by a related party and the DISC reimburses the related party for such expenses.
+ 
+Although section 1.994-1(f)(7)(i), Income Tax Regs., provides a nonexclusive list of the means by which export promotion expenses may be incurred, subdivision (i) indicates that a DISC may not incur export promotion expenses directly if it has no employees. See R. Feinschreiber, Domestic International Sales Corporations 229 (1978).
+ 
+To summarize, the regulations provide that export promotion expenses are limited to the ordinary and necessary expenses incurred by a DISC for the purpose of advancing the sale, lease or other distribution of export property. Petitioner has not raised an issue as to the validity of any of the aforementioned regulatory provisions.
+ 
+The parties do not agree, however, whether the expenses were incurred or may treated as incurred by International. Petitioner asserts that the Designation Agreement was valid and served to make the employees of its foreign *669 marketing departments the employees of International. Petitioner further asserts that the arrangement for the reimbursement of expenses from International to petitioner conforms with the transaction described in Rev. Rul. 73-96, 1973-1 C.B. 364, and section 1.994-1(f)(7)(vi), Income Tax Regs.
+ 
+It is respondent’s position that the Designation Agreement was of no substantive effect and that since International was concededly a shell corporation, International did not incur the expenses in question.
+ 
+Petitioner has the burden of proving that respondent’s determination is incorrect. Rule 142. Notwithstanding the stringent requirements of the regulations, petitioner introduced no supporting evidence or testimony, other than the Designation Agreement, to counter respondent’s determination.
+ 
+While a DISC is recognized as a separate corporate entity so long as minimal organizational requirements are satisfied, Addison International, Inc. v. Commissioner, 887 F.2d 660 (6th Cir. 1989), affg. 90 T.C. 1207 (1988), the regulations require something more before export promotion expenses may be included in the DISC commission equation. Section 1.994-1(a)(2), Income Tax Regs. In this regard, there is no authority in the controlling regulations for the proposition that export promotion expenses may simply be assigned by a related party to its DISC. To the contrary, export promotion expenses must be incurred by the DISC in carrying on a trade or business. Section 1.994-1(f)(2), Income Tax Regs.
+ 
+The Designation Agreement, standing alone, is insufficient to establish that International incurred expenses in carrying on a trade or business. See Interstate Transit Lines v. Commissioner, 319 U.S. 590, 594 (1943) (The “mere fact that [an] expense was incurred under contractual obligation does not of course make it the equivalent of a rightful deduction * * * paid or incurred ‘in carrying on any trade or business.”’). In other words, the terms of the Designation Agreement do not establish that International actually performed business functions and related activities.
+ 
+Likewise, the Designation Agreement falls short of proving that the expenses were incurred by International as opposed *670 to petitioner. Columbian Rope Co. v. Commissioner, 42 T.C. 800, 815 (1964) (to be deductible under section 162, the expense must be incurred in the taxpayer’s own trade or business, not that of another); South American Gold & Platinum Co. v. Commissioner, 8 T.C. 1297, 1301 (1947), affd. 168 F.2d 71 (2d Cir. 1948); see J. Eustice, “Tax Problems Arising From Transactions Between Affiliated Or Controlled Corporations,” 23 Tax L. Rev. 451, 475 (1967-1968).
+ 
+On the whole, the record suggests that International was organized and operated solely as an accounting device for computing income subject to deferral under the DISC provisions. We can only assume that if petitioner possessed additional evidence demonstrating that International actually incurred trade or business expenses, such evidence would have been included in the stipulation or otherwise presented to the Court.
+ 
+Under the circumstances, we must conclude that petitioner continued to conduct its export business in the same manner as it had prior to the effective date of the Designation Agreement. In this respect, the employees of petitioner’s foreign marketing departments were “employees” of International in name only. We find that the expenses in question were not incurred by International as contemplated under sections 1.994-1(a)(2) and 1.994-1(f)(7)(i), Income Tax Regs.
+ 
+Rev. Rul. 73-96, 1973-1 C.B. 364, and section 1.994-1(f)(7)(vi), Income Tax Regs., do not support petitioner’s contention that International incurred export promotion expenses. Rather, the cited authorities simply provide that a DISC’s utilization of a related party’s centralized accounting system for purposes of processing expenses will not cause the disallowance of otherwise qualified export promotion expenses. See R. Feinschreiber, Domestic International Sales Corporations 229 (1978).
+ 
+To reflect the foregoing, as well as concessions made by the parties,
+ 
+Decision will be entered under Rule 155.
+ 
+All Citations
+96 T.C. No. 25, 96 T.C. 652, Tax Ct. Rep. (CCH) 47,295, Tax Ct. Rep. Dec. (P-H) 96.25
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+
