@@ -1,0 +1,56 @@
+TITLE:
+United States Tax Court.
+ANALOG DEVICES, INC. & Subsidiaries, Petitioner
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent
+
+BACKGROUND:
+The parties submitted this case fully stipulated under Rule 122. The stipulated facts and facts drawn from the stipulated exhibits are incorporated herein by this reference.3 Petitioner is a U.S. corporation with its principal place of business in Norwood, Massachusetts.
+ 
+Analog Devices, Inc. (petitioner), was founded in 1965. It is the common parent of a group of subsidiaries that joined in the timely filing of consolidated Federal income tax returns for the 2006–07 tax years. It is also the parent of nonconsolidated foreign affiliates.
+ 
+Petitioner, its subsidiaries, and its affiliates design, develop, manufacture, and sell high-performance analog, mixed-signal, and digital signal processing integrated circuits. In 1976 petitioner incorporated Analog Devices B.V. *431 (ADBV), which then built a fabrication facility of complementary metal oxide semiconductor technology. ADBV is organized under the laws of the Netherlands with its principal place of management and business in Limerick, Ireland. For all relevant times, petitioner owned 100% of the issued and outstanding shares of ADBV, which was a CFC pursuant to section 957(a).
+ 
+
+
+I. The Intercompany Royalty
+In 1982, in connection with a section 482 adjustment, petitioner entered into a closing agreement with the Internal Revenue Service (IRS) Appeals Office establishing an annual royalty from ADBV to petitioner equal to 2% of ADBV’s net sales.4 ADBV paid the 2% royalty to petitioner every year through the end of petitioner’s 1994 taxable year, at which time petitioner and ADBV concluded that the royalty was no longer necessary. After the IRS had conducted an audit and determined to reinstate the royalty, petitioner and ADBV entered into a cross-license agreement in 1998 (1998 license agreement) again reflecting a 2% royalty from ADBV to petitioner effective November 3, 1996. By its terms, the 1998 license agreement was valid for 20 years.
+ 
+The IRS regularly conducted examinations for petitioner’s tax years following the 1998 license agreement. In 2006 the IRS conducted an examination for petitioner’s 2001–03 tax years. As a result of that examination, the IRS proposed under its authority pursuant to section 482 to increase the intercompany royalty to 6% beginning with the 2001 tax year. Petitioner’s chief financial officer agreed to the proposed increase for 2001–03 by executing Form 4549, Income Tax Examination Changes, on May 22, 2006.
+ 
+Petitioner filed an amended 2004 Federal income tax return on July 18, 2006, to reflect the increased royalty rate. Petitioner timely filed its 2005 Federal income tax return on July 13, 2006, and reported a 6% royalty from ADBV.5 For *432 2001–05 the total increase in petitioner’s royalty income due to the application of a 6% royalty as opposed to a 2% royalty was $429,175,634 (additional royalty amount). The transfer pricing adjustments giving rise to the additional royalty amount did not create indebtedness for Federal income tax purposes.
+ 
+In July 2006 ADBV and petitioner credited and debited their respective intercompany accounts by the royalty adjustment amount. ADBV paid the additional royalty amount in a series of payments to petitioner between July 25 and October 26, 2006. Petitioner did not make an election under Rev. Proc. 99–32, supra,6 in 2006 with respect to the payments.
+ 
+
+
+II. Petitioner’s Repatriation and Section 965 Election
+In 2005 petitioner’s and ADBV’s boards of directors approved a domestic reinvestment plan to repatriate a cash dividend to take advantage of a limited 85% DRD under section 965. See infra pp. 13–14. Petitioner’s representatives at this time were aware of guidance that the IRS had issued in the form of three IRS notices with respect to section 965. See infra p. 18 (describing the IRS notices).
+ 
+ADBV declared the dividend and paid it to petitioner on October 24, 2005.7 At the time of the payment of the dividend, ADBV’s cash balance, including marketable securities and short-term investments, was approximately $1.6 billion. Its cash balance at the end of its 2005 taxable year, after it paid the dividend, was $485,306,732.
+ 
+Petitioner attached a Form 8895, One–Time Dividends Received Deduction for Certain Cash Dividends from Controlled Foreign Corporations, to its timely filed Federal *433 income tax return for 2005. On the Form 8895 petitioner claimed a section 965 DRD of $879,629,844. Form 8895 requires the taxpayer claiming a section 965 DRD to report the related party indebtedness of its CFCs as of the beginning and end of the testing period. Generally, an increase in the related party indebtedness of its CFCs during the testing period decreases the amount of the dividends eligible for the DRD. See sec. 965(b)(3). Petitioner’s testing period was between October 3, 2004, and October 29, 2005.8 Petitioner reported zero related party indebtedness for both the beginning and the end of the testing period.
+ 
+
+
+III. The IRS’ Examination for Petitioner’s 2004–05 Taxable Years, Petitioner’s Rev. Proc. 99–32 Election, and the Notice of Deficiency
+The IRS commenced an examination for petitioner’s 2004 and 2005 taxable years in May 2006. The IRS commenced an examination for petitioner’s 2006–07 taxable years around May 2006 and April 2007, respectively.9
+ 
+On May 3, 2007, the IRS faxed to petitioner an issue resolution agreement stating that ADBV’s payments of the additional royalty amount resulted in a constructive dividend to petitioner.10 In a letter to the IRS dated July 17, 2007, petitioner’s chief financial officer requested relief under Rev. Proc. 99–32, supra, with respect to the additional royalty amount (Rev. Proc. 99–32 election). The election would permit petitioner to establish interest-bearing accounts receivable from ADBV instead of treating the transfer pricing *434 adjustments as a constructive dividend to petitioner. See infra pp. 16–18.
+ 
+Petitioner’s treasurer, William Martin, also attached a “Statement Pursuant to Revenue Procedure 99–32” to petitioner’s timely filed 2006 tax return to ensure that the IRS would not treat ADBV’s payment of the additional royalty amount as a dividend. The statement reiterated petitioner’s Rev. Proc. 99–32 election and stated that petitioner was permitted to establish interest-bearing accounts receivable from ADBV.
+ 
+In October 2007, during the course of the examinations, the IRS raised section 965(b)(3) as an issue. On or around December 5, 2007, respondent issued a notice of proposed adjustment (NOPA) asserting that the Rev. Proc. 99–32 election resulted in an increase in related party indebtedness of $162,166,710 during petitioner’s testing period, which required a reduction of the amount of the DRD that petitioner had claimed of $137,841,704.11
+ 
+In May 2009 petitioner and the IRS signed a Form 906, Closing Agreement on Final Determination Covering Specific Matters, finalizing petitioner’s Rev. Proc. 99–32 election. Petitioner’s chief financial officer signed the closing agreement on petitioner’s behalf. He did not have signatory authority for ADBV, and no one with signatory authority for ADBV signed the agreement.
+ 
+The parties’ closing agreement is titled “Closing Agreement on Final Determination Covering Specific Matters” (sometimes, Rev. Proc. 99–32 closing agreement). The first section of that agreement includes the recitals, which are introductory, explanatory clauses beginning with the word “whereas”. Some recitals in the closing agreement are specifically negotiated, while others borrow standard terms from the IRS’ Rev. Proc. 99–32 Pattern Agreement. See Internal Revenue Manual (IRM) pt. 8.13.1–22 (Nov. 9, 2007). One of the specifically negotiated recitals states: “The Parties desire to enter into this closing agreement to resolve with finality certain issues identified below that the IRS reviewed during CAP, which impact the taxpayer’s tax year ended October 28, *435 2006”.12 The recitals with standard terms address the primary adjustments under section 482 (i.e., the 6% royalty), petitioner’s Rev. Proc. 99–32 election, and respondent’s decision that the provisions of Rev. Proc. 99–32, supra, should apply.
+ 
+After the recitals is a caption that states: “NOW IT IS HEREBY DETERMINED AND AGREED, for all Federal income tax purposes that”. This is standard wording from the IRS’ Rev. Proc. 99–32 Pattern Agreement. See IRM pt. 8.13.1–22; see also Rev. Proc. 68–16, sec. 6.05(3), 1968–1 C.B. 770, 779 (stating that the caption emphasizes the transition from the recitals to matters upon which the parties have agreed).
+ 
+The “determined” clauses—those to which the parties agreed to be bound—follow the caption and include both standard and specifically negotiated terms. One of the determined clauses establishes five accounts receivable between petitioner and ADBV reflecting the difference between the 2% and 6% royalty rates for 2001–05. Each account was deemed to have been created as of the last day of petitioner’s taxable year to which it relates. The determined clause establishing the accounts receivable states: “Taxpayer has established intercompany Accounts Receivable, set forth below, which were recorded on Taxpayer’s books and treated as term loans to Controlled Entity [ADBV] reflecting the following balances, each such Account Receivable being deemed to have been created as of the last day of the taxable year to which it relates.” These deemed accounts receivable did not come into existence until the execution of the closing agreement.
+ 
+Other determined clauses discuss, inter alia, payment of the accounts receivable,13 the tax implications of the payments, *436 14 and the calculation of interest on the accounts. The closing agreement does not mention section 965(b)(3), and we infer from this that the parties did not reach an agreement with respect to section 965(b)(3) in the closing agreement.
+ 
+The IRS subsequently issued a notice of deficiency dated April 19, 2012, determining that the accounts receivable established under Rev. Proc. 99–32, supra, constituted an increase in related party indebtedness during petitioner’s testing period under section 965(b)(3). The IRS therefore determined to decrease the amount of the 2005 dividend eligible for the section 965 DRD. Respondent would not have determined that section 965(b)(3) applies to the accounts receivable absent petitioner’s Rev. Proc. 99–32 election and the closing agreement. Petitioner timely filed a petition in this Court for redetermination.
+ 

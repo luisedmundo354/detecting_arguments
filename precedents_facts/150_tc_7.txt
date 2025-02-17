@@ -1,0 +1,228 @@
+TITLE:
+United States Tax Court.
+Celia MAZZEI, Petitioner
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent
+Angelo L. Mazzei and Mary E. Mazzei, Petitioners
+v.
+Commissioner of Internal Revenue, Respondent
+Docket Nos. 16702–09, 16779–09
+|
+
+BACKGROUND:
+Angelo Mazzei graduated from college with a science degree in industrial technology and a minor in business administration. In 1977 he filed his first patent application for an “injector that mixes chemicals with water (for use primarily in agriculture).”2 Mr. Mazzei got *141 patent No. 4,123,800—“Mixer Injector”—and in 1978, seeing business potential in his idea, he and his wife, Mary Mazzei, formed the Mazzei Injector Corp. (Injector Corp.), an S corporation.3
+ 
+Initially Mrs. Mazzei was very active in the business and was Injector Corp.’s bookkeeper. She still discusses the business with Mr. Mazzei but is no longer an employee. Mr. and Mrs. Mazzei’s daughter, Celia Mazzei, has taken a much more active role in the business. After graduating from college with a degree in mathematics, she became vice president of research and development for Injector Corp. and still works with her father to invent new products. She now owns 10% of both ALM Corp., see infra p. 9, and Injector Corp.
+ 
+After its inception in 1978 Injector Corp. grew quickly and by its second year started working with distributors to market and sell its products. In or about 1984 Injector Corp. started selling overseas through foreign distributors. Although sales have fluctuated, by 1998 export sales provided a reliable stream of income. Today, Mr. Mazzei has patents in the United States and several foreign countries including Canada and Japan. He has also adapted his injectors for several different industries, including water treatment, wine production, and spa manufacturing.
+ 
+
+
+I. WGA’s FSC/IRA Program
+The same year Mr. Mazzei got his patent, he joined the Western Growers Association (WGA)—a trade association for farmers. Sometime in the 1990s WGA began creating and selling interests in foreign sales corporations (FSCs) to its members. FSCs were foreign corporations which elected to be taxed under now-repealed sections 921–927.4 WGA’s FSCs *142 were located in Bermuda and managed by a company called Quail Street Management (Quail Street).5 To participate in WGA’s FSC/individual retirement account (IRA) program, the individual shareholders or owners of WGA’s corporate or passthrough members had to have self-directed section 408 IRAs (traditional IRAs), which the shareholders or owners used to purchase stock in one of WGA’s FSCs. When section 408A Roth IRAs (Roth IRAs) were added to the Code in August 1997, see Taxpayer Relief Act of 1997, Pub. L. No. 105–34, sec. 302, 111 Stat. at 825, WGA changed its program, substituting Roth IRAs for traditional IRAs. WGA marketed its FSC/IRA program to its members, emphasizing that the FSC/IRA structure would provide tax benefits without any loss of control over the business.
+ 
+
+
+II. Petitioners’ Contribution Limits
+Contributions to a Roth IRA are limited according to a statutory formula. See sec. 408A(c)(2). The limitation for any year decreases as the taxpayer’s modified adjusted gross income (MAGI) increases; if MAGI is high enough, the limitation is reduced to zero. See sec. 408A(c)(3).
+ 
+Petitioners’ pre–1998 contribution limits were customarily zero, but as a result of some restructuring, petitioners claim that they each had a respective contribution limit of $2,000 for 1998. Their restructuring is a bit mysterious even after trial. Mr. and Mrs. Mazzei each started with 45% of Injector Corp. Celia Mazzei owned the remaining 10%. Petitioners organized another S corporation, ALM Corp., owned in the same proportions. ALM Corp. and Injector Corp. then formed an LLC named Mazzei Injector Co. (Injector Co.), which was treated for tax purposes as a partnership.6
+ 
+*143 [1]Respondent describes this restructuring but has not challenged it, so we deem respondent to have waived or conceded any issue with respect to it. Accordingly, we find that each petitioner’s contribution limit was $2,000 for 1998. Each petitioner’s contribution limit was zero for 1999, 2000, 2001, and 2002.7
+ 
+
+
+III. Petitioners’ Entrance Into WGA’s FSC/IRA Program
+In February 1998 Injector Co. applied to WGA’s FSC/IRA program. Injector Co.’s application to the program valued its annual export sales at approximately $1.5 million. Once Injector Co. was accepted into the program, each petitioner opened a self-directed Roth IRA and contributed $2,000. Each petitioner then directed his or her respective Roth IRA to buy one-third of a new account inside one of WGA’s FSCs.
+ 
+Under former section 927(g), if an FSC “maintain[ed] a separate account for transactions with each shareholder”, each separate account was to be treated as a separate corporation. By virtue of this provision, multiple WGA members could share one of WGA’s FSCs without intermingling their finances. Each of petitioners’ three Roth IRAs formally purchased 33–1/3 shares of one of WGA’s FSCs at $5 per share; altogether, the Roth IRAs paid $500 for 100 shares. The shares formally purchased by petitioners’ Roth IRAs were all attributable to a single, new, and empty “separate account”. There were no other shares attributable to this separate account. When we refer to “petitioners’ FSC” or “the FSC”, we mean petitioners’ separate account, treated as a separate corporation under section 927(g).
+ 
+Injector Co. received a packet of program materials that included: (1) an operations procedure memorandum; (2) a foreign *144 trade commission, sale, license, lease, and services agreement (commission agreement); (3) an export-related services agreement (services agreement); (4) a management agreement; (5) a shareholders’ agreement; and (6) a compliance guide prepared by Price Waterhouse, LLP, describing tax and recordkeeping issues associated with the IRA/FSC program. Each agreement was executed early in 1998.8 We will briefly discuss each item.
+ 
+
+
+A. Operations Procedure Memorandum
+The operations procedure memorandum provided an overview of the packet and a general explanation of how the FSC/IRA program was to operate.
+ 
+
+
+B. Commission Agreement
+The commission agreement provided that petitioners’ FSC would perform a variety of export-related activities for Injector Co.; in exchange, Injector Co. was to pay a commission. The commission agreement specified that Injector Co. retained the power to decide whether to pay a commission. For example, the agreement specified that any services commission
+shall be agreed upon by the parties and may vary from time to time by mutual agreement, so as to provide the maximum [F]ederal income tax benefits to * * * [Injector Co.] and [the] FSC * * *. * * * [Injector Co.] shall have the final decision as to whether [the] FSC is considered to have solicited or promoted a transaction with a customer and may prospectively or retroactively add or delete transactions entitling [the] FSC to a commission.
+(Identical provisions existed for other types of payments.)
+ 
+
+
+C. Services Agreement
+The services agreement, which was executed simultaneously with the commission agreement (as required by the commission agreement), provided that all of the activities *145 contracted to the FSC had to be delegated back to Injector Co., in exchange for a fee which could not exceed the commission paid by Injector Co.
+ 
+
+
+D. Management Agreement
+The management agreement provided that Injector Co. would pay a fee to Quail Street to administer its participation in the IRA/FSC program. The management agreement specified that (1) the fee would be equal to 0.001 of the FSC’s foreign trading gross receipts9 and that (2) the fee would be at least $3,500 and at most $10,000.
+ 
+
+
+E. Shareholders’ Agreement
+The shareholders’ agreement provided that “[e]arnings in the form of commissions on business originated by each shareholder shall be credited to the respective shareholder’s separate account.”10 This agreement also required each shareholder to pay its share of any annual maintenance costs for the FSC.11
+ 
+Additionally, the shareholders’ agreement specified that the $500 purchase price for 100 shares of FSC stock included $1 of “paid-in capital” and $499 of “paid-in surplus”. The shareholders’ agreement also restricted the sale of the FSC stock in at least two ways: (1) any shareholder that wished to sell its stock needed the approval of the FSC’s directors12 and (2) the sale price for the FSC stock was set as the “paid-in capital” amount, i.e., $1.
+ 
+
+
+F. Compliance Guide
+The compliance guide advised Injector Co. on how to report its activities in its accounting records and on its tax returns.
+ 
+In the aggregate, the agreements described above did not require the FSC to perform any export-related activities for *146 Injector Co., and any payments to the FSC were optional (excepting a few management and operational fees paid to Quail Street). That is, Injector Co. retained, at all times, the right not to make commission payments to the FSC.
+ 
+
+
+IV. Operations of the FSC/IRA Program
+Every quarter, Quail Street asked Injector Co. for a report of its foreign sales for the period. This request included a template worksheet for reporting sales. Injector Co. bookkeepers were to complete the report and return it to Quail Street. Quail Street would then compute the maximum commission payment allowed under section 925(b) and associated temporary regulations, see infra pp. 29–34, and send a letter inviting petitioners to fund their IRAs. In relevant part, the letter said:
+Based on the recent export sales and cost information that you reported, we calculate the amount of [$X] is due [i.e., for Federal corporate tax on the FSC]. To reimburse us for the quarterly FSC tax that we paid to the IRS on your behalf, your estimated FSC tax payment of [$X] should be wired to the address below. If you also wish to fund your IRA accounts at this time, you may wire an additional [$Y] at this time, for a total of [$X + $Y].
+ 
+Injector Co. made regular payments to the FSC, and in total between 1998 and March 2002 the FSC paid $533,057 to petitioners’ Roth IRAs:
+ 
+
+
+
+
+Export year
+ 
+|Payments to FSC
+ 
+|Tax paid by the FSC
+ 
+|Amount deposited into IRAs
+ 
+|
+1998
+ 
+|$157,966
+ 
+|$7,211
+ 
+|$150,754
+ 
+|
+1999
+ 
+|139,682
+ 
+|6,377
+ 
+|133,306
+ 
+|
+2000
+ 
+|138,095
+ 
+|6,304
+ 
+|131,791
+ 
+|
+2001
+ 
+|122,812
+ 
+|5,607
+ 
+|117,206
+ 
+|
+Total
+ 
+|||533,057
+ 
+|
+
+
+
+
+(For further explanation of these amounts, see infra pp. 35–36.)
+Petitioners participated in WGA’s FSC/IRA program with respect to export transactions occurring from 1998–2001, but some of the payments from the FSC to the Roth IRAs were made in the year after the export transactions to which they were attributable. The final payments from the FSC were *147 paid out in March 2002 as WGA wound up its FSC/IRA program.
+ 
+As of the close of each year at issue, petitioners’ Roth IRAs had the following balances:13
+ 
+
+
+
+
+Year
+ 
+|Angelo Mazzei
+ 
+|Mary Mazzei
+ 
+|Celia Mazzei
+ 
+|
+2002
+ 
+|$59,878
+ 
+|$50,753
+ 
+|$81,484
+ 
+|
+2003
+ 
+|81,082
+ 
+|75,722
+ 
+|102,473
+ 
+|
+2004
+ 
+|96,650
+ 
+|78,746
+ 
+|106,206
+ 
+|
+2005
+ 
+|96,790
+ 
+|92,369
+ 
+|113,504
+ 
+|
+2006
+ 
+|110,493
+ 
+|118,835
+ 
+|130,847
+ 
+|
+2007
+ 
+|118,856
+ 
+|146,389
+ 
+|143,601
+ 
+|
+
+
+
+
+
+
+V. Procedural Background
+Before entering into these transactions, petitioners presented the transaction paperwork to their accountant, Mr. Bedke, a tax partner at an accounting firm (where he had practiced for 29 years). Petitioners had been Mr. Bedke’s clients for several years before they sought his advice about their FSC transactions, and he was familiar with their business. Mr. Bedke prepared petitioners’ tax returns for each year at issue. Mr. Bedke had no connection with WGA and no interest in, or expectation of profits from, petitioners’ transactions. Mr. Bedke and another partner at his firm reviewed petitioners’ information and advised them that their business could use an FSC. He also advised them that it was not prohibited for a Roth IRA to invest in an FSC.
+ 
+In December 2003 the IRS issued Notice 2004–8, 2004–1 C.B. 333, to advise taxpayers that the IRS considered some transactions using Roth IRAs to be abusive tax-avoidance transactions.14 With their Forms 1040, U.S. Individual *148 Income Tax Return, for the tax years 2004–07, petitioners filed protective disclosures using Form 8886, Reportable Transaction Disclosure Statement, which disclosed that they participated in a program potentially covered by Notice 2004–8, supra. Petitioners did not, however, file Forms 5329, Additional Taxes on Qualified Plans (Including IRAs) and Other Tax–Favored Accounts.
+ 
+For 2002–07 respondent prepared substitute Forms 5329 for each petitioner under section 6020(b). In the notice of deficiency respondent determined that the section 4973 excise tax on excess contributions was due from each petitioner for each of the years at issue.
+ 

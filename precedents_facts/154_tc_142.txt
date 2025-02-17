@@ -1,0 +1,79 @@
+TITLE:
+United States Tax Court.
+WHIRLPOOL FINANCIAL CORPORATION & CONSOLIDATED SUBSIDIARIES, Petitioner
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent
+Whirlpool International Holdings S.a.r.l., f.k.a. Maytag Corporation & Consolidated Subsidiaries, Petitioner
+v.
+Commissioner of Internal Revenue, Respondent
+Docket Nos.
+13986
+-
+17
+, 13987-17
+|
+
+BACKGROUND:
+The following facts are derived from the pleadings, the parties’ motion papers, and the exhibits and declarations attached thereto.
+ 
+
+
+*145 I. Whirlpool’s Mexican Manufacturing Operations
+
+A. Structure Before 2007
+Before 2007 petitioner indirectly owned 100% of Whirlpool Mexico, S.A. de C.V. (Whirlpool Mexico), a company organized under Mexican law. Whirlpool Mexico owned (directly or indirectly) 100% of Commercial Acros S.A. de C.V. (CAW) and of Industrias Acros S.A. de C.V. (IAW), both organized under Mexican law. Whirlpool Mexico and its subsidiaries were then, and are now, treated as CFCs of petitioner for Federal income tax purposes.
+ 
+CAW was the administrative arm of Whirlpool Mexico. Its employees supplied selling, marketing, finance, accounting, human resources, and other back-office services to its Mexican parent and IAW. It also engaged in activities relating to utility service and repairs for both entities.
+ 
+IAW was the manufacturing arm of Whirlpool Mexico. IAW owned land, buildings, and equipment and employed workers who manufactured refrigerators, washing machines, and other appliances (collectively, Products). IAW manufactured these Products at two separate plants in Mexico: the Ramos plant and the Horizon plant. The Ramos plant, located in Ramos Arizpe, Coahuila, produced refrigerators; the Horizon plant, located in Apodaca, Nuevo León, produced washing machines. IAW sold these Products to Whirlpool Mexico, which in turn sold the Products to petitioner and unrelated distributors in Mexico.
+ 
+
+
+B. Revised Structure in 2009
+Beginning in 2007 petitioner undertook a reorganization that put a new structure in place for its Mexican operations as of 2009, the tax year at issue. On May 31, 2007, petitioner created Whirlpool Overseas Manufacturing, S.a.r.l (WOM), an entity organized under the laws of Luxembourg. On August 1, 2007, petitioner transferred ownership of WOM to Whirlpool Luxembourg S.a.r.l. (Whirlpool Luxembourg), an indirect wholly owned subsidiary of petitioner likewise organized under Luxembourg law. Both entities were CFCs for Federal income tax purposes.
+ 
+Whirlpool Luxembourg appears to have been a holding company with no employees. WOM had one part-time employee, Nour Eddine Nijar. He performed modest administrative *146 functions, including payment of rent, utilities, and other expenses incurred by the Luxembourg office. He also signed contracts on behalf of WOM and signed checks drawn on its bank account. For the sake of simplicity we will refer to these two Luxembourg entities collectively as Whirlpool Luxembourg.
+ 
+On June 1, 2007, petitioner caused to be created Whirlpool Internacional, S. de R.L. de C.V. (WIN), a company organized under Mexican law. On August 13, 2007, petitioner caused the ownership of WIN to be transferred to Whirlpool Luxembourg, which thereafter owned virtually all of WIN’s stock. WIN was treated as an entity separate from Whirlpool Luxembourg for Mexican and Luxembourg tax purposes. But for Federal income tax purposes WIN made what is commonly called a “check-the-box” election. See secs. 301.7701-2(a), 301.7701-3(a), Proced. & Admin. Regs. It thus elected to be treated as a “disregarded entity,” i.e., as having no existence separate and distinct from Whirlpool Luxembourg.
+ 
+After 2007 petitioner continued to own Whirlpool Mexico and (through it) CAW and IAW, all of which remained CFCs. And IAW continued to own the land and buildings used to manufacture the Products. But on various dates during 2007 and 2008 the following transactions occurred: (1) IAW leased to WIN the land and buildings that housed the Ramos and Horizon manufacturing activities; (2) IAW sold to WIN the spare parts, hand tools, and other items needed to support manufacturing activities at those plants; and (3) IAW sold to Whirlpool Luxembourg all of the machinery, equipment, inventories, furniture, and other assets situated within those plants.
+ 
+As far as the record reveals, WIN had no employees of its own. High-level employees of IAW and CAW were “seconded” to WIN, including the plant manager, the quality control manager, the materials manager, and the controller of each manufacturing facility. Rank-and-file employees of IAW were “subcontracted” to WIN to perform manufacturing, assembly, packaging, storage, repair, and distribution tasks. And rank-and-file employees of CAW were “subcontracted” to WIN to perform selling, marketing, finance, accounting, human resources, and other back-office tasks. The agreements stated that all of these workers remained employees of IAW and CAW, respectively, which appear to have remained solely *147 responsible for their hiring and firing, wages, social benefits, and employment taxes in Mexico.
+ 
+In July 2007 WIN and Whirlpool Luxembourg executed a “manufacturing assembly services agreement” with respect to the Ramos plant, and in March 2008 they executed a substantially identical agreement with respect to the Horizon plant. Under these agreements WIN contracted to supply the services necessary to manufacture Products at the two plants using the workers subcontracted to it from IAW and CAW. Whirlpool Luxembourg agreed to supply the machinery, equipment, and raw materials necessary to manufacture the Products at these plants. The parties concurrently executed a “bailment agreement” whereby Whirlpool Luxemburg (as “bailor”) agreed to permit WIN (as “borrower”) to use the machinery and equipment, free of charge, for the sole purpose of manufacturing the Products. WIN explicitly acknowledged that all raw materials, work-in-process, and finished goods inventory were owned at all times by Whirlpool Luxembourg. We will refer to these agreements collectively as the “Assembly Agreements.”
+ 
+In August 2007 and March 2008 Whirlpool Luxembourg executed “manufacturing supply agreements” with petitioner and Whirlpool Mexico. Whirlpool Luxemburg thereby agreed to act as a “contract manufacturer” for petitioner and Whirlpool Mexico and to sell them the Products assembled at the Ramos and Horizon plants. These sales were to occur at prices “agreed to by the parties from time to time.” The agreements stated that Whirlpool Luxembourg was “deemed to have invoiced the Products at the end of the manufacturing process,” with title and risk of loss passing to petitioner and Whirlpool Mexico at that point “regardless of the physical location of the Products and any temporary storage that * * * [Whirlpool Luxembourg] may provide.” We will refer to these agreements collectively as the “Supply Agreements.”
+ 
+During 2009 Whirlpool Luxembourg defrayed the cost of purchasing the raw materials needed to manufacture the Products, including rolls of steel, sheets of plastic, chemicals, resin, paint, tubing, and other component parts. The cost of these inputs appears to have exceeded $500 million. These materials were acquired under blanket purchase orders that set forth the terms applicable to each supplier. The purchase *148 orders specified that invoices were to be sent to Whirlpool Luxembourg at its address in Luxembourg but that all raw materials and supplies were to be delivered directly to the Ramos and Horizon plants.
+ 
+Petitioner’s Mexican manufacturing operations, as restructured in 2009, can be summarized as follows. Whirlpool Luxembourg owned the machinery and equipment used to manufacture the Products, and it purchased and retained title to the raw materials and inventory during the manufacturing process. At the end of the manufacturing process Whirlpool Luxembourg transferred title and risk of loss to petitioner and Whirlpool Mexico.
+ 
+Whirlpool Luxembourg, having no employees of its own (other than Mr. Nijar), contracted with WIN to supply the necessary manufacturing services. WIN, having no employees or manufacturing plant of its own, leased the Ramos and Horizon plants from IAW and arranged to have IAW’s and CAW’s employees seconded or subcontracted to it. IAW’s workers assembled the Products, and CAW’s workers supplied the necessary accounting, repair, and back-office services. During 2009 the Ramos plant produced almost one million refrigerators; the Horizon plant produced more than 500,000 washing machines. About 96% of the Products thus manufactured were sold to petitioner, with the balance to Whirlpool Mexico. From these sales Whirlpool Luxembourg derived gross receipts that exceeded $800 million.
+ 
+
+
+II. Petitioner’s Tax Considerations
+
+A. Mexico
+Under the Ley del Impuesto Sobre la Renta (Mexican Income Tax Law or MITL), corporations resident in Mexico were generally taxed during 2009 at a 28% rate. MITL arts. 1(I), 10. Non-Mexican residents that had a permanent establishment (PE) in Mexico were likewise subject to tax at a 28% rate on income attributable to the PE. MITL arts. 1(II), 10.
+ 
+For many years Mexico has had in place a “maquiladora program,” as set forth in the Decree for the Promotion of the Manufacturing, Maquila, and Export Services Industry (IMMEX Decree). This program was designed to incentivize foreign principals to locate manufacturing operations in *149 Mexico. IMMEX Decree art. 1. Under Mexican customs rules, the resident maquiladora company must perform the manufacturing activity; the foreign principal must retain title to the raw materials, component parts, and inventory during the manufacturing process, then take title to and sell the finished goods.
+ 
+During 2009 Mexico taxed resident maquiladora companies at a 17% rate rather than a 28% rate. By locating its manufacturing operations in Mexico, the foreign principal would ordinarily be considered to have a PE in Mexico (and thereby be subject to the 28% tax rate). See MITL arts. 1(II), 10. However, a foreign principal was deemed to have no PE in Mexico--and was thus exempt from Mexican income tax--provided that it and the maquiladora company satisfied specified transfer-pricing requirements. See MITL art. 2 (“A nonresident shall not be deemed to have a permanent establishment in Mexico, deriving from the legal or economic relationship with entities carrying on maquila operations.”).
+ 
+For 2009 WIN qualified as a maquiladora company. It thus paid tax to Mexico at a 17% rate on the income it earned from supplying manufacturing services under its Assembly Agreements with Whirlpool Luxembourg. Correspondingly, Whirlpool Luxembourg took the position that it was a foreign principal considered to have no PE in Mexico, so that it was exempt from Mexican tax on the income it earned under its Supply Agreements with petitioner and Whirlpool Mexico. Whirlpool Luxembourg accordingly did not file a Mexican income tax return.
+ 
+
+
+B. Luxembourg
+Companies resident in Luxembourg with income exceeding €15,000 were generally taxed during 2009 at a composite rate above 28%. However, under articles 7(2) and 23(1)(A) of the Mexico-Luxembourg tax treaty,2 all income earned by a Luxembourg company that was attributable to a PE in Mexico was exempt from Luxembourg tax.
+ 
+For Luxembourg tax purposes, Whirlpool Luxembourg took the position that it had a PE in Mexico by virtue of (1) its *150 ownership of the equipment, raw materials, component parts, supplies, and inventory used in its Mexican manufacturing operations, (2) its use of fixed places of business at the Ramos and Horizon plants, and (3) its sale of the Products in Mexico. Representing that it had “a fixed business facility in Mexico whereby it regularly conducts commercial activities in Mexico,” Whirlpool Luxembourg solicited and received a ruling from Luxembourg tax authorities that it had a PE in Mexico and that all income earned under its Supply Agreements with petitioner and Whirlpool Mexico was attributable to that PE. Accordingly, Whirlpool Luxembourg paid no tax to Luxembourg on the income it earned from sale of finished Products.
+ 
+
+
+III. IRS Examination
+On its Federal income tax return for 2009 petitioner took the position that none of the income derived by Whirlpool Luxembourg under its Supply Agreements was subject to tax under subpart F. The IRS commenced an examination of that return and determined that Whirlpool Luxembourg’s sale of Products to petitioner and Whirlpool Mexico gave rise to FBCSI of $49,964,080. The IRS included that sum in petitioner’s income under sections 954(d) and 951(a).3
+ 
+In March 2017 respondent issued timely notices of deficiency to petitioners reflecting these adjustments and several ancillary and computational adjustments. After timely petitioning this Court, petitioners filed motions for partial summary judgment contending that Whirlpool Luxembourg’s sales income was not FBCSI under section 954(d)(1) because the final Products it sold were substantially transformed by its Mexican branch from the raw materials it had purchased. Respondent opposed that motion, contending that genuine disputes of material fact exist as to whether Whirlpool Luxembourg actually manufactured the products. The parties *151 filed cross-motions for partial summary judgment on the question whether the sales income was FBCSI under section 954(d)(2), the so-called “branch rule.” Several rounds of briefing ensued.
+ 

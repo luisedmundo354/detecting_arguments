@@ -1,0 +1,57 @@
+TITLE:
+United States Tax Court.
+William CAVALLARO, Donor, Petitioner
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent*
+Patricia A. Cavallaro, Donor, Petitioner
+v.
+Commissioner of Internal Revenue, Respondent
+Docket Nos. 3300-11, 3354-11.
+|
+
+BACKGROUND:
+*2 Many of the relevant facts underlying these cases are set forth in Cavallaro II and Cavallaro III, and we assume familiarity with those opinions. We restate and summarize certain relevant facts below.
+ 
+
+
+[*4] The Cavallaro family, Knight and Camelot, and the merger
+In 1979 the Cavallaros incorporated Knight Tool Co., Inc. (“Knight”), a machine shop and contract manufacturer. Mrs. Cavallaro owned 51% of Knight’s stock, and Mr. Cavallaro owned 49%. The Cavallaros’ three sons (Ken, Paul, and James) worked in the family business at various times. Mr. Cavallaro and his son Ken worked with Knight engineers and employees to develop a liquid-adhesive dispensing machine prototype, which came to be known as the “CAM/A LOT” machine. Ken, Paul, and James incorporated Camelot Systems, Inc. (“Camelot”). Knight manufactured the CAM/A LOT machines, and Camelot sold them.
+ 
+In 1994 the Cavallaros’ accountants at Ernst & Young (“E&Y”) reviewed the situations of the Cavallaros, Knight, and Camelot. E&Y accountant Lawrence Goodman signed a letter dated December 15, 1994,3 recommending the merger of the two companies. He projected that in such a merger “the majority of the shares (possibly as high as 85%) [will] go[ ] to Bill and Patti.” E&Y valued the merged company as being worth between $70 and $75 million. However, attorneys at [*5] Hale & Dorr later advised the Cavallaros to assume (incorrectly) that Camelot, not Knight, owned the significant intangible assets. The accountants did not agree with that view, and one of them wrote Mr. Hamel a letter concerning errors he perceived in the affidavits that were prepared by Hale & Dorr; but Mr. Hamel responded: “History does not formulate itself, the historian has to give it form without being discouraged by having to squeeze a few embarrassing facts into the suitcase by force.” As a result the accountants acquiesced, and E&Y eventually attributed to Mr. and Mrs. Cavallaro considerably less than 85% of the stock in the merged company. See Cavallaro II, at *28-*31.
+ 
+On December 31, 1995, the Cavallaros and their sons merged Knight and Camelot. In that merger Mrs. Cavallaro received 20 shares of the new company, Mr. Cavallaro received 18 shares, and 54 shares each were distributed to Ken, Paul, and James. Thus, Mr. and Mrs. Cavallaro received 19% of the shares, not the “the majority of the shares (possibly as high as 85%)” that E&Y had foreseen. Rather, it was the Cavallaros’ sons who received the majority of the shares of the new company--i.e., 81% in the aggregate--which allegedly represented the pre-merger value of Camelot.
+ 
+
+
+[*6] Examination and notices of deficiency
+The IRS conducted a gift tax examination relating to the Cavallaros, and on November 18, 2010, the IRS issued statutory notices of deficiency to Mr. Cavallaro and Mrs. Cavallaro for the tax year 1995, determining that, by means of the merger, each of the parents had made a taxable gift of $23,085,000 to their sons, resulting in gift tax liabilities. The Cavallaros timely petitioned this Court for redetermination of their gift tax deficiencies.
+ 
+
+
+Valuations in Cavallaro II
+*3 During trial Mr. and Mrs. Cavallaro entered into evidence two reports on the issue of valuation--the E&Y valuation performed by Timothy Maio in 1996 (valuing the combined companies as of October 31, 1995), on which the post-merger share distribution had been based, and the valuation prepared for trial in Cavallaro II by John Murphy of Atlantic Management Co. Mr. Maio had valued the combined company at $70 to $75 million, and Mr. Murphy valued the combined company at $72.8 million. Both assumed (contrary to our factual findings in Cavallaro II) that Camelot had owned the CAM/A LOT technology and that Knight had been a contractor for Camelot.
+ 
+The Commissioner retained Marc Bello of Edelstein & Co. to determine the 1995 fair market values of Knight and Camelot. His report assumed (correctly, [*7] per our findings in Cavallaro II) that Knight had owned the significant intangible assets. Mr. Bello adjusted for the non-arm’s-length nature of the two companies and then valued the combined entities using a discounted cashflow (“DCF”) method. Mr. Bello concluded that the total value of the merged entity was $64.5 million (i.e., less than the value as reckoned by Mr. Maio and Mr. Murphy), that Knight’s value was $41.9 million (i.e., 65% of the total), and that Camelot’s value was $22.6 million (i.e., 35% of the total). On the basis of Mr. Bello’s analysis, the Commissioner argued that the December 31, 1995, merger of Knight and Camelot and the disproportionate distribution of shares resulted in a gift to the Cavallaros’ sons totaling $29.7 million. The Cavallaros cross-examined Mr. Bello, challenged his methodology, and alleged that his valuation was flawed for a number of reasons.
+ 
+
+
+Holding in Cavallaro II
+In Cavallaro II we found that Mr. and Mrs. Cavallaro’s corporation Knight, rather than their sons’ corporation Camelot, owned the technology; that “the 1995 merger transaction was notably lacking in arm’s length character”; that the merger of the two companies with the issuance of 81% of the stock of the new combined entity to the sons reflected a presumption that Camelot had owned the technology; that the 81%-19% allocation of the stock was therefore not in accord with the [*8] actual relative values of the two companies; and that the transaction therefore resulted in disguised gifts to the sons. See Cavallaro II, at *33-*34, *54-*56, *60-*61.
+ 
+In Cavallaro II we held in favor of the Commissioner on the basis of the Cavallaros’ failure to meet their burden of proof. (They put on no evidence as to the relative values of the two corporations under the correct assumption that Knight, not Camelot, owned the intangibles.) Consequently, we did not rule on the merits of the Cavallaros’ arguments concerning the Bello valuation. Id. at *52, *60-*61 (citing Graham v. Commissioner, 82 T.C. 299, 308 (1984), aff’d, 770 F.2d 381 (3d Cir. 1985)). We held that on December 31, 1995, Mr. and Mrs. Cavallaro made gifts to their sons totaling $29.7 million4 (i.e., the gift tax liability that was based on the Bello valuation). Id. at *60-*61.
+ 
+
+
+The First Circuit’s opinion in Cavallaro III
+The Cavallaros appealed Cavallaro II to the U.S. Court of Appeals for the First Circuit, alleging that this Court erred in three respects: (1) not shifting the burden of proof to the Commissioner; (2) concluding Knight owned the [*9] intangibles; and (3) misstating the Cavallaros’ burden of proof and failing to consider flaws in the Bello valuation. See generally Cavallaro III.
+ 
+*4 The Court of Appeals held that we were correct in not shifting the burden of proof to the Commissioner, see Cavallaro III, 842 F.3d at 21-23, and affirmed our findings concerning the property ownership issue, id. at 23-25. The Court of Appeals then considered the Cavallaros’ argument that we had erred in our statement that they had “the burden of proof to show the proper amount of their tax liability”. Id. at 25; Cavallaro II, at *60. The Cavallaros alleged that this “ ‘legal error’ * * * led to another: the court refused to consider their evidence that the Bello valuation was ‘fatally flawed.’ ” Cavallaro III, 842 F.3d at 25. On this issue the Court of Appeals agreed with the Cavallaros and found that we misstated the content of their burden. Id. at 26. The Court of Appeals stated:
+[W]e remand so that the Tax Court can evaluate the Cavallaros’ arguments that the Bello valuation had methodological flaws that made it arbitrary and excessive. If the Tax Court determines that the Commissioner’s assessment was arbitrary, then it must determine the proper amount of tax liability for itself. * * * The court is free to accept in whole or in part, or reject entirely, the expert opinions presented by the parties on the subject. * * *
+* * * * * * *
+The extent of any further briefing, hearings, or evidence is left to the Tax Court’s sound discretion. [Id. at 27; fn. ref. omitted.]
+ 
+
+
+[*10] The Cavallaros’ arguments regarding the Bello valuation
+In accordance with the directive of the Court of Appeals, we ordered further briefing from the parties on whether the Commissioner’s valuation was “arbitrary and excessive” and explained that only after resolving that issue would we order proceedings as to the second issue (the “proper amount of tax liability”). The Cavallaros took this remand as an occasion not only to renew arguments that we had not previously addressed but also to renew arguments that we had previously rejected and to raise new arguments that they had not previously made before this Court.
+ 
