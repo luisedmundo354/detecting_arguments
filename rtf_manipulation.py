@@ -1,37 +1,38 @@
 from pathlib import Path
 from striprtf.striprtf import rtf_to_text
-import os
 
-def process_file(file_path):
+def process_file(file_path: Path) -> str:
     """
-    Function to process a file.
-    Replace this docstring with your actual processing code.
+    Process a single RTF file and return its plain text.
     """
     if not file_path.exists():
-        print("File not found:", rtf_file_path.resolve())
-    else:
-        with file_path.open('r') as file:
-            rtf_content = file.read()
-
-        plain_text = rtf_to_text(rtf_content)
-        # Perform your processing here
-        print(f"Processed {file_path}")
-        return plain_text
+        print("File not found:", file_path.resolve())
+        return ""
     
-if __name__ == "__main__":
+    with file_path.open('r', encoding="utf-8") as file:
+        rtf_content = file.read()
 
-    # Define the directory containing the files
-    directory = Path('revised_cases')
-    output_directory = Path('precedents')
+    plain_text = rtf_to_text(rtf_content)
+    print(f"Processed {file_path.name}")
+    return plain_text
 
-    # Iterate over all .txt files in the directory
-    for file_path in directory.glob('*.rtf'):
+def process_directory(input_directory: str, output_directory: str):
+    """
+    Process all .rtf files in the input_directory by converting them to plain text
+    and saving the results in the output_directory.
+    """
+    in_dir = Path(input_directory)
+    out_dir = Path(output_directory)
+    
+    # Create the output directory if it doesn't exist
+    out_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Iterate over all .rtf files in the input directory
+    for file_path in in_dir.glob('*.rtf'):
         plain_text = process_file(file_path)
         
-        output_file_path = output_directory / f"{file_path.stem}.txt"
-        
-        with open(output_file_path, "w", encoding="utf-8") as file:
-            file.write(plain_text)
-
-            print(f"Document {file_path.stem} has been saved")
-        
+        # Write the processed text to a new .txt file in the output directory
+        output_file_path = out_dir / f"{file_path.stem}.txt"
+        with output_file_path.open("w", encoding="utf-8") as out_file:
+            out_file.write(plain_text)
+            print(f"Document {file_path.stem} has been saved to {output_file_path}")

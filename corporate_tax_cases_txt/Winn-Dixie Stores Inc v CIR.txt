@@ -1,0 +1,104 @@
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+Distinguished by Lincir v. C.I.R., U.S.Tax Ct., September 27, 2000
+110 T.C. 291
+United States Tax Court.
+WINN–DIXIE STORES, INC. and Subsidiaries, Petitioner
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent.
+No. 26236–95, 27027–96, 5382–97.
+|
+April 27, 1998.
+Attorneys and Law Firms
+*292 Michael J. Henke, Tegan M. Flynn, Cary D. Pugh, and Thomas Crichton IV, for petitioner.
+Nancy B. Herbert and Donna P. Leone, for respondent.
+
+
+
+
+OPINION
+RUWE, Judge:
+This matter is before the Court on petitioner’s motion for partial summary judgment filed January 9, 1998, pursuant to Rule 121.1 These consolidated cases involve petitioner’s taxable years 1988 through 1993.2
+ 
+As a preliminary matter, we must decide whether this Court has jurisdiction to determine whether petitioner has made overpayments for 1988 through 1991 based on petitioner’s alleged overpayment of interest. If we have jurisdiction, we must decide whether to grant petitioner’s motion for partial summary judgment.
+ 
+
+
+Background
+Petitioner alleges that by May 1995, the parties had reached a tentative settlement regarding part of the underpayments that respondent had determined for the years 1988 through 1991 and had also reached a tentative agreement that petitioner had made overpayments of tax for 1984 and 1987. Petitioner alleges it notified respondent that its overpayments for 1984 and 1987 should be used to offset the agreed underpayments for 1988 through 1991. The overpayments for 1984 and 1987 exceeded the agreed underpayments. Nevertheless, respondent did not credit the overpayments against the underpayments.
+ 
+By checks dated July 20, 1995, and August 4, 1995, in the respective amounts of $11,203,987 and $1,767,273, respondent *293 refunded the overpayment for 1984. Included in the refund was interest calculated at the overpayment rate specified in section 6621(a)(1). By check dated September 5, 1995, in the amount of $62,798, respondent refunded the overpayment for 1987 with interest calculated in the same manner.
+ 
+On or about July 26, 1995, petitioner executed a Form 870–AD reflecting the partial settlement of its tax liabilities for the years 1988 through 1991. The Form 870–AD showed agreed underpayments of $909,763 for 1988, $911,371 for 1989, $9,513 for 1990, and $613,513 for 1991, or an aggregate of $2,444,160 of agreed underpayments. The Form 870–AD also contained the following statement: “The taxpayer reserves the right to challenge the interest calculations made by the Internal Revenue Service with respect to all years/periods covered by this agreement.” Respondent accepted the Form 870–AD on August 17, 1995, and on or about August 30, 1995, assessed the agreed tax and mailed two Notices of Tax Due relating to the agreed underpayments. Included in the amount of tax due was interest in the amount of $2,003,589.91 calculated at the underpayment rate specified in section 6621(a)(2) and (c).
+ 
+The rate for calculating interest on overpayments is less than the rate for calculating interest on underpayments. See sec. 6621(a)(1) and (2). However, when respondent exercises his authority to offset under section 6402(a), section 6601(f) provides that there shall be no net interest due for the period of mutual indebtedness. Petitioner maintains that it overpaid interest for 1988 through 1991 because respondent improperly failed to offset overpayments from prior years against the agreed underpayments for 1988 through 1991.
+ 
+On September 25, 1995, petitioner paid the agreed underpayments relating to 1988 through 1991, together with interest at the underpayment rate. Petitioner claims that respondent’s failure to offset caused it to overpay interest in the amount of $626,794.
+ 
+
+
+Discussion
+Section 6402(a) authorizes the Secretary to credit an overpayment against any tax liability owed by the same taxpayer. Section 6402(a) provides:
+*294 (a) General Rule.—In the case of any overpayment, the Secretary, within the applicable period of limitations, may credit the amount of such overpayment, including any interest allowed thereon, against any liability in respect of an internal revenue tax on the part of the person who made the overpayment and shall, subject to subsections (c) and (d), refund any balance to such person.
+Petitioner had overpaid tax for its 1984 and 1987 tax years. Petitioner had underpaid tax for 1988 through 1991. Respondent did not offset the overpayments for 1984 and 1987 against the underpayments for 1988 through 1991. Respondent argues that such offsets are discretionary under section 6402(a) and that section 6512(b)(4) operates to deny the Tax Court jurisdiction to make a determination based on the propriety of the Secretary’s exercise of discretion under section 6402.
+ 
+Section 6512(b) generally defines this Court’s jurisdiction to determine overpayments. Section 6512(b)(4), was added to the Code by section 1451(b) of the Taxpayer Relief Act of 1997, Pub.L. 105–34, 111 Star. 788, 1054. Section 6512(b)(4) provides: “The Tax Court shall have no jurisdiction under this subsection to restrain or review any credit or reduction made by the Secretary under section 6402.”
+ 
+Section 6512(b)(4) restricts our jurisdiction in two situations. First, we may not restrain or prevent respondent from reducing a refund by way of credit or reduction pursuant to section 6402. Second, we may not review the validity or merits of any reduction of a refund under section 6402 after such a reduction has been made by respondent.3 Neither of these situations is present in this case. Respondent does not seek to reduce petitioner’s refunds for 1984 or 1987 by the agreed underpayments for 1988 through 1991. Indeed, respondent has already issued the refunds for 1984 and 1987. We are not being asked to restrain or review a reduction of a refund under section 6402. Therefore, section 6512(b)(4) does not operate to deny us jurisdiction to entertain petitioner’s claim that it has made overpayments as a result of respondent’s *295 failure to offset overpayments for 1984 and 1987 against agreed underpayments for 1988 through 1991.
+ 
+Petitioner’s alleged overpayment of interest is a matter that falls within this Court’s overpayment jurisdiction under section 6512(b).
+ 
+Section 6512(b)(1) provides that
+if the Tax Court finds that there is no deficiency and further finds that the taxpayer has made an overpayment of income tax for the same taxable year, * * * or finds that there is a deficiency but that the taxpayer has made an overpayment of such tax, the Tax Court shall have jurisdiction to determine the amount of such overpayment * * *
+Overpayment jurisdiction depends on whether we have jurisdiction to find that “there is no deficiency” or “that there is a deficiency.” Barton v. Commissioner, 97 T.C. 548, 552 (1991). Respondent has issued a notice of deficiency containing a determination that petitioner is liable for deficiencies in income tax for 1988 through 1991. Petitioner filed a timely petition. Therefore, we have jurisdiction and are required to find that there either is or is not a deficiency for each of the years 1988 through 1991. Estate of Baumgardner v. Commissioner, 85 T.C. 445, 448 (1985). It follows that we also have jurisdiction to determine whether petitioner has made overpayments of income tax for the same years. Sec. 6512(b); Barton v. Commissioner, supra at 552.
+ 
+An “overpayment” of tax can include interest. Section 6601(e)(1) provides that interest shall be treated as tax and that any reference in title 26 to the term “tax” shall be deemed also to refer to “interest”. The lone exception to this rule is that interest is not considered a tax for purposes of determining a “deficiency”.4 Sec. 6601(e)(1). As we stated in Barton v. Commissioner, supra at 554–555: “No such restriction exists with respect to our jurisdiction to determine an overpayment.” Accordingly, we hold that we have jurisdiction over petitioner’s claim that there are “overpayments” for its taxable years 1988 through 1991.5
+ 
+*296 The next issue is whether petitioner is entitled to partial summary judgment on its claim that it overpaid interest because respondent abused his discretion under section 6402(a). Rule 121(b) provides that partial summary judgment may be rendered on an issue if it is shown “that there is no genuine issue as to any material fact and that a decision may be rendered as a matter of law.” In deciding whether to grant summary judgment, the factual materials and inferences drawn from them must be considered in the light most favorable to the nonmoving party. Bond v. Commissioner, 100 T.C. 32, 36 (1993); Naftel v. Commissioner, 85 T.C. 527, 529 (1985). Petitioner, as the moving party, has the burden of proving that no genuine issue exists as to any material fact and that it is entitled to judgment as a matter of law. Bond v. Commissioner, supra; Naftel v. Commissioner, supra. When a motion for summary judgment is made and supported, respondent, as the nonmoving party, cannot rest upon mere allegations or denials in his pleadings, but must set forth specific facts showing that there is a genuine issue for trial. Rule 121(d).
+ 
+Petitioner argues that its allegations show that respondent abused his discretion by either failing, or refusing, to offset overpayments from 1984 and 1987 against agreed underpayments for 1988 through 1991. Our review of the factual allegations made by the parties, including their respective supporting affidavits, leads us to conclude that there are genuine issues as to the material facts alleged by petitioner. Accordingly, we deny petitioner’s motion for partial summary judgment.
+ 
+An appropriate order will be issued denying petitioner’s motion for partial summary judgment.
+ 
+All Citations
+110 T.C. No. 23, 110 T.C. 291, Tax Ct. Rep. (CCH) 52,670, Tax Ct. Rep. Dec. (RIA) 110.23
+
+
+
+Footnotes
+|
+1
+|Unless otherwise indicated, all Rule references are to the Tax Court Rules of Practice and Procedure, and all section references are to the Internal Revenue Code in effect for the years in issue.
+|
+2
+|For Federal income tax purposes, petitioner reported on a fiscal year basis for the years ending: June 29, 1988; June 28, 1989; June 27, 1990; June 26, 1991; June 24, 1992; and June 30, 1993.
+|
+3
+|The legislative history of sec. 6512(b)(4) comports with this reading. In reference to the new amendment to sec. 6512(b), committee reports provide that “The bill also clarifies that the Tax Court does not have jurisdiction over the validity or merits of the credits or offsets that reduce or eliminate the refund to which the taxpayer was otherwise entitled.” H. Rept. 105–148, at 637–638 (1997); S. Rept. 105–33, at 302–303 (1997); see H. Conf. Rept. 105–220, at 732 (1997).
+|
+4
+|Historically, the Tax Court generally did not have jurisdiction to redetermine the amount of interest on a deficiency. Sec. 6601(e) excludes interest from the definition of “tax” imposed under sec. 6211(a) and, therefore, interest is not part of a “deficiency.” White v. Commissioner, 95 T.C. 209, 213–214 (1990). However under sec. 7481(c), our jurisdiction may now be invoked to redetermine interest related to a deficiency by filing a motion within 1 year after the date our decision becomes final.
+|
+5
+|The term “overpayment” has been interpreted to mean “any payment in excess of that which is properly due.” Jones v. Liberty Glass Co., 332 U.S. 524, 531 (1947); Bachner v. Commissioner, 109 T.C. 125, 128 (1997). In order to determine the existence of an overpayment, there must first be a determination of the amount of tax properly due. See Girard Trust Bank v. United States, 226 Ct. Cl. 366, 369, 643 F.2d 725, 727 (1981).
+|
+
+
+
+
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

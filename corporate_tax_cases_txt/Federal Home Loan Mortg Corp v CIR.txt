@@ -1,0 +1,2823 @@
+
+
+
+
+T.C. Memo. 2006-153
+United States Tax Court.
+FEDERAL HOME LOAN MORTGAGE CORPORATION, Petitioner
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent.
+Nos. 3941–99, 15626–99.
+|
+July 25, 2006.
+Synopsis
+Background: Federal Home Loan Mortgage Corporation (FHLMC) petitioned for redetermination of deficiencies arising from its amortization of below-market loans. The Tax Court, 2003 WL 22229259, Ruwe, J., granted partial summary judgment for taxpayer, ruling that benefit attributable to taxpayer’s below-market financing constituted an amortizable intangible asset, if taxpayer established fair market value and limited useful life.
+ 
+Holdings: On issues of whether taxpayer’s favorable financing had reasonably estimable fair market values, and ascertainable limited useful lives, the Tax Court held that:
+ 
+[1] taxpayer’s market-based method of valuing its favorable financing intangible assets provided reasonable estimate of fair market value;
+ 
+[2] value of collateralized mortgage obligations (CMOs) and guaranteed mortgage certificates (GMCs) was not limited to taxpayer’s spread income associated with those instruments;
+ 
+[3] no separate adjustment for taxes was required; and
+ 
+[4] intangible assets were shown to have reasonably estimable useful lives.
+ 
+Decision for taxpayer.
+ 
+
+
+West Headnotes (11)
+
+
+[1]
+|Internal RevenueSubject-matter in general
+|
+|Benefit of Federal Home Loan Mortgage Corporation’s (FHLMC) below-market financing could, as a matter of law, constitute an intangible asset which could be amortized, if taxpayer established a fair market value and a limited useful life for that asset as of the day when taxpayer became subject to federal income tax. Pub. L. 98-369; 26 U.S.C.A. § 167(g); 26 C.F.R. § 1.167(a)-3.
+
+|
+
+
+[2]
+|Internal RevenueValuation of property
+|
+|Fair market value of property is question of fact.
+
+|
+
+
+[3]
+|Internal RevenueDepreciation, Depletion, Obsolescence, and Exhaustion
+|
+|Taxpayer is not required to use most theoretically correct method to establish amount of depreciation to which he is entitled; rather, his method must be reasonable. 26 U.S.C.A. § 167(a).
+
+|
+
+
+[4]
+|Internal RevenueSubject-matter in general
+|
+|Federal Home Loan Mortgage Corporation’s (FHLMC) method of valuing its favorable financing intangible assets, in which taxpayer calculated present value of difference between interest payments on its existing below-market debt obligations and interest payments made at prevailing market rate, provided reasonable estimate of fair market value, as required to permit depreciation deduction for those assets. 26 U.S.C.A. § 167(a); 26 C.F.R. § 1.167(a)-3.
+
+|
+
+
+[5]
+|Internal RevenueSubject-matter in general
+|
+|Fact that Federal Home Loan Mortgage Corporation (FHLMC) could not transfer its favorable financing intangible assets by themselves did not preclude assigning separate value to those assets, for purpose of taxpayer’s amortization deduction. 26 U.S.C.A. § 167(a); 26 C.F.R. § 1.167(a)-3.
+
+|
+
+
+[6]
+|Internal RevenueSubject-matter in general
+|
+|In valuing Federal Home Loan Mortgage Corporation’s (FHLMC) favorable financing intangible assets, for purpose of depreciation deduction for those assets, fair market value of taxpayer’s collateralized mortgage obligations (CMOs) and guaranteed mortgage certificates (GMCs) was not limited to taxpayer’s spread income associated with those instruments; income spread was measure of taxpayer’s equity value, and that equity was different from value of taxpayer’s assets, including favorable financing intangible assets. 26 U.S.C.A. § 167(a); 26 C.F.R. § 1.167(a)-3.
+
+|
+
+
+[7]
+|Internal RevenueSubject-matter in general
+|
+|Federal Home Loan Mortgage Corporation’s (FHLMC) market-based method of valuing its favorable financing intangible assets, for purpose of taxpayer’s amortization deduction, incorporated effect of taxes, so that no further adjustment was necessary to account for such effect. 26 U.S.C.A. § 167(a); 26 C.F.R. § 1.167(a)-3.
+
+|
+
+
+[8]
+|Internal RevenueSubject-matter in general
+|
+|Federal Home Loan Mortgage Corporation’s (FHLMC) favorable financing intangible assets, i.e. below-market loans, were shown to have reasonably estimable useful lives, as required to permit depreciation deduction for those assets; useful lives were equal to average weighted lives of debt obligations from which those assets arose. 26 U.S.C.A. § 167(a); 26 C.F.R. § 1.167(a)-3.
+
+|
+
+
+[9]
+|Internal RevenueEvidence
+|
+|Taxpayer seeking to take depreciation deduction for intangible asset is not required to prove precise useful life of asset; reasonable approximation of useful life is sufficient. 26 U.S.C.A. § 1.167(a)- 3.
+
+|
+
+
+[10]
+|Internal RevenueSubject-matter in general
+|
+|Taxpayer seeking to take depreciation deduction for intangible asset must base estimation of asset’s useful life upon facts that existed at valuation date. 26 U.S.C.A. § 1.167(a)- 3.
+
+|
+
+
+[11]
+|Internal RevenueEvidence
+|
+|Taxpayer seeking to take depreciation deduction for intangible asset may use evidence of his subsequent experiences to corroborate projection of asset’s useful life. 26 U.S.C.A. § 1.167(a)- 3.
+
+|
+
+
+
+*1 At the close of business on Dec. 31, 1984, P had 30 debt instruments outstanding on which it paid effective contract interest rates that were below current interest rates that P would have incurred had it issued comparable debt instruments. P’s right to use the proceeds of these financing arrangements with below-market interest rates constitutes an economic benefit generally referred to as “favorable financing”. In a prior Opinion, we held that special legislative provisions entitled P to use the fair market values of its intangible assets on Jan. 1, 1985, as its bases for purposes of amortization. Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. 125, (2003). In another prior Opinion, we held that the benefit of below-market financing can, as a matter of law, constitute an intangible asset which P may amortize if it establishes a fair market value and a limited useful life. Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. 254, 2003 WL 22229259 (2003).
+ 
+P calculated the fair market value of its favorable financing intangible assets to be $428,391,551 using the market approach; the market approach compared the adjusted issue prices of P’s debt instruments to their market prices on Jan. 1, 1985. P calculated the limited useful lives of its 30 debt instruments to be their average weighted lives. R argues that P’s favorable financing had no value and was not an asset. R also argues that P did not properly adjust for the volatility of the market in determining the useful lives.
+ 
+Held: P may amortize its favorable financing intangible assets because it reasonably estimated the fair market value of its favorable financing to be $428,391,551 and reasonably estimated the remaining limited useful lives.
+ 
+Attorneys and Law Firms
+Robert A. Rudnick, B. John Williams, Jr., James F. Warren, Alan J .J. Swirski, and Richard J. Gagnon, Jr., for petitioner.
+Gary D. Kallevang, John A. Guarnieri, Ruth M. Spadaro, and Charles E. Buxbaum, for respondent.
+Opinion
+
+RUWE, Judge.
+
+
+
+
+
+CONTENTS
+ 
+|
+MEMORANDUM FINDINGS OF FACT AND OPINION	
+ 
+||||3
+ 
+|
+FINDINGS OF FACT	
+ 
+||||5
+ 
+|
+I. Favorable Financing Intangible Assets	
+ 
+||||6
+ 
+|
+|A. Ginnie Mae Bonds	
+ 
+|||7
+ 
+|
+|B. Notes Issued to Federal Home Loan Banks	
+ 
+|||7
+ 
+|
+|C. Debenture	
+ 
+|||7
+ 
+|
+|D. Note Payable to North Dakota Bank	
+ 
+|||8
+ 
+|
+|E. Capital Debentures	
+ 
+|||8
+ 
+|
+|F. Zero Coupon Bonds	
+ 
+|||8
+ 
+|
+|G. Collateralized Mortgage Obligations (CMOs)	
+ 
+|||8
+ 
+|
+|H. Guaranteed Mortgage Certificates (GMCs)	
+ 
+|||10
+ 
+|
+II. Average Weighted Lives of the Debt Instruments	
+ 
+||||15
+ 
+|
+III. Tax Returns	
+ 
+||||17
+ 
+|
+OPINION	
+ 
+||||17
+ 
+|
+I. The Values of Petitioner’s Favorable Financing Intangible Assets	
+ 
+||||21
+ 
+|
+|A. Petitioner’s Valuation of Its Favorable Financing Intangible Assets as of January 1, 1985	
+ 
+|||21
+ 
+|
+|B. Respondent’s Position That Favorable Financing Has No Value	
+ 
+|||27
+ 
+|
+||1. Expectation of Income	
+ 
+||28
+ 
+|
+||2. Realization of Value	
+ 
+||30
+ 
+|
+||3. Contra–Liability Theory	
+ 
+||31
+ 
+|
+|||a. Favorable Financing Is an Asset	
+ 
+|32
+ 
+|
+|||b. Favorable Financing Can Be Assigned a Separate Value	
+ 
+|33
+ 
+|
+|||c. Double Counting the Value	
+ 
+|35
+ 
+|
+||4. Petitioner’s Purchase of Its Debt Obligations Would Result in Discharge of Indebtedness Income	
+ 
+||37
+ 
+|
+|C. Respondent’s Argument That the Value of Petitioner’s Favorable Financing Is Limited to the Value of Petitioner’s Income Spread	
+ 
+|||38
+ 
+|
+|D. Respondent’s Argument That Taxes Reduce the Value of Favorable Financing	
+ 
+|||43
+ 
+|
+II. Favorable Financing Intangible Assets Have a Reasonably Estimable Useful Life As of January 1, 1985	
+ 
+||||47
+ 
+|
+III. Conclusion	
+ 
+||||53
+ 
+|
+APPENDIX: Investment Bank Bid Prices	
+ 
+||||54
+ 
+|
+
+
+
+
+
+
+MEMORANDUM FINDINGS OF FACT AND OPINION
+*2 In docket No. 3941–99, respondent determined deficiencies in petitioner’s Federal income tax of $36,623,695 for 1985 and $40,111,127 for 1986. Petitioner claims overpayments of $9,604,085 for 1985 and $12,418,469 for 1986.
+ 
+In docket No. 15626–99, respondent determined deficiencies in petitioner’s Federal income tax of $26,200,358 for 1987, $13,827,654 for 1988, $6,225,404 for 1989, and $23,466,338 for 1990. Petitioner claims overpayments of $57,775,538 for 1987, $28,434,990 for 1988, $32,577,346 for 1989, and $19,504,333 for 1990.
+ 
+When petitioner was chartered, it was exempt from Federal, State, and local taxation, except for real estate tax imposed by any State or local taxing authority. Pursuant to the Deficit Reduction Act of 1984 (DEFRA), Pub.L. 98–369, sec. 177, 98 Stat. 709, petitioner became subject to Federal income tax effective January 1, 1985. In a prior opinion, Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. 129, 147, 2003 WL 22053841 (2003), we held “that petitioner’s adjusted basis for purposes of amortizing intangible assets under section 167(g)1 is the higher of regular adjusted cost basis or fair market value as of January 1, 1985.” (Fn.ref.omitted.) In another prior opinion, Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. 254, 272, 2003 WL 22229259 (2003), we held that “The benefit of petitioner’s below-market financing can, as a matter of law, constitute an intangible asset which could be amortized if petitioner establishes a fair market value and a limited useful life as of January 1, 1985.” The benefit of below-market financing is generally referred to as “favorable financing”. In this opinion, we decide whether petitioner has established that its favorable financing intangible assets have fair market values that may be reasonably estimated and have ascertainable limited useful lives as of January 1, 1985.2
+ 
+
+
+FINDINGS OF FACT
+Some of the facts have been stipulated and are so found. The stipulations of facts and the attached exhibits are incorporated herein by this reference. At the time the petitions were filed, petitioner’s principal office was in McLean, Virginia.
+ 
+Congress created petitioner in 1970 to promote access to mortgage credit throughout the United States by increasing the liquidity of mortgage investments and improving the distribution of investment capital for mortgage financing. Since its incorporation, petitioner has facilitated investment by the capital markets in single-family and multifamily residential mortgages in two ways. First, petitioner has acquired mortgages from originators and resold them in securitization transactions, principally by pooling the mortgages and issuing participation certificates (PCs). Second, petitioner bought mortgages from originators and held them until maturity in its retained mortgage portfolio, generally financing this activity by issuing various debt instruments. Petitioner financed approximately 10 percent of its mortgage purchases through the issuance of long-term debt.3
+ 
+
+
+I. Favorable Financing Intangible Assets
+*3 At the close of business on December 31, 1984, petitioner had outstanding long-term indebtedness on a number of debt instruments. The effective contract interest rates4 on some of these outstanding long-term debt obligations were below the interest rates that petitioner would have incurred on January 1, 1985, had it issued comparable debt instruments in the market for the remaining term of the particular debt instrument. Petitioner’s favorable financing intangible assets consisted of the benefits it derived from financing arrangements that required it to pay interest at rates below those prevailing in the financial markets as of January 1, 1985.
+ 
+As of January 1, 1985, petitioner had the following 30 outstanding long-term debt instruments, which had below-market interest rates and market prices that were lower than the adjusted issue prices.
+ 
+
+
+A. Ginnie Mae Bonds
+Ginnie Mae Bonds G–15, G–16, and G–17 were mortgage-backed bonds, which consisted of promissory notes secured by mortgage loans owned by petitioner. The underlying mortgages were held in trust by petitioner as trustee as security for payment of the bonds. These mortgage-backed bonds were guaranteed as to principal and interest by the Government National Mortgage Association, a wholly owned corporation within the Department of Housing and Urban Development.
+ 
+
+
+B. Notes Issued to Federal Home Loan Banks
+Notes F–8, F–12, F–15, F–18, F–11, and F–13 were promissory notes payable to Federal Home Loan Banks (FHLB). These notes were passthroughs of the FHLBs’ own obligations. Under the Federal Home Loan Mortgage Corporation Act, Pub.L. 91–351, sec. 303(a), 84 Stat. 452 (1970), petitioner was deemed to be a member of each FHLB and was entitled to borrow from those institutions subject to certain security requirements.
+ 
+
+
+C. Debenture
+Debenture D–2 was issued under section 306(a) of the Federal Home Loan Mortgage Corporation Act. This debenture was an unsecured general obligation of petitioner.
+ 
+
+
+D. Note Payable to North Dakota Bank
+The note bearing code ND was a fixed-rate loan that petitioner issued in a private transaction to the Bank of North Dakota.
+ 
+
+
+E. Capital Debentures
+CD–1, CD–2, and CD–3 were capital debentures. These capital debentures were subordinated and junior in right of payment to all obligations and liabilities of petitioner.
+ 
+
+
+F. Zero Coupon Bonds
+Petitioner issued zero coupon bonds Z–2 and Z–3, which were subordinated capital debentures junior in right of payment to all senior obligations of petitioner. Zero coupon bonds have no stated interest rate but are issued at a substantial discount to face value. At maturity, the holder is entitled to receive the face of amount of the bond.
+ 
+
+
+G. Collateralized Mortgage Obligations (CMOs)
+CMO A–2, CMO A–3, and CMO C–4 were debt instruments secured by mortgages which were outstanding on December 31, 1984. These CMOs were subject to put and call options; the call dates, put dates, and final maturity dates were as follows:
+ 
+
+
+
+
+Debt Instrument
+ 
+|Call Date 1
+ 
+|Put Date 2
+ 
+|Final Maturity Date
+ 
+|
+CMO A–2
+ 
+|N/A
+ 
+|N/A
+ 
+|12/15/95
+ 
+|
+CMO A–3
+ 
+|6/15/03
+ 
+|6/15/08
+ 
+|6/15/13
+ 
+|
+CMO C–4
+ 
+|1/31/04
+ 
+|1/31/04
+ 
+|1/31/09
+ 
+|
+
+
+
+
+*4 Each series of CMOs was collateralized by pools of mortgages owned by petitioner and held by it as trustee.5 Petitioner made principal payments to holders in the greater amount of (1) the minimum scheduled payments, or (2) monthly and other payments of principal petitioner received on the mortgages serving as collateral. Petitioner structured the CMOs to permit holders of certain classes to receive payment in full before other classes.
+ 
+The terms of each CMO required petitioner to apply all payments of principal and interest on the subject mortgages into a sinking fund for the benefit of the holders. Petitioner was required to make payments to the sinking fund semiannually. The balance of the sinking fund was then used to make semiannual principal payments on the senior class of bonds until they were fully retired. Thereafter, additional amounts of principal were paid semiannually to the holders of the class of bonds next in seniority until those bonds were fully paid, and then on the same basis to holders of the most junior classes. The holders received semiannual interest payments at the stated rate.6 The holders of CMOs received payments of principal at a rate at least corresponding to the schedule of minimum payments set forth in the offering circular or prospectus. The holders received payments at a faster rate if the principal amount of the mortgages that served as collateral paid down faster than implied by the schedule of minimum payments. Petitioner never had to satisfy any minimum sinking fund obligation (i.e., cover a deficit between funds received from mortgages and minimum payments of principal to CMO holders).
+ 
+
+
+H. Guaranteed Mortgage Certificates (GMCs)
+GMC A 1975, GMC B 1975, GMC A 1976, GMC B 1976, GMC A 1977, GMC B 1977, GMC C 1977, GMC A 1978, GMC B 1978, GMC C 1978, GMC A 1979, GMC B 1979, and GMC C 1979 were certificates guaranteed by petitioner and denominated as representing an interest in a pool of single-family mortgages held by petitioner as trustee.7
+ 
+The terms of each GMC series obligated petitioner to pay interest at a rate stated on the face of its prospectus and to repay the face amount of the certificate to the holder. Principal payments were made annually. GMC holders received principal repayments in amounts equal to the greater of (1) minimum scheduled payments, or (2) monthly and other payments of principal petitioner received on the mortgages serving as collateral. Petitioner was unconditionally required to make annual principal payments to the GMC holders in an amount at least equal to the minimum levels specified, regardless of the amounts of principal received from the underlying mortgages. If mortgages that served as collateral paid down the principal amount faster than implied by the schedules of minimum payments, GMC holders received payments of principal at a faster rate than required by the schedule of minimum payments. GMCs holders had the option to require petitioner to purchase their certificates at the then-unpaid principal balance plus accrued interest at a future date specified by the prospectus.
+ 
+*5 With respect to the 13 GMCs in issue, the put dates and the final maturity dates were as follows:
+ 
+
+
+
+
+Debt Instrument
+ 
+|Put Date
+ 
+|Final Maturity Date
+ 
+|
+GMC A 1975
+ 
+|3/15/90
+ 
+|3/15/05
+ 
+|
+GMC B 1975
+ 
+|9/15/90
+ 
+|9/15/05
+ 
+|
+GMC A 1976
+ 
+|3/15/91
+ 
+|3/15/06
+ 
+|
+GMC B 1976
+ 
+|3/15/96
+ 
+|9/15/06
+ 
+|
+GMC A 1977
+ 
+|3/15/97
+ 
+|3/15/07
+ 
+|
+GMC B 1977
+ 
+|3/15/02
+ 
+|3/15/07
+ 
+|
+GMC C 1977
+ 
+|9/15/02
+ 
+|9/15/07
+ 
+|
+GMC A 1978
+ 
+|3/15/03
+ 
+|3/15/08
+ 
+|
+GMC B 1978
+ 
+|9/15/03
+ 
+|9/15/08
+ 
+|
+GMC C 1978
+ 
+|9/15/03
+ 
+|9/15/08
+ 
+|
+GMC A 1979
+ 
+|3/15/04
+ 
+|3/15/09
+ 
+|
+GMC B 1979
+ 
+|3/15/04
+ 
+|3/15/09
+ 
+|
+GMC C 1979
+ 
+|9/15/04
+ 
+|3/15/09
+ 
+|
+
+
+
+
+With the possible exception of GMC B 1975, petitioner made minimum payments pursuant to the schedule for all GMCs on all payment dates after March 1980 through September 1993.8 For GMC B 1975, petitioner made minimum payments on all payment dates after December 31, 1984.
+ 
+Petitioner initially funded the acquisition of the mortgages held as collateral for each of the CMOs and GMCs at issue by means other than the issuance of those particular CMOs and GMCs. When issuing its GMCs, petitioner disclosed that the proceeds would provide funds for petitioner to engage in additional activities consistent with its statutory purposes, including the purchase of additional mortgages and interests in mortgages and that some portion of the proceeds could be used to repay part of petitioner’s borrowings. When issuing its CMOs, petitioner disclosed that the proceeds would be used to provide funds for the corporation to finance its purchase of the mortgages securing the CMOs.
+ 
+With respect to the CMOs and GMCs, petitioner received monthly payments of interest and principal on the mortgages that served as collateral. Petitioner made semiannual or annual payments of principal and interest to the CMO and GMC holders. Petitioner paid interest through the date of payment to the holders on the outstanding principal balance of the CMOs or GMCs, notwithstanding any receipt of principal amounts on the mortgages serving as collateral since the previous date of payment.
+ 
+Petitioner received spread and float income with respect to the CMOs and GMCs. Spread income is the amount by which the effective interest income rate on the mortgages serving as collateral exceeds the interest payments to the holders of the CMOs and GMCs. The float income is the interest on the monthly principal and interest payments that could be earned between receipt of the payments by petitioner and remittance to the CMO and GMC holders.
+ 
+The debt instruments in issue had issue dates, maturity dates, outstanding principal on December 31, 1984, effective contract rates, and market prices per $100 on January 1, 1985, as follows:
+ 
+
+
+
+
+Debt Instrument
+ 
+|Issue Date
+ 
+|Maturity Date
+ 
+|Principal Outstanding On 12/31/1984
+ 
+|Effective Contract Interest Rate 1
+ 
+|Market Price Per $100 on 1/1/1985 2
+ 
+|
+G–15
+ 
+|11/19/1970
+ 
+|11/27/1995
+ 
+|$70,000,000
+ 
+|8.681
+ 
+|87.335069
+ 
+|
+G–16
+ 
+|8/2/1971
+ 
+|8/26/1996
+ 
+|82,500,000
+ 
+|7.813
+ 
+|81.835069
+ 
+|
+G–17
+ 
+|5/25/1972
+ 
+|5/26/1997
+ 
+|150,000,000
+ 
+|7.250
+ 
+|70.381944
+ 
+|
+F–12
+ 
+|2/25/1977
+ 
+|2/25/1985
+ 
+|200,000,000
+ 
+|7.407
+ 
+|99.906250
+ 
+|
+F–15
+ 
+|2/27/1978
+ 
+|5/28/1985
+ 
+|200,000,000
+ 
+|8.158
+ 
+|99.890625
+ 
+|
+F–8
+ 
+|11/25/1976
+ 
+|11/25/1985
+ 
+|40,000,000
+ 
+|8.442
+ 
+|99.187500
+ 
+|
+F–18
+ 
+|5/25/1979
+ 
+|2/25/1986
+ 
+|200,000,000
+ 
+|9.581
+ 
+|99.937500
+ 
+|
+F–11
+ 
+|10/25/1973
+ 
+|11/26/1993
+ 
+|400,000,000
+ 
+|7.412
+ 
+|77.000000
+ 
+|
+F–13
+ 
+|2/25/1977
+ 
+|2/25/1997
+ 
+|300,000,000
+ 
+|7.910
+ 
+|75.687500
+ 
+|
+D–2
+ 
+|3/30/1983
+ 
+|3/30/1990
+ 
+|300,000,000
+ 
+|10.937
+ 
+|98.062500
+ 
+|
+ND
+ 
+|7/1/1975
+ 
+|11/1/1986
+ 
+|11,363,000
+ 
+|7.750
+ 
+|95.968750
+ 
+|
+CMO–A2
+ 
+|6/15/1983
+ 
+|12/15/1995
+ 
+|350,000,000
+ 
+|11.162
+ 
+|97.664063
+ 
+|
+CMO–A3
+ 
+|6/15/1983
+ 
+|6/15/2013
+ 
+|435,000,000
+ 
+|11.803
+ 
+|96.390625
+ 
+|
+CMO–C4
+ 
+|1/31/1984
+ 
+|1/31/2009
+ 
+|85,052,100
+ 
+|12.403
+ 
+|94.890625
+ 
+|
+Z–2
+ 
+|11/29/1984
+ 
+|11/29/2019
+ 
+|3 212,584,000
+ 
+|10.252
+ 
+|2.703125
+ 
+|
+Z–3
+ 
+|11/30/1984
+ 
+|11/30/1994
+ 
+|4 79,678,000
+ 
+|11.820
+ 
+|31.458333
+ 
+|
+CD–1
+ 
+|12/26/1978
+ 
+|12/27/1988
+ 
+|150,000,000
+ 
+|9.412
+ 
+|94.671875
+ 
+|
+GMC A–75
+ 
+|2/25/1975
+ 
+|3/15/2005
+ 
+|98,100,000
+ 
+|8.200
+ 
+|92.437500
+ 
+|
+GMC B–75
+ 
+|2/25/1975
+ 
+|9/15/2005
+ 
+|63,400,000
+ 
+|8.750
+ 
+|93.125000
+ 
+|
+GMC A–76
+ 
+|2/25/1976
+ 
+|3/15/2006
+ 
+|70,600,000
+ 
+|8.550
+ 
+|92.593750
+ 
+|
+GMC B–76
+ 
+|8/25/1976
+ 
+|9/15/2006
+ 
+|75,600,000
+ 
+|8.375
+ 
+|88.000000
+ 
+|
+GMC A–77
+ 
+|1/25/1977
+ 
+|3/15/2007
+ 
+|77,600,000
+ 
+|8.050
+ 
+|88.937500
+ 
+|
+GMC B–77
+ 
+|5/25/1977
+ 
+|3/15/2007
+ 
+|94,000,000
+ 
+|8.125
+ 
+|85.875000
+ 
+|
+GMC C–77
+ 
+|11/25/1977
+ 
+|9/15/2007
+ 
+|108,200,000
+ 
+|8.200
+ 
+|83.468750
+ 
+|
+GMC A–78
+ 
+|6/1/1978
+ 
+|3/15/2008
+ 
+|186,000,000
+ 
+|8.850
+ 
+|86.250000
+ 
+|
+GMC B–78
+ 
+|9/1/1978
+ 
+|9/15/2008
+ 
+|98,800,000
+ 
+|9.000
+ 
+|87.218000
+ 
+|
+GMC C–78
+ 
+|12/4/1978
+ 
+|9/15/2008
+ 
+|98,800,000
+ 
+|9.400
+ 
+|89.656250
+ 
+|
+GMC A–79
+ 
+|2/1/1979
+ 
+|3/15/2009
+ 
+|114,000,000
+ 
+|9.875
+ 
+|92.125000
+ 
+|
+GMC B–79
+ 
+|6/4/1979
+ 
+|3/15/2009
+ 
+|114,000,000
+ 
+|10.250
+ 
+|93.875000
+ 
+|
+GMC C–79
+ 
+|8/2/1979
+ 
+|9/15/2009
+ 
+|114,000,000
+ 
+|10.000
+ 
+|91.937500
+ 
+|
+
+
+
+
+
+
+II. Average Weighted Lives of the Debt Instruments
+*6 The average weighted life represents the time it takes for the average dollar of principal borrowed to be repaid to the lender. When principal repayment can vary, or when there is a chance an option will be exercised to retire the security early, the average weighted life is calculated using certain assumptions regarding principal payment rate and exercise timing. The expected remaining average weighted life of each debt instrument as of January 1, 1985, depends on: (1) The remaining term to maturity; (2) whether the debt was subject to any call or put options; and (3) whether any principal repayments would be made pursuant to either a mandatory schedule or terms that provided for repayment of principal on the debt based on the rate of principal repayments received on the mortgages serving as collateral. On January 1, 1985, the average weighted lives of petitioner’s 30 debt instruments in issue were as follows:
+ 
+
+
+
+
+Debt
+ 
+|Average weighted life
+ 
+|
+G–15
+ 
+|5 years, 5 months
+ 
+|
+G–16
+ 
+|6 years, 8 months
+ 
+|
+G–17
+ 
+|12 years, 5 months
+ 
+|
+F–8
+ 
+|11 months
+ 
+|
+F–11
+ 
+|8 years, 11 months
+ 
+|
+F–12
+ 
+|2 months
+ 
+|
+F–13
+ 
+|12 years, 2 months
+ 
+|
+F–15
+ 
+|5 months
+ 
+|
+F–18
+ 
+|1 year, 2 months
+ 
+|
+D–2
+ 
+|5 years, 3 months
+ 
+|
+Z–2
+ 
+|34 years, 11 months
+ 
+|
+Z–3
+ 
+|9 years, 11 months
+ 
+|
+ND
+ 
+|1 year, 8 months
+ 
+|
+CD–1
+ 
+|4 years, 0 months
+ 
+|
+GMC A 1975
+ 
+|3 years, 4 months
+ 
+|
+GMC B 1975
+ 
+|3 years, 9 months
+ 
+|
+GMC A 1976
+ 
+|3 years, 10 months
+ 
+|
+GMC B 1976
+ 
+|5 years, 6 months
+ 
+|
+GMC A 1977
+ 
+|4 years, 9 months
+ 
+|
+GMC B 1977
+ 
+|6 years, 3 months
+ 
+|
+GMC C 1977
+ 
+|8 years, 2 months
+ 
+|
+GMC A 1978
+ 
+|8 years, 5 months
+ 
+|
+GMC B 1978
+ 
+|7 years, 4 months
+ 
+|
+GMC C 1978
+ 
+|7 years, 4 months
+ 
+|
+GMC A 1979
+ 
+|6 years, 10 months
+ 
+|
+GMC B 1979
+ 
+|6 years, 10 months
+ 
+|
+GMC C 1979
+ 
+|7 years, 4 months
+ 
+|
+CMO A–2
+ 
+|5 years, 11 months
+ 
+|
+CMO A–3
+ 
+|17 years, 7 months
+ 
+|
+CMO C–4
+ 
+|14 years, 6 months
+ 
+|
+
+
+
+
+
+
+III. Tax Returns
+Petitioner claimed a tax basis for its favorable financing equal to its claimed fair market value at close of business on December 31, 1984. On its 1985 Federal income tax return, petitioner claimed that as of December 31, 1984, its favorable financing intangible assets had an aggregate amortizable value of $456,021,853.9 Petitioner now claims that its favorable financing intangible assets had an aggregate amortizable value of $428,391,551 on January 1, 1985.10
+ 
+
+
+OPINION
+As part of the legislation that subjected petitioner to Federal income taxation, Congress enacted a dual-basis rule for petitioner. DEFRA sec. 177(d)(2), 98 Stat. 711. Specifically, DEFRA section 177(d)(2)(A) provides:
+(2) Adjusted basis of assets.—
+(A) In general.—Except as otherwise provided in subparagraph (B), the adjusted basis of any asset of the Federal Home Loan Mortgage Corporation held on January 1, 1985, shall—
+(i) for purposes of determining any loss, be equal to the lesser of the adjusted basis of such asset or the fair market value of such asset as of such date, and
+(ii) for purposes of determining any gain, be equal to the higher of the adjusted basis of such asset or the fair market value of such asset as of such date.
+*7 The “special basis rules [were] designed to ensure that, to the extent possible, pre–1985 appreciation or decline in the value of * * * [petitioner’s] assets will not be taken into account for tax purposes.” H. Conf. Rept. 98–861, at 1038 (1984), 1984–3 C.B. (Vol .2) 1, 292.
+ 
+[1] Section 167(a) allows taxpayers to depreciate property used in a trade or business, or held for the production of income, for exhaustion, wear and tear, and obsolescence. Section 167(g) provides that “The basis on which exhaustion, wear and tear, and obsolescence are to be allowed in respect to any property shall be the adjusted basis provided in section 1011 for the purpose of determining the gain on the sale or other disposition of such property.” The depreciation of intangible assets is specifically addressed in section 1.167(a)–3, Income Tax Regs., which provides:
+If an intangible asset is known from experience or other factors to be of use in the business or in the production of income for only a limited period, the length of which can be estimated with reasonable accuracy, such an intangible asset may be the subject of a depreciation allowance. * * * An intangible asset, the useful life of which is not limited, is not subject to the allowance for depreciation. No allowance will be permitted merely because, in the unsupported opinion of the taxpayer, the intangible asset has a limited useful life. No deduction for depreciation is allowable with respect to good will. * * *
+Petitioner’s favorable financing intangible assets arise from debt obligations in existence on January 1, 1985, that required petitioner to pay interest to the holders at rates below-market rates on that date. In Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. at 147, we held that “petitioner’s adjusted basis for purposes of amortizing intangible assets under section 167(g) is the higher of regular adjusted cost basis or fair market value as of January 1, 1985.” In Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. at 272, we held that “The right to use the proceeds of financing arrangements with below-market interest rates constitutes an economic benefit” and that “The benefit of petitioner’s below-market financing can, as a matter of law, constitute an intangible asset which can be amortized if petitioner establishes a fair market value and a limited useful life as of January 1, 1985.” In this opinion, we decide the fair market values and useful lives of petitioner’s favorable financing assets.
+ 
+Both parties rely heavily on expert opinions and testimony to support their respective positions concerning the values and useful lives of the favorable financing intangible assets. “[W]e * * * consider expert opinion testimony to the extent that it assists us in resolving the issues presented”. IT & S of Iowa, Inc. v. Commissioner, 97 T.C. 496, 508, 1991 WL 231132 (1991). We may exercise our broad discretion to accept or reject an expert’s opinion in its entirety. Neonatology Associates, P.A. v. Commissioner, 115 T.C. 43, 86, 2000 WL 1048512 (2000), affd. 299 F.3d 221 (3d Cir.2002). Alternatively, we may selectively rely on those portions of an expert’s opinion that we find most helpful to our decision. IT & S of Iowa, Inc. v. Commissioner, supra at 508; Parker v. Commissioner, 86 T.C. 547, 561, 1986 WL 22106 (1986). “[ A] n objective reason for * * * [rejecting an expert’s testimony] is that another expert’s opinion is more persuasive.” Parker v. Commissioner, supra at 562. “We are not bound * * * by the opinion of any expert witness where such opinion is contrary to our judgment.” IT & S of Iowa, Inc. v. Commissioner, supra at 508.
+ 
+
+
+I. The Values of Petitioner’s Favorable Financing Intangible Assets
+
+A. Petitioner’s Valuation of Its Favorable Financing Intangible Assets as of January 1, 1985
+*8 [2] [3] The fair market value of property is a question of fact. Bank One Corp. v. Commissioner, 120 T.C. 174, 306, 2003 WL 2012540 (2003); Estate of Jung v. Commissioner, 101 T.C. 412, 423–424, 1993 WL 460544 (1993); Estate of Newhouse v. Commissioner, 94 T.C. 193, 217, 1990 WL 17251 (1990). Fair market value is defined as “ ‘the price at which the property would change hands between a willing buyer and willing seller, neither being under any compulsion to buy or sell and both having reasonable knowledge of the relevant facts.’ “ United States v. Cartwright, 411 U.S. 546, 551, 93 S.Ct. 1713, 36 L.Ed.2d 528 (1973) (quoting section 20.2031–1(b), Estate Tax Regs.); Bank One Corp. v. Commissioner, supra at 209; Estate of Newhouse v. Commissioner, supra at 217; see also sec. 20.2031–1(b), Estate Tax Regs.; sec. 25.2512–1, Gift Tax Regs. This is an objective standard that uses a hypothetical willing buyer and seller. Estate of Kahn v. Commissioner, 125 T.C. 227, 231, 2005 WL 3081656 (2005). This Court considers all relevant evidence in the record when deciding the value of property. Bank One Corp. v. Commissioner, supra at 306; Estate of Jung v. Commissioner, supra at 431–432. As valuation is not an exact science, the taxpayer is not required to establish the precise value of the asset. See Estate of Jung v. Commissioner, supra at 423–424; Snyder v. Commissioner, 93 T.C. 529, 545, 1989 WL 129656 (1989). Furthermore, “A taxpayer is not required to use the most theoretically correct method * * * to establish the amount of depreciation to which he is entitled; rather, his method must be reasonable.” IT & S of Iowa, Inc. v. Commissioner, supra at 522 (citing Citizens & S. Corp. & Subs. v. Commissioner, 91 T.C. 463, 514, 1988 WL 90987 (1988), affd. without published opinion 900 F.2d 266 (11th Cir.1990)).
+ 
+Petitioner argues that the benefit of below-market interest should be measured by the present values of the difference between the contract interest rates on its debt instruments and market interest rates over the terms of the loans. Petitioner calculated that the January 1, 1985, fair market value of each favorable financing intangible asset was as follows:
+ 
+
+
+
+
+Debt
+ 
+|Fair Market Value
+ 
+|
+G–15
+ 
+|$8,865,451
+ 
+|
+G–16
+ 
+|14, 986, 068
+ 
+|
+G–17
+ 
+|44,427,083
+ 
+|
+F–8
+ 
+|325,000
+ 
+|
+F–11
+ 
+|92,000,000
+ 
+|
+F–12
+ 
+|187,500
+ 
+|
+F–13
+ 
+|72,937,500
+ 
+|
+F–15
+ 
+|218,750
+ 
+|
+F–18
+ 
+|125,000
+ 
+|
+D–2
+ 
+|5,812,500
+ 
+|
+Z–2
+ 
+|24,389,887
+ 
+|
+Z–3
+ 
+|1,448,674
+ 
+|
+ND
+ 
+|458,071
+ 
+|
+CD–1
+ 
+|7,992,188
+ 
+|
+GMC A 1975
+ 
+|7,418,813
+ 
+|
+GMC B 1975
+ 
+|4,358,750
+ 
+|
+GMC A 1976
+ 
+|5,228,813
+ 
+|
+GMC B 1976
+ 
+|8,342,336
+ 
+|
+GMC A 1977
+ 
+|8,146,021
+ 
+|
+GMC B 1977
+ 
+|12,825,330
+ 
+|
+GMC C 1977
+ 
+|17,407,946
+ 
+|
+GMC A 1978
+ 
+|24,814,023
+ 
+|
+GMC B 1978
+ 
+|12,413,781
+ 
+|
+GMC C 1978
+ 
+|9,776,662
+ 
+|
+GMC A 1979
+ 
+|8,521,734
+ 
+|
+GMC B 1979
+ 
+|6,626,888
+ 
+|
+GMC C 1979
+ 
+|8,946,893
+ 
+|
+CMO A–2
+ 
+|6,254,753
+ 
+|
+CMO A–3
+ 
+|12,511,453
+ 
+|
+CMO C–4
+ 
+|623,683
+ 
+|
+Total
+ 
+|428,391,551
+ 
+|
+
+
+
+
+[4] Petitioner relies on the expert opinion and testimony of Dr. Stephen M. Schaefer to determine the value of its favorable financing. Professor Schaefer received his doctor of philosophy at the University of London, Faculty of Economics. He currently serves as a professor of finance at London Business School and has been a visiting professor at seven universities around the world. Professor Schaefer has also served on the editorial boards of numerous publications, published two books, and published over 30 articles and notes relating to finance and economics.
+ 
+*9 Professor Schaefer explained that the benefit of favorable financing is based on the difference between the interest payments on an existing debt obligation and the interest payments made at the prevailing market rate. The value of the favorable financing benefit equals the present value of this difference. When debt obligations are exchanged in a free market, the price paid for the debt instruments equals the fair market value of the future cashflows. The market price reflects uncertainties; for example, when a bond is prepayable, the market price incorporates the likelihood that the bond will be prepaid. A comparison of the adjusted issue prices of petitioner’s debt instruments and the market prices indicates that petitioner’s instruments were traded at a discount as of January 1, 1985. The difference between the adjusted issue price and the market price is the market discount. The discount reflects the present value difference between petitioner’s contractual interest rate for each debt instrument and the market rate for comparable debt on January 1, 1985. From petitioner’s perspective, the amount of the discount is the present value of the additional interest cost that the debtor would have to incur to borrow the amount of the existing debt at market rates.
+ 
+Professor Schaefer calculated the fair market value of the favorable financing inherent in each of the 30 debt instruments as of January 1, 1985, as the difference between the adjusted issue price per $100 of principal and the January 1, 1985, market price per $100 of principal, multiplied by the unpaid principal balance divided by $100.11 Professor Schaefer’s report provided the January 1, 1985, market price, adjusted issue price, and unpaid principal balance for the 30 debt instruments as follows:
+ 
+
+
+
+
+Debt instrument
+ 
+|Adjusted issue price 1
+ 
+|Jan. 1, 1985 market price 2
+ 
+|Unpaid principal balance
+ 
+|
+G–15
+ 
+|100.0000
+ 
+|87.335069
+ 
+|70,000,000
+ 
+|
+G–16
+ 
+|100.0000
+ 
+|81.835069
+ 
+|82,500,000
+ 
+|
+G–17
+ 
+|100.0000
+ 
+|70.381944
+ 
+|150,000,000
+ 
+|
+F–8
+ 
+|100.0000
+ 
+|99.187500
+ 
+|40,000,000
+ 
+|
+F–11
+ 
+|100.0000
+ 
+|77.000000
+ 
+|400,000,000
+ 
+|
+F–12
+ 
+|100.0000
+ 
+|99.906250
+ 
+|200,000,000
+ 
+|
+F–13
+ 
+|100.0000
+ 
+|75.687500
+ 
+|300,000,000
+ 
+|
+F–15
+ 
+|100.0000
+ 
+|99.890625
+ 
+|200,000,000
+ 
+|
+F–18
+ 
+|100.0000
+ 
+|99.937500
+ 
+|200,000,000
+ 
+|
+D–2
+ 
+|100.0000
+ 
+|98.062500
+ 
+|300,000,000
+ 
+|
+Z–2
+ 
+|3.0516
+ 
+|2.703125
+ 
+|7,000,000,000
+ 
+|
+Z–3
+ 
+|32.0378
+ 
+|31.458333
+ 
+|250,000,000
+ 
+|
+ND
+ 
+|100.0000
+ 
+|95.968750
+ 
+|11,363,000
+ 
+|
+CD–1
+ 
+|100.0000
+ 
+|94.671875
+ 
+|150,000,000
+ 
+|
+GMC A 1975
+ 
+|100.0000
+ 
+|92.437500
+ 
+|98,100,000
+ 
+|
+GMC B 1975
+ 
+|100.0000
+ 
+|93.125000
+ 
+|63,400,000
+ 
+|
+GMC A 1976
+ 
+|100.0000
+ 
+|92.593750
+ 
+|70,600,000
+ 
+|
+GMC B 1976
+ 
+|99.0348
+ 
+|88.000000
+ 
+|75, 600, 000
+ 
+|
+GMC A 1977
+ 
+|99.4349
+ 
+|88.937500
+ 
+|77,600,000
+ 
+|
+GMC B 1977
+ 
+|99.5190
+ 
+|85.875000
+ 
+|94,000,000
+ 
+|
+GMC C 1977
+ 
+|99.5574
+ 
+|83.468750
+ 
+|108,200,000
+ 
+|
+GMC A 1978
+ 
+|99.5909
+ 
+|86.250000
+ 
+|186,000,000
+ 
+|
+GMC B 1978
+ 
+|99.7826
+ 
+|87.218000
+ 
+|98,800,000
+ 
+|
+GMC C 1978
+ 
+|99.5517
+ 
+|89.656250
+ 
+|98,800,000
+ 
+|
+GMC A 1979
+ 
+|99.6002
+ 
+|92.125000
+ 
+|114,000,000
+ 
+|
+GMC B 1979
+ 
+|99.6881
+ 
+|93.875000
+ 
+|114,000,000
+ 
+|
+GMC C 1979
+ 
+|99.7857
+ 
+|91.937500
+ 
+|114,000,000
+ 
+|
+CMO A–2
+ 
+|99.4511
+ 
+|97.664063
+ 
+|350,000,000
+ 
+|
+CMO A–3
+ 
+|99.2668
+ 
+|96.390625
+ 
+|435,000,000
+ 
+|
+CMO C–4
+ 
+|95.6239
+ 
+|94.890625
+ 
+|85,052,100
+ 
+|
+
+
+
+
+*10 We find that petitioner’s method of valuing its favorable financing intangible assets provides a reasonable estimate of fair market value. The Supreme Court in Dickman v. Commissioner, 465 U.S. 330, 337–338, 104 S.Ct. 1086, 79 L.Ed.2d 343 (1984), indicated that the value of the right to use borrowed money is readily measurable by reference to current interest rates. See also Rev. Proc. 85–46, sec. 3.01, 1985–2 C.B. 507 (stating that the value of a gift below-market loan is “the difference between the rate at which the money is loaned and the prevailing market rate.”). Similarly, we believe that the favorable financing aspect of petitioner’s debt instruments may be valued by comparing petitioner’s effective contract interest rates to the prevailing market rates for those instruments as of January 1, 1985. The market price of each of petitioner’s existing debt instruments provides an accurate indication of the price at which investors would exchange the debt instruments. That price reflects the relationship between the contract rate of interest on the debt and the market rate of interest as of January 1, 1985. The market approach used by petitioner captures the values of the debt instruments using the prices at which willing buyers and sellers actually exchanged these instruments as of the valuation date. We find that the sum of the market discounts for petitioner’s debt instruments provides a reasonable estimate of the present value of the interest costs petitioner saved by paying below-market interest rates on its outstanding debt instruments on January 1, 1985.
+ 
+
+
+B. Respondent’s Position That Favorable Financing Has No Value
+Respondent primarily argues that petitioner failed to show that the favorable financing intangibles had any value because: (1) Petitioner did not show it expected to receive a stream of income from the favorable financing intangible assets; (2) petitioner did not prove that it could realize the value of the favorable financing; (3) the favorable financing is a contra-liability, not an asset; and (4) petitioner could realize the value of favorable financing only by buying back its debt instruments in the market, which would be impractical because it would have to pay tax on the discharge of indebtedness.
+ 
+The main thrust of respondent’s arguments is that petitioner’s favorable financing is not an asset. We addressed this contention in Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. 254, 2003 WL 22229259 (2003). In that Opinion, we concluded: (1) That the right to use money at below-market rates is a valuable economic benefit in terms of the cost savings that can be achieved in income-producing activities; (2) that favorable financing is a benefit for which a third party would pay a premium if the favorable financing were included as part of a purchase transaction; (3) that petitioner’s favorable financing arrangements on January 1, 1985, represented something of value; and (4) that the differential between the market rate of interest and petitioner’s contract rate of interest serves as a measure of the economic value of that right on January 1, 1985. Id. at 260–261. Nevertheless, we will briefly discuss respondent’s arguments that petitioner’s favorable financing had no value.
+ 
+
+
+1. Expectation of Income
+*11 Respondent argues that the favorable financing intangible assets do not have any value because petitioner did not receive any additional income or earnings from these assets. Respondent relies on the expert opinion and testimony of Dr. Scott D. Hakala.12 Dr. Hakala explained that “Intangible assets are defined as all elements of a business enterprise that exist in addition to monetary and tangible assets. Their existence is dependent on the presence, or expectation of earnings.” (Fn.ref.omitted.)
+ 
+First, it seems clear that petitioner’s favorable financing had a positive effect on its net income. To the extent that petitioner’s financing costs were lower than they would have been had petitioner financed its operations with the market rates prevailing on January 1, 1985, its net income was enhanced. Second, respondent does not support with legal authority his contention that the value of the favorable financing intangible must be based on income. Indeed, courts have determined the value of similar intangible assets using cost savings methods. IT & S of Iowa, Inc. v. Commissioner, 97 T.C. at 514–515; Citizens & S. Corp. & Subs. v. Commissioner, 91 T.C. at 498.
+ 
+We have already held that petitioner’s favorable financing constituted an economic benefit that can be an amortizable intangible asset if petitioner establishes a fair market value and limited useful life as of January 1, 1985. Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. at 272. We also concluded that the core deposit cases, which use cost savings to measure value, “support petitioner’s position that favorable financing is an intangible asset subject to amortization.” Id. at 264. Rather than addressing the valuation issue presently before the Court, respondent’s argument seems to challenge our prior holdings.
+ 
+
+
+2. Realization of Value
+[5] Respondent argues that the favorable financing intangible assets do not have a fair market value and that any value is hypothetical because petitioner could not transfer favorable financing to a willing buyer. We might agree that petitioner’s favorable financing could not be transferred by itself. However, we have previously rejected respondent’s argument that favorable financing could not be valued because it could not be transferred except as part of a larger acquisition. Obviously, intangibles such as core deposits or deposit base13 might have economic significance only in a larger context, but that does not prevent giving them a separate value. See Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. at 266–267, where we stated:
+We also cannot distinguish the cases involving deposit base for the reason that those cases involved an acquisition of deposit base in conjunction with a larger acquisition of assets of a company. We might agree that, as a practical matter, a debtor’s position with respect to its favorable financing would not be transferred, except as a part of a larger acquisition of a company or property. However, this is not, in our view, determinative of the question of whether there exists an amortizable asset of value. * * *
+ 
+
+
+3. Contra–Liability Theory
+*12 Respondent argues that petitioner’s favorable financing is a contra-liability, not an asset. Respondent’s expert Dr. Hakala explained that a contra-liability is a liability on the balance sheet that is misstated in some economic sense because the liability is worth less than face value and the liability has been marked to market. Dr. Hakala further explained that transferring the liability to the asset side of the balance sheet creates an unrealizable asset. As a result, respondent argues that the favorable financing intangible assets cannot be valued separately, without looking at the value of the underlying mortgages. According to respondent, petitioner’s valuation method results in overvaluation, double counting of assets, and accounting irregularities because petitioner marks its liabilities to market without making the corresponding downward adjustment to its assets.
+ 
+
+
+a. Favorable Financing Is an Asset
+Respondent’s contra-liability argument revisits the question of whether favorable financing can be an amortizable asset. We have already rejected respondent’s argument that favorable financing is a liability. See Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. at 269, where we stated:
+Respondent argues that petitioner’s favorable financing represents a “liability”, not an “asset”. Respondent claims that petitioner is “attempting to adjust, for tax purposes, the asset side of its balance sheet to account for an overstatement in fair market value terms of its liabilities.” We cannot agree with respondent’s proposed characterization of petitioner’s favorable financing as a liability. Indeed, as petitioner points out, there is a valuable economic benefit associated with the below-market interest rates on its financing arrangements as of January 1, 1985. It is this economic benefit which petitioner claims as an intangible asset and upon which it bases its claimed amortization deductions.
+ 
+
+
+b. Favorable Financing Can Be Assigned a Separate Value
+As previously indicated, the fact that favorable financing could not be transferred apart from a transfer of other assets and liabilities does not prevent assigning it a separate value. At trial, petitioner’s counsel developed the following hypothetical situation while examining respondent’s expert, Dr. Herbert Kaufman:14
+Q: * * * The houses are both worth $300,000. They are identical. They are next door to each other. They both have a “for sale” sign in front of them. The first house just says, “For sale, House, No Assumable Debt.” The second house has “House for Sale Plus 1 Percent Mortgage Assumable as Part of the Purchase.”
+ 
+Q: Do you believe the second seller is going to receive more money at closing than the first seller?
+A: Assuming that market interest rates are—
+Q: They’re five.
+A: Sure.
+Q: So the second seller would receive more money. Right?
+A: I would think so.
+Q: Why is that?
+*13 A: Because the assumable mortgage is in place.
+Q: Does it have value?
+A: The assumable mortgage?
+Q: Yes.
+A: Yeah. The value of the assumable mortgage with regard to the house, which is the asset,—
+ 
+A: —has value.
+Further, Dr. Kaufman was asked and answered as follows:
+Q: * * * Back to my other hypothetical about the two homes next door to each other, let’s assume you can’t decide which house to buy, the $300,000 one with no assumable mortgage or the $300,000 house with the 1 percent mortgage. Market rates are five.
+ 
+Q: Do you think it’s possible to calculate how much more you would pay for that house with the assumable 1 percent mortgage? Is that possible to do?
+A: I think it’s probably possible.
+Q: But a buyer certainly would have the tools to determine how much more to pay for the below-market financing. Is that right?
+A: Not for the below-market financing; for the house with the below-market.
+ 
+A: Again, you keep wanting to separate. I can’t separate that because you’re not going to buy a liability.
+Q: Let’s say the buyer hired an appraisal company and had in the buyer’s hand an appraisal saying the house is worth $300,000. Right? How would the buyer decide how much more to pay for the house with the 1 percent mortgage? It would determine the value of the below-market mortgage and add that to the price. Isn’t that fair?
+A: That’s true, yeah.
+ 
+Like the purchaser and seller of the houses in the hypothetical situation, we think that petitioner can ascertain the value of the favorable financing. As we have mentioned, financial markets determined the current price of petitioner’s debt obligations on the valuation date; a comparison of the contract price and the prevailing market price provides a reasonable measure of the value of the favorable financing associated with the debt instrument. Therefore, we disagree with respondent that a separate value cannot be assigned to petitioner’s favorable financing.
+ 
+
+
+c. Double Counting the Value
+Respondent also argues that petitioner’s method of valuing its favorable financing overvalues and double counts petitioner’s assets because petitioner’s “real assets”—the mortgages—have lost value when compared to prevailing market rates.
+ 
+We think that respondent’s concerns of double counting are misguided. When petitioner was chartered, it was exempt from Federal, State, and local taxation, except for real estate tax imposed by any State or local taxing authority. Congress enacted special legislation that subjected petitioner to Federal income taxation. In that special legislation, Congress created a dual-basis rule for petitioner’s assets “to ensure that, to the extent possible, pre–1985 appreciation or decline in value of * * * [petitioner’s] assets will not be taken into account for tax purposes.” H. Conf. Rept. 98–861, supra at 1038, 1984–3 C.B. (Vol.2) at 292. Just as this legislation applies to petitioner’s favorable financing intangible assets, DEFRA section 177(d)(2) governs the adjusted bases of petitioner’s so-called real assets. For the purposes of determining a loss, DEFRA section 177(d)(2)(A) provides that “the adjusted basis of any asset of * * * [petitioner] held on January 1, 1985, * * * be equal to the lesser of the adjusted basis of such asset or the fair market value of such asset” as of January 1, 1985. Congress created the special dual-basis rule specifically for petitioner when it became a taxable entity to ensure that pre–1985 appreciation or decline in value would not be taken into account for tax purposes. H. Conf. Rept. 98–861, supra at 1038, 1984–3 C.B. (Vol.2) at 292. The adjusted basis rules of DEFRA section 177(d)(2)(A), which requires petitioner to calculate a loss using an adjusted basis equal to the lesser of fair market value or adjusted basis, address the kind of double counting that appears to concern respondent.
+ 
+
+
+4. Petitioner’s Purchase of Its Debt Obligations Would Result in Discharge of Indebtedness Income
+*14 Respondent appears to argue that the only way petitioner could realize the value of favorable financing would be to buy back its debt instruments at their discounted market prices. Respondent claims that this is impractical because petitioner would incur tax on the resulting discharge of indebtedness income.
+ 
+When a taxpayer repays a debt at a discount, the taxpayer normally realizes income from the discharge of indebtedness. See sec. 61(a)(12); United States v. Kirby Lumber Co., 284 U.S. 1, 3, 52 S.Ct. 4, 76 L.Ed. 131 (1931). Section 1.61–12(a), Income Tax Regs., provides that “The discharge of indebtedness, in whole or in part, may result in the realization of income. * * * A taxpayer may realize income by the payment or purchase of his obligations at less than their face value .” When a taxpayer receives borrowed funds, those funds are excluded from income because the taxpayer has an obligation to repay the funds. United States v. Centennial Sav. Bank FSB, 499 U.S. 573, 582, 111 S.Ct. 1512, 113 L.Ed.2d 608 (1991). The rationale for including discharge of indebtedness in a taxpayer’s income is that the taxpayer “realizes an accession to income due to the freeing of assets previously offset by the liability.” Jelle v. Commissioner, 116 T.C. 63, 67, 2001 WL 80181 (2001) (citing United States v. Kirby Lumber Co., supra at 3).
+ 
+If petitioner entered the market and purchased its debt obligations for less than the amount that it had borrowed, petitioner would normally realize income equal to the difference between the amount it borrowed and the amount it paid to purchase its debt instruments. We think that respondent’s argument that petitioner could have received discharge of indebtedness income by repurchasing its debt at a discount supports our conclusion that petitioner’s favorable financing had value.
+ 
+
+
+C. Respondent’s Argument That the Value of Petitioner’s Favorable Financing Is Limited to the Value of Petitioner’s Income Spread
+[6] Assuming, without conceding, that favorable financing is a valuable asset, respondent argues that the price an acquirer would pay to purchase petitioner’s rights and obligations with respect to its CMOs or GMCs would not exceed the present value of petitioner’s spread income associated with those instruments. As of January 1, 1985, respondent asserts that the present value of the spread related to petitioner’s GMCs and CMOs equaled approximately $11.4 million and $7.2 million, respectively.
+ 
+Dr. Hakala concluded that favorable financing is not an intangible asset; however, Dr. Hakala found that petitioner’s income spread has value because its assets and liabilities are closely matched.15 According to Dr. Hakala, when previously issued debt is matched to income-earning assets, the issued debt does not have any intangible value by itself. In his report, Dr. Hakala explained that “what is of value to a potential buyer is the potential income stream between mortgages and obligations to holders of the securities.”
+ 
+To determine the value of the income spread from the GMCs, Dr. Hakala used the net management and guarantee income16 petitioner reported for the 6 months that ended June 30, 1985, and compared that to the average principal balance outstanding over that same 6–month period. He concluded that the management and guarantee income totaled $3.5 million. Dr. Hakala assumed general and administrative costs of 9 basis points annually and reduced the total value to incorporate the effect of taxes; these adjustments reduced the net management and guarantee income to $1.6 million. “Taking into account the actual runoff of each GMC and discounting to present value the future net spread income at the weighted average cost of capital results in a value of approximately $11.4 million for the spread associated with all of the GMCs.” Dr. Hakala used the same analysis to find that the present value of the CMOs’ future net spread income at the weighted average cost of capital equaled $7.2 million.
+ 
+*15 We disagree with respondent that the value of petitioner’s favorable financing intangible assets is limited to the value of the income spread. Dr. Hakala’s income spread analysis is premised on his conclusion that favorable financing cannot be an intangible asset. However, in Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. at 272, we held that favorable financing was an economic benefit and that “the benefit of * * * below-market financing can, as a matter of law, constitute an intangible asset”.
+ 
+Professor Schaefer explained that the income spread is a measure of petitioner’s equity value, and that equity is different from the value of petitioner’s assets, including the favorable financing intangible assets. Equity is generally described as the excess of the value of assets (tangible and intangible) over liabilities. The value of petitioner’s favorable financing assets is the present value of the cost savings between the effective contract interest rate on petitioner’s debt obligations and the prevailing market interest rates on equivalent debt obligations at the valuation date. To illustrate the differences between the value of an intangible asset and equity value, Professor Schaefer gave the following examples:
+To illustrate this further, suppose a company has a long lease on office space at $5 per square foot when the market price for similar space is, say, $70. It is clear that this lease is valuable to the company; if it did not own the lease at $5 per square foot it would have to rent more expensive space and, as a result, both the earnings and the value of the company would be lower. Of course the price an acquirer would pay is the value of the earnings stream from the whole company, i.e., its revenues less its total costs, including the costs of space. However, it is clear that paying $5 rather than $70 per square foot for space increases the earnings of the company and therefore has value to an acquirer.
+Similarly, suppose two companies, A and B, have identical assets and identical amounts of debt but pay different rates of interest on their debt. Company A’s liabilities pay the Prevailing Market Interest Rate while company B’s liabilities pay a below-market interest rate. In this case, company B’s earnings will be higher than company A’s and an acquirer would clearly pay more for company B than for company A. The difference in the earnings of the two companies is the difference between interest payments at the Prevailing Market Interest Rate (the rate on company A’s liabilities) and the lower rate on company B’s liabilities. Thus, the difference between the earnings of the two companies is equal to company B’s Favourable Financing benefits and the higher amount that an acquirer would pay for company B over company A is the value of company B’s Favourable Financing Assets.
+To further rebut respondent’s claim that favorable financing cannot exceed the value of equity, Professor Schaefer explained:
+*16 This claim is clearly flawed since all that is required for the value of the Favourable Financing Assets to exceed the value of equity is for the present value of the Asset Spread to Market [17] to be negative. * * * the value of Freddie Mac’s equity is always equal to the present value of its Asset Spread to Market plus the value of its Favourable Financing Assets. Thus, if the present value of the Asset Spread to Market is negative, the value of the Favourable Financing Assets will exceed the value of equity. * * *
+In order to illustrate this point, Professor Schaefer used the following example:
+A more concrete example is provided by the S & L crisis, which featured negative Asset Spreads to Market, and therefore Favourable Financing Assets with a higher value than equity. In the early 1980s, when interest rates rose sharply, the condition of many S & Ls deteriorated as the value of their fixed-rate mortgage assets fell. Suppose that, in September 1981 when mortgage rates were above 15%, an S & L held fixed-rate mortgages paying a rate of 6% and therefore selling at around 40% of their face amount. Suppose further that this S & L was fortunate in the sense that it was entirely financed with core deposits * * * that paid 2% and therefore, despite earning 6% on its assets when market rates were 15%, it nonetheless earned a positive spread of 4% (equal to the rate on its assets of 6% less 2% paid on its liabilities).
+To the extent that the core deposits remain in place, this S & L is solvent. However, its positive net worth does not come from its assets—these have fallen in value by 60%—but from its liabilities. The total spread of 4% is made up of a substantial and negative Asset Spread to Market of—9% (a 6% asset return less a 15% market rate) and a large and positive Favourable Financing benefit of 13% (the 15% market rate less the 2% paid on deposits). The value of the Favourable Financing Assets for this S & L (the present value of the 13% spread) would clearly exceed the value of its equity (the present value of the 4% spread).
+ 
+We must decide the value of petitioner’s favorable financing intangible assets. Because income spread measures equity and not the value of individual assets, we find that the value of petitioner’s favorable financing intangible assets is not limited to the income spread.
+ 
+
+
+D. Respondent’s Argument That Taxes Reduce the Value of Favorable Financing
+[7] Assuming that petitioner’s favorable financing intangible assets do have value, respondent argues that petitioner’s calculations over-valued these assets because its method failed to incorporate the effect of taxes. In his rebuttal report, Dr. Hakala explained that “the reduction in the value of the liability would be partially offset by a deferred tax liability.” Dr. Hakala calculated value by reducing the value of the intangible assets for income taxes and increasing the value by the tax shield.18 After incorporating the tax effect, Dr. Hakala prepared a summary analysis of the favorable financing intangible assets using Professor Schaefer’s market prices as follows:
+ 
+
+
+
+
+Debt
+ 
+|Corrected Value
+ 
+|
+G–15
+ 
+|$6,977,205
+ 
+|
+G–16
+ 
+|11,448,352
+ 
+|
+G–17
+ 
+|30,735,708
+ 
+|
+F–8
+ 
+|296,491
+ 
+|
+F–11
+ 
+|67,179,640
+ 
+|
+F–12
+ 
+|176,830
+ 
+|
+F–13
+ 
+|50,628,337
+ 
+|
+F–15
+ 
+|203,957
+ 
+|
+F–18
+ 
+|112,856
+ 
+|
+D–2
+ 
+|4,594,048
+ 
+|
+Z–2
+ 
+|14,598,063
+ 
+|
+Z–3
+ 
+|1,039,813
+ 
+|
+ND
+ 
+|405,439
+ 
+|
+CD–1
+ 
+|6,538,498
+ 
+|
+GMC A 1975
+ 
+|6,194,495
+ 
+|
+GMC B 1975
+ 
+|3,592,694
+ 
+|
+GMC A 1976
+ 
+|4,299,020
+ 
+|
+GMC B 1976
+ 
+|6,551,705
+ 
+|
+GMC A 1977
+ 
+|6,524,267
+ 
+|
+GMC B 1977
+ 
+|9,891,261
+ 
+|
+GMC C 1977
+ 
+|12,890,475
+ 
+|
+GMC A 1978
+ 
+|18,287,188
+ 
+|
+GMC B 1978
+ 
+|9,347,594
+ 
+|
+GMC C 1978
+ 
+|7,361,840
+ 
+|
+GMC A 1979
+ 
+|6,486,039
+ 
+|
+GMC B 1979
+ 
+|5,043,839
+ 
+|
+GMC C 1979
+ 
+|6,737,022
+ 
+|
+CMO A–2
+ 
+|4,862,086
+ 
+|
+CMO A–3
+ 
+|8,187,424
+ 
+|
+CMO C–4
+ 
+|420,731
+ 
+|
+Total
+ 
+|311,612,917
+ 
+|
+
+
+
+
+*17 Petitioner argues that its market-based valuation approach integrates the effect of taxes into the value of an asset. In other words, petitioner argues that the market prices of its debt instruments already reflect the tax considerations of buyers and sellers.
+ 
+In his rebuttal report, Dr. Hakala quoted the following excerpt from “Assets Acquired in a Business Combination to be Used in Research and Development Activities: A Focus on Software, Electronic Devices, and Pharmaceutical Industries” (2001) by the AICPA’ s IPR & D Task Force: “The task force believes that the valuation of an intangible asset would include (a) the expected tax payments resulting from the cashflows attributable to the intangible asset and (b) the tax benefits resulting from the amortization of that intangible asset for income tax purposes.” At trial, Dr. Hakala was asked to read the two sentences that immediately followed the sentence he quoted in his rebuttal report: “ ‘Including the tax affects [sic] in the valuation is common in the income and cost approaches. It is not typical in the market approach because any tax benefits would already be factored into the quoted market price through the negotiation of market participants during the bid and ask process.’ “
+ 
+Petitioner’s expert, Mr. Howard A. Scribner,19 testified that taxes can affect the value of intangible assets but that the market approach incorporates taxes into the valuation. Specifically, Mr. Scribner was asked and answered as follows:
+Q: Are taxes relevant or irrelevant in a market-based valuation of an intangible asset?
+A: A market-based intangible asset reflects the interactions of buyers and sellers. All factors, including taxes, are reflected in those prices.
+We agree with petitioner that the market approach of valuing an asset incorporates the effect of taxes. Respondent’s expert relied on a source that states that the effect of taxes typically is not included in the market approach because the quoted market price already reflects taxes. Mr. Scribner confirmed that the market price incorporates the effect of taxes. We find that petitioner properly valued its favorable financing intangible assets using the market-based method and that no further adjustment is necessary to account for the tax effect.
+ 
+We agree that petitioner has proven that its favorable financing intangible assets have values that were reasonably estimated. We hold that the values of petitioner’s favorable financing intangible assets are as follows:
+ 
+
+
+
+
+Debt
+ 
+|Fair market value
+ 
+|
+G–15
+ 
+|$8,865,451
+ 
+|
+G–16
+ 
+|14, 986, 068
+ 
+|
+G–17
+ 
+|44,427,083
+ 
+|
+F–8
+ 
+|325,000
+ 
+|
+F–11
+ 
+|92,000,000
+ 
+|
+F–12
+ 
+|187,500
+ 
+|
+F–13
+ 
+|72,937,500
+ 
+|
+F–15
+ 
+|218,750
+ 
+|
+F–18
+ 
+|125,000
+ 
+|
+D–2
+ 
+|5,812,500
+ 
+|
+Z–2
+ 
+|24,389,887
+ 
+|
+Z–3
+ 
+|1,448,674
+ 
+|
+ND
+ 
+|458,071
+ 
+|
+CD–1
+ 
+|7,992,188
+ 
+|
+GMC A 1975
+ 
+|7,418,813
+ 
+|
+GMC B 1975
+ 
+|4,358,750
+ 
+|
+GMC A 1976
+ 
+|5,228,813
+ 
+|
+GMC B 1976
+ 
+|8,342,336
+ 
+|
+GMC A 1977
+ 
+|8,146,021
+ 
+|
+GMC B 1977
+ 
+|12,825,330
+ 
+|
+GMC C 1977
+ 
+|17,407,946
+ 
+|
+GMC A 1978
+ 
+|24,814,023
+ 
+|
+GMC B 1978
+ 
+|12,413,781
+ 
+|
+GMC C 1978
+ 
+|9,776,662
+ 
+|
+GMC A 1979
+ 
+|8,521,734
+ 
+|
+GMC B 1979
+ 
+|6,626,888
+ 
+|
+GMC C 1979
+ 
+|8,946,893
+ 
+|
+CMO A–2
+ 
+|6,254,753
+ 
+|
+CMO A–3
+ 
+|12,511,453
+ 
+|
+CMO C–4
+ 
+|623,683
+ 
+|
+Total 428,391,551
+ 
+| 
+|
+
+
+
+
+
+
+II. Favorable Financing Intangible Assets Have a Reasonably Estimable Useful Life As of January 1, 1985
+*18 [8] [9] [10] [11] To amortize favorable financing, a taxpayer must show that the intangible assets have limited useful lives, the duration of which may be ascertained with reasonable accuracy. Section 1.167(a)–3, Income Tax Regs., provides:
+§ 1.167(a)–3. Intangibles.
+If an intangible asset is known from experience or other factors to be of use in the business or in the production of income for only a limited period, the length of which can be estimated with reasonable accuracy, such an intangible asset may be the subject of depreciation allowance. Examples are patents and copyrights. An intangible asset, the useful life of which is not limited is not subject to the allowance for depreciation. * * *
+“A taxpayer may establish the useful life of an asset for depreciation based upon his own experience with similar property, or, if his own experience is inadequate, based upon the general experience in the industry.” Citizens & S. Corp. & Subs. v. Commissioner, 91 T.C. at 500 (citing section 1.167(a)–1(b), Income Tax Regs.); Banc One Corp. v. Commissioner, 84 T.C. 476, 499, 1985 WL 15327 (1985) (citing section 1.167(a)–1(b), Income Tax Regs.), affd. without published opinion 815 F.2d 75 (6th Cir.1987). The taxpayer is not required to prove the precise useful life for purposes of depreciation—a “ ‘reasonable approximation’ “ of the useful life is sufficient. Citizens & S. Corp. & Subs. v. Commissioner, supra at 500; Banc One Corp. v. Commissioner, supra at 499 (citing Burnet v. Niagara Falls Brewing Co., 282 U.S. 648, 655, 51 S.Ct. 262, 75 L.Ed. 594 (1931), Super Food Servs., Inc. v. United States, 416 F.2d 1236 (7th Cir.1969), and Spartanburg Terminal Co. v. Commissioner, 66 T.C. 916, 1976 WL 3722 (1976)). The taxpayer must base the useful life estimation upon facts that existed at the valuation date. Citizens & S. Corp. & Subs. v. Commissioner, supra at 500; Banc One Corp. v. Commissioner, supra at 499. Taxpayers may use evidence of their subsequent experiences to corroborate their projections. Citizens & S. Corp. & Subs. v. Commissioner, supra at 500.
+ 
+Petitioner argues that on January 1, 1985, the reasonably estimated remaining useful lives of the 30 favorable financing intangible assets equaled the average weighted lives. Petitioner relies on the expert opinion and testimony of Mr. Howard A. Scribner. Mr. Scribner received a B.S.C. in accounting from Rider University and an M.B.A. in finance from Rutgers Graduate School of Management. He is also a licensed certified public accountant (C.P.A.) and an accredited business valuation specialist in the American Society of C.P.A.s. He is a partner in the Economic and Valuation Services practice of KPMG LLP. Mr. Scribner has more than 20 years of valuation experience involving intangible assets, debt, common and preferred stock, partnership interests, and stock options of privately and publicly held companies.
+ 
+Mr. Scribner determined that the estimated useful lives of the favorable financing intangible assets equal the average weighted lives of the debt obligations that give rise to them. According to Mr. Scribner, the estimated useful lives of the favorable financing intangible assets did not change on account of subsequent unforeseen events because
+*19 the interactions of market participants force the incorporation of all known and expected information available at that date into the existing prevailing market interest rate. Therefore, the market consensus establishes the current market interest rate to be the best estimate of the prevailing interest rate over the life of the investment.
+Mr. Scribner states that the average weighted life represents the time it takes for the average dollar of principal borrowed to be repaid to the lender. The average weighted life is calculated by: (1) Multiplying the principal payment by the number of years or pro rata portion of a year that the principal amount has been outstanding, (2) adding the results for all payment periods, and (3) dividing that sum by the total principal paid.20 For debt obligations that do not repay any principal until maturity, the average weighted life is the time remaining to maturity.
+ 
+The following example illustrates how Mr. Scribner’s calculated the average weighted life for ND:
+ 
+
+
+
+
+Date
+ 
+|Years Outstanding (A)
+ 
+|Principal Payment (B)
+ 
+|(A* B)/11,363,000 1
+ 
+|
+1/1/1985
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+|
+11/1/1985
+ 
+|0.8333
+ 
+|$1,407,703
+ 
+|0.10
+ 
+|
+11/1/1986
+ 
+|1.8333
+ 
+|9,954,795
+ 
+|1.61
+ 
+|
+Total average weighted life
+ 
+| 
+|1.71
+ 
+|
+
+
+
+
+Mr. Scribner estimated that ND had an average weighted life of 1.71 years, or 1 year, 9 months.
+When an issuer holds an option to repay debt, Mr. Scribner’s report explains that the option may affect the average weighted life because the issuer may elect to redeem the instrument before maturity. Petitioner would elect to exercise an option to repay debt before maturity if it would save interest expense. For example, petitioner would exercise the option to redeem the instrument before maturity when the interest rate of the instrument exceeded the market rate.
+ 
+Similarly, if the holder of a debt has a put option, the holder will exercise the option when the debt obligation pays interest at a rate below the market rate of interest because the holder could reinvest at a higher rate. Favorable put options would shorten the estimated remaining useful life of favorable financing intangible assets.
+ 
+Respondent argues that petitioner has not established a limited useful life for the favorable financing intangible assets because petitioner’s calculations failed to consider the volatility of the markets, which may eliminate the benefit of these assets before the useful lives asserted by petitioner expire. Respondent’s theory would seem to produce shorter useful lives for the favorable financing intangible assets, which would accelerate petitioner’s depreciation allowance.21 Instead, petitioner used a more conservative estimate of the useful life measured by the averaged weighted life.
+ 
+We disagree with respondent that petitioner failed to take market volatility into account when determining the useful lives of its assets. Mr. Scribner explained that the market incorporates all known information and expected information into establishing the prevailing market rates. Mr. Scribner concluded that “the market consensus establishes the current market interest rate to be the best estimate of the prevailing interest rate over the life of the investment.”
+ 
+*20 Because respondent contends that there is no fair market value to support the existence of the favorable financing intangibles, respondent offered no view as to their useful lives. Although Dr. Hakala disagrees that the average weighted lives equal the remaining useful lives of the assets, Dr. Hakala substantially agreed with the average weighted life calculations performed by petitioner’s experts. We find that petitioner has proven that its favorable financing intangible assets have reasonably estimable useful lives equal to the average weighted lives of the debt obligations from which these assets arose. We hold that petitioner’s favorable financing intangible assets had useful lives as follows:
+ 
+
+
+
+
+Debt
+ 
+|Average Weighted Life
+ 
+|
+G–15
+ 
+|5 years, 5 months
+ 
+|
+G–16
+ 
+|6 years, 8 months
+ 
+|
+G–17
+ 
+|12 years, 5 months
+ 
+|
+F–8
+ 
+|11 months
+ 
+|
+F–11
+ 
+|8 years, 11 months
+ 
+|
+F–12
+ 
+|2 months
+ 
+|
+F–13
+ 
+|12 years, 2 months
+ 
+|
+F–15
+ 
+|5 months
+ 
+|
+F–18
+ 
+|1 year, 2 months
+ 
+|
+D–2
+ 
+|5 years, 3 months
+ 
+|
+Z–2
+ 
+|34 years, 11 months
+ 
+|
+Z–3
+ 
+|9 years, 11 months
+ 
+|
+ND
+ 
+|1 year, 8 months
+ 
+|
+CD–1
+ 
+|4 years, 0 months
+ 
+|
+GMC A 1975
+ 
+|3 years, 4 months
+ 
+|
+GMC B 1975
+ 
+|3 years, 9 months
+ 
+|
+GMC A 1976
+ 
+|3 years, 10 months
+ 
+|
+GMC B 1976
+ 
+|5 years, 6 months
+ 
+|
+GMC A 1977
+ 
+|4 years, 9 months
+ 
+|
+GMC B 1977
+ 
+|6 years, 3 months
+ 
+|
+GMC C 1977
+ 
+|8 years, 2 months
+ 
+|
+GMC A 1978
+ 
+|8 years, 5 months
+ 
+|
+GMC B 1978
+ 
+|7 years, 4 months
+ 
+|
+GMC C 1978
+ 
+|7 years, 4 months
+ 
+|
+GMC A 1979
+ 
+|6 years, 10 months
+ 
+|
+GMC B 1979
+ 
+|6 years, 10 months
+ 
+|
+GMC C 1979
+ 
+|7 years, 4 months
+ 
+|
+CMO A–2
+ 
+|5 years, 11 months
+ 
+|
+CMO A–3
+ 
+|17 years, 7 months
+ 
+|
+CMO C–4
+ 
+|14 years, 6 months
+ 
+|
+
+
+
+
+
+
+III. Conclusion
+Petitioner has proven that the favorable financing intangible assets have reasonably estimable values and ascertainable remaining useful lives in accordance with our findings. Since other issues in these cases remain unresolved, our conclusions, as stated herein, will be incorporated in a Rule 155 computation upon resolution of the remaining issues.
+ 
+
+APPENDIX: Investment Bank Bid Prices
+The following table lists the investment bank bid prices obtained by petitioner and Arthur Andersen, which were used to value petitioner’s favorable financing.
+ 
+
+
+
+
+|Bid Price
+ 
+| 
+|
+Debt Instrument
+ 
+|First Boston
+ 
+|Salomon Brothers
+ 
+|Merrill Lynch
+ 
+|Shearson Lehman
+ 
+| 
+|
+G–15
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+|87.250000
+ 
+| 
+|
+G–16
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+|81.750000
+ 
+| 
+|
+G–17
+ 
+|70.343750
+ 
+|—
+ 
+|—
+ 
+|70.250000
+ 
+| 
+|
+F–12
+ 
+|99.875000
+ 
+|99.812500
+ 
+|—
+ 
+|—
+ 
+| 
+|
+F–15
+ 
+|99.875000
+ 
+|99.812500
+ 
+|—
+ 
+|—
+ 
+| 
+|
+F–8
+ 
+|99.187500
+ 
+|99.093750
+ 
+|—
+ 
+|—
+ 
+| 
+|
+F–18
+ 
+|99.906250
+ 
+|99.812500
+ 
+|—
+ 
+|—
+ 
+| 
+|
+F–11
+ 
+|77.125000
+ 
+|76.625000
+ 
+|—
+ 
+|—
+ 
+| 
+|
+F–13
+ 
+|75.375000
+ 
+|75.750000
+ 
+|—
+ 
+|—
+ 
+| 
+|
+D–2
+ 
+|97.750000
+ 
+|—
+ 
+|—
+ 
+|98.125000
+ 
+| 
+|
+CMO A–2
+ 
+|97.468750
+ 
+|96.875000
+ 
+|96.625000
+ 
+|97.687500
+ 
+| 
+|
+CMO A–3
+ 
+|96.406250
+ 
+|95.687500
+ 
+|96.250000
+ 
+|95.218750
+ 
+| 
+|
+CMO C–4
+ 
+|95.906250
+ 
+|93.343750
+ 
+|95.375000
+ 
+|92.937500
+ 
+| 
+|
+ND
+ 
+|95.562500
+ 
+|—
+ 
+|—
+ 
+|95.625000
+ 
+| 
+|
+CD–1
+ 
+|94.718750
+ 
+|—
+ 
+|—
+ 
+|94.500000
+ 
+| 
+|
+Z–2
+ 
+|2.500000
+ 
+|—
+ 
+|—
+ 
+|2.656250
+ 
+| 
+|
+Z–3
+ 
+|31.625000
+ 
+||31.000000—
+ 
+|31.375000
+ 
+||
+GMC A 1975
+ 
+|192.062500
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC B 1975
+ 
+|192.750000
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC A 1976
+ 
+|192.218750
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC B 1976
+ 
+|187.625000
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC A 1977
+ 
+|188.562500
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC B 1977
+ 
+|185.500000
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC C 1977
+ 
+|183.093750
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC A 1978
+ 
+|185.875000
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC B 1978
+ 
+|186.843000
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC C 1978
+ 
+|189.281250
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC A 1979
+ 
+|191.750000
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC B 1979
+ 
+|193.500000
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+GMC C 1979
+ 
+|191.562500
+ 
+|—
+ 
+|—
+ 
+|—
+ 
+| 
+|
+
+
+
+
+All Citations
+T.C. Memo. 2006-153, 2006 WL 2059952, 92 T.C.M. (CCH) 59, T.C.M. (RIA) 2006-153, 2006 RIA TC Memo 2006-153
+
+
+
+Footnotes
+|
+1
+|The call date is the earliest date on which petitioner, if it so chose, could repay the debt in full.
+|
+2
+|The put date is the earliest date on which the holder had the right to require petitioner to pay any remaining unpaid principal balance plus accrued interest.
+|
+1
+|See supra note 4.
+|
+2
+|The market prices per $100 on Jan. 1, 1985, are based upon petitioner’s calculations. Respondent’s calculations of the market price per $100 on Jan. 1, 1985, are slightly different. Respondent agrees that this difference is not significant.
+|
+3
+|This figure represents the outstanding principal on Dec. 31, 1984. Because Z–2 did not pay interest periodically, the principal amount at maturity will equal $7 billion.
+|
+4
+|This figure represents the outstanding principal on Dec. 31, 1984. Because Z–3 did not pay interest periodically, the principal amount at maturity will equal $250 million.
+|
+1
+|The adjusted issue price is the unpaid principal balance minus the fraction of any unamortized original issue discount remaining as of the valuation date. For a debt instrument issued at a price that equaled its face value and for which there had been no redemption before Dec. 31, 1984, the adjusted issue price equals the initial face amount. The adjusted issue price listed above is the adjusted issue price per $100 of unpaid principal balance.
+|
+2
+|The Jan. 1, 1985, market price equals the middle price—this is the average of the bid and asked prices. With the exception of G–15 and G–16, Professor Schaefer used the average of the bid prices obtained by Arthur Andersen and petitioner from the Salomon Brothers, First Boston, Merrill Lynch, and Shearson Lehman investment banks as the bid price. See appendix. The bid prices for G–15 and G–16 equaled the average of the available prices.
+|
+1
+|This figure is the total principal outstanding on ND as of Dec. 31, 1984.
+|
+1
+|Mean of dealer bid prices obtained from First Boston and Salomon Bros.
+|
+1
+|Unless otherwise indicated, all section references are to the Internal Revenue Code in effect for the years in issue, and all Rule references are to the Tax Court Rules of Practice and Procedure.
+|
+2
+|This issue is one of several involved in these cases. See Fed. Home Loan Mortgage Corp. v. Commissioner, 125 T.C. 248, 2005 WL 3110640 (2005); 121 T.C. 129, 2003 WL 22053841 (2003); 121 T.C. 254, 2003 WL 22229259 (2003); 121 T.C. 279, 2003 WL 22456791 (2003); T.C. Memo.2003–298.
+|
+3
+|In this context, debt includes collateralized mortgage obligations (CMOs) and guaranteed mortgage certificates (GMCs).
+|
+4
+|The effective contract interest rate is the adjusted coupon interest rate (or for zero-coupon bonds, the adjusted effective interest rate). The adjusted coupon interest rate equals the sum of the coupon rate of interest, the hedging gain or loss percentage, and any discount from the face value when the debt obligation was issued.
+|
+5
+|The mortgages used as collateral for the outstanding CMOs as of Jan. 1, 1985, were entirely first lien, conventional residential mortgages having fixed rates of interest.
+|
+6
+|In some cases, interest on the most junior class of bonds was not paid currently but accrued until the senior classes had been paid in full.
+|
+7
+|Respondent issued to petitioner Priv. Ltr. Rul. 7607233060D (July 23, 1976), which states, in pertinent part:
+Although the issuance of [Guaranteed Mortgage] Certificates takes the form of a transfer to the Certificate holders by * * * [petitioner] of undivided interests in the Mortgages, the terms of the Certificates are such that for Federal income tax purposes * * * [petitioner] will not be selling undivided interests in the Mortgages but will be issuing debt obligations for which the Mortgages held by the Trustee are security. * * *
+On May 13, 1983, respondent revoked this private letter ruling and related rulings. See Priv. Ltr. Rul. 8337016 (May 23, 1983). Respondent does not presently regard GMCs as debt for tax purposes; however, under the provisions of sec. 7805(b), respondent has permitted petitioner to treat its GMCs issued before May 23, 1983, including all of the GMCs at issue in this case, as debt for tax purposes.
+|
+8
+|Petitioner made minimum payments pursuant to the respective schedule on GMC A 1978, GMC B 1978, GMC C 1978, GMC A 1979, GMC B 1979, and GMC C 1979 on all payment dates from the inception of the GMC through March 1980.
+|
+9
+|On its original Federal income tax returns for the years at issue, petitioner reported the aggregate adjusted bases of its favorable financing intangible assets as follows:
+
+Year
+|Aggregate adjusted basis of favorable financing intangible assets
+|1985
+|$456,021,853
+|1986
+|391,552,352
+|1987
+|337,931,651
+|1988
+|283,234,501
+|1989
+|237,398,945
+|1990
+|196,718,525
+|Petitioner adjusted the bases of the favorable financing intangible assets for tax benefits received and the lost bases on retirements.
+|
+10
+|Petitioner reduced the value of its favorable financing intangible assets using the valuation performed by Dr. Stephen M. Schaefer.
+|
+11
+|FMV = (adjusted issue price per $100—market price per $100) x (unpaid principal balance / $100).
+|
+12
+|Dr. Scott D. Hakala received his doctor of philosophy, economics at the University of Minnesota. Dr. Hakala is currently a director and principal in CBIZ Valuation Group, LLC. His expertise includes: Corporate finance, restructuring and cost of capital; valuation of securities and business interests; valuation of intangible assets; analysis of publicly traded securities; economic loss analyses; wage and compensation determination; transfer pricing; and derivative securities. He has testified as an expert in over 60 cases in U.S. District Courts, this Court, and various State courts.
+|
+13
+|The term “deposit base” represents the present value of the future stream of income to be derived from employing the core deposits of a bank. See Fed. Home Loan Mortgage Corp. v. Commissioner, 121 T.C. at 262. “Core deposits are a relatively low-cost source of funds, reasonably stable over time, and relatively insensitive to interest rate changes.” Citizens & S. Corp. & Subs. v. Commissioner, 91 T.C. 463, 465, 1988 WL 90987 (1988). In First Chi. Corp. v. Commissioner, T.C. Memo.1994–300, we defined core deposits as follows:
+Core deposits can be an essential part of a commercial bank when they represent a low cost and stable source of funds. Banks typically invest the funds in loans or other income-producing assets, and receive fees for services rendered to the depositors. The excess of the income generated from the core deposits over the associated expenses contributes to the profitability of the bank. Core deposits are a separate and distinct intangible asset with an inherent value because they provide an inexpensive means to generate income. Therefore, when one bank considers acquiring another bank, core deposits can represent an attractive intangible asset and a reason for acquiring a bank. [Fn. ref. omitted.]
+|
+14
+|Dr. Herbert M. Kaufman received his Ph.D. in economics from the Pennsylvania State University. He is a professor of finance at Arizona State University, W.P. Carey School of Business. Dr. Kaufman’s fields of specialization are: Investments; financial markets and institutions; monetary economics; and applied econometrics. He provided a valuation analysis of petitioner’s asserted favorable financing intangible assets.
+|
+15
+|Dr. Hakala indicates that the CMOs and GMCs are exactly matched.
+|
+16
+|Management and guarantee income is the excess income/expense during a month from each GMC trust, including the excess of the effective interest income on mortgages backing the GMCs over the amount payable to GMC investors and short-term investments.
+|
+17
+|Professor Schaefer describes Asset Spread to Market as follows:
+the difference between the rate the firm actually earns on its assets and the rate it would earn if it had to invest in the market (at the Prevailing Market Interest Rate), measures the benefit to the firm of the specific assets it holds. I refer to this rate as the Asset Spread to Market. If positive, this difference represents the “favourableness” of the firm’s assets, just as the difference between the market and actual financing rates represents the “favourableness” of the firm’s liabilities. * * *
+|
+18
+|The reduction of value for income taxes reflects the present value of cashflows on an after-tax basis. The tax shield is the amortized tax benefit associated with creating an intangible asset.
+|
+19
+|See infra pp. 48–49.
+|
+20
+|The average weighted life formula is as follows:
+
+AWL
+|=
+|Σ PMT x n
+|P
+| 
+| 
+|PMT is the principal payment, n is the number of years that the principal amount has been outstanding, and P is the total principal paid.
+|
+21
+|Respondent did not offer alternative useful life calculations for petitioner’s favorable financing intangible assets.
+|
+
+
+
+
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

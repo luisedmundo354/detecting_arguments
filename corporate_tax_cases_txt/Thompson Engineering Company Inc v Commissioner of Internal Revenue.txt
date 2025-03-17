@@ -1,0 +1,2055 @@
+
+
+
+
+
+KeyCite Red Flag - Severe Negative Treatment
+Decision Reversed by Thompson Engineering Co., Inc. v. C.I.R., 6th Cir., January 4, 1985
+80 T.C. 672
+United States Tax Court
+THOMPSON ENGINEERING COMPANY, INC., PETITIONER
+v.
+COMMISSIONER of INTERNAL REVENUE, RESPONDENT
+Docket No. 9471-77.
+|
+Filed April 11, 1983.
+Synopsis
+Petitioner, a construction subcontractor, needed to retain earnings and profits to assure adequate bonding capacity; also, it had a reasonable business need to expand its plant. Petitioner had outstanding loans to its sole shareholder; the balance of these loans increased during the years in issue. Held:
+ 
+1. Petitioner’s retentions of earnings and profits exceeded the reasonable needs of its business.
+ 
+2. Petitioner was availed of for the purpose of avoiding the income tax with respect to its shareholder and is liable for the accumulated earnings tax. Sec. 531, I.R.C. 1954.
+ 
+Attorneys and Law Firms
+*672 Charles R. Hembree and Philip E. Wilson, for the petitioner.
+Robert J. Kastl, for the respondent.
+Opinion
+
+CHABOT , Judge:
+
+Respondent determined deficiencies in Federal corporate income tax (accumulated earnings tax imposed *673 by sec. 5311 against petitioner for fiscal years ended August 31, 1972, and August 31, 1973,2 in the amounts of $18,744.83 and $26,996.75, respectively.
+ 
+The issue for decision is whether petitioner was availed of for the purpose of avoiding the income tax with respect to its shareholder by permitting its earnings and profits to accumulate beyond the reasonable needs of its business (and, if so, what the amount is of the accumulated taxable income).
+ 
+
+
+FINDINGS OF FACT
+Some of the facts have been stipulated; the stipulations and the stipulated exhibits are incorporated herein by this reference.
+ 
+When the petition in this case was filed, petitioner’s principal place of business was in Lexington, Ky.
+ 
+Petitioner was incorporated in Kentucky on September 23, 1959. Throughout its existence, petitioner has been a construction subcontractor engaged primarily in the general plumbing, heating, and air-conditioning business, as well as doing related sheet metal work. During the period 1971 through 1974, this business was highly competitive.
+ 
+Billy R. Thompson (hereinafter sometimes referred to as Thompson) was petitioner’s sole shareholder and president from some time in the mid-1960’s through at least the time of trial.3 During the years in issue, Thompson, his wife, and his parents were petitioner’s directors; his mother and his wife were petitioner’s vice president and secretary-treasurer, respectively. As president, Thompson was responsible for all general decisions for petitioner from 1971 on, including all financial and dividend policies.
+ 
+From 1959 through at least 1974, petitioner’s volume of business increased almost uninterruptedly, and its reputation *674 was excellent. About 95 to 98 percent of petitioner’s work was in connection with public works sector contracts (i.e., contracts with Government agencies) involving schools, hospitals, office buildings, boiler plants, utilities, sewer plants, water plants, and federally funded housing. In most public works contracts the mechanical and electrical subcontractors were the two principal types of subcontractors. Petitioner was a mechanical subcontractor. Such contracts were awarded on the basis of a bidding process in which the general (or “prime”) contractor solicited bids from subcontractors (as well as materials suppliers) several weeks in advance of submitting its bid for the contract, analyzed the bids, selected the subcontractors (and materials suppliers) on whose bids it would rely, and formulated and submitted its own bid (listing therein for the contracting agency the names of the selected subcontractors). The subcontractor’s bid to the general contractor remained in force for a fixed period of time as set forth in the contract specifications. Once the general contractor was awarded a contract, subcontracts were awarded to the subcontractors. In preparing its bid, the general contractor was not required to use the lowest bidding subcontractor. Along with the amount of the bid, the general contractor considered the subcontractor’s financial capability, physical capacity to perform, available personnel, existing workload, and prior knowledge of the type of work involved.
+ 
+The general contractor in a public works contract was required to provide a performance and bid bond. At the option of the general contractor, the subcontractor might be required to provide a performance and payment bond. If the subcontractor was unable to provide a bond required by the general contractor, the latter would obtain permission from the contracting agency to change the subcontractor listed in the bid to the next acceptable subcontractor, and would be reluctant to use the initially selected subcontractor in future bidding until it was certain that the subcontractor was bondable.
+ 
+Most public works contracts of the size in which petitioner was involved took from 1 to 2 years to complete, with the average being about 18 months. Ordinarily, on a public works contract, 10 percent of each proportional progress payment to the general contractor was retained by the payor until the *675 contract was completed (on some contracts the retainage was reduced to 5 percent when more than one-half of the contract was completed). Usually, the general contractor applied the same retainage rule as to its payments to the subcontractors.
+ 
+A mechanical subcontractor’s work and involvement typically lasted from the beginning to the end of the construction project and might last beyond that of the general contractor. For example, if the project ended in winter and the air-conditioning system had to be tested and corrected for deficiencies in the equipment and installation, the subcontractor’s involvement might last until summer and a portion of the retainage might be withheld until testing or correction (if necessary) occurred. The subcontractor was in a position of greater risk than the general contractor because (1) the latter subcontracted a substantial portion of the work to be performed under the contract, as to which the risk was shifted, and (2) the subcontractor was directly responsible for the cost of material and equipment used. Petitioner subcontracted out only one item involved in its work (temperature control material and wiring) and this amounted to less than one-tenth of its cost of sales for each of the years in issue.
+ 
+Starting in 1972 and accelerating during 1973 and 1974 in the Lexington, Ky., area, the building industry in general and mechanical contractors and subcontractors in particular experienced dramatic increases in materials and equipment prices, along with a shortage of supply. Many items needed by mechanical contractors and subcontractors increased in price 15 percent or more a year, but some items increased as much as 300 percent in a year. This was also a period when mechanical contractors and subcontractors in this area experienced financial difficulty. Petitioner’s contracts with general contractors did not have escalator clauses protecting against increases in costs of materials, equipment, and labor. In order to hedge against such cost increases, petitioner sometimes bought materials as soon as it submitted its bids. During the years in issue, petitioner suffered losses on four or five of its contracts; many of its competitors went bankrupt. The price increases also caused bonding companies to want subcontractors, as well as contractors, to have greater amounts of cash and quick assets. From 1971 through 1974, many subcontractors experienced cash flow problems, which caused them to *676 lower their bids, reducing their profit margins, in order to get new jobs to get cash to pay off past accounts on completed jobs. This increased competition on smaller jobs and caused petitioner to bid on larger jobs in order to avoid this new aspect of competition.
+ 
+
+
+A. Business Needs
+1. Bonding
+ 
+The decision to bid on larger jobs caused petitioner to need additional bonding capacity. Before 1972, petitioner had not achieved its objective of lower bond premium rates and Thompson’s objective of eliminating personal indemnity requirements. In 1972, Thompson transferred petitioner’s performance and payment bonding business to a different agent, the Progressive Insurance Co. (hereinafter sometimes referred to as Progressive). The president and majority shareholder of Progressive was Russell E. Davis (hereinafter referred to as Davis). With Davis, Thompson wanted petitioner to be in a sufficiently strong position (vis-a-vis net worth and working capital considered by the bonding company) to obtain the necessary bonds at “preferred rates” (reduced from the rates petitioner was paying) and without personal indemnity.
+ 
+In evaluating a contractor for performance and payment bonding purposes, a bonding company is subjective and considers many factors, including the contractor’s personnel, reputation, pay record, working capital,4 net worth, and prior experience.
+ 
+Initially, Davis wrote petitioner’s bonds with the United States Fidelity & Guaranty Co. and was not able to do so at preferred rates or without personal indemnity. Sometime during 1972, Davis started writing petitioner’s bonds with the American States Insurance Co. (hereinafter referred to as States). States charged standard rates, but had a subsidiary, American Economy Insurance Co. (hereinafter referred to as Economy), which charged preferred rates.
+ 
+On July 6, 1972, States authorized Progressive to write *677 bonds for petitioner without home office referral. This authority did not apply to contracts of more than $250,000 and did not apply if petitioner’s total contracts in force at any one time (whether or not bonded) exceeded $2,500,000.
+ 
+Subsequently, Davis was able to write bonds for petitioner with Economy at preferred rates and without personal indemnity because of Progressive’s experience with petitioner, petitioner’s increased net worth and working capital, and petitioner’s greater work experience. On February 13, 1973, Economy authorized Progressive to write bonds for petitioner without home both of which terms focus on “net quick assets” and “cash flow” for purposes of bonding capital. office referral, on the same terms as set forth in States’ authorization of July 6, 1972, except that (1) the amount of the maximum single contract price was increased to $750,000, and (2) the amount of the permitted contracts in force was increased to $3 million.
+ 
+Bonding companies generally used rules of thumb for setting maximum limits on total outstanding contracts at any one time. Bonding companies generally set the limit at a range between 4 to 5 times net worth and 10 times working capital, for a general contractor. Because of their greater risk, subcontractors were limited to a range between 4 to 5 times net worth and only 61;2 to 7 times working capital. (For example, to grant a bond for $1 million in work, as a rule, a bonding company required that a subcontractor have about $150,000 in working capital or $200,000 to $250,000 net worth.) Bonding companies required contractors and subcontractors to have exceptional financial strength before granting bonds without personal indemnity.
+ 
+The bonding company concept of working capital emphasized cash flow and excluded certain assets considered to be current assets for accounting purposes. In analyzing working capital, Davis: (1) Verified cash deposits reflected on unaudited financial statements; (2) verified and aged accounts receivable, giving little consideration to those more than 6 months old;5 (3) took into account inventory purchased for (or on the work site of) a particular job, and generally excluded from working capital the value of any other inventory held by the contractor; (4) eliminated certain prepaid expenses from consideration *678 (for example, the contractor’s prepaid interest generally would be eliminated because the contractor would have to pay off the underlying debt in order to get a refund of the prepayment); (5) gave little consideration to stocks and other securities shown on the financial statement; (6) examined the promptness with which the contractor paid its bills as an indication of cash flow problems; and (7) tried to determine if the contractor overbilled or underbilled its jobs in progress.
+ 
+Generally, bonding companies would not give a contractor a maximum work load figure. In many cases, one who applied for a bond or prequalified to submit a bid had to disclose whether that person had ever been turned down for a bid. In order to avoid any such refusal, Thompson spoke with Davis before submitting bids. If Davis questioned petitioner’s bidding on a particular job, or if issuing a bond for the job would have exceeded Davis’ authority, Thompson would not submit the bid.
+ 
+Petitioner was not awarded any contracts that Progressive declined to bond. Davis never referred any additional amounts, over the amount of his authority for bonding, to the home office for approval. For Progressive to execute a bond for an additional job without home office referral, petitioner’s “contracts in force” (i.e., the total of all outstanding uncompleted work, including contracts under consideration whether bonded or not bonded) were subject to the $2.5 million and $3 million limitations in the July 6, 1972, and February 13, 1973, authorizations of States and Economy, respectively. There may have been times when petitioner’s bids exceeded the applicable limitation, or when it would not need a bond for a particular job, but when petitioner requested a bond from Progressive, petitioner had to meet the applicable limitations in order for Progressive to execute the bond without home office referral.
+ 
+As of the end of each of fiscal years 1971 through 1974, petitioner had total amounts of work completed during the year, uncompleted work in process, and (for fiscal years 1972 and 1973) bids outstanding in the amounts set forth in table 1:
+ 
+
+
+
+
+TABLE 1
+ 
+|
+ 
+||||
+
+
+
+
+
+
+
+Fiscal year
+ 
+|Work completed
+ 
+|Uncompleted work in process1
+ 
+|Bids outstanding
+ 
+|
+ 
+||||
+1971
+ 
+|$1,495,964
+ 
+|$1,074,975
+ 
+|N.A.
+ 
+|
+1972
+ 
+|1,819,936
+ 
+|1,453,819
+ 
+|$669,200
+ 
+|
+1973
+ 
+|11,913,864
+ 
+|1,853,234
+ 
+|3,274,700
+ 
+|
+1974
+ 
+|2,136,444
+ 
+|523,701
+ 
+|N.A.
+ 
+|
+ 
+||||
+
+
+
+
+*679 The numbers and aggregate amounts of the contracts petitioner was awarded, and contracts petitioner bid on at any time during the year but was not awarded, in fiscal years 1972 and 1973, are shown in table 2.
+ 
+
+
+
+
+TABLE 2
+ 
+|
+ 
+|||
+
+
+
+
+
+
+
+|Number of contracts (percentage)
+ 
+|Aggregate dollar amounts (percentage)
+ 
+|
+Fiscal year 1972
+ 
+|||
+ 
+|||
+Contracts awarded to petitioner
+ 
+|123
+ 
+|1$2,198,780
+ 
+|
+Contracts bid on by petitioner but not awarded to it
+ 
+|96
+ 
+|8,146,200
+ 
+|
+Awards as percent of total bids
+ 
+|(19%)
+ 
+|(21%)
+ 
+|
+ 
+|||
+
+
+
+
+
+
+
+Fiscal year 1973
+ 
+|||
+ 
+|||
+Contracts awarded to petitioner
+ 
+|221
+ 
+|22,313,279
+ 
+|
+Contracts bid on by petitioner but not awarded to it
+ 
+|84
+ 
+|11,342,700
+ 
+|
+Awards as percent of total bids
+ 
+|(20%)
+ 
+|(17%)
+ 
+|
+ 
+|||
+
+
+
+
+*680 On the average, petitioner’s bids remained outstanding about 60 days. The largest aggregate dollar amount of bids for any period of 2 consecutive calendar months in fiscal year 1972 was $2,119,000 for May and June. Of this total, $1,702,300 was bid on contracts not awarded to petitioner and $416,700 (about 20 percent) was bid on contracts awarded to petitioner.
+ 
+The largest aggregate dollar amount of bids for any period of 2 consecutive calendar months in fiscal year 1973 was $3,419,000 for June and July. None of these bids resulted in contracts being awarded to petitioner during fiscal year 1973 and the record fails to reflect how many of these bids were subsequently awarded to petitioner.
+ 
+Petitioner had reasonable business needs to establish a bonding capacity of $3 million and $3.5 million at the end of fiscal years 1972 and 1973, respectively. For this purpose, (a) for 1972, petitioner had a reasonable business need of $445,000 working capital or $675,000 net worth, and (b) for 1973, petitioner had a reasonable business need of $520,000 working capital or $785,000 net worth.
+2. Operating Cycle
+ 
+During the years in issue, petitioner’s business was seasonal insofar as wintertime inclement weather affected construction work.
+ 
+Petitioner’s annual cost of goods sold, average of quarter-ending inventories, and peak quarter-ending inventory for fiscal years 1972 through 1974 are shown in table 3.
+ 
+
+
+
+
+TABLE 3
+ 
+|
+ 
+||||
+
+
+
+
+
+
+
+Fiscal year
+ 
+|Cost of goods sold
+ 
+|Average inventories
+ 
+|Peak inventory
+ 
+|
+ 
+||||
+1972
+ 
+|$835,443
+ 
+|$72,473
+ 
+|$109,893
+ 
+|
+1973
+ 
+|871,016
+ 
+|107,600
+ 
+|140,507
+ 
+|
+1974
+ 
+|1,010,830
+ 
+|125,894
+ 
+|140,507
+ 
+|
+
+
+
+
+Petitioner’s annual sales, fiscal-year-ending accounts receivable (related to enumerated jobs), average of month-ending accounts receivable, and peak month-ending accounts receivable, for fiscal years 1972 through 1974 are shown in table 4.
+ 
+
+
+
+
+TABLE 4
+ 
+|
+ 
+|||||
+
+
+
+
+
+
+
+Fiscal year
+ 
+|Annual sales
+ 
+|Fiscal year-ending accounts receivable
+ 
+|Average accounts receivable
+ 
+|Peak accounts receivable
+ 
+|
+ 
+|||||
+1972
+ 
+|$2,036,246
+ 
+|1$561,150
+ 
+|$504,316
+ 
+|$685,509
+ 
+|
+1973
+ 
+|2,007,681
+ 
+|2614,479
+ 
+|514,206
+ 
+|614,479
+ 
+|
+1974
+ 
+|2,133,313
+ 
+|2740,993
+ 
+|568,927
+ 
+|740,993
+ 
+|
+ 
+|||||
+
+
+
+
+*681 Table 5 reflects the age of petitioner’s accounts receivable as of the ends of fiscal years 1972 and 1973.
+ 
+
+
+
+
+TABLE 5
+ 
+|
+ 
+||||||
+
+
+
+
+
+
+
+Fiscal year
+ 
+|1 to 60 days
+ 
+|61 to 90 days
+ 
+|91 days to 6 months
+ 
+|Over 6 months to 1 year
+ 
+|Over 1 year
+ 
+|
+ 
+||||||
+1972
+ 
+|$159,080
+ 
+|$62,729
+ 
+|$150,273
+ 
+|$50,980
+ 
+|$138,087
+ 
+|
+1973
+ 
+|240,743
+ 
+|44,216
+ 
+|113,892
+ 
+|67,345
+ 
+|148,284
+ 
+|
+
+
+
+
+Substantially all of these amounts consist of retainages.
+ 
+The total amount of petitioner’s cost of goods sold plus cash operating expenses (before Federal income tax), and petitioner’s average of quarter-ending accounts payable for fiscal years 1972 through 1974 are shown in table 6.
+ 
+
+
+
+
+TABLE 6
+ 
+|
+ 
+|||
+
+
+
+
+
+
+
+Fiscal year
+ 
+|Cost of goods sold plus cash operating expenses
+ 
+|Average accounts payable
+ 
+|
+ 
+|||
+1972
+ 
+|$1,676,590
+ 
+|$142,901
+ 
+|
+1973
+ 
+|1,755,607
+ 
+|186,830
+ 
+|
+1974
+ 
+|1,928,690
+ 
+|178,613
+ 
+|
+
+
+
+
+Petitioner’s Federal estimated income tax payments were $90,300 and $122,400 in fiscal years 1972 and 1973, respectively.
+3. Building Expansion and Equipment
+ 
+During the years in issue, petitioner operated from a building located at 837 Floyd Drive, Lexington, Ky. The *682 building’s floor area was about 5,000 square feet, of which about 1,200 square feet was used for office space, about 1,250 square feet was used for a sheet metal shop, and the remaining space was used for storage. The tract of land at the 837 Floyd Drive address consists of three subdivision lots (designated and hereinafter individually referred to as lots 17, 18, and 19, and collectively referred to as the original tract).
+ 
+Because of growth in work volume, petitioner had planned to add to its facilities before and during the years in issue. At a special meeting on August 10, 1968, petitioner’s board of directors authorized Thompson as president to (1) purchase an additional lot in the rear of the original tract, and (2) proceed with plans for a new building (including obtaining bids on related subcontracts and the building permit) and construction thereof “as soon as time and money would permit.” At this meeting, Thompson estimated the cost of the building to be $55,750.
+ 
+At a special meeting of petitioner’s board of directors on August 9, 1969, Thompson as president (1) reported that he had purchased a lot adjoining petitioner’s existing building, and (2) outlined the need for expansion in the size and production of the sheet metal shop and storage (which would necessitate constructing a building and purchasing new equipment estimated to cost $103,000 and $35,000, respectively), as well as for expansion in the electrical field (which would necessitate purchasing tools, equipment, and inventory estimated to cost $51,000 and hiring a qualified person to head the department). At this meeting, petitioner’s board of directors authorized Thompson, as president, to pursue acquisition of another adjoining lot and new equipment, as well as construction of “additional facilities.”
+ 
+Petitioner purchased three additional lots (designated, and hereinafter individually referred to as lots 47, 48, and 49, and collectively referred to as the second tract), which abut on the rear of the original tract and front on Contract Street (a street which is more or less parallel to Floyd Drive).
+ 
+Petitioner also negotiated for the purchase of three other lots (designated, and hereinafter individually referred to as lots 50, 51, and 52, and collectively referred to as the third *683 tract), which front on Contract Street, adjoin a portion of the rear property line of the original tract, and are adjacent to the second tract.
+ 
+Petitioner contemplated constructing a building which would be added to the back end of its existing building and would extend into lots 48 through 51. This building would be used for expansion of petitioner’s sheet metal shop, office space, and storage. In May 1973, petitioner was given a quotation, “preliminary in scope,” of $93,750 for the cost of this building.
+ 
+In 1974, the construction industry problems that had been affecting the Lexington, Ky., area created a severe slump, and petitioner’s backlog of work decreased dramatically (see table 1 supra), which caused petitioner to place the building plans in abeyance. Petitioner maintained its basic work force and subsequently was ready to renew operations at an increased workload. When the industry began to turn around, petitioner again proceeded with expansion plans and negotiations to purchase the third tract. In May 1975, petitioner was quoted a price of $140,400 to “up-date” the 1973 proposal. The 1975 quotation was “a preliminary estimate.”
+ 
+At some point before 1977, Thompson purchased three other lots (designated as lots 53, 54, and 55, and hereinafter collectively referred to as the fourth tract) jointly with the owner of the third tract. The fourth tract fronts on Contract Street and is adjacent to the third tract, but is not adjacent to any of the tracts petitioner owned.
+ 
+Thompson did not succeed in his efforts (including negotiations with respect to Thompson’s interest in the fourth tract) to obtain the third tract for petitioner. As a result of this, and difficulties with a utility easement on the original tract, petitioner modified its plans to provide for a smaller addition to its existing building, which would fit entirely on the original tract. The owner of the third tract gave petitioner oral permission to use the third tract for access to the modified building and to use some parts of the third tract for outdoor storage. Because of petitioner’s inability to effectuate its earlier expansion plans, it has used barns, warehouses, and trailers for indoor storage.
+ 
+In late 1977, petitioner began to convert about 1,250 square feet of the storage area in its existing building into finished offices for office personnel.
+ 
+*684 By August 1978, petitioner had detailed blueprints of an addition to its existing building, which blueprints were revised on June 1, and August 3, 1979. In 1978, petitioner purchased the steel beams for the roof of the addition but they were stolen. Construction on the addition started in 1979.
+ 
+
+
+B. Financial Data
+Petitioner’s accumulated earnings and profits as of the ends of fiscal years 1971 through 1973, and its current earnings and profits (“taxable income adjusted in the manner provided in sec. 535(b)”) for the years in issue, are set forth in table 7.
+ 
+
+
+
+
+TABLE 7
+ 
+|
+ 
+|||
+
+
+
+
+
+
+
+Fiscal year
+ 
+|Accumulated earnings and profits
+ 
+|Current earnings and profits retained1
+ 
+|
+ 
+|||
+1971
+ 
+|$535,601
+ 
+|–––
+ 
+|
+1972
+ 
+|727,507
+ 
+|$191,979
+ 
+|
+1973
+ 
+|864,583
+ 
+|137,257
+ 
+|
+ 
+|||
+
+
+
+
+Petitioner’s balance sheets as of the ends of fiscal years 1971 through 1974 are shown in table 8 on page 685.
+ 
+
+
+
+
+TABLE 8
+ 
+|
+ 
+|||||
+
+
+
+
+
+
+
+BALANCE SHEET
+ 
+|
+ 
+|||||
+
+
+
+
+
+
+
+As of the Fiscal Year End Aug. 31
+ 
+|
+ 
+|||||
+
+
+
+
+
+
+
+Assets
+ 
+|1971
+ 
+|1972
+ 
+|1973
+ 
+|1974
+ 
+|
+ 
+|||||
+
+
+
+
+
+
+
+Current assets
+ 
+| 
+| 
+| 
+| 
+|
+Cash
+ 
+|$178,666
+ 
+|$85,367
+ 
+|$166,364
+ 
+|$160,875
+ 
+|
+Temporary investments
+ 
+|50,591
+ 
+|124,309
+ 
+|124,301
+ 
+|24,301
+ 
+|
+Accounts receivable
+ 
+|401,085
+ 
+|561,150
+ 
+|2614,929
+ 
+|2742,572
+ 
+|
+Interest receivable
+ 
+|3,700
+ 
+|5,743
+ 
+|9,210
+ 
+|10,846
+ 
+|
+Inventory
+ 
+|132,731
+ 
+|109,893
+ 
+|140,507
+ 
+|82,056
+ 
+|
+Deposits on plans
+ 
+|349
+ 
+|654
+ 
+|331
+ 
+|556
+ 
+|
+Prepaid expenses
+ 
+|11,109
+ 
+|13,903
+ 
+|24,728
+ 
+|15,839
+ 
+|
+Total current assets
+ 
+|778,591
+ 
+|801,019
+ 
+|980,370
+ 
+|1,037,045
+ 
+|
+
+
+
+
+
+
+
+Plant and equipment
+ 
+| 
+| 
+| 
+| 
+|
+Net value (cost less depreciation)
+ 
+|108,153
+ 
+|121,133
+ 
+|110,240
+ 
+|104,953
+ 
+|
+
+
+
+
+
+
+
+Other assets
+ 
+|||||
+Notes receivable—officers
+ 
+|83,052
+ 
+|151,850
+ 
+|160,200
+ 
+|188,400
+ 
+|
+
+
+
+
+
+
+
+Accounts receivable—
+ 
+|||||
+Officers
+ 
+|||282
+ 
+|304
+ 
+|
+Employees
+ 
+|4,016
+ 
+|3,204
+ 
+|5,107
+ 
+|4,155
+ 
+|
+
+
+
+
+
+
+
+Officers’ life insurance—
+ 
+| 
+| 
+| 
+| 
+|
+Cash surrender value
+ 
+|3,468
+ 
+|3,950
+ 
+|4,422
+ 
+|4,901
+ 
+|
+Investment in partnership
+ 
+| 
+| 
+| 
+|30,787
+ 
+|
+Total other assets
+ 
+|90,536
+ 
+|159,004
+ 
+|170,011
+ 
+|228,547
+ 
+|
+Total assets
+ 
+|977,280
+ 
+|1,081,156
+ 
+|1,260,621
+ 
+|1,370,545
+ 
+|
+
+
+
+
+
+
+
+Liabilities and shareholder’s equity
+ 
+|||||
+ 
+|||||
+
+
+
+
+
+
+
+Current liabilities
+ 
+| 
+| 
+| 
+| 
+|
+Accounts payable
+ 
+|189,743
+ 
+|111,888
+ 
+|245,776
+ 
+|160,719
+ 
+|
+Notes payable
+ 
+|7,500
+ 
+|5,500
+ 
+|2,000
+ 
+|–––
+ 
+|
+Mortgages payable—current portion
+ 
+|2,942
+ 
+|3,123
+ 
+|3,315
+ 
+|3,516
+ 
+|
+Accrued wages, salaries, and bonuses
+ 
+|88,406
+ 
+|84,557
+ 
+|87,777
+ 
+|93,868
+ 
+|
+Accrued interest payable
+ 
+|471
+ 
+|497
+ 
+|259
+ 
+|113
+ 
+|
+Payroll taxes payable
+ 
+| 
+|5,407
+ 
+|252
+ 
+|2,780
+ 
+|
+Accrued income taxes—Federal and State
+ 
+|91,376
+ 
+|84,559
+ 
+|1,856
+ 
+|80,696
+ 
+|
+Total current liabilities
+ 
+|380,438
+ 
+|295,531
+ 
+|341,235
+ 
+|341,692
+ 
+|
+
+
+
+
+
+
+
+Long-term liabilities
+ 
+| 
+| 
+| 
+| 
+|
+ 
+ 
+| 
+| 
+| 
+| 
+|
+Mortgages payable
+ 
+|29,368
+ 
+|26,245
+ 
+|22,929
+ 
+|19,413
+ 
+|
+Total liabilities
+ 
+|409,806
+ 
+|321,776
+ 
+|364,164
+ 
+|361,105
+ 
+|
+
+
+
+
+
+
+
+Shareholder’s equity
+ 
+| 
+| 
+| 
+| 
+|
+ 
+ 
+| 
+| 
+| 
+| 
+|
+Capital stock
+ 
+|127,625
+ 
+|127,625
+ 
+|127,625
+ 
+|127,625
+ 
+|
+Retained earnings
+ 
+|439,849
+ 
+|631,755
+ 
+|768,832
+ 
+|881,815
+ 
+|
+Total shareholder’s equity
+ 
+|567,474
+ 
+|759,380
+ 
+|896,457
+ 
+|1,009,440
+ 
+|
+Total liabilities and
+ 
+| 
+| 
+| 
+| 
+|
+shareholder’s equity
+ 
+|997,280
+ 
+|1,081,156
+ 
+|1,260,621
+ 
+|1,370,545
+ 
+|
+ 
+ 
+| 
+| 
+| 
+| 
+|
+
+
+
+
+Table 9 reflects the type of analysis of financial data for the ends of petitioner’s fiscal years 1972 and 1973 made by Progressive in executing bonds for petitioner on behalf of States and Economy, respectively. The analysis for each of these fiscal years was made about 6 months to 1 year after that fiscal year’s end.
+ 
+
+
+
+
+TABLE 9
+ 
+|
+ 
+|||
+
+
+
+
+
+
+
+Current assets
+ 
+|1972
+ 
+|1973
+ 
+|
+ 
+ 
+| 
+| 
+|
+Cash
+ 
+|$85,367
+ 
+|$166,364
+ 
+|
+Temporary investments
+ 
+|–––
+ 
+|–––
+ 
+|
+Accounts receivable1
+ 
+|483,156
+ 
+|472,887
+ 
+|
+Inventory
+ 
+|–––
+ 
+|–––
+ 
+|
+Prepaid expenses
+ 
+|–––
+ 
+|–––
+ 
+|
+Prepaid income tax
+ 
+|–––
+ 
+|9,810
+ 
+|
+Deposits on plans
+ 
+|–––
+ 
+|331
+ 
+|
+Totals
+ 
+|568,523
+ 
+|649,392
+ 
+|
+Current liabilities
+ 
+|295,531
+ 
+|341,236
+ 
+|
+“Working capital”
+ 
+|272,992
+ 
+|308,156
+ 
+|
+
+
+
+
+*686 From the date of its incorporation through fiscal year 1973, petitioner did not pay a cash dividend. In September 1974, petitioner elected to be taxed as an electing small business corporation under subchapter S (secs. 1371 et seq.) of chapter 1. On November 15, 1974, petitioner paid a cash dividend of $112,986.63.
+ 
+Table 10 shows the dates and amounts of loans from petitioner to Thompson, repayments by Thompson relating thereto, the outstanding principal balance of the loans, and interest paid by Thompson relating to the loans, from August 31, 1971, through October 31, 1973.
+ 
+
+
+
+
+TABLE 10
+ 
+|
+ 
+||||||
+
+
+
+
+
+
+
+Date
+ 
+|Loans from petitioner to Thompson
+ 
+|Repayment of loans by Thompson to petitioner
+ 
+|Outstanding principal balance of loans
+ 
+|Interest paid
+ 
+|
+ 
+||||||
+Aug.
+ 
+|31, 1971
+ 
+|||$83,051.68
+ 
+||
+Sept.
+ 
+|17, 1971
+ 
+|$1,500
+ 
+||84,551.68
+ 
+||
+Oct.
+ 
+|29, 1971
+ 
+|2,500
+ 
+||87,051.68
+ 
+||
+Nov.
+ 
+|12, 1971
+ 
+|7,500
+ 
+||94,551.68
+ 
+||
+Nov.
+ 
+|15, 1971
+ 
+||$35,401.66
+ 
+|59,150.02
+ 
+|$3,700.11
+ 
+|
+Dec.
+ 
+|29, 1971
+ 
+|30,000
+ 
+||89,150.02
+ 
+||
+Feb.
+ 
+|9, 1972
+ 
+|3,000
+ 
+||92,150.02
+ 
+||
+Mar.
+ 
+|21, 1972
+ 
+|3,000
+ 
+||95,150.02
+ 
+||
+Apr.
+ 
+|14, 1972
+ 
+|1,200
+ 
+||96,350.02
+ 
+||
+May
+ 
+|15, 1972
+ 
+|3,000
+ 
+||99,350.02
+ 
+||
+July
+ 
+|3, 1972
+ 
+|25,000
+ 
+||124,350.02
+ 
+||
+July
+ 
+|6, 1972
+ 
+|500
+ 
+||124,850.02
+ 
+||
+July
+ 
+|18, 1972
+ 
+|1,000
+ 
+||125,850.02
+ 
+||
+July
+ 
+|28, 1972
+ 
+|20,000
+ 
+||145,850.02
+ 
+||
+Aug.
+ 
+|10, 1972
+ 
+|1,000
+ 
+||146,850.02
+ 
+||
+Aug.
+ 
+|22, 1972
+ 
+|5,000
+ 
+||151,850.02
+ 
+||
+Oct.
+ 
+|17, 1972
+ 
+|3,500
+ 
+||155,350.02
+ 
+||
+Nov.
+ 
+|3, 1972
+ 
+|6,000
+ 
+||161,350.02
+ 
+||
+Nov.
+ 
+|15, 1972
+ 
+||12,150.02
+ 
+|149,200.00
+ 
+|5,720.62
+ 
+|
+May
+ 
+|15, 1973
+ 
+|1,500
+ 
+||150,700.00
+ 
+||
+June
+ 
+|8, 1973
+ 
+|3,000
+ 
+||153,700.00
+ 
+||
+June
+ 
+|28, 1973
+ 
+|6,500
+ 
+||160,200.00
+ 
+||
+Oct.
+ 
+|31, 1973
+ 
+|4,000
+ 
+||164,200.00
+ 
+||
+
+
+
+
+The outstanding loans from petitioner to Thompson shown in table 10 supra, were reflected as “notes receivable—-officers” *687 on petitioner’s balance sheet (see table 8 supra) and were evidenced by demand notes. All but two of these notes state a 6-percent interest rate. The other two notes do not state any interest rate. Thompson had sufficient personal assets to obtain a personal loan to repay the principal amount of the loans from petitioner, plus interest, and was assured by his bank that on very short notice he could get such a personal loan.
+ 
+In working sessions with bonding agents, Thompson was told to keep control over petitioner’s working capital and invest it on a demand or short-term basis.6 Davis and Thompson discussed the loans in the context that (1) for bonding purposes, the notes receivable of Thompson would be taken into account in determining petitioner’s net worth, but not in determining petitioner’s working capital, and (2) it would be necessary at some point to subordinate “this note receivable” to the bonding company, making it an asset of petitioner’s available to the bonding company and not subject to petitioner’s general creditors.
+ 
+Petitioner’s independent accountant prepared funds statements (also known as statements of sources and uses of working capital) for petitioner for the years in issue, which reflected the increases in the net notes receivable due from Thompson as uses of funds or reduction in working capital.
+ 
+Thompson used all but about $55,000 of the amounts loaned for the purchase of his house, a farm, and a lot. He used the remainder to start a new business called Quickset Fasteners, Inc., which was to sell fasteners, anchors, bolts, nuts, drilling devices, masonry, saw blades, and tools, and eventually to become a supplier of plumbing materials. Thompson intended to obtain a more secure supply of materials used by petitioner (some of which were difficult to obtain) at discount prices through volume purchasing.
+ 
+After October 31, 1973, through September 24, 1974, petitioner made four loans to Thompson (in addition to those shown on table 10 supra), aggregating $69,200. On November 15, 1974, Thompson repaid all the pre-September 17, 1971, loans that had not previously been repaid, as well as the first *688 10 notes listed in table 10 (those from August 31, 1971, through July 6, 1972), for a total of $112,700.
+ 
+Table 11 reflects petitioner’s gross revenue from sales, net profit before taxes, and net profit after taxes for fiscal years 1966 through 1974. (P. 689.)
+ 
+
+
+
+
+TABLE 11
+ 
+|
+ 
+||||||||||
+
+
+
+
+
+
+
+Fiscal year
+ 
+|
+ 
+ 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|
+
+
+
+
+
+
+
+|1966
+ 
+|1967
+ 
+|1968
+ 
+|1969
+ 
+|1970
+ 
+|1971
+ 
+|1972
+ 
+|1973
+ 
+|1974
+ 
+|
+ 
+||||||||||
+Sales
+ 
+|$710,265
+ 
+|$1,072,763
+ 
+|$1,016,901
+ 
+|$1,166,617
+ 
+|$1,361,940
+ 
+|$1,906,319
+ 
+|$2,036,246
+ 
+|$2,007,681
+ 
+|$2,133,313
+ 
+|
+Net profit before taxes
+ 
+|64,387
+ 
+|95,913
+ 
+|155,600
+ 
+|155,254
+ 
+|143,665
+ 
+|262,770
+ 
+|372,165
+ 
+|264,571
+ 
+|215,520
+ 
+|
+Net profit after taxes
+ 
+|38,647
+ 
+|55,048
+ 
+|80,388
+ 
+|78,791
+ 
+|68,390
+ 
+|137,662
+ 
+|191,906
+ 
+|137,076
+ 
+|112,983
+ 
+|
+
+
+
+
+Thompson’s compensation as petitioner’s president was $69,665 and $73,268 for fiscal years 1972 and 1973, respectively.
+ 
+For 1972 and 1973, Thompson and his wife reported taxable income on their joint Federal income tax returns of $53,485.50 and $50,571.34, and the marginal rates at which additional income would be taxed to them were 53 percent and 50 percent, respectively.
+ 
+Respondent determined that petitioner retained current earnings and profits, had business needs for such retentions, and had accumulated taxable income for each of the years before the Court in the amounts set forth in table 12.
+ 
+
+
+
+
+TABLE 12
+ 
+|
+ 
+|||
+
+
+
+
+
+
+
+ 
+|Fiscal year
+ 
+|
+ 
+|1972
+ 
+|1973
+ 
+|
+ 
+ 
+| 
+| 
+|
+Current earnings and profits retained
+ 
+|$191,979
+ 
+|$137,257
+ 
+|
+Current earnings and profits retained for reasonable needs of the business
+ 
+|1 123,816
+ 
+|39,087
+ 
+|
+Accumulated taxable income
+ 
+|68,163
+ 
+|98,170
+ 
+|
+ 
+ 
+| 
+| 
+|
+
+
+
+
+
+
+ULTIMATE FINDING OF FACT
+In each of the years before the Court, petitioner was availed of for the purpose of avoiding income tax with respect to Thompson, by permitting earnings and profits to accumulate instead of being divided or distributed.
+ 
+
+
+OPINION
+
+A. General
+Petitioner contends that its earnings and profits were not accumulated in excess of its reasonable business needs and in *690 any event, it was not formed or availed of for the purpose of avoiding income tax with respect to Thompson. Respondent contends to the contrary to the extent that $68,163 and $98,170 constituted accumulated taxable income subject to the section 531 tax for fiscal years 1972 and 1973, respectively (see table 12 supra).7
+ 
+We agree with respondent as to the accumulations (with some modification in amount) and as to the prohibited purpose.
+ 
+Section 5318 imposes the accumulated earnings tax on the “accumulated taxable income” of every corporation described in section 532.9 In general, section 53510 defines “accumulated *691 taxable income” as taxable income, with certain adjustments, less earnings and profits retained for the reasonable needs of the business. Section 533(a) provides as follows:
+SEC. 533. EVIDENCE OF PURPOSE TO AVOID INCOME TAX.
+ 
+(a) UNREASONABLE ACCUMULATION DETERMINATIVE OF PURPOSE .—-For purposes of section 532, the fact that the earnings and profits of a corporation are permitted to accumulate beyond the reasonable needs of the business shall be determinative of the purpose to avoid the income tax with respect to shareholders, unless the corporation by the preponderance of the evidence shall prove to the contrary.
+ 
+ 
+The foregoing framework focuses on whether the corporation’s earnings and profits for a year were accumulated in excess of the amount necessary to meet its reasonable business needs at the end of the year. The courts have refined this concept by not looking simply to the amount of earnings and profits accumulated but instead by looking to the assets available measured by available working capital to meet these reasonable business needs. Faber Cement Block Co. v. Commissioner, 50 T.C. 317, 328-329 (1968). See Atlas Tool Co. v. Commissioner, 70 T.C. 86, 120 (1978), affd. 614 F.2d 860 (3d Cir. 1980). The courts look to the nature of the assets to which the accumulated earnings and profits are committed.11 Atlas Tool Co. v. Commissioner, supra; Faber Cement Block Co. v. Commissioner, 50 T.C. at 328; Bremerton Sun Publishing Co. v. Commissioner, 44 T.C. 566, 582-583 (1965); see Ivan Allen Co. v. United States, 422 U.S. 617, 628-629 (1975); Battelstein Investment Co. v. United States, 442 F.2d 87, 89 (5th Cir. 1971). The amounts of the assets available to meet the reasonable business needs are compared to the amounts of the needs.
+ 
+
+
+B. Burden of Proof
+Pursuant to section 534(b), respondent notified petitioner that a proposed notice of deficiency included an amount with respect to the accumulated earnings tax imposed by section 531 for fiscal years 1972 and 1973. Petitioner, pursuant to *692 section 534(c), timely submitted a statement of grounds on which it relied to establish that its earnings and profits for fiscal years 1972 and 1973 had not been permitted to accumulate beyond the reasonable needs of its business.
+ 
+In its statement, petitioner asserts that it needed to retain all of its earnings and profits in order to (1) enable it to develop performance bond capacity, and (2) have sufficient funds to operate and to finance the construction of a proposed storage warehouse. As to the former need, petitioner’s statement mentions the amount of “uncompleted work in process” and outstanding bids as of each of the fiscal year’s end in issue, but specifically states that “there are no set rules of thumb that determine the contractor’s maximum bonding capacity,AD12BD but rather the decision is made by the bonding company as a value judgment.” The statement fails to notify respondent of petitioner’s factual basis for quantifying that value judgment. The statement does not indicate either the amount of bonding capacity petitioner sought to achieve or the amount of assets required to attain a desired bonding capacity. As to the latter need, the only information regarding cost of the proposed storage warehouse is the mention of a “price quotation” of $93,750 dated May 10, 1973, for construction of the warehouse. The statement does not provide specific facts justifying the need for the proposed warehouse vis-a-vis work volume or the basis for estimating its cost of construction before May 10, 1973.13 The statement asserts that petitioner’s need for operating funds varies substantially from year to year and that adequate bonding capacity is “The most important and all inclusive need.” Petitioner’s statement asserts that inflation and retainages as to petitioner’s contracts will affect its needs to retain earnings and profits, but fails to adequately indicate to what extent petitioner’s needs would be so affected, or how petitioner proceeded to determine the extent, or how respondent could determine the extent on the basis of the information in the statement.
+ 
+*693 This Court determined that the burden of proof was not shifted to respondent, concluding that the statement (particularly the failure to provide supporting information) was not sufficiently substantial, material, definite, and clear to permit determination of an amount of accumulation of earnings and profits for which there were reasonable business needs. J. Gordon Turnbull, Inc. v. Commissioner, 41 T.C. 358, 370-371 (1963), affd. 373 F.2d 87 (5th Cir. 1967).14
+ 
+
+
+C. Business Needs
+A determination of reasonable business needs is critical in two respects: (1) To compute the section 535(c) credit in calculating the accumulated taxable income, and (2) to decide whether the presumption of a tax-avoidance purpose under section 533 applies. The determination is a factual one ( Cheyenne Newspapers, Inc. v. Commissioner, 494 F.2d 429, 432 (10th Cir. 1974), affg. a Memorandum Opinion of this Court;15 Herzog Miniature Lamp Works, Inc. v. Commissioner, 481 F.2d 857, 861 (2d Cir. 1973), affg. a Memorandum Opinion of this Court;16 Battelstein Investment Co. v. United States, 442 F.2d at 88; Magic Mart, Inc. v. Commissioner, 51 T.C. 775, 790 (1969); Faber Cement Block Co. v. Commissioner, 50 T.C. at 329, and cases cited therein), as to which we are reluctant to substitute our business judgment for that of corporate management unless the facts and circumstances warrant our doing so ( Atlantic Properties, Inc. v. Commissioner, 62 T.C. 644, 656 (1974), affd. 519 F.2d 1233 (1st Cir. 1975); Faber Cement Block Co. v. Commissioner, 50 T.C. at 329, and cases cited therein).
+ 
+Section 537(a)(1) provides that “the term ‘reasonable needs of the business’ includes—-(1) the reasonably anticipated needs of the business.” In accord with the legislative history of the enactment of the Internal Revenue Code of 1954,17 Treasury Regulations section 1.537-1(b)(1) states that to justify an *694 accumulation, plans for its future use must be “specific, definite, and feasible” rather than “uncertain or vague.”
+ 
+The instant case presents us with two overwhelming factual elements, and these elements point in opposite directions.
+ 
+Petitioner lent money to its sole shareholder, Thompson. Most of the loans continued throughout the period before the Court. The outstanding loan balances were substantial; they exceeded the amounts respondent seeks to tax in any one year. The loans indicate that petitioner did not need the money for its day-to-day operations. Of perhaps even greater importance is the fact that petitioner’s sole shareholder was thereby able to make use of the money without having to take it into income as a dividend. See sec. 532(a) (note 9 supra).
+ 
+On the other hand, a basic need of petitioner’s business is bonding capacity. An adequate level of net assets is a basic requisite to a healthy construction subcontracting business. The accumulated earnings tax does not require that such a basic requisite be financed solely from sources outside the corporation’s earnings.
+ 
+With this preface, we examine the record and the parties’ contentions, in order to determine whether petitioner has carried its burden of proving that it did not accumulate its earnings and profits beyond the reasonable needs of its business (sec. 533(a)) or, failing that, that any such excess accumulations were less than the amounts determined by respondent in the notice of deficiency (thereby increasing the amount of petitioner’s accumulated earnings credit under sec. 535(c)(1)).
+1. Bonding
+ 
+Although ability to secure bonds in petitioner’s business depends on many factors, the evidence in the record indicates a primary focus on rules of thumb based on a special definition of “working capital” (61;2 to 7 times) and net assets (4 to 5 times), in order to establish a range for maximum bonding capacity levels.
+ 
+The record makes it clear that petitioner’s loans to Thompson were not taken into account for purposes of applying the special working capital test. In other words, each dollar of loans to Thompson reduced—-by $6.50 to $7—-petitioner’s bonding capacity to the extent that this capacity depended on *695 the special working capital test. Nevertheless, petitioner increased its outstanding loan balance to Thompson by $68,798.34 during fiscal year 1972 and by an additional $8,349.98 during fiscal year 1973. If petitioner needed to bolster its working capital in order to increase bonding capacity, it could have done so by demanding repayment of its loans to Thompson, rather than adding to the outstanding balance. As to the working capital test, petitioner was in no stronger position by lending to Thompson than it would have been had it paid out the loans as dividends to Thompson.
+ 
+It appears that, during the years before the Court, petitioner’s bonding capacity was more sensitive to the net assets test than to the working capital test. For purposes of the net assets test, petitioner’s loans to Thompson did not diminish its bonding capacity. On the other hand, payment of dividends would have diminished petitioner’s net assets and so might have diminished petitioner’s bonding capacity.
+ 
+The question then is what level of bonding capacity petitioner reasonably needed, and what amount of net assets or working capital petitioner reasonably needed in order to achieve the appropriate bonding capacity.
+ 
+As indicated supra, we are loath to second-guess a taxpayer’s business decisions in such matters. However, we have not been shown that petitioner decided to establish, or set a goal for, any particular level of bonding capacity. Put another way, petitioner has failed to show that it made a business decision which we should be loath to second-guess.
+ 
+In determining how much bonding capacity petitioner needed, we take into account the amounts of petitioner’s uncompleted work in process and its outstanding bids still in effect. (See tables 1 and 2, and the text following them, supra.)
+ 
+Petitioner’s position is that it had to increase its bonding capacity in order to be able to meet its potential commitments, as illustrated by table 13, which is taken from petitioner’s brief.
+ 
+
+
+
+
+TABLE 13
+ 
+|
+ 
+|Aug. 31, 1972
+ 
+|Aug. 31, 1973
+ 
+|
+ 
+ 
+| 
+| 
+|
+Uncompleted work on hand
+ 
+|$1,453,900
+ 
+|$1,853,200
+ 
+|
+Average amount of bids outstanding but not awarded
+ 
+|1,357,700
+ 
+|1,890,450
+ 
+|
+Total
+ 
+|2,811,600
+ 
+|3,743,650
+ 
+|
+Bonding authority
+ 
+|2,500,000
+ 
+|3,000,000
+ 
+|
+
+
+
+
+*696 Petitioner also asserts that in fiscal year 1972 it may have had as much as $2,119,000 in outstanding bids at one time and in fiscal year 1973, as much as $3,274,700 in outstanding bids at one time. Petitioner asserts that it had a reasonable business need to be able to secure bonds for all its outstanding bids, and also to plan for continued growth.
+ 
+Although it was theoretically possible for petitioner to have been awarded all of its outstanding bids at any one time, the record indicates (see table 2 supra) that, during each of the years before the Court, petitioner was awarded only about one-fifth of the contracts it bid on, in terms of both numbers of contracts and dollar amounts. It obviously would have been prudent for petitioner to be prepared for a greater degree of success in bidding than it had hitherto experienced. However, nothing in the record persuades us that petitioner ever decided to achieve bonding capacity to meet a possibility of 100-percent success in bidding. In fact, nothing in the record persuades us that petitioner decided to achieve any particular level of bonding capacity, on any set of assumptions.
+ 
+Doing the best we can with the record before us, we conclude and have found as follows:
+ 
+(1) As of the end of fiscal year 1972, petitioner had a reasonable business need to establish a bonding capacity of $3 million, and for that purpose had a reasonable business need of $445,000 working capital or $675,000 net worth; and
+ 
+(2) As of the end of fiscal year 1973, petitioner had a reasonable business need to establish a bonding capacity of $3,500,000, and for that purpose had a reasonable business need of $520,000 working capital or $785,000 net worth.
+2. Bardahl Formula
+ 
+Respondent determined the amount of petitioner’s reasonable business needs by applying the “Bardahl18
+ 
+*697 For the notice of deficiency, respondent calculated petitioner’s needs under the Bardahl formula to be $589,154 for fiscal year 1972 and $701,014 for fiscal year 1973. On brief, respondent calculates the Bardahl formula needs to be only $417,806 and $479,632, respectively.19
+ 
+Petitioner contends that the Bardahl approach has “little or no value when applied to a mechanical contracting business that lacks a routine operating cycle.” Petitioner also maintains that respondent made numerous errors in applying the Bardahl formula and that correction of these errors would result in computing petitioner’s needs as $868,898 for fiscal year 1972 and $943,711 for fiscal year 1973.
+ 
+Respondent concedes “that the operating cycle approach is not universally applicable and agrees with petitioner that such a computation is a guide rather than a rule of law.” Nevertheless, respondent insists that the Bardahl (operating cycle) approach is appropriate in the instant case and that petitioner has not shown that any other approach is appropriate.
+ 
+We agree with petitioner that the Bardahl formula is not appropriate to measure petitioner’s business needs. We note that the Bardahl formula is an attempt to inject a degree of objectivity into a quantification of business needs; it is a tool to be used when helpful and its use is not mandated in all events. This approach focuses on the amount of liquid assets likely to be necessary to carry a business through a normal operating cycle because of expected differences between the timing of expenditures and the timing of receipts.
+ 
+In the instant case, as petitioner points out, there does not *698 appear to be a routine operating cycle. Also, in the instant case, the fact of petitioner’s outstanding loans to Thompson—-demand loans which were not demanded (see table 10 supra)—-suggests that petitioner had substantial liquid assets in excess of what it needed under an analysis focusing on current receipts and expenditures. Finally, we are persuaded that petitioner is correct in its contention that its needs (whether measured as working capital or net worth) to support bonding capacity exceeded its needs for assets for operating cycle purposes.
+ 
+In Ready Paving & Construction Co. v. Commissioner, 61 T.C. 826 (1974), both sides considered that the need of the taxpayer therein for working capital for normal operations overlapped its need for capital to procure performance bonds. The taxpayer therein did not contest the applicability of the Bardahl approach, but merely how certain items should be taken into account under that approach. (61 T.C. at 837.) By contrast, in the instant case, petitioner has contested the applicability of the Bardahl approach. In Ready Paving, we made an allowance for possible mismatches in the timing of normal operation needs and performance bonds needs. (61 T.C. at 839.) In the instant case, respondent does not concede the appropriateness of any such allowance. No showing has been made, in the instant case, for any such mismatching allowance on account of petitioner’s normal operations, in addition to petitioner’s bonding capacity needs.
+ 
+We conclude that, in the instant case, petitioner’s bonding capacity needs and its normal operation needs overlap, petitioner’s bonding capacity needs are the more significant needs, and petitioner did not have normal operation needs that should be added to the bonding capacity needs determined in the immediately preceding section of this opinion.
+3. Building Expansion and Equipment
+ 
+Petitioner contends that $138,000 of the accumulation was needed during each of the years in issue “to finance its expansion needs” for a new building and equipment. Respondent contends that petitioner’s plans for a new building and equipment were at a preliminary stage or indefinite during the years in issue and the plans could not be expected to be executed in a reasonable time because additional property had *699 to be acquired before the building could be built. Respondent suggests that references in corporate minutes to construction plans and seeking of preliminary cost estimates are responses to a concern about liability for accumulated earnings taxes, especially in light of petitioner’s loans to Thompson.
+ 
+We agree in part with petitioner and in part with respondent.
+ 
+For purposes of the accumulated earnings tax, section 537(a)(1) provides that “the term ‘reasonable needs of the business’ includes—-(1) the reasonably anticipated needs of the business.” In particular, it includes accumulations to provide for expansion of the business or replacement of its plant; however, the plans for the expansion or replacement must be sufficiently specific, definite, and feasible to prove that the project was a real consideration during the years before the Court. Faber Cement Block Co. v. Commissioner, 50 T.C. at 331-334, and cases cited therein; sec. 1.537-2(b)(1), Income Tax Regs.
+ 
+The record as a whole discloses that petitioner’s growth made it reasonable to expand the building from which it operated. This need for expansion was anticipated as early as 1968. The expansion program was developed and executed in fits and starts, with construction beginning in 1979. The expansion was needed in order to properly deal with petitioner’s business, and not to expand into a new line of activity.
+ 
+Although we have found that petitioner and Thompson took steps at various times to acquire property on which to build, the record does not disclose when many of these steps were taken. The record does not disclose what basis, if any, there was for Thompson’s 1968 estimate of $55,750 for a building and his 1969 estimate of $103,000 for a building and $35,000 for equipment. The May 1973 “preliminary” quotation of $93,750 for construction of the building is an indication that by then petitioner had some more-or-less specific, definite, and feasible plans to expand. Petitioner’s fiscal year 1972 had ended on August 31, 1972, more than 8 months before the May 1973 quotation. We find no persuasive evidence that petitioner had specific, definite, and feasible plans to expand as of the end of fiscal year 1972. We find no persuasive evidence that petitioner had specific, definite, and feasible plans to purchase *700 new equipment as of the end of fiscal year 1973. See Atlas Tool Co. v. Commissioner, 70 T.C. at 119.
+ 
+We conclude that petitioner has failed to carry its burden of proof with regard to expansion for fiscal year 1972; we conclude that petitioner has carried its burden of proving that it had reasonable business needs for expansion for fiscal year 1973, but only to the extent of $93,750.
+ 
+Funds used for building construction clearly would not be available as working capital. Consequently, petitioner’s building construction need is to be treated as an addition to its bonding capacity need, if the latter is calculated in terms of working capital.
+ 
+However, the record does not indicate that petitioner’s then-existing fixed assets were excluded from consideration when bonding capacity limits were determined on the basis of net assets. From this we conclude that funds used for building construction would also be of benefit to petitioner in attaining increased bonding capacity. Since petitioner’s building construction need and net assets bonding capacity need overlap, it would be double counting to merely add the two needs. Also, we note that petitioner’s loans to Thompson amounted to $160,200 at the end of fiscal year 1973 (table 10 supra), well in excess of the construction need of $93,750 as of that time. Thus, the entire expansion could have been financed out of repayment of the loans by Thompson, with substantial funds left over.
+ 
+We conclude that petitioner’s building construction need should not be added to its bonding capacity need, if the latter need is calculated in terms of net assets.
+4. Other Needs
+ 
+Petitioner also contends that because respondent’s computation of business needs vis-a-vis working capital available to meet the needs is based on the Bardahl formula, it does not account for needs for (1) inflation, (2) growth, (3) retaining key employees through periods of temporary downturns in its business, or (4) purchasing materials and equipment in advance of their need, in order to avoid price increases. Petitioner contends that it needed to accumulate amounts equaling (1) 25 percent of its gross sales (or $509,062 and $501,920) for inflation and (2) 30 percent of the total annual cost of sales and *701 expenses (or $503,914 and $528,745) for growth in fiscal years 1972 and 1973, respectively.
+ 
+Respondent asserts that these contended needs are all speculative and petitioner managed to grow and retain key employees despite the lack of availability of the funds loaned to Thompson during the years in issue.
+ 
+We agree with respondent’s conclusion.
+ 
+We have agreed with petitioner that the Bardahl formula is not useful in the instant case. Whatever may be the merits of petitioner’s contentions under the Bardahl formula, we conclude that any business needs on account of inflation or growth (the first two of petitioner’s contentions) are already taken into account under our bonding capacity analysis (and, in the case of growth, under our building expansion analysis). We will not double-count by treating these items as additional business needs.
+ 
+Petitioner’s contentions as to key personnel and advance purchases of materials and equipment fail because of burden of proof. There is no persuasive evidence that petitioner anticipated a need for excess funds to retain key personnel, nor is there persuasive evidence as to whether any amount was projected as necessary to accomplish such a purpose. There is no persuasive evidence that petitioner planned to increase its advance purchases of materials and equipment nor is there persuasive evidence as to whether any amount was projected to accomplish such a purpose.
+ 
+We conclude that none of petitioner’s four contentions are a basis for determining any additional business needs.
+ 
+
+
+D. Business Needs Compared to Availabilities
+Respondent, in determining petitioner’s business needs and availabilities, used the Bardahl formula as the basic business need calculation and made the sort of availabilities determination that is usually used in connection with the Bardahl formula. Petitioner criticizes respondent’s use of the Bardahl formula for determining business needs. Petitioner focuses on business needs primarily in terms of its need to assure sufficient bonding capacity. Much of the testimony and other evidence relating to bonding capacity focuses on the working capital rule-of-thumb. Relatively little of the evidence and even less of the parties’ analysis deal with the net assets rule- *702 of-thumb. Notwithstanding petitioner’s objection to the Bardahl formula for determining needs, petitioner appears to accept the availabilities analysis, with certain exceptions.
+ 
+We have agreed with petitioner that bonding capacity, and not the Bardahl formula, is the major consideration in determining petitioner’s business needs. We have found Davis’ testimony to be credible. Davis was quite clear that the loans to Thompson were not taken into account under the working capital approach. It is clear from Davis’ testimony that the working capital approach fell far short of justifying the bonding level capacity authorized by States and Economy. The working capital determined by Davis for 1972 (see table 9 supra) would justify a bonding capacity level of $1,800,000 to $1,900,000 as of the end of fiscal year 1972. Yet Davis was authorized to bond petitioner up to $2,500,000 without consulting with States. The discrepancy for fiscal year 1973 is even greater. On the basis of working capital, the bonding capacity level should have been about $2 million to $2,150,000. Yet Davis was authorized to bond petitioner to a maximum of $3 million at preferred rates and without further clearance from Economy.
+ 
+From the foregoing, we conclude that petitioner’s net assets constituted the most significant element determining petitioner’s maximum bonding capacity during the years before the Court. In the context of the instant case, given the contradictions of the evidence and the contentions of both parties, we conclude that the appropriate comparison to be made is the comparison between (1) petitioner’s business needs using the net assets test and (2) petitioner’s net assets.
+ 
+Our starting points for availabilities are the amounts shown on petitioner’s balance sheets as “Total Shareholder’s Equity” (table 8 supra).20 In accordance with Ivan Allen Co. v. United States, 422 U.S. at 627-628, 632-635, we account for petitioner’s marketable securities at fair market value (table 8, note supra) in determining availabilities.21
+ 
+*703 Davis substantially discounted petitioner’s accounts receivable for purposes of applying the working capital rule-of-thumb. He made no comment as to the proper treatment of this asset for net assets purposes. We note that petitioner deducted bad debts of only $2,940.86 and $456 on its income tax returns for fiscal years 1972 and 1973, respectively. We conclude that there is no basis for adjusting the accounts receivable amounts shown on petitioner’s balance sheets.
+ 
+Davis testified that the notes receivable from Thompson were properly taken into account in determining petitioner’s net worth; we also take this asset into account.
+ 
+Table 14 compares our conclusions as to the reasonable needs of petitioner’s business with our conclusions as to petitioner’s availabilities (in the instant case, its net assets as adjusted) as of the ends of each of the years before the Court.
+ 
+
+
+
+
+TABLE 14
+ 
+|
+ 
+|||
+
+
+
+
+
+
+
+ 
+|1972
+ 
+|1973
+ 
+|
+ 
+ 
+| 
+| 
+|
+Availabilities (notes 20 & 21 supra)
+ 
+|$754,611
+ 
+|$878,519
+ 
+|
+Needs
+ 
+|675,000
+ 
+|785,000
+ 
+|
+Excess
+ 
+|179,611
+ 
+|93,519
+ 
+|
+ 
+ 
+| 
+| 
+|
+
+
+
+
+
+
+E. Purposes and Conclusion
+Respondent maintains that petitioner was availed of for the purpose of avoiding the income tax with respect to its sole shareholder by permitting earnings and profits to accumulate instead of being divided or distributed. Petitioner asserts that it did not have this purpose.
+ 
+We agree with respondent.
+ 
+Section 532(a) provides, in effect, that the accumulated earnings tax is to apply only if there is both (1) an accumulation and (2) a prohibited purpose for the accumulation. Section 533(a) provides that the fact that a corporation accumulates its earnings and profits beyond its reasonable needs shall be determinative of the purpose to avoid the income tax with *704 respect to its shareholders unless the corporation proves to the contrary by a preponderance of the evidence. For the accumulated earnings tax to apply, it is enough if the prohibited purpose is one of the purposes behind the accumulation, even if it is not the “dominant, controlling, or impelling” one.  United States v. Donruss Co., 393 U.S. 297 (1969).
+ 
+Our conclusions as to business needs and availabilities (table 14 supra) indicate that petitioner accumulated its earnings and profits beyond the reasonable business needs which it established herein, for the years in issue. In addition, petitioner did not pay a cash dividend from the date of its incorporation through the end of the years in issue. Also, Thompson’s marginal income tax bracket was 53 percent for 1972 and 50 percent for 1973.
+ 
+Finally, we consider petitioner’s loans to Thompson. Although not necessarily determinative of the prohibited purpose (see B. Bittker & J. Eustice, Federal Income Taxation of Corporations and Shareholders, par. 8.03, at 8-22 (4th ed. 1979)), these loans did have the effect of enabling Thompson, petitioner’s sole shareholder, to have the personal use of a substantial part of petitioner’s assets and yet to “avoid the income tax” with respect to petitioner’s accumulations. (See sec. 532(a).) These loans also disabled petitioner from satisfying the working capital alternative in its efforts to increase its bonding capacity. Notwithstanding this consequence of the loans, their outstanding balance was increased by $68,798.34 in fiscal year 1972 and by an additional $8,349.98 in fiscal year 1973. We conclude that the loans constitute additional significant evidence of petitioner’s prohibited purpose in the years before the Court. Helvering v. Nat. Grocery Co., 304 U.S. 282, 293-294 (1938); Brookfield Wire Co. v. Commissioner, 667 F.2d 551, 556 (1st Cir. 1981), affg. a Memorandum Opinion of this Court;22 Cataphote Corp. v. United States, 210 Ct. Cl. 125, 147, 535 F.2d 1225, 1237-1238 (1976); Herzog Miniature Lamp Works, Inc. v. Commissioner, 481 F.2d at 863; United Business Corp. v. Commissioner, 62 F.2d 754, 75523 (2d Cir. 1933), affg. 19 B.T.A. 809 (1930).
+ 
+*705 Thus, independently of the presumption prescribed in section 533(a), there is ample evidence leading us to conclude that petitioner permitted its earnings and profits to accumulate, instead of being divided or distributed, for the purpose of avoiding the income tax with respect to Thompson; we so hold.
+ 
+In order to take account of the effect of the foregoing on the accumulated earnings credit (sec. 535(c)(1)),
+ 
+Decision will be entered under Rule 155.
+ 
+All Citations
+80 T.C. No. 32, 80 T.C. 672, Tax Ct. Rep. (CCH) 40,024
+
+
+
+Footnotes
+|
+1
+|Petitioner requested that we make the findings set forth in table 1 (except that we have rounded off to the nearest whole dollar). Respondent stated that he had no objections to these findings. The uncompleted-work-in-progress amounts so requested and found differ from the parties’ stipulations. Further, both the 1973 work-completed amount and the 1973 uncompleted-work-in-progress amount differ from the aggregates of the amounts shown on a contract-by-contract basis in the exhibit on which the requested finding of fact assertedly was based. (For example, the total of the work-completed amounts on the exhibit differed by more than $180,000 from the amount in the requested finding.) The parties have not favored us with an explanation of any of these differences. The record does not appear to include information from which we could deduce any such explanation. Under these circumstances, we have treated the agreed-to requested findings as equivalent to stipulations superseding previous stipulations and exhibits.
+|
+1
+|These totals include one contract for $193,700 as to which work was begun in fiscal year in 1972 but the contract was not signed until Oct. 7, 1972.
+|
+2
+|These totals include (1) one contract for $447,514 as to which a letter of intent to award the contract was issued in fiscal year 1973 but the contract was dated Oct. 15, 1973, and (2) four contracts for a total of 414,303 as to which work was begun in fiscal 1973 but the contracts were not signed until fiscal 1974.
+|
+1
+|Both parties requested that we find the amount as set forth in table 4 (except that we have rounded off to the nearest whole dollar.) An exhibit stipulated as showing petitioner’s accounts receivable as of Aug. 31, 1972, differs by $450 from the amount in table 4. Consistent with note 1 to table 1, supra, our finding on this point is in accordance with the parties’ requests.
+|
+2
+|The accounts receivable for fiscal year 1973 were composed of trade accounts and other accounts equaling $614,479 and $450, respectively; the accounts receivable for fiscal year 1974 were composed of trade accounts and other accounts equaling $740,993 and $1,579, respectively.
+|
+1
+|The parties have stipulated that these amounts are equal to “taxable income adjusted in the manner provided in section 535(b).”
+|
+1
+|The fiscal yearend market values of the securities listed as Temporary investments were $19,540 and $6,363 for fiscal years 1972 and 1973, respectively.
+|
+2
+|See table 4 note 2 supra.
+|
+1
+|Accounts receivable as shown in table 8 supra, less (1) accounts receivable more than a year old and (2) accounts receivable written off after the end of the year.
+|
+1
+|Includes $65 deduction for long-term capital gain, under sec. 535(b)(6), as determined in the notice of deficiency.
+|
+1
+|This amount exceeds the amount used by respondent in making the determination in the notice of deficiency. Since respondent does not ask us to redetermine an increased deficiency for fiscal year 1972 pursuant to sec. 6214(a), the amount taken into account under Rule 155 is to be the amount stipulated to by the parties as having been used in arriving at the deficiency determined in the notice of deficiency.
+|
+1
+|Unless indicated otherwise, all section, subchapter, and chapters of the Internal Revenue Code of 1954 as in effect for the years in issue.
+|
+2
+|Unless indicated otherwise, all references to fiscal years are to petitioner’s fiscal years ended August 31.
+|
+3
+|From 1959 until the mid-1960’s, Thompson had been a 50-percent shareholder. The other 50-percent shareholder was killed in an automobile accident in the mid-1960’s and Thompson acquired all of petitioner’s stock.
+|
+4
+|The term ‘operating capital‘ was used in testimony at trial interchangeably with ‘working capital‘, both of which terms focus on ‘net quick assets‘ and ‘cash flow‘ for purposes of bonding capital.
+|
+5
+|This included estimating the expected period for collection of retainages, taking account of any disputes as to given jobs affecting the time or amount of expected receipt.
+|
+6
+|In order to earn interest before the years in issue petitioner had vested working capital ‘in the stock market” on a short-term basis, which had resulted in a sizable loss.
+|
+7
+|On brief, respondent urges the Court to conclude that petitioner had excess accumulations ‘at least in the amount of the loans to its sole shareholder.” The amount of these loans outstanding at the end of each fiscal year before the Court (see table 10 supra) exceeded the amount of accumulated taxable income determined by respondent for that year (see table 12 supra). Nevertheless, respondent does not ask us to redetermine the increased deficiencies that presumably would be warranted by the finding respondent asks us to make. See sec. 6214(a).
+|
+8
+|SEC. 531 IMPOSITION OF ACCUMULATED EARNINGS TAX.
+In addition to other taxes imposed by this chapter, there is hereby imposed for each taxable year on the accumulated taxable income (as defined in section 535) of every corporation described in section 532, an accumulated earnings tax equal to the sum of—-
+(1) 271;2 percent of the accumulated taxable income not in excess of $100,000, plus
+(2) 381;2 percent of the accumulated taxable income in excess of $100,000.
+|
+9
+|SEC. 532. CORPORATIONS SUBJECT TO ACCUMULATED EARNINGS TAX.
+(a) GENERAL RULE .—-The accumulated earnings tax imposed by section 531 shall apply to every corporation (other than those described in subsection (b)) formed or availed of for the purpose of avoiding income tax with respect to its shareholders or the shareholders of any other corporation, by permitting earnings and profits to accumulate instead of being divided or distributed.
+(b) EXCEPTIONS .—-The accumulated earnings tax imposed by section 531 shall not apply to—-
+(1) a personal holding company (as defined in section 542),
+(2) a foreign personal holding company (as defined in section 552), or
+(3) a corporation exempt from tax under subchapter F (section 501 and following).
+|
+10
+|SEC. 535. ACCUMULATED TAXABLE INCOME.
+(a) DEFINITION .—-For purposes of this subtitle, the term “accumulated taxable income” means the taxable income, adjusted in the manner provided in subsection (b), minus the sum of the dividends paid deduction (as defined in section 561) and the accumulated earnings credit (as defined in subsection (c)). *ss
+(c) ACCUMULATED EARNINGS CREDIT .—-
+(1) GENERAL RULE .—-For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed by subsection (b)(6). For purposes of this paragraph, the amount of the earnings and profits for the taxable year which are retained is the amount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
+|
+11
+|Of course, investment in nonliquid assets which are unrelated to, or unnecessary for, the corporation’s business will not enable the corporation to avoid the section 531 tax. See Ivan Allen Co. v. United States, 422 U.S. 617, 630 n. 11 (1975); Faber Cement Block Co. v. Commissioner, 50 T.C. 317, 328 (1968).
+|
+12
+|We note that at trial and on brief petitioner urges us to give great weight to ‘rules of thumb‘, in its effort to persuade us that its accumulations were retained for the reasonable business need of increasing its bonding capacity.
+|
+13
+|The two-year period before the Court is from September 1, 1971, through August 31, 1973. Substantially all of this period had already elapsed by the date of the price quotation.
+|
+14
+|Neither of the cases cited by petitioner (Oman Construction Co., Inc. v. Commissioner, T.C. Memo. 1965-325 or Vuono-Lione, Inc. v. Commissioner, T.C. Memo. 1965-96) as to the sufficiency of sec. 534(c) statements by contractors convinces us otherwise.
+|
+15
+|T.C. Memo. 1973-52.
+|
+16
+|T.C. Memo. 1972-173.
+|
+17
+|S. Rept. 83-1622 at 69; H. Rept. 83-1337 at A173.
+|
+18
+|Derived from analysis in Bardahl Manufacturing Corp. v. Commissioner, T.C. Memo. 1965-200, this formula is used to measure the amount of working capital needed for one operating cycle. See generally B. Bittker & J. Eustice, Federal Income Taxation of Corporations and Shareholders, par. 8.03, at 8-17 through 8-20 (4th ed. 1979), and cases there cited.
+|
+19
+|Respondent’s recalculations of petitioner’s operating cycle needs, together with his recalculations of petitioner’s availabilities, would (if agreed to by the Court) result in the conclusion that petitioner’s excess accumulations for each of the years before the Court were more than 4 times as great as the amounts determined in the notice of deficiency. Nevertheless, respondent does not ask us to redetermine the increased deficiencies that presumably would be warranted if we were to agree with respondent’s position on brief. See sec. 6214(a).
+|
+20
+|$759.380 and $896,457 for fiscal years 1972 and 1973, respectively. On brief, petitioner appears to agree that these are the relevant figures for a net worth evaluation of petitioner’s bonding capacity needs.
+|
+21
+|This results in downward adjustments of $4,769 ($24,309 less $19,540) and $17,938 ($24,301 less $6,363) for fiscal years 1972 and 1973, respectively.
+|
+22
+|T.C. Memo. 1980-321.
+|
+23
+|‘* * * Smith paid taxes upon a substantial income in 1918 and 1920, and borrowed largely from the petitioner in 1920 and 1921. These loans are incompatible with a purpose to strengthen the financial position of the petitioner, but entirely accord with a desire to get the equivalent of his dividends under another guise.”
+|
+
+
+
+
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

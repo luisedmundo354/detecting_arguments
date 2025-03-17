@@ -1,0 +1,1585 @@
+
+
+
+
+T.C. Memo. 2012-269
+United States Tax Court.
+PEPSICO PUERTO RICO, INC., Petitioner
+v.
+COMMISSIONER of INTERNAL REVENUE, Respondent.
+Pepsico, Inc. and Affiliates, Petitioner
+v.
+Commissioner of Internal Revenue, Respondent.
+Nos. 13676–09, 13677–09.
+|
+Sept. 20, 2012.
+Synopsis
+Background: Corporate taxpayer and its wholly-owned domestic subsidiary petitioned for redetermination of income-tax deficiencies arising from IRS’s characterization as debt, rather than equity, of advance agreements issued by taxpayer’s Netherlands subsidiaries to its domestic subsidiaries.
+ 
+[Holding:] The Tax Court, Goeke, J., held that agreements were equity, not debt, as would permit favorable income-tax treatment due to Netherlands subsidiaries’ lack of earnings and profits.
+ 
+Decision for taxpayer.
+ 
+
+
+West Headnotes (21)
+
+
+[1]
+|Internal RevenueTransactions between parents and subsidiaries
+|
+|Advance agreements issued by corporate taxpayer’s Netherlands subsidiaries, under which they received notes in return for making payments to taxpayer’s domestic subsidiaries, were equity, not debt, as would permit favorable income-tax treatment due to Netherlands subsidiaries’ lack of earnings and profits; payments under agreements were linked to Netherlands subsidiaries’ receipt of interest payments on notes, which was indicative of debt, but agreements had long and conditional maturity dates, agreements gave domestic subsidiaries no unconditional right to enforce payments, agreements unequivocally subordinated payment obligation to all of Netherlands subsidiaries’ indebtedness, and agreements’ terms could not have been replicated by independent debt financing. 26 U.S.C.A. §§ 385(b), 952(c)(1)(A).
+
+|
+
+
+[2]
+|Internal RevenueSubstance or form of transaction
+|
+|The substance of a transaction governs for federal tax purposes.
+1 Case that cites this headnote
+|
+
+
+[3]
+|Internal RevenueSubstance or form of transaction
+|
+|The substance of a corporate transaction governs debt-versus-equity inquiries for federal tax purposes. 26 U.S.C.A. § 385.
+
+|
+
+
+[4]
+|Internal RevenueSubstance or form of transaction
+|
+|Although the substance of a corporate transaction governs for federal tax purposes, the form of a transaction often informs its substance, and an analysis focused myopically on the substance of a transaction, but devoid of any consideration of the obligations engendered by the terms of the governing instruments, would typically result in deficient, or wholly flawed, determinations. 26 U.S.C.A. § 385.
+
+|
+
+
+[5]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|Notwithstanding the difficulty in distinguishing between debt instruments and equity instruments for federal income-tax purposes, the focus of a debt-versus-equity inquiry generally narrows to whether there was an intent to create a debt with a reasonable expectation of repayment and, if so, whether that intent comports with the economic reality of creating a debtor-creditor relationship; the key to this determination is primarily the taxpayer’s actual intent, which is a factual issue evinced by the particular circumstances of the transfer. 26 U.S.C.A. § 385(b).
+2 Cases that cite this headnote
+|
+
+
+[6]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance transaction is a debt or equity transaction for federal tax purposes, the issuance of a stock certificate indicates an equity contribution, whereas the issuance of a bond, debenture, or note indicates a bona fide indebtedness. 26 U.S.C.A. § 385.
+
+|
+
+
+[7]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether a corporate transaction is a debt or equity transaction for federal tax purposes, the form and the labels used for the transaction may signify little when the parties to the transaction are related. 26 U.S.C.A. § 385.
+2 Cases that cite this headnote
+|
+
+
+[8]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance to a corporation is a debt or equity transaction for federal tax purposes, the presence of a fixed maturity date indicates a fixed obligation to repay, a characteristic of a debt obligation, while the absence of the same indicates that repayment was in some way tied to the fortunes of the business, indicative of an equity advance. 26 U.S.C.A. § 385.
+3 Cases that cite this headnote
+|
+
+
+[9]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|In the absence of a provision that the holder may unconditionally demand his advance to the receiving corporation at a fixed time, the security cannot be a debt for federal tax purposes. 26 U.S.C.A. § 385.
+1 Case that cites this headnote
+|
+
+
+[10]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance to a corporation is a debt or equity transaction for federal tax purposes, if the taxpayer is willing to condition the repayment of an advance on the financial well-being of the receiving company, he acts as a classic capital investor hoping to make a profit, not as a creditor expecting to be repaid regardless of the company’s success or failure. 26 U.S.C.A. § 385.
+
+|
+
+
+[11]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance to a corporation is a debt or equity transaction for federal tax purposes, the absence of an express obligation to make a payment does not diminish the importance of the recipient’s effective, internal commitment to make annual payments on a financial instrument from a reasonably certain stream of revenue, as would weigh in favor of finding a debt transaction. 26 U.S.C.A. § 385.
+
+|
+
+
+[12]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance to a corporation is a debt or equity transaction for federal tax purposes, a definite obligation to repay the advance, including interest thereon, suggests a loan obligation. 26 U.S.C.A. § 385.
+
+|
+
+
+[13]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether a financial instrument is debt or equity for federal tax purposes, if the instrument does not provide its holder with any means to ensure payment of interest, it is a strong indication of a stockholding, rather than a creditor-debtor relationship; the right to enforce the payment of interest is one of the requisites of a genuine indebtedness. 26 U.S.C.A. § 385.
+1 Case that cites this headnote
+|
+
+
+[14]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance to a corporation is a debt or equity transaction for federal tax purposes, the right of the entity advancing funds to participate in the management of the receiving entity’s business demonstrates that the advance may not have been bona fide debt and instead was intended as an equity investment. 26 U.S.C.A. § 385.
+1 Case that cites this headnote
+|
+
+
+[15]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance to a corporation is a debt or equity transaction for federal tax purposes, the advancing entity’s taking of a subordinate position to other creditors may suggest an equity investment. 26 U.S.C.A. § 385(b)(2).
+3 Cases that cite this headnote
+|
+
+
+[16]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether a financial instrument is a debt or equity instrument for federal tax purposes, the inquiry of the court is primarily directed at ascertaining the intent of the parties, which may be reflected by their subsequent acts; the manner in which the parties treat the instruments is relevant in determining their character. 26 U.S.C.A. § 385.
+
+|
+
+
+[17]
+|Internal RevenueMinimization, Avoidance or Evasion of Liability
+|
+|Transactions are often purposefully structured to produce favorable federal tax consequences, and such planning, alone, does not compel the disallowance of the transaction’s tax effects.
+
+|
+
+
+[18]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance to a corporation is a debt or equity transaction for federal tax purposes, if advances are made by stockholders in proportion to their respective stock ownership, an equity capital contribution is indicated. 26 U.S.C.A. § 385.
+
+|
+
+
+[19]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance to a corporation is a debt or equity transaction for federal tax purposes, the purpose of examining the recipient’s debt-to-equity ratio is to determine whether the corporation is so thinly capitalized that repayment would be unlikely; in such a circumstance, the advance would be indicative of venture capital rather than a loan. 26 U.S.C.A. § 385.
+2 Cases that cite this headnote
+|
+
+
+[20]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance to a corporation is a debt or equity transaction for federal tax purposes, where the receiving corporation uses the advance to acquire capital assets, the advance is more likely to be characterized as equity, while use of advances to meet the daily operating needs of the corporation is indicative of bona fide indebtedness. 26 U.S.C.A. § 385.
+
+|
+
+
+[21]
+|Internal RevenueAdvances by stockholders to corporations;  debt or equity in general
+|
+|When determining whether an advance to a corporation is a debt or equity transaction for federal tax purposes, the repayment of the advance may support its characterization as bona fide indebtedness. 26 U.S.C.A. § 385.
+
+|
+
+
+Attorneys and Law Firms
+Mario J. Verdolini Jr., D. Scott Wise, Leslie J. Altus, Craig A. Phillips, and Ethan R. Goldman, for petitioners.
+Lyle B. Press, Daniel A. Rosen, Vincent J. Guiliano, and Michael S. Coravos, for respondent.
+
+
+
+
+[*2] MEMORANDUM FINDINGS OF FACT AND OPINION
+GOEKE, Judge:
+*1 Respondent determined income tax deficiencies with respect to PepsiCo, Inc. (PepsiCo), and Affiliates for taxable years ended December 26, 1998, December 25, 1999, December 30, 2000, December 29, 2001, and December 28, 2002, of $53,683,731, $48,488,863, $20,497,493, $26,653,075, and $46,694,856, respectively. Respondent separately determined deficiencies for PepsiCo Puerto Rico, Inc. (PPR), for taxable years ended November 30, 1998, 1999, 2000, 2001, and 2002, of $38,348,937, $31,873,463, $31,698,661, $32,717,683, and $32,399,250, respectively. These cases were consolidated for trial, briefing, and opinion. The parties submit two issues for decision:
+ 
+(1) whether advance agreements issued by PepsiCo’s Netherlands subsidiaries to certain PepsiCo domestic subsidiaries and PPR are more appropriately characterized as debt than as equity; and,
+ 
+(2) if the advance agreements are characterized as debt, whether, and to what extent payments on the advance agreements constitute original issue discount, relating to contingent payment debt instruments under section 1.1275–4(c), Income Tax Regs.1 [*3] We hold that the advance agreements are appropriately characterized as equity for Federal income tax purposes. Accordingly, we need not consider the remaining issue.
+ 
+
+
+FINDINGS OF FACT
+
+I. Petitioners
+PepsiCo is incorporated under the laws of North Carolina. At the time of petition, the principal office of PepsiCo was in Purchase, New York. At all times during the years at issue, PepsiCo was the common parent of a group of affiliated corporations pursuant to section 1504.2 PepsiCo, together with its consolidated affiliates, is a leading global beverage, snack, and food company. It manufactures and markets carbonated and noncarbonated beverages and a variety of snack foods. PepsiCo also owned and operated an international restaurant business, which was spun off in 1997.
+ 
+PPR is incorporated under the laws of Delaware. At the time of petition, PPR’s principal office was in Purchase, New York. PPR was a wholly owned subsidiary of PepsiCo that elected the benefits of sections 936 and 30A for all the [*4] tax years in issue. PPR directly owned and operated concentrate and snack food manufacturing facilities and performed snack food distribution functions. Effective December 1, 2006, PPR’s section 936 status expired. As of that date, PPR was a member of PepsiCo’s consolidated group, which filed its return on a consolidated basis.
+ 
+
+
+II. The Pre–1996 Structure
+In 1996 PepsiCo’s direct subsidiary, PepsiCo Capital Corp. N.V. (CapCorp), held stock in two separate subsidiaries: PepsiCo Finance (Antilles A) N.V. (PFAA) and PepsiCo Finance (Antilles B) (PFAB). CapCorp, PFAA, and PFAB (collectively, PepsiCo companies) were all corporations organized under the law of the Netherlands Antilles, each with single classes of equity outstanding, and all were treated as controlled foreign corporations for U.S. Federal income tax purposes. The PepsiCo companies each held interests in foreign entities that were treated as partnerships for U.S. Federal income tax purposes (foreign partnerships).3 The foreign partnerships operated in areas in which PepsiCo was developing its brand and a market for its products; many were generating losses. [*5] The PepsiCo companies each held promissory notes (pre–1996 notes) issued before 1996 by Frito–Lay, Inc. (Frito–Lay), incorporated under the laws of Delaware; Pepsi–Cola Metropolitan Bottling Co., Inc. (Metro Bottling), incorporated under the laws of New Jersey; or PepsiCo.4 The notes were traceable to indebtedness that was originally incurred in the 1980s to finance various business acquisitions and investments. As a result of a “large capital ruling” (LCR) procured from the Netherlands Antilles taxing authority in 1989, any interest payments received by the PepsiCo companies were subject to de minimis taxation in the Netherlands Antilles.
+ 
+*2 Payments of interest on the pre–1996 notes were also exempt from U.S. withholding tax under the income tax treaty between the United States and the Netherlands then in effect (Dutch tax treaty), the interest article of which extended [*6] to residents of the Netherlands Antilles for those years.5 Furthermore, deficits of the foreign partnerships reduced the earnings and profits of the PepsiCo companies, thereby reducing the amount of interest then includable by PepsiCo as “subpart F” income under sections 951 and 952. Interest due on the pre–1996 notes was also deductible for U.S. Federal income tax purposes by Frito–Lay, PepsiCo, and Metro Bottling pursuant to section 163.
+ 
+
+
+III. Global Restructuring
+By the mid–1990s PepsiCo recognized certain business opportunities were materializing in both new and existing international markets in which its primary competitor, Coca–Cola, was not the dominant soft-drink brand. PepsiCo perceived, in particular, a more level and competitive international business landscape in Eastern Europe following the fall of the Berlin Wall in 1989. Contemporaneously, once-dormant Asian markets began to appear more receptive to a greater Western business presence. PepsiCo also understood that billions of dollars in capital investments would be necessary for the company to successfully establish its brand in these areas. [*7] In October 1995, as PepsiCo began to consider a large-scale investment in these emerging markets, the United States and the Netherlands signed a protocol which amended article VIII of the Dutch tax treaty, terminating its extension to residents of the Netherlands Antilles.6 As a result, any interest payments made by Frito–Lay, PepsiCo, or Metro Bottling to the PepsiCo companies pursuant to the pre–1996 notes would become subject to U.S. withholding tax as of September 28, 1996.
+ 
+PepsiCo, recognizing the unique confluence of both tax and business factors, endeavored to undertake a global restructuring of their international operations. A main function of the restructuring, aside from the aforementioned considerations, was for PepsiCo to organize its international holdings to allow for a more effective use of overseas earnings and to avoid using cash from the United States to fund its overseas expansion.7 [*8] In implementing its new international business model, PepsiCo decided to reconfigure its existing overseas structure by transferring ownership of some of the foreign partnerships from various Netherlands Antilles holding companies to Netherlands holding companies, where the Dutch tax treaty remained in effect. The Netherlands, unlike the Netherlands Antilles, had cultivated an extensive treaty network with the countries in which the foreign partnerships were organized. This treaty network reduced or eliminated withholding taxes on dividends paid to Netherlands holding companies. The Netherlands corporate income tax laws also exempted distributions of profits to Netherlands holding companies from Dutch corporate income tax. PepsiCo was cognizant that this favorable tax environment would allow it to mobilize its cash more efficiently than had been possible with the initial Netherlands Antilles holding company structure.
+ 
+*3 As a preliminary step in PepsiCo’s reorganization, on July 24, 1996, the PepsiCo companies each contributed their interests in some of the Foreign Partnerships to Senrab Limited (Senrab) and Bramshaw Limited (Bramshaw), both Irish corporations. Senrap and Bramshaw subsequently formed PepsiCo Worldwide Investments (PWI) and PepsiCo Global Investments (PGI), respectively, both beloten vennotschaps or private limited liability companies [*9] organized under Dutch law.8 Thereafter, Senrab and Bramshaw contributed their interests in the Foreign Partnerships to PWI and PGI.9
+ 
+Following the formation of the new entities under Netherlands law, Frito–Lay, PepsiCo, and Metro Bottling issued six new notes (PepsiCo Frito–Lay notes), on September 1, 1996, to the PepsiCo companies in exchange for the six pre–1996 notes, plus accrued interest. All of the PepsiCo Frito–Lay notes provided that
+Interest shall accrue on any unpaid Principal Amount at a rate set initially on the date hereof and semi-annually hereafter (on each succeeding January 1 and July 1) and equal to the greater of (i) six-month LIBOR on the relevant date * * * plus 230 basis points or (ii) 7.5% per annum. * * * Accrued interest shall be payable on each December 31 (or the first business day following), annually in arrears, beginning in 1997. * * * [Emphasis supplied.]
+The PepsiCo Frito–Lay notes had initial maturities of 15 years, with an issuer option to extend the maturity for an additional 25 years. To the extent that the borrower failed to pay accrued interest when required, all of the PepsiCo Frito–Lay [*10] notes provided that the that the lender had the right to: (1) the immediate payment of all unpaid principal and accrued interest; or (2) the immediate execution of a new five-year note (baby note) for the full amount of the accrued or unpaid interest. The baby notes would thereafter accrue interest according to a separate rate calculation.
+ 
+CapCorp and PFAB contributed their PepsiCo Frito–Lay notes to PFAA. PFAA thereafter transferred all the PepsiCo Frito–Lay notes to its indirect subsidiary, Kentucky Fried Chicken International Holdings, Inc. (KFCIH), a Delaware corporation.
+ 
+
+
+IV. The 1996 Advance Agreements
+On September 27, 1996, KFCIH contributed a portion of the PepsiCo Frito–Lay notes having an aggregate principal amount of $1,779,662,436 and $10,467,257.64 of accrued interest to PGI in exchange for an advance agreement (KFCIH I advance agreement)10 having a face amount of $1,790,129,693.64. On the same day, KFCIH contributed the remaining PepsiCo Frito–Lay notes, having an aggregate principal amount of $88,984,086.92 and $523,368.56 of accrued interest, to PWI in exchange for an advance agreement (KFCIH II advance [*11] agreement, and together with the KFCIH I advance agreement, 1996 advance agreements) having a face amount of $89,507,455.48.
+ 
+On October 2, 1997, PepsiCo engaged in the public spinoff of its restaurant business, which included KFCIH.11 As part of the spinoff, KFCIH transferred the 1996 advance agreements to Beverages, Foods & Service Industries, Inc. (BFSI), a Delaware corporation and indirect subsidiary of PepsiCo, which continued to hold the 1996 advance agreements throughout the years at issue.
+ 
+
+
+V. The 1997 Advance Agreement
+*4 On May 29, 1997, PGI issued an advance agreement (1997 advance agreement, and together with the 1996 advance agreement, advance agreements) to PPR in exchange for separate Frito–Lay notes (initial PPR Frito–Lay notes) then held by PPR. The initial PPR Frito–Lay notes had been issued in 1994, 1995, and 1996 and had initial terms of three to five years. As of the exchange date, the aggregate principal amount of the initial PPR Frito–Lay notes equaled $1,378,292,737.95, the face amount of the 1997 advance agreement. In 1998 one of the initial PPR Frito–Lay notes in the principal amount of $214,084,144 was paid in full. The maturities of the remaining initial PPR Frito–Lay notes were [*12] subsequently extended through the issuance of new Frito–Lay notes (additional PPR Frito–Lay notes, and collectively with the initial Frito–Lay notes and the PepsiCo Frito–Lay notes, Frito–Lay notes).12
+ 
+
+
+VI. Development of the Advance Agreements
+PepsiCo sought to effect the global reorganization in a manner that would preserve the tax attributes of the Netherlands Antilles holding company structure before the protocol to the Dutch tax treaty. Accordingly, PepsiCo sought to create instruments, the advance agreements, which would be classified, partially, as debt in the Netherlands and treated as equity in the United States. It was contemplated that the tax treatment of these instruments would preserve the foreign tax benefits achieved by the LCR in the prior Netherlands Antilles structure by reducing PGI’s Dutch corporate taxable income from accrued interest from the Frito–Lay notes by the amount of interest expense pursuant to the advance agreements. From a U.S. tax perspective, petitioners anticipated that payments to the U.S. entities pursuant to the advance agreements would be treated as distributions on equity. With [*13] earnings and profits of PGI predicted to be drastically reduced or eliminated by the foreign partnerships’ losses in the foreseeable future, it appeared unlikely that petitioners would be subject to “subpart F” income or dividend treatment on distributions.13 In an effort to secure the desired Dutch treatment of the advance agreements, PepsiCo began the interdependent processes of drafting the instruments and negotiating with the Dutch Revenue Service to procure a tax ruling.14
+ 
+In 1996 the tax ruling process in the Netherlands was generally centralized and formalized on the basis of published model rulings.15 Taxpayers could also [*14] obtain “tailor made” rulings for nonstandard transactions; however, the model rulings typically provided a framework for ruling negotiations. In the standard ruling for “intra-group financing activities”, the Dutch Revenue Service provided that if a “Dutch financing company” agreed to report as net taxable profit per 12 months a percentage (spread) of the total amount of funds borrowed and thereafter lent within the group of related entities, the Dutch Revenue Service would agree not to challenge such profit as failing to be at “arm’s length”. The initial, acceptable spread for a tax ruling was 1/8% of the total amount of funds borrowed and subsequently lent; the spread decreased as the total amount of funds borrowed and lent increased (varying from 1/8% to 1/16%). The procurement of a tax ruling was further conditioned upon eliminating any currency or creditor risk for the pertinent Dutch entity.
+ 
+*5 Koen Slobbe, a PepsiCo employee and tax manager within PepsiCo’s tax department in Richmond, UK, was tasked with the preparation and circulation of the preliminary 1996 advance agreements. On January 29, 1996, Mr. Slobbe sent the first draft to various PepsiCo employees including Matthew Bartley, then a member of PepsiCo’s international tax group in Purchase, New York, and [*15] Anthony Bryant, then PepsiCo’s vice president of tax and treasury for Europe, the Middle East, and Africa.16 The following day, Mr. Bartley forwarded the draft to Mariëtte Turkenburg, a partner in the Rotterdam office of the Dutch tax advising firm of Loyens & Volkmaars, N.V. (Loyens), which had previously been engaged to represent PepsiCo, PGI, and PWI for the purpose of procuring the Dutch tax ruling.
+ 
+The preliminary draft was a working model and consisted of several possible provisions that PepsiCo management could adopt or discard. The primary provision of the draft provided for the accrual of a “preferred return” which would be payable annually, or alternatively, only if certain conditions were met. Specifically, the alternate provision provided that
+The Preferred Return shall be payable only to the extent that the net cash flow of the * * * [new Netherlands company] exceeded the sum of (i) the amount of all operating expenses incurred by the * * * [new Netherlands company] during such year and, (ii) the amount of all expenditures made by the [new Netherlands company] during such year* * *.
+To the extent that the accrued preferred return was not paid “as a result of the restrictions” noted supra, the amount of the accrued but unpaid preferred return would be capitalized into a “separate and segregated amount”. This separate [*16] amount would correspondingly be payable at maturity, but only if “aggregate net cash flow” for the period of nonpayment exceeded the aggregate sum of all operating expenses incurred and capital expenditures made by the new Netherlands company during the same period. Nonetheless, the draft made clear that the new Netherlands company was allowed to pay any such amounts, including the principal amount, at any point.
+ 
+The preliminary draft also specified that the principal amount was payable at some undetermined point in 2011; however, the new Netherlands company was given the unrestricted option to extend the payment to February 1, 2021. Furthermore, the draft explicitly stated that any “obligation” to pay the principal amount or “preferred return” would be subordinated to all indebtedness of the new Netherlands company. Following her review of the preliminary draft, Ms. Turkenburg had reservations as to whether it met the criteria for creating a debt instrument under Dutch law.
+ 
+During the same period the preliminary drafts were circulated, Ms. Turkenburg, on behalf of PepsiCo, PGI, and PWI, began a dialogue with Timo Munneke, a tax inspector employed with the Dutch Revenue Service, with the intention of eventually securing the Dutch tax ruling. In the course of negotiations, Ms. Turkenburg consistently sent unofficial translations of her [*17] correspondence with Inspector Munneke to Mr. Slobbe and other employees of PepsiCo for review.
+ 
+*6 Following a meeting on March 8, 1996, Ms. Turkenburg wrote a memorandum to Inspector Munneke describing their prior discussion and the contemplated structure of the 1996 advance agreement. Referring to the relationship between the relevant Frito–Lay notes and the proposed 1996 advance agreement as well as to the effect of the “net cash flow” provision on preferred return payments, Ms. Turkenburg noted:
+[T]he conditions of the loans to Fritolay will not be identical to the conditions based on which PGI/PWI will borrow. Apart from a long term, which will, however, match the Fritolay-loans, the incoming loans will be subordinated and the payment of interest will be contingent on the cash-flow position of PGI/PWI. These conditions entail that the interest on the * * * [advance agreements] will have two components: a base interest, which will, after deduction of the required spread, match the interest on the Fritolay-loans, i.e. a libor market rate with a regular risk surcharge, and a premium that constitutes compensation for particularly the subordination.
+Ms. Turkenburg also emphasized that the interest received by PGI/PWI would be used at their discretion to finance PepsiCo investments in emerging markets:
+We discussed the reason for the subordination [is] that [it] in fact allows PGI/PWI to reinvest the revenues, if desired, in the participations and to consolidate the financing and the holding activities. PGI/PWI will acquire a portfolio of participations that particularly operate in new markets, as a result of which expansion [*18] investments are to be expected. It is noted that the participations will be funded with equity.
+At trial, Ms. Turkenburg clarified that the final sentence in the excerpt, supra, was drafted to indicate that PGI/PWI would use Frito–Lay note interest to make capital contributions to foreign subsidiaries.
+ 
+On April 24, 1996, Mr. Bartley sent Ms. Turkenburg two new draft versions of the 1996 advance agreement labeled “mtaadbv” and “mtaudbv”, respectively. The mtaadbv version modified the “net cash flow” definition to include “all interest payments received by the Company from related parties during such year.” In a cover letter accompanying the drafts, Mr. Bartley emphasized that the “net cash flow” definition in the mtaadbv version “is intended to provide the link between Frito–Lay interest payments made to PGI and * * * payments to KFCIH. This link is intentionally non-specific, to avoid giving the IRS any hook on which to hang a straight look-thru argument.” While expressing acceptance of the “net cash flow” definition provided in mtaadbv, Mr. Bartley noted that PepsiCo would “prefer to use mtaudbv, which creates no express link between the * * * [Frito–Lay] loans and the * * * [1996 advance agreement].17 [*19] In a May 7, 1996, facsimile, Mr. Bartley provided Ms. Turkenburg with a subsequent draft of the 1996 advance agreement which included a further refinement of the definition of “net cash flow”. The revised version provided that “At the same time, the amount of net cash flow for purposes of that sentence shall in no event be less than the aggregate amount of all interest payments received by the Company from related parties during such year.” Two days later, Ms. Turkenburg formally submitted PepsiCo’s tax ruling request to the Dutch Revenue Service. In the letter representing Pepsico’s formal request, Ms. Turkenburg reiterated that
+*7 The actual payment of the base interest and premium is dependent on the cash-flow of PGI/PWI. ‘Cash flow’ is defined in the agreement. Contrary to our previous discussions, it is not the intention that this income is reinvested in the participations. The cash-flow definition in the agreement underlines this. Separate financing will be sought for such additional investments.
+In further describing the “cash flow” limitation, the request noted that “The loan conditions of the Fritolay advances contain an incentive for Fritolay to actually pay interest. Deferral of payment incurs higher interest expenses and is also limited in time (5 years).”
+ 
+On June 11, 1996, Inspector Munneke sent Ms. Turkenburg a letter approving the tax ruling. The ruling was, however, conditioned on the 1996[*20] advance agreement’s operating in conformity with Inspector Munneke’s interpretation of its terms:
+The exact application of the cash-flow restriction on the payment of interest can not be determined by me. Together we have concluded that the interest payable should at least equal to the interest received on the loans receivable from Frito Lay. This applies also (or should apply also) to the capitalised base interest in the form of the Capitalised Base PR Amount. This should also always be paid if the corresponding capitalised interest of Frito Lay * * * is paid by Frito Lay.
+ 
+* * * * * * *
+These activities have as [a] main characteristic the flow-through. A flow-through of funds * * * [from] KFCIH is intended.
+ 
+Following Inspector Munneke’s letter, Mr. Bartley sent Ms. Turkenburg a facsimile, dated June 20, 1996, in which he indicated that payments of interest and capitalized interest were not technically required pursuant to the terms of the 1996 advance agreement draft, but “As a practical matter we expect all * * * [Frito–Lay] interest payments to flow thru to KFCIH.” Ms. Turkenburg responded to Mr. Bartley, on June 21, 1996, with a facsimile which revealed that Inspector Munneke’s understanding of the proffered 1996 advance agreement draft was unacceptable:
+[*21] In his letter * * * [Inspector Munneke] clearly states that he is still not convinced that the cash-flow definition would have the flow-through result that he is looking for. The definition as it is worded would not give that result unless parties are very careful to monitor the situation so that the actual facts, in fact the net cash-flow, expenses and capital expenditures are such that in actual fact a flow-through results. For obvious U.S. reasons we can not accommodate him. * * * [T]he ultimate test is going to be the actual events as they are going to occur in the future, i.e. that indeed payments are going to be made as though a back-to-back arrangement existed. If we were to insert that only “some portion” of the fixed component may be paid, I expect serious opposition. Under this same factual test, we will have to ensure that operating expenses will not prevent the payment of interest. I have always understood that the financing arrangement * * * [does] not intend to export funds from the U.S. and that you would therefore indeed always use every dollar received from * * * [Frito–Lay] towards payment to KFCIH.
+*8 Two days later, on June 23, 1996, Mr. Bartley sent Ms. Turkenburg another facsimile clarifying that PGI/PWI would make preferred return payments to KFCIH, notwithstanding the terms of the 1996 advance agreements:
+1. Generally * * * all of us [you, me, Bruce, and the inspector] appear to be in agreement. In practice, all interest paid by F–L to PGI/PWI will in turn be paid to KFCIH. The “flow-thru” result will be proved by actual events. (Any opinion you provide with respect to the * * * [1996 advance agreements] and the Dutch ruling can and should assume this fact.)
+* * * * * * *
+3. Under no circumstances will either operating expenses or capital expenditures (no matter what definitional language we use in the * * * [1996 advance agreements] ) prevent the “flow-thru” payment of interest. Reiterate point 1 above.
+[*22] 4. As you note, the difficulty from a U.S. tax perspective is that direct express linkage between * * * [Frito–Lay] payment and PGI/PWI payment (and/or any requirement that cash received from * * * [Frito–Lay] be paid to KFCIH) would create significant risk that the * * * [1996 advance agreement] will be treated as debt rather than equity. If the terms of the * * * [1996 advance agreement] either assure or require that any payment from * * * [Frito–Lay] will or must be paid on to KFCIH, the IRS has a strong argument that the * * * [1996 advance agreement] is nothing more than a linked (back-to-back) debt instrument.
+* * * We need to be able to argue compellingly that the test will not necessarily assure or require interest payments from related parties to be paid on to KFCIH under the * * * [1996 advance agreement]. [Emphasis supplied.18]
+Ms. Turkenburg, on June 25, 1996, sent Inspector Munneke a followup letter in response to his conditional approval of June 11, 1996. Ms. Turkenburg drafted her letter to clarify and summarize the continued discourse between the parties. She proffered:
+As long as the funds obtained from KFCIH are onlent to Fritolay * * * the loan from KFCIH qualifies as debt. In that respect, it is decisive that the interest actually received on the loans granted to Fritolay, and/or the capitalized interest paid by means of redemption of the New Promissory Notes (also referred to in our consultation as “baby notes”), is used each time for the payment of, at least, the fixed component of the interest obligations vis-à-vis KFCIH, including the Capitalized Base PR Amount(s). For Dutch tax purposes, this fixed component qualifies as an interest payment not contingent on profit, [*23] nor accruing to the shareholder as such, and is deductible for Dutch corporate income tax purposes.”
+Furthermore, Ms. Turkenburg noted: “In order to clarify this ‘flow-through’ concept, it is included in the * * * [1996 advance agreement] that the amount of the net cash flow will not be lower than the [Frito–Lay] interest payments and the payments of capitalized interest.”
+ 
+*9 On July 1, 1996, Mr. Bartley, responding to a separate Inspector Munneke request that PWI/PGI avoid “debtor’s risk”, faxed Ms. Turkenburg a revised draft of a 1996 advance agreement that added a provision addressing the term of the agreement in the event a related party default on loan obligations.19 The addition read:
+[T]o the extent the Company holds loan receivables from related parties and such related parties default with respect to required payments under such loans (and fail to cure the payment defaults within any applicable cure periods), the term of this Advance Agreement, * * * shall no longer apply.
+The effect of this provision was that if Frito–Lay defaulted on its notes to PGI, the 40–year term of the 1996 advance agreements would no longer apply and the 1996[*24] advance agreements would thereafter, for Dutch corporate income tax purposes, be treated as equity.20 Following her receipt of the revised 1996 Advanced Agreement, Ms. Turkenburg forwarded a copy to Inspector Munneke the following day.
+ 
+Inspector Munneke responded to Ms. Turkenburg by facsimile, on July 31, 1996,21 and confirmed, on the totality of the representations made by Ms. Turkenburg, that PGI/PWI would be allowed to report a taxable spread of 1/8%.22
+ 
+
+
+VII. The Final Advance Agreements
+The final terms of the 1996 advance agreements and, thereafter, the 1997 advance agreement, incorporated many of the initial provisions submitted by Mr. Slobbe in the preliminary draft; however, as a result of PepsiCo’s correspondence wih Inspector Munneke, various provisions were tailored to address the Dutch Revenue Service’s concerns. [*25] The advance agreements provided for payments of principal amounts after initial terms of 40 years.23 PWI and PGI had unrestricted options (initial options) to renew the advance agreements for a period of 10 years. If the initial options were exercised, the entities could exercise a separate option delaying payment of principal for an additional 5 years. The advance agreements would become perpetual, however, to the extent of any uncured defaults on loan receivables held by PWI or PGI from related parties.
+ 
+A preferred return accrued on any unpaid principal amounts pursuant to the advance agreements and consisted of two components: “base preferred return” (base pr) and “premium preferred return” (premium pr). Under the terms of the 1996 advance agreements, base pr accrued semiannually at six-month LIBOR (London Interbank Offering Rate) plus 230 basis points, minus an “adjustment [*26] rate”.24 Premium pr on the 1996 advance agreements accrued semiannually at a rate equal to 1/2 of the 6–month LIBOR rate.25 [*27] Conversely, the 1997 advance agreement provided that base pr accrued semiannually at a rate of 7.951 % minus an “adjustment rate”26 with premium pr accruing at a rate of approximately 3.98%.27
+ 
+While preferred return unconditionally accrued pursuant to the advance agreements, the instruments required PGI/PWI to the make payments of the accrued preferred return only under certain specified circumstances:
+*10 3.(a) Any accrued Preferred Return (including accrued Base PR and accrued Premium PR) shall be payable annually on * * * [specific days of each year] beginning in 1997 and on the date the Principal [*28] Amount is paid in full; provided however, that the Preferred Return shall be payable only to the extent that the net cash flow of the Company during the preceding year exceeded the sum of (i) the aggregate amount of all accrued but unpaid operating expenses incurred by the Company during such year and (ii) the aggregate amount of all capital expenditures made or approved by the Company during such year, including all capital investments (whether in the form of equity contributions, loans, or other capital investments) made or approved by the Company during such year. For purposes of the preceding sentence, the net cash flow of the Company shall be determined with reference to generally accepted accounting principles. At the same time, the amount of net cash flow for purposes of that sentence shall in no event be less than the aggregate amount of all interest payments and payments of capitalized interest received by the Company from related parties during such year.
+ 
+To the extent any accrued preferred return was not paid when due, as contemplated in Mr. Slobbe’s preliminary draft, that amount would be capitalized into “capitalized base preferred return” (capitalized base pr) and “capitalized premium preferred return” (capitalized premium pr) amounts, respectively.28 Similar to the payment of preferred return, the separate payment of capitalized base pr was required annually, but only to the extent that the “aggregate net cash flow” for the period during which the amount remained unpaid exceeded the sum of (i) the aggregate amount of all accrued but unpaid operating expenses “incurred” by the company during such period and (ii) the aggregate amount of all [*29] capital expenditures made or approved by the company, including all capital investments made or approved during the same period. Payment of capitalized premium pr was payable only when the principal amount of its corresponding advance agreement was paid in full, but was subject to the same “aggregate net cash flow” restrictions for the period of nonpayment. In both circumstances, net cashflow would, in no event, be less than the aggregate amount of all interest payments and payments of capitalized interest received from related parties during the same period.
+ 
+Notwithstanding the aforementioned provisions, the advance agreements allowed PGI/PWI to pay unpaid principal amount, accrued but unpaid preferred return, any unpaid capitalized base pr amount, and any unpaid capitalized premium pr amount, in full or in part at any time. The obligation to pay any such amounts was also subordinate to “all the indebtedness of * * * [PWI/PGI], without limitation.” Similarly, the rights of all creditors of PGI/PWI to receive payments from PGI/PWI were “superior and prior to” the rights of the holders of the advance agreements to receive any required payments.
+ 
+*11 Subject to the conditions and the subordination provision noted supra, the holders of the advance agreements could declare as immediately due any unpaid principal amount, accrued but unpaid preferred return, unpaid capitalized base pr [*30] return, and unpaid capitalized premium pr, upon the occurrence of any of the following:
+6. * * * (a) dissolution or termination of the legal existence of * * * [PWI/PGI] (except in the case of a merger or similar successor-ininterest transaction); (b) insolvency of * * * [PWI/PGI] (other than technical insolvency); or (c) receivership or appointment of a liquidator or administrator for * * * [PWI/PGI] or over all or a substantial portion of its assets under any law relating to bankruptcy, insolvency, or reorganization.
+ 
+
+
+VIII. ABN–AMRO Credit Facility
+During the years at issue, PGI maintained a credit facility with ABN–AMRO Bank, N.V. (ABN–AMRO). The amount of available credit under the credit facility varied over time from a low of $20 million to a high of $90 million. The credit facility was, at all times, secured by a subsidiary guaranty issued by PepsiCo to ABN–AMRO. PGI drew as much as $60 million from the credit facility from 1997 through 1999; however, as a general matter, PGI preferred to borrow cash from PepsiCo affiliates rather than from third-party lending institutions because of the higher costs of external borrowing.
+ 
+
+
+IX. PGI’s Related Party Indebtedness and Capital Investments
+During the years at issue, PGI had outstanding indebtedness to related parties that ranged from approximately $437 million to more than $937 million. [*31] In the same period PGI made advances in the form of loans and equity investments in affiliates of approximately $1.415 billion.
+ 
+Concerning PGI’s varied equity holdings, three such investments bear noting: (1) Pepsi–Cola France, a French société en nom collectif (SNC) engaged in the distribution and sale of all Pepsi beverages in France; (2) Spizza 30, SNC, which owned and operated Pizza Hut restaurants in France; and (3) PepsiCo Restaurants International (PRI), a Spanish Sociedad Comanditaria por Acciones (SCA), which owned and operated Pizza Hut restaurants in Spain.29 The three operating entities had aggregate liabilities of more than $180 million and $157 million in 1996 and 1997, respectively.
+ 
+
+
+X. 2001 LIBOR Concern
+As noted supra, each of the PepsiCo Frito–Lay notes (exchanged by KFCIH for the 1996 advance agreements) provided that interest on unpaid principal would accrue semiannually at a rate equal to the greater of (i) six-month LIBOR plus 230 basis points or (ii) 7.5% per annum. In contrast, the 1996 advance agreements provided that the base pr would accrue semiannually on the same dates at six-month LIBOR plus 230 basis points minus an adjustment rate. During [*32] 2001, the six-month LIBOR rate fell dramatically to 3.9% on July 2, 2001. Therefore, the interest rate on the Frito–Lay notes should have been 7.5%, while accrual of base pr on the 1996 advance agreements should have been 6.2% (3.9% plus 230 basis points) minus an adjustment, creating a significant imbalance between the payment of interest on the Frito–Lay notes and the accrual of base pr on the 1996 advance agreements. However, in calculating base pr due under the 196 advance agreements for the second half of 2001, PGI’s corporate accountant, Willem Kuzee, used a 5.69% rate, instead of 3.9% as required by the instruments.
+ 
+*12 PepsiCo corrected this interest rate problem by thereafter amending the PepsiCo Frito–Lay notes on March 1, 2002. The amendments changed the interest rates on the notes to six-month LIBOR plus 230 basis points to be consistent with the base pr rate provided in the 1996 advance agreements.
+ 
+
+
+XI. 2007 Luxembourg Advance Agreements
+On August 13, 2007, BFSI and PPR contributed the advance agreements to a newly organized Luxembourg S.a.r.l. (PGI S.a.r.l.), in exchange for new advance agreements with similar terms (Luxembourg advance agreements).30 As part of the transaction, PGI filed an IRS Form 8832, Entity Classification Election, electing to [*33] be treated as a “disregarded entity” for U.S. Federal income tax purposes. As a result, BFSI and PPR thereafter treated the Luxembourg advance agreements as continuations of the advance agreements for U.S. Federal income tax purposes.
+ 
+
+
+XII. Payments of Preferred Return on the Advance Agreements
+The timing and amounts of all payments of principal and preferred returns paid by PGI on the 1996 advance agreements before 2010 are set forth in the following table:31
+ 
+
+
+
+
+Payment date
+ 
+|Principal
+ 
+|Base PR
+ 
+|Premium PR (net of Dutch withholding tax)
+ 
+|Total payment
+ 
+|
+Sept. 17, 1997
+ 
+|–0–
+ 
+|$39,072,000.00
+ 
+|–0–
+ 
+|$39,072,000.00
+ 
+|
+Mar. 26, 1998
+ 
+|–0–
+ 
+|151,071,461.99
+ 
+|$1,336,931.20
+ 
+|152,408,393.19
+ 
+|
+Jan. 21, 1999
+ 
+|–0–
+ 
+|152,385,058.00
+ 
+|997,030.00
+ 
+|153,382,088.00
+ 
+|
+Feb. 3, 2000
+ 
+|–0–
+ 
+|144,427,861.00
+ 
+|991,552.00
+ 
+|145,419,413.00
+ 
+|
+Feb. 19, 2001
+ 
+|–0–
+ 
+|167,280,781.38
+ 
+|984,958.46
+ 
+|168,265,739.84
+ 
+|
+Feb. 5, 2002 1
+ 
+|–0–
+ 
+|154,676,738.83
+ 
+|946,508.00
+ 
+|155,623,246.83
+ 
+|
+Jan. 30, 2003
+ 
+|–0–
+ 
+|79,721,156.30
+ 
+|953,112.27
+ 
+|80,674,268.57
+ 
+|
+Jan. 23, 2004
+ 
+|–0–
+ 
+|68,071,108.51
+ 
+|1,015,123.39
+ 
+|69,086,231.90
+ 
+|
+May 11, 2005
+ 
+|–0–
+ 
+|74,040,445.38
+ 
+|1,129,446.95
+ 
+|75,169,892.33
+ 
+|
+June 20, 2006
+ 
+|–0–
+ 
+|105,437,379.00
+ 
+|1,154,256.65
+ 
+|106,591,635.65
+ 
+|
+Dec. 28, 2006
+ 
+|–0–
+ 
+|139,556,631.66
+ 
+|1,129,872.77
+ 
+|140,686,504.43
+ 
+|
+[*34] July 14, 2008
+ 
+|–0–
+ 
+|150,631,714.23
+ 
+|1,073,518.06
+ 
+|151,705,232.2 9
+ 
+|
+Jan. 23, 2009
+ 
+|–0–
+ 
+|117,070,104.32
+ 
+|270,639.77
+ 
+|117,340,744.09
+ 
+|
+Dec. 31, 2009
+ 
+|–0–
+ 
+|70,282,049.84
+ 
+|425,278.75
+ 
+|70,707,328.59
+ 
+|
+
+
+
+
+The timing and amount of all payments of principal and preferred return paid by PGI on the 1997 advance agreement before 2010 are set forth in the following table:32
+ 
+
+
+
+
+Payment date
+ 
+|Principal
+ 
+|Base PR 1
+ 
+|Premium PR (net of Dutch withholding tax) 2
+ 
+|Total payment
+ 
+|
+Nov. 6, 1997
+ 
+|–0–
+ 
+|—
+ 
+|—
+ 
+|$42,926,795.08
+ 
+|
+Oct. 19, 1998
+ 
+|$214,084,144.00
+ 
+|—
+ 
+|—
+ 
+|323,652,537.00
+ 
+|
+Oct. 19, 1999
+ 
+|–0–
+ 
+|$90,665,018.85
+ 
+|$402,015.78
+ 
+|91,067,034.63
+ 
+|
+Nov. 16, 2000
+ 
+|–0–
+ 
+|90,567,601.67
+ 
+|–0–
+ 
+|90,567,601.67
+ 
+|
+Oct. 19, 2001
+ 
+|–0–
+ 
+|91,838,594.93
+ 
+|1,640,497.10
+ 
+|93,479,092.03
+ 
+|
+Oct. 21, 2002 3
+ 
+|–0–
+ 
+|91,838,594.93
+ 
+|730,690.71
+ 
+|92,569,285.64
+ 
+|
+Oct. 23, 2003
+ 
+|–0–
+ 
+|91,838,594.93
+ 
+|736,311.40
+ 
+|92,574,906.34
+ 
+|
+May 11, 2005
+ 
+|–0–
+ 
+|91,838,594.93
+ 
+|770,035.59
+ 
+|92,608,630.52
+ 
+|
+Oct. 28, 2005
+ 
+|–0–
+ 
+|91,838,594.93
+ 
+|89,180.29
+ 
+|91,927,775.22
+ 
+|
+Dec. 29, 2005
+ 
+|–0–
+ 
+|21,315,517.00
+ 
+|–0–
+ 
+|21,315,517.00
+ 
+|
+Dec. 28, 2006
+ 
+|–0–
+ 
+|73,470,875.95
+ 
+|353,219.25
+ 
+|73,824,095.20
+ 
+|
+[*35] July 14, 2008
+ 
+|–0–
+ 
+|97,059,506.36
+ 
+|509,719.94
+ 
+|97,569,226.30
+ 
+|
+Jan. 23, 2009
+ 
+|–0–
+ 
+|94,695,035.97
+ 
+|270,107.80
+ 
+|94,965,143.77
+ 
+|
+Oct. 19, 2009
+ 
+|–0–
+ 
+|92,202,410.11
+ 
+|267,091.84
+ 
+|92,469,501.95
+ 
+|
+
+
+
+
+
+
+XIII. Payments on the Frito–Lay Notes
+*13 The timing and amounts of interest payments received by PGI on the PepsiCo Frito–Lay notes before 2010 are set forth in the following table:33
+ 
+
+
+
+
+Payment date
+ 
+|Frito-Lay notes
+ 
+|PepsiCo notes
+ 
+|Metro Bottling notes
+ 
+|Total payments
+ 
+|
+Sept. 17, 1997
+ 
+|$39,072,364.00
+ 
+|–0–
+ 
+|–0–
+ 
+|$39,072,364.00
+ 
+|
+Mar. 26, 1998
+ 
+|131,786,523.5 9
+ 
+|$13,568,655.59
+ 
+|$8,136,067.81
+ 
+|153,491,246.99
+ 
+|
+Jan. 21, 1999
+ 
+|136,808,012.00
+ 
+|10,866,082.00
+ 
+|6,515,544.00
+ 
+|154,189,6 38.00
+ 
+|
+Feb. 3, 2000
+ 
+|129,741,117.00
+ 
+|10,303,313.00
+ 
+|6,178,096.00
+ 
+|146,222,526.00
+ 
+|
+Feb. 19, 2001
+ 
+|150,007,590.65
+ 
+|11,912,763.30
+ 
+|7,143,157.43
+ 
+|169,063,5 11.38
+ 
+|
+Feb. 5, 2002
+ 
+|138,762,364.06
+ 
+|11,019,796.63
+ 
+|6,607,714.78
+ 
+|156,389,875.47
+ 
+|
+Jan. 30, 2003
+ 
+|72,266,067.86
+ 
+|5,738,966.66
+ 
+|3,441,211.86
+ 
+|81,446,246. 38
+ 
+|
+Jan. 23, 2004
+ 
+|62,010,962.88
+ 
+|4,928,318.44
+ 
+|2,955,129.18
+ 
+|69,894,410. 50
+ 
+|
+May 11, 2005
+ 
+|67,391,279.14
+ 
+|5,351,921.66
+ 
+|3,209,131.08
+ 
+|75,952,331.8 8
+ 
+|
+June 20, 2006
+ 
+|95,314,551.77
+ 
+|7,567,558.44
+ 
+|4,537,676.10
+ 
+|107,419,786.31
+ 
+|
+[*36] Dec. 28, 2006
+ 
+|125,501,899.77
+ 
+|9,966,658.48
+ 
+|5,976,229.76
+ 
+|141,444,788.02
+ 
+|
+July 14, 2008
+ 
+|134,944,482.97
+ 
+|10,716,535.60
+ 
+|6,425,872.72
+ 
+|152,086,8 91.29
+ 
+|
+Jan. 23, 2009
+ 
+|104,406,633.0 2
+ 
+|8,291,390.46
+ 
+|4,971,701.85
+ 
+|117,669,725.33
+ 
+|
+Dec. 31, 2009
+ 
+|62,888,657.08
+ 
+|4,994,265.16
+ 
+|2,994,672.35
+ 
+|70,887,594. 59
+ 
+|
+
+
+
+
+The timing and amounts of all payments of principal and interest received by PGI on the initial PPR Frito–Lay notes and the additional PPR Frito–Lay notes before 2010 are set forth in the following table:34
+
+
+
+
+Payment date
+ 
+|Total payment
+ 
+|
+Nov. 6, 1997
+ 
+|$42,926,795.08
+ 
+|
+Oct. 19, 1998
+ 
+|1323,652,537.04
+ 
+|
+Oct. 19, 1999
+ 
+|91,392,649.22
+ 
+|
+Nov. 16, 2000
+ 
+|90,567,601.67
+ 
+|
+Oct. 19, 2001
+ 
+|94,807,820.45
+ 
+|
+Oct. 21, 2002
+ 
+|93,161,112.05
+ 
+|
+Oct. 23, 2003
+ 
+|93,161,112.05
+ 
+|
+May 11, 2005
+ 
+|93,161,112.05
+ 
+|
+Oct. 28, 2005
+ 
+|91,991,759.88
+ 
+|
+Dec. 29, 2005
+ 
+|18,768,921.26
+ 
+|
+Dec. 28, 2006
+ 
+|74,061,148.76
+ 
+|
+July 14, 2008
+ 
+|97,748,730.30
+ 
+|
+[*37] Jan. 23, 2009
+ 
+|95,078,841.77
+ 
+|
+Oct. 19, 2009
+ 
+|92,576,435.95
+ 
+|
+
+
+
+
+
+
+XIV. Summary of the Payments
+PGI paid out nearly all of the amounts received under the Frito–Lay notes from 1997 through 2009. With respect to the 1996 advance agreements, PGI received $1,635,230,935 in interest payments from the PepsiCo Frito–Lay notes during those years and paid out base pr and premium pr35 totaling $1,626,114,719. Each preferred return payment was remitted on the same date that interest due on the PepsiCo Frito–Lay notes was remitted to PGI.
+ 
+With respect to the 1997 advance agreement, PGI received $1,395,603,173 in interest payments from the initial PPR Frito–Lay notes and the additional PPR Frito Lay notes from 1997 through 2009 and paid out base pr and premium pr36 totaling $1,391,517,142. Each preferred return payment was made on the same day that interest due on the initial PPR Frito–Lay notes and the additional PPR Frito Lay notes was paid to PGI.
+ 
+
+
+[*38] XV. U.S. Taxes Following the Global Restructuring
+*14 Petitioners treated the payments of preferred return on all the advance agreements as distributions on equity on its U.S. Federal income tax returns. All interest due on the Frito–Lay notes was claimed as a deduction by Frito–Lay, PepsiCo, and Metro Bottling under section 163. Payments of interest on the Frito–Lay notes to PGI/PWI were also exempt from U.S. withholding tax pursuant to the Dutch tax treaty.
+ 
+During the years at issue, interest on the Frito–Lay notes was included as subpart F income on PepsiCo’s consolidated U.S. Federal income tax returns to the extent of PGI’s earnings and profits in the following amounts:
+ 
+
+
+
+
+Year ended
+ 
+|Subpart F inclusion
+ 
+|
+Dec. 26, 1998
+ 
+|–0–
+ 
+|
+Dec. 25, 1999
+ 
+|$6,879,805
+ 
+|
+Dec. 30, 2000
+ 
+|86,036,586
+ 
+|
+Dec. 29, 2001
+ 
+|103,136,493
+ 
+|
+Dec. 28, 2002
+ 
+|–0–
+ 
+|
+
+
+
+
+PPR did not report any subpart F income during the years at issue.
+In subsequent taxable years, petitioners’ aggregate subpart F inclusions with respect to interest income on the Frito–Lay notes were as follows:
+ 
+
+
+
+
+[*39] Year ended
+ 
+|Subpart F inclusion
+ 
+|
+Dec. 27, 2003
+ 
+|$23,072,249
+ 
+|
+Dec. 25, 2004
+ 
+|38,865,815
+ 
+|
+Dec. 31, 2005
+ 
+|109,004,397
+ 
+|
+Dec. 30, 2006
+ 
+|202,082,564
+ 
+|
+Dec. 29, 2007
+ 
+|197,987,655
+ 
+|
+Dec. 27, 2008
+ 
+|207,605,843
+ 
+|
+Dec. 26, 2009
+ 
+|165,959,993
+ 
+|
+
+
+
+
+
+
+XVI. Expert Reports
+At trial, petitioners submitted expert reports prepared by Paul Sleurink, a Dutch tax law specialist, and Christopher James, an American professor of finance. Respondent submitted a rebuttal expert report prepared by a Dutch tax lawyer, Jean–Paul R. van Den Berg, which scrutinized certain aspects of Mr. Sleurink’s report.
+ 
+
+
+A. Petitioners’ Experts
+
+1. Paul Sleurink
+Mr. Sleurink was engaged as an expert witness to testify to the debt characterization of the advance agreements for Dutch corporate income tax purposes, as well as the basis for claiming a deduction for the base pr whether paid and/or accrued and the basis for treating payments of the premium pr as dividends [*40] when paid. As a supplementary inquiry, Mr. Sleurink was asked to construe the terms of the Dutch tax ruling negotiated by Inspector Munneke and Ms. Turkenburg.37
+ 
+Mr. Sleurink prefaced his analysis by noting that noncontingent amounts payable on an instrument that is debt for Dutch corporate income tax purposes are deductible on an accrual basis unless payments of such amounts are “highly uncertain”. Similarly, contingent payments are deductible on an accrual basis unless the likelihood of payment is “remote”.38 Contrary to accrual for U.S. Federal income tax law, in determining whether an item has accrued for Dutch tax purposes it is not relevant whether all events have occurred to fix the liability and the amount of the payment. See sec. 1.451–1(a), Income Tax Regs.
+ 
+Concerning the proper tax characterization of financial instruments, Mr. Sleurink submitted that, subject to three narrowly drawn exceptions (the only relevant exception at present is the “participating loan exception”), such instruments are treated as debt for Dutch corporate income tax purposes if they are considered debt for Dutch civil law purposes. The decisive consideration under [*41] Dutch civil law for debt characterization is whether a borrower has an obligation to repay advances at the end of a stated term, or upon its bankruptcy or liquidation.
+ 
+*15 As clarified by the Dutch Supreme Court in a 1998 case,39 the “participating loan exception” is invoked, and an advance recharacterized as equity, when three conditions are met: (1) the interest is profit dependent; (2) the loan is subordinated to the interests of all senior creditors; and (3) the loan has no fixed repayment date and needs to be repaid only in the event of a bankruptcy, liquidation, or moratorium.
+ 
+After establishing this Dutch tax law background, Mr. Sleurink endeavored to determine whether, according to such principles, the advance agreements would be treated as debt or as equity for Dutch tax purposes. Mr. Sleurink noted that the advance agreements obligated PGI/PWI to repay principal after a maximum of 55 years (without accounting for the subsequent condition that could render the [*42] instruments perpetual), or upon their bankruptcy or liquidation. This, Mr. Sleurink reasoned, qualified the advance agreements as debt for Dutch civil law purposes. Nonetheless, Mr. Sleurink recognized that the possibility of a perpetual term for the advance agreements, as well as the “net cash flow” conditions, left the instruments susceptible to equity characterization under the “participating loan exception”. While admitting that he was unable to render a definitive conclusion regarding the classification of the advance agreements for Dutch tax purposes, Mr. Sleurink opined that the instruments would not be reclassified as equity. Key to his conclusion were that: (1) at issuance, notwithstanding conditions which would provide otherwise, the instruments did not have a perpetual term;40 and (2) preferred return was based on a floating LIBOR rate or a fixed rate and could be deferred in the event of insufficient PGI/PWI net cashflows (as opposed to profit).41 [*43] Mr. Sleurink was also influenced by the fact that preferred return payable was “further removed from profit” of the borrower by the advance agreement provision dictating that net cashflow would never be less than “interest or capitised [sic] amounts received from related parties during such year, reduced by capital expenditures made or approved.”
+ 
+Regarding the Dutch tax ruling, Mr. Sleurink analyzed the entirety of Ms. Turkenburg’s correspondence with Inspector Munneke and determined that the terms of the ruling dictated that
+(i) the principal lent to PGI/PWI under the Advance Agreements constituted debt for Dutch corporate income tax purposes and the interest expense (Base Preferred Return) paid or accrued would be deductible if and to the extent PGI/PWI would realise [sic] at least the minimal taxable spread as referred to in (iii) below:
+(ii) the Premium PR and Capitalised [sic] Premium PR amount should be considered a dividend. The dividend would not be recognized until the actual date of payment of the Premium PR;
+[*44] (iii) a taxable spread of 1/8% (of the total amount of funds borrowed) reported by PGI and PWI will be considered “at arms length” as (i) the financial position of PGI and PWI will not deteriorate if the receivables on Frito–Lay, Inc. prove irrecoverable (because the Advance Agreements become perpetual and are treated as equity) and (ii) PGI and PWI will not report a tax loss in the case of losses on the receivables.
+ 
+
+
+2. Christopher James
+*16 Christopher James was hired by petitioners for the sole purpose of determining whether “a bank or other lender would have issued a loan to PGI in similar amounts and under any reasonably similar terms to those of the Advance Agreements.” In formulating his opinion, Mr. James performed a systematic analysis of PGI’s ability to repay the advance agreements. His methodology was consistent with the approach taken by commercial lenders in deciding whether to engage in similar investments and focused on factors such as use of the loan [*45] proceeds, loan amount, source and timing of repayment, and collateral. After examining PGI’s financial records42 and considering the terms of the advance agreements, he concluded:
+It is unlikely that a bank or other lender would be willing to lend the amounts associated with the Advance Agreements without sufficient safeguards in place to protect its right to repayment, such as a reasonably short term to maturity, senior status vis-a-vis other creditors and/or collateral, loan covenants and acceleration rights upon certain defaults or other credit events. In my opinion, the absence of these safeguards from the terms of the Advance Agreements would lead a bank to decline to issue a loan in the amount of the Advance Agreements to any company. Moreover, PGI presented additional risk because it was a holding company for a number of PepsiCo’s ventures in emerging markets. PepsiCo expected that it would be necessary to make substantial capital investments and expenditures in these markets for years to come.
+ 
+Mr. James also used specialized databases, containing loan data collected from commercial lenders, in an attempt to find debt instruments that were both issued contemporaneously with and shared similar characteristics with the advance [*46] agreements. Mr. James reported that his review of over 400,000 commercial loans and “corporate debt issuances” in such databases did not reveal any debt instruments that would be “reasonably similar” to the advance agreements.
+ 
+
+
+B. Respondent’s Expert Jean–Paul R. van Den Berg
+Mr. van Den Berg generally faults Mr. Sleurink’s report for focusing on the terms of the advance agreements in a “standalone” manner without considering their connection with the Frito–Lay notes. He also submitted that Mr. Sleurink’s interpretation of certain correspondence between Inspector Munneke and Ms. Turkenburg is flawed because of Mr. Sleurink’s mistranslation of several Dutch words in the documents.43 In particular, in the June 11, 1996, letter from Inspector Munneke to Ms. Turkenburg, Mr. van Den Berg scrutinized Mr. Sleurink’s reliance on the following passage in which Mr. Sleurink added the phrase “over time”, which was not included in the unofficial translations provided by Loyens: “Together we have concluded that, over time, the interest payable should at least be equal to the interest receivable on the loans receivable from Frito–Lay.” (Emphasis added.) Mr. van Den Berg proffers that without the erroneous addition [*47] of the phrase “over time”, it becomes clear, especially when viewed in conjunction with the entire document and in the light of subsequent correspondence, that
+*17 [E]ach time an actual payment of interest is received on the loan to Frito–Lay, a corresponding payment would need to be made on the Advance Agreements and each time an actual payment of accrued interest is made by Frito–Lay * * * a corresponding actual payment of Capitalized Base PR Amount needs to be made.
+ 
+
+
+OPINION
+[1] The principal issue in these cases concerns the appropriate characterization of the advance agreements for Federal income tax purposes. Respondent generally asserts that the substance of the transactions, revealed primarily through petitioners’ dialogue with the Dutch Revenue Service during negotiations to secure a Dutch tax ruling, evidence petitioners’ clear intentions in structuring the advance agreements and, concomitantly, underscore that the instruments manifest a creditor-debtor arrangement. Petitioners dispute that characterization, insisting that the form of the advance agreements comports with their substance and that when correspondence between petitioners and the Dutch Revenue Service is considered in the light of relevant testimony adduced at trial, it leads to the unequivocal conclusion that the advance agreements are legitimate equity [*48] instruments for Federal income tax purposes. We find petitioners’ argument to be more persuasive.
+ 
+
+
+I. Burden of Proof
+The taxpayer bears the burden of proving by a preponderance of the evidence that the Commissioner’s determinations are incorrect. Rule 142(a); Welch v. Helvering, 290 U.S. 111, 115, 54 S.Ct. 8, 78 L.Ed. 212 (1933). In general, the burden of proof with regard to factual matters rests with the taxpayer. Under section 7491(a), if the taxpayer produces credible evidence with respect to any factual issue relevant to ascertaining the taxpayer’s liability for tax and meets other requirements, the burden of proof shifts from the taxpayer to the Commissioner as to that factual issue. As we decide these cases on the preponderance of the evidence, we need not decide upon which party the burden rests.
+ 
+
+
+II. Substance Over Form
+[2] [3] Respondent asks this Court to disregard the objective form of the advance agreements and examine the substance of the transactions in discerning their proper characterization for Federal income tax purposes. It is axiomatic that the substance of a transaction governs for tax purposes. See Commissioner v. Court Holding Co., 324 U.S. 331, 334, 65 S.Ct. 707, 89 L.Ed. 981 (1945) (“The incidence of taxation depends upon the substance of a transaction.”); Gregory v. Helvering, 293 U.S. 465, 55 S.Ct. 266, 79 L.Ed. 596 (1935); [*49] Hardman v. United States, 827 F.2d 1409, 1411 (9th Cir.1987) (“Substance, not form, controls the characterization of a taxable transaction. Courts will not tolerate the use of mere formalisms solely to alter tax liabilities.” (Citations omitted.)); Calumet Indus., Inc. v. Commissioner, 95 T.C. 257, 288, 1990 WL 130849 (1990) (“the substance of the transaction is controlling, not the form in which it is cast or described.”). This principle is equally applicable in debt-versus-equity inquiries. See Gilbert v. Commissioner, 262 F.2d 512, 514 (2d Cir.1957) (“[T]he determination [of] whether the funds advanced are to be regarded as a ‘capital contribution’ or ‘loan’ must be made in the light of all the facts of the particular case.”).
+ 
+*18 [4] While cognizant that the substance-over-form doctrine permeates tax law jurisprudence, we believe it prudent to emphasize that the form of a transaction often informs its substance. See e.g., Hewlett Packard Co. v. Commissioner, T.C. Memo.2012–135 (dismissing the labels afforded to transactional instruments, but examining their terms to discern the true substance of the economic arrangement). An analysis focused myopically on the “substance” of a transaction, but devoid of any consideration of the obligations engendered by the terms of the governing instruments, would typically result in deficient, or wholly flawed, [*50] determinations.44 An admonition rendered by the Court of Appeals for the Fifth Circuit appears particularly prescient in this regard:
+We must take guard against oversimplification, for a glib generalization that substance rather than form is determinative of tax consequences not only would be of little assistance in deciding troublesome tax cases, but also would be incorrect. The fact—at least the tax world fact—is that in numerous situations the form by which a transaction is effected does influence and may indeed decisively control the tax consequences. This generalization does, however, reflect the fact that courts will, and do, look beyond the superficial formalities of a transaction to determine the proper tax treatment. [Blueberry Land Co. v. Commissioner, 361 F.2d 93, 101 (5th Cir.1966), aff’g 42 T.C. 1137, 1964 WL 1350 (1964); fn. ref. omitted.]
+ 
+Mindful that we must be circumspect in avoiding an unjustified extension of the substance-over-form doctrine, we note that respondent’s argument is, in substantial part, predicated upon the substantive integration of PepsiCo and its affiliates because they are all related parties under the common control of PepsiCo.45 Respondent asserts that removing the ostensible constructs separating [*51] the legally distinct entities and disregarding many of the “intentionally vague” terms of the advance agreements illuminates the debt-like nature of the instruments. Indeed, courts have recognized that transactional forms between related parties are susceptible of manipulation and, accordingly, warrant a more thorough and discerning examination for tax characterization purposes. See United States v. Uneco, Inc. (In re Uneco, Inc.), 532 F.2d 1204, 1207 (8th Cir.1976) (“Advances between a parent corporation and a subsidiary or other affiliate are subject to particular scrutiny ‘because the control element suggests the opportunity to contrive a fictional * * * [arrangement].’ “ (quoting Cuyuna Realty Co. v. United States, 180 Ct.Cl. 879, 382 F.2d 298 (Ct.Cl.1967))); see also Kraft Foods Co. v. Commissioner, 232 F.2d 118, 123–124 (2d Cir.1956), rev’g 21 T.C. 513, 1954 WL 382 (1954). [*52] However, notwithstanding the greater scrutiny afforded to related-party transactions, we believe that disregarding petitioners’ international corporate structure based solely on the entities’ interrelatedness is, without more, unjustified. See, e.g., C.M. Gooch Lumber Sales Co. v. Commissioner, 49 T.C. 649, 656, 1968 WL 1398 (1968) (“[W]e recognize that, although the affiliation which existed between petitioner and * * * [related entities] is not an insuperable barrier to petitioner’s position, it does ‘invite close scrutiny.’ ”) (citing Kraft Foods Co. v. Commissioner, 232 F.2d at 123), remanded pursuant to stipulation of the parties, 406 F.2d 290 (6th Cir.1969); see also Malone & Hyde, Inc. v. Commissioner, 49 T.C. 575, 578, 1968 WL 1493 (1968) (recognizing a “close scrutiny” standard, but finding it “unwarranted to apply legalistic and mechanical tests, in the area of parent-subsidiary relationships, without regard to the realities of the business world and the manner in which transactions are handled in the normal and ordinary course of doing business”). If we were to find otherwise, we would risk minimizing, or perhaps eviscerating, the legal distinctions between corporate branches and subsidiaries. In accord with this reasoning, the Court of Appeals for the Second Circuit, the court to which appeal in these cases would lie, has indicated that there is a marked difference between a more critical examination of transactions between related parties and the substantive integration of related entities:
+*19 [*53][I]t is one thing to say that transactions between affiliates should be carefully scrutinized and sham transactions disregarded, and quite a different thing to say that a genuine transaction affecting legal relations should be disregarded for tax purposes merely because it is a transaction between affiliated corporations. We think that to strike down a genuine transaction because of the parent-subsidiary relation would violate the scheme of the statute and depart from the rules of law heretofore governing intercompany transactions.
+* * * [A]ll legitimate and genuine corporation-stockholder arrangements have legal—and hence economic—significance, and must be respected in so far as the rights of third parties, including the tax collector, are concerned.
+[Kraft Foods Co. v. Commissioner, 232 F.2d at 124; fn. ref. omitted.]
+ 
+In sum, we approach our consideration of the characterization of the advance agreements acknowledging that the various PepsiCo entities’ relatedness may factor into our inquiry, but without a preconception that such relatedness alone allows us to blur the legally significant lines separating such entities.
+ 
+
+
+III. Debt–Versus–Equity Factors
+A “singular defined set of standards” capable of being uniformly applied in debt-versus-equity inquiries remains elusive. See Segel v. Commissioner, 89 T.C. 816, 826–828, 1987 WL 49800 (1987).46 In differentiating between loans and capital investments, [*54] “It is not always easy to tell which are which, for securities can take many forms, and it is hazardous to try to find moulds into which all arrangements can certainly be poured.” Jewel Tea Co., Inc. v. United States, 90 F.2d 451, 453 (2d Cir.1937).
+ 
+[5] Notwithstanding the difficulty in distinguishing between debt instruments and equity instruments, the focus of a debt-versus-equity inquiry generally narrows to whether there was an intent to create a debt with a reasonable expectation of repayment and, if so, whether that intent comports with the economic reality of creating a debtor-creditor relationship. Fin Hay Realty Co. v. United States, 398 F.2d 694, 697 (3d Cir.1968); Litton Bus. Sys., Inc. v. Commissioner, 61 T.C. 367, 377, 1973 WL 2590 (1973). The key to this determination is [*55] primarily the taxpayer’s actual intent, evinced by the particular circumstances of the transfer. A.R. Lantz Co. v. United States, 424 F.2d 1330, 1333 (9th Cir.1970); see also United States v. Uneco, Inc. (In re Uneco, Inc.), 532 F.2d at 1209 (in resolving debt-equity questions, both objective and subjective evidence of a taxpayer’s intent are considered and given weight in the light of the particular circumstances of a case).47
+ 
+Various Courts of Appeals have identified and considered certain factors in resolving debt-versus-equity inquiries.48 See, e.g., United States v. Uneco, Inc. (In re Uneco, Inc.), 532 F.2d at 1208 (10 factors); Estate of Mixon v. United States, 464 F.2d 394, 402 (5th Cir.1972) (13 factors); Fin Hay Realty Co. v. United States, 398 F.2d at 697 (16 factors).49 This Court has articulated a list of 13[*56] factors germane to such an analysis: (1) names or labels given to the instruments; (2) presence or absence of a fixed maturity date; (3) source of payments; (4) right to enforce payments; (5) participation in management as a result of the advances; (6) status of the advances in relation to regular corporate creditors; (7) intent of the parties; (8) identity of interest between creditor and stockholder; (9) “thinness” of capital structure in relation to debt; (10) ability of the corporation to obtain credit from outside sources; (11) use to which advances were put; (12) failure of debtor to repay; and (13) risk involved in making advances. Dixie Dairies Corp. v. Commissioner, 74 T.C. 476, 493, 1980 WL 4509 (1980).50
+ 
+*20 “The various factors which have been identified * * * are only aids in answering the ultimate question whether the investment, analyzed in terms of its economic reality, constitutes risk capital entirely subject to the fortunes of the corporate venture or represents a strict debtor-creditor relationship.” Fin Hay Realty Co. v. United States, 398 F.2d at 697.[*57] We address each of the factors, as applied to the advance agreements, in turn.
+ 
+
+
+1. The Names or Labels Given to the Instruments
+[6] [7] The issuance of a stock certificate indicates an equity contribution, whereas the issuance of a bond, debenture, or note indicates a bona fide indebtedness. Hardman v. United States, 827 F.2d at 1412.51 The advance agreements, at least superficially, evince neither a debt nor an equity instrument. Accordingly, we find that this factor is neutral.
+ 
+
+
+2. Presence or Absence of a Fixed Maturity Date52
+[8] [9] “The presence of a fixed maturity date indicates a fixed obligation to repay, a characteristic of a debt obligation. The absence of the same on the other hand would indicate that repayment was in some way tied to the fortunes of the business, indicative of an equity advance.” Estate of Mixon, 464 F.2d at 404; see Anchor Nat’l Life Ins. Co. v. Commissioner, 93 T.C. 382, 405, 1989 WL 111358 (1989). “[I]n the [*58] absence of * * * [a provision that the holder may unconditionally demand his advance at a fixed time] the security cannot be a debt.” Jewel Tea Co. Inc. v. United States, 90 F.2d at 453; see also Monon R.R. v. Commissioner, 55 T.C. 345, 359, 1970 WL 2339 (1970) (“[A] definite maturity date on which the principal falls due for payment, without reservation or condition, * * * is a fundamental characteristic of a debt.”).
+ 
+The advance agreements have terms of 40 years which can be unilaterally extended by their holders an additional 15 years; however, to the extent a related party defaults on any loan receivables held by PGI/PWI, such terms are voided, rendering the instruments perpetual. Petitioners aver that the extended “maturity dates” of the advance agreements, when viewed in isolation, effectively subject the holders’ investments to the business risks of PWI/PGI. The uncertainty of PWI/PGI’s financial condition at such future “maturity dates”, petitioners reason, makes speculative any repayment of principal, thereby exhibiting the capital nature of the investment. Alternatively, petitioners submit that the real possibility of default by a related party on a loan receivable held by PGI/PWI, which would eliminate any set term of the investment, ensures that the advance agreements lack an unconditional, fixed repayment date, serving to further divorce the qualities of the advance agreements from those of a typical debt instrument. [*59] Respondent counters that the “maturity dates” of the advance agreements remain fixed and not so far removed from the issuance of the instruments as to restrict this Court from finding that such terms are consistent with those of a general credit-debtor arrangement. Respondent relies primarily on Monon R.R. v. Commissioner, 55 T.C. 345, 1970 WL 2339, to demonstrate that this Court has accepted as debt certain instruments with terms of similar duration as those provided in the advance agreements. Furthermore, respondent dismisses as unrealistic the possibility that the terms of the advance agreements would become perpetual presuming that petitioners, through their control of all involved entities, would “never cause Frito–Lay, Metro Bottling, or PepsiCo, Inc. to default on their notes”. Instead, respondent submits that the “perpetual clause” was added to the advance agreements solely to “placate” the Dutch Revenue Service’s concern that a Frito–Lay default would result in a Dutch tax loss. Accordingly, it remains respondent’s position that the “perpetual clause is meaningless”.
+ 
+*21 In Monon R.R. v. Commissioner, 55 T.C. at 349–350, the taxpayer issued unsecured, 50–year, 6% income debentures to shareholders in exchange for shares of a certain class of stock. Interest on the debentures, while accruing annually, was mandatorily payable only to the extent of “available net income”. Id. at 352. Nonetheless, the taxpayer could, at the discretion of its board of directors, pay any [*60] unpaid accrued interest, even if then not required to be paid. Id. at 353.53 The taxpayer consistently represented to its shareholders, the Interstate Commerce Commission, and the New York Stock Exchange that the debentures were an “obligation” of the corporation. Id. at 349–354.54 Furthermore, notwithstanding [*61] the fact that the instrument’s payment obligations were subordinated to other general creditors, in the event of a taxpayer default, the shareholders were afforded a mechanism by which they could assert creditor remedies and declare “the principal of all outstanding debentures to be due and payable immediately.” Id. at 352–353. The taxpayer also established a noncumulative sinking fund for the debentures’ retirement. Id. at 353. At the close of the year in which the exchanges took place, the taxpayer’s debt-to-equity ratio, including the debentures as debt instruments, was 1.08 to 1. Id. at 360.
+ 
+In holding that the debentures were debt for Federal income tax purposes, we cited many of the aforementioned characteristics as evincing the instruments’ debtlike nature. Id. at 356–362. We also specifically found that the unconditional 50 year term of the debentures was consistent with such holding. Id. at 359. Nonetheless, we qualified our finding by signaling that instruments with definite terms of similar duration might appropriately be subject to future scrutiny:
+Although 50 years might under some circumstances be considered as a long time for the principal of a debt to be outstanding, we must take into consideration the substantial nature of the * * * [taxpayer’s] business, and the fact that it had been in corporate existence since [*62] 1897, or 61 years prior to the issuance of the debentures. Therefore, we think that a 50–year term in the present case is not unreasonable. * * * [Monon R.R. v. Commissioner, 55 T.C. at 359.]
+ 
+Following our decision in the Monon R.R., the Commissioner endeavored to limit the effect of the case by explicitly cautioning taxpayers against relying on the Opinion to justify debt treatment for long-term instruments:
+[I]n the case of an instrument having a term of less than 50 years, Monon Railroad generally does not provide support for treating an instrument as debt for federal income tax purposes if the instrument contains significant equity characteristics not present in that case. The reasonableness of an instrument’s term (including that of any relending obligation or similar arrangement) is determined based on all the facts and circumstances, including the issuer’s ability to satisfy the instrument. A maturity that is reasonable in one set of circumstances may be unreasonable in another if sufficient equity characteristics are present. [Notice 94–47, 1994–1 C.B. 357.]
+ 
+*22 In the light of express language of the Opinion and the Commissioner’s subsequent notice, we are unconvinced that the holding of Monon R.R. gives credence to respondent’s assertion that a 50–year term supports the advance agreements’ debt characterization; rather, we believe that the precedential scope of our holding in that case was delimited to the peculiar circumstances therein and that the facts at present are sufficiently distinguishable. In particular, the advance agreements do not bear many of the same debtlike indicia as the debentures at [*63] issue in Monon R.R.55 In contrast to those debentures, the advance agreements neither afford their holders traditional creditor remedies upon default nor provide nondiscretionary interest payments (discussed supra). Furthermore, petitioners never established a reserve or sinking fund to ensure repayment of principal and PGI/PWI’s debt-to-equity ratio, including the advance agreements as debt, hovered at fiscally unsustainable levels (discussed infra).
+ 
+We also find, in the present circumstances, that issuing a 50–year debt instrument would not reflect the economic reality of petitioners’ international business structure.56 Respondent, in accord with his overall litigation strategy, asserts that the entirety of petitioners’ business operations should be considered in determining both the “reasonableness” of the advance agreements’ terms, see Monon R.R. v. Commissioner, 55 T.C. at 359, and similarly, the likelihood of repayment of principal at maturity; however, respondent fails to consider the import of petitioners’ stated intention to keep separate their domestic and [*64] international cashflows. As testified by Mr. Bryant, petitioners endeavored to create a more self-sustaining international business component and to avoid using domestic cash “wherever possible” in their global expansion. Petitioners’ uncontested reluctance to use domestic moneys in this regard accentuates the uncertainty of repayment of the principal amounts of the advance agreements at maturity. While there was hope that the new and expansive international investments in unpenetrated markets would prove lucrative in the future, there was no assurance of success. Indeed, petitioners foresaw immediate, substantial losses associated with costs in development of the Pepsi brand in such markets. The extended maturity date of the advance agreements effectively subjected the principal amounts of the instruments to an uncertain international economic climate for an inordinate period.57 In these circumstances, we cannot conclude that a 50–year term was “reasonable.”58 [*65] Respondent further errs in dismissing the legitimate possibility that a related party would default on loan receivables held by PGI/PWI, thereby voiding the term of the advance agreements. The uncontested testimony of petitioners’ finance expert, Mr. James, revealed that PGI made loans to affiliates of approximately $550 million during the years at issue.59 Repayment of those loans was subject to the success of petitioners’ speculative new investments in unestablished foreign markets. Given both the magnitude of the loans and the financially precarious nature of the foreign investments, PGI could not be certain that its foreign affiliates would be able to fulfill all their payment obligations. Respondent chooses not to address these separate loan receivables and instead refers this Court only to the purported link between payment of interest on the Frito–Lay notes, which he asserts is the only loan receivable of significance, and payment of base pr on the advance agreements. By doing so, respondent demonstrates his indifference to the real legal obligations created by the advance agreements, one of the main defects in his substance-over-form argument. While the purpose of inserting the perpetual clause in the advance agreements might have been to assuage certain unrelated concerns of the Dutch Revenue Service, the clause engendered real obligations between the parties. With the legitimate [*66] possibility that a related party default would render the advance agreements’ terms perpetual, we cannot conclude that PGI/PWI had “an unqualified obligation to pay a sum certain at a reasonable close fixed maturity date”. Gilbert v. Commissioner, 248 F.2d 399, 402 (2d Cir.1957), rev’g and remanding T.C. Memo.1956–137; see also Boris I. Bittker & James S. Eustice, Federal Income Taxation of Corporations and Shareholders, para. 4.03 [2][b], at 4–25 (7th ed.2006) (“a fixed or ascertainable maturity date is virtually essential to debt classification”.)
+ 
+*23 In accord with our discussion supra, we find that this factor weighs heavily in favor of treating the advance agreements as capital investments.
+ 
+
+
+3. Source of Payments60
+[10] A taxpayer willing to condition the repayment of an advance on the financial well-being of the receiving company acts “ ‘as a classic capital investor hoping to make a profit, not as a creditor expecting to be repaid regardless of the company’s success or failure.’ “ Calumet Indus., Inc. v. Commissioner, 95 T.C. at 287–288 (quoting In re Larson, 862 F.2d 112, 117 (7th Cir.1988)); see also Estate of Mixon, 464 F.2d at 405 (“[I]f repayment is possible only out of corporate [*67] earnings, the transaction has the appearance of a contribution of equity capital but if repayment is not dependent upon earnings, the transaction reflects a loan to the corporation.” (citing Harlan v. United States, 409 F.2d 904, 909 (5th Cir.1969))). In considering this factor, we are again tasked with discerning whether certain discrete terms of the advance agreements reflect the transaction’s substance, or, alternatively, whether the instruments serve as a mere contrivance produced solely to secure desired tax treatment.
+ 
+The provisions of the advance agreements were meticulously structured to ensure that annual payments of base pr remained, effectively, discretionary. PGI was required to make payments only to the extent “net cash flow” (which, at minimum, included payments of interest or capitalized interest from related parties) exceeded “accrued but unpaid operating expenses incurred” and “capital expenditures made or approved” by PGI during the applicable year. Petitioners contend that this clear language ties annual payment of base pr to PGI’s speculative investments in new markets and, furthermore, subjects the effectuation of the payments to the unfettered judgment of PGI. Indeed, petitioners submit that by merely approving capital expenditures, regardless of whether such expenditures actually materialized, PGI could indefinitely defer “mandatory” payment of base pr. Respondent, however, avers that petitioners’ dialogue with the Dutch Revenue [*68] Service effectively obligated PGI to make payments of base pr and that actual events demonstrate that such payments were never in doubt. In effect, respondent proffers that payments of base pr would occur under all circumstances, irrespective of the success of PGI’s foreign business ventures.
+ 
+When viewed en toto, the catalogue of correspondence between petitioners and the Dutch Revenue Service depicts the difficulties petitioners experienced in attempting to reconcile their stated desire to retain discretion regarding actual payment of base pr with the Dutch Revenue Service’s continued insistence that each payment of interest on the Frito Lay Notes be used, apart from a taxable spread, to annually fund such payments. As reflected in Ms. Turkenburg’s March 8, 1996, memorandum to Inspector Munneke, petitioners’ original understanding was that the advance agreements “allow[ed] PGI/PWI to reinvest revenues, if desired, in the participations”. Petitioners believed that permitting interest on the Frito–Lay notes to fund PGI’s investments in new markets would functionally sever any perceived relationship between the Frito–Lay notes and the advance agreements. Mr. Bartley, a member of PepsiCo’s international tax group, reiterated petitioners’ position in an April 24, 1996, letter to Ms. Turkenburg, expressing reservations that a connection with the Frito–Lay notes might subject the advance agreements to IRS scrutiny and noting that he preferred a draft [*69] version of the advance agreements which contained no express or implicit link to the Frito–Lay notes.
+ 
+*24 Nonetheless, as petitioners’ dialogue with the Dutch Revenue Service progressed, it became increasingly clear that in order to secure the desired tax ruling, the Dutch Revenue Service needed to be assured that interest received from the Frito–Lay notes would be (apart from the taxable spread) in pari passu with payments of base pr on the advance agreements. Accordingly, in their first formal tax ruling request, petitioners disavowed their prior stated “intention” of using interest on the Frito–Lay notes for investments in new markets; instead, they recognized that “Separate financing * * * [would] be sought for such additional investments.” Inspector Munneke’s June 11, 1996, conditional approval letter reaffirmed and emphasized the Dutch Revenue Service’s position that “interest payable should at least be equal to the interest received on the loans receivable from Frito Lay.” A subsequent facsimile from Mr. Bartley to Ms. Turkenburg further exhibited petitioners’ intention that as a “practical matter” all the parties expected the Frito–Lay interest payments to “flow thru to KFCIH”.
+ 
+[11] However, notwithstanding petitioners’ and the Dutch Revenue Service’s mutual understanding that base pr would be paid annually, petitioners remained unwilling to establish a definitive link with the Frito–Lay notes in the provisions of [*70] the advance agreements. The absence of such a connection in the governing agreements greatly concerned Inspector Munneke and he was, correspondingly, apprehensive in approving the tax ruling. In an illuminative facsimile to Mr. Bartley, Ms. Turkenburg noted that Inspector Munneke remained unconvinced that the “net cash flow” definition in the advance agreement, as drafted, would provide the “flow-through result” that the Dutch Revenue Service sought. Nonetheless, Ms. Turkenburg stressed that “for obvious U.S. reasons” petitioners could not “accommodate” the wishes of the Dutch Revenue Service. Rather, Ms. Turkenburg asserted that “the ultimate test is going to be the actual events as they are going to occur in the future, i.e. that indeed payments are going to be made as though a back-to-back arrangement existed.” Mr. Bartley, in a responding facsimile, concurred with Ms. Turkenburg’s analysis that the “flow-thru” result would be “proved by actual events” confirming again that, “In practice, all interest paid by * * * [Frito–Lay] to PGI/PWI will in turn be paid to KFCIH.” Furthermore, Mr. Bartley emphasized that, irrespective of the language inserted in the instruments, “under no circumstances” would operating expenses or capital expenditures vary this result. Eventually, on the basis of continued representations and assurances to the Dutch Revenue Service reflecting this understanding, Inspector Munneke approved the tax ruling. [*71] An objective interpretation of petitioners’ extended dialogue with the Dutch Revenue Service, supplemented by communications between petitioners’ employees and their Dutch tax counsel, invariably leads to the conclusion that petitioners internally committed themselves to a distinct course of conduct; for at least the period the Dutch tax ruling remained valid, petitioners assured the Dutch Revenue Service that each payment of interest on the Frito–Lay notes would, in turn, be used to fund payments of base pr on the advance agreements. Indeed, petitioners do not dispute that PGI paid nearly all of the amounts received under the Frito–Lay notes to the holders of the advance agreements from 1997 to 2009. Petitioners, instead, argue that there was no legal compulsion to make such payments and that the aforementioned communications merely evince a preliminary understanding that interest on the Frito–Lay notes would fund the base pr payments if separate financing for PGI’s global investments could be secured.61 [*72] In support of this position, petitioners cite the portion of Ms. Turkenburg’s testimony denying that petitioners’ negotiations with the Dutch Revenue Service functionally committed or obligated petitioners to make such payments:
+*25 Q: * * * Was there an agreement to an effective obligation to pay?
+A: No. We convinced * * * [Inspector Munneke] that the—actual events would—well, what we explained to him, to address his, his well, to give him a certain comfort, is we explained to him how the company would operate, I discussed before, that it would seek funding from other sources for the equity investments.
+Q: I see. And would you describe the understanding with the inspector as a substantive commitment to pay through the interest received on the promissory notes as base preferred return?
+A: No, because there was no obligation.
+Petitioners’ attempt to discredit respondent’s argument is, nonetheless, deficient. The absence of an express obligation to make a payment does not, for purposes of [*73] this debt-versus-equity factor, diminish the importance of a taxpayer’s effective, internal commitment to make annual payments on a financial instrument from a reasonably certain62 stream of revenue. Accordingly, we are unpersuaded that petitioners have effectively minimized the significance of their stated “intentions” clearly articulated in their correspondence with the Dutch Revenue Service.
+ 
+Petitioners alternatively contend that, notwithstanding their representations to the Dutch Revenue Service, they were free to deviate from the conditions of the tax ruling and remain in a position to claim that payments of base pr were interest for Dutch income tax purposes. Petitioners’ argument presupposes that the freedom to vary from the conditions set forth in the tax ruling renders uncertain the “flow-through” of Frito–Lay interest and, accordingly, subjects payment of base pr to the success or failure of PGI’s investments. Respondent again counters that the Dutch Revenue Service’s affirmation of the tax ruling served to economically compel petitioners to comport with their prior representations. Otherwise, respondent asserts, the advance agreements would be treated as equity [*74]in the Netherlands, effectively negating petitioners’ attempt to properly claim an interest deduction for Dutch tax purposes.
+ 
+Mr. Sleurink, petitioners’ Dutch tax law expert, testified that PGI was not bound by Dutch law to act in the manner contemplated in the tax ruling. Rather, Mr. Sleurink asserted that any departure from the intended course of conduct would simply entitle the Dutch Revenue Service to reexamine the transaction. In a posited scenario where interest on the Frito–Lay notes was used in PGI’s foreign investments, Mr. Sleurink submitted that base pr on the advance agreements would still be characterized as an interest expense pursuant to Dutch tax law and would, accordingly, be deductible on an accrual basis.63 Respondent’s Dutch tax law expert, while faulting Mr. Sleurink’s narrow analysis of the advance agreements on a “standalone basis”, generally agreed with the statement in Sleurink’s report that “there existed * * * strong arguments for the view that the Advance Agreements could not be reclassified as equity” based on the provisions of the instruments.
+ 
+*26 It also appears that, in actuality, petitioners did deviate from the conditions of the tax ruling. The parties stipulated that all payments of base pr were made in [*75] cash with the exception of a payment made on September 17, 1997, on the 1996 advance agreement, which was made in kind with shares of a PGI subsidiary as part of the spinoff of PepsiCo’s global restaurant business. Clearly then, interest on the Frito–Lay notes was not always used “in turn” for payments of base pr. While no evidence was submitted by either party as to PGI’s use of the corresponding Frito–Lay interest payment in September 1997, it appears likely that the payment was used in the context of petitioners’ global expansion. Contrary to respondent’s contention, this deviation did not void the tax ruling and subject petitioners to a 35% Dutch corporate income tax on all subsequent interest payments received from Frito–Lay. Petitioners were allowed to report their Dutch tax items for the remainder of the years at issue in a manner consistent with that contemplated in the Dutch tax ruling. It appears this reporting convention continued even after the expiration of the five-year extension of the Dutch tax ruling on December 31, 2005.
+ 
+Nevertheless, despite the in-kind distribution, we cannot dismiss the connection between payment of interest on the Frito–Lay notes and payment of base pr on the advance agreements.64 Each payment on the advance agreements [*76] was made on the same date that interest due on the Frito–Lay notes was paid to PGI, and in substantially similar amounts.65 Furthermore, petitioners’ intercompany memos and representations to the Dutch Revenue Service uniformly expressed the intended “flow-through” nature of the Frito–Lay interest payments. In sum, it appears clear that payments of base pr, at least during the taxable years at issue, were largely linked to interest received on the Frito–Lay notes.66 [*77] Accordingly, we find that this factor emphasizes a debt characteristic of the advance agreements.67
+ 
+
+
+4. Right To Enforce Payments
+[12] [13] A definite obligation to repay an advance, including interest thereon, suggests a loan obligation. See Laidlaw Transp., Inc. v. Commissioner, T.C. Memo.1998–232; see also Notice 94–47, supra. If a financial instrument does not provide its holder with any means to ensure payment of interest, it “is a strong indication of a stockholding, rather than a creditor debtor relationship. The right to enforce the payment of interest is one of the requisites of a genuine indebtedness.” Gokey Props., Inc. v. Commissioner, 34 T.C. 829, 835, 1960 WL 1361 (1960), aff’d, 290 F.2d 870 (2d Cir.1961);68 see also Kraft Foods Co. v. Commissioner, 232 F.2d at 122 (suggesting that an “unconditional obligation” to pay interest and principal are “necessary features of instruments of indebtedness”). [*78] Respondent concedes that there is no mechanism which provides the holders of the advance agreements with the right to demand immediate repayment of all outstanding principal and interest in the event PGI defaults on payment of base pr.69 Cf. Hewlett Packard Co. v. Commissioner, T.C. Memo.2012–135 (finding that articles of incorporation and other various agreements pertaining to an investment in a foreign corporation afforded the taxpayer an apparatus to enforce creditor rights). Nonetheless, respondent again reasons: “given the fact that PepsiCo controlled all the entities involved and would be economically disadvantaged if PGI were to default under the 1996/97 Advance Agreements, there was no real possibility that PGI would default on the 1996/97 Advance Agreements.” We find respondent’s position untenable. Suggesting that the success of petitioners’ numerous speculative investments in foreign subsidiaries was absolute and that petitioners could therefore ensure the timely payment of intercompany obligations, based solely on the subsidiaries’ inter-relatedness, finds no basis in fact or law, as noted supra. [*79] Petitioners’ finance expert, Mr. James, testified that PGI held notes evincing outstanding indebtedness of its affiliates in amounts as high as $550 million during the years at issue. Many of these affiliates were funded to help foster the development of the PepsiCo brand in then-uncultivated foreign markets, in effect subjecting repayment of PGI’s advances to the business risks of these entities. Regulatory hazards and currency exposure served as possible impediments to full and timely repayment of such advances as well. Upon default of any one of these intercompany receivables, the terms of the advance agreements became void, rendering the advance agreements equity for Dutch tax purposes. At that point, any ostensible tax “compulsion” for PGI to pay annual base pr would evanesce. In such a circumstance, it appears probable that PGI would be reluctant to follow its payment intentions on the advance agreements; however, the holders of the advance agreements would have no means to compel such payments.
+ 
+*27 A corollary argument advanced by respondent, citing Merck & Co. v. United States, 652 F.3d 475 (3d Cir.2011), is that the absence of a formal obligation, on the part of PGI, to make annual preferred return payments is mitigated by the fact that petitioners intended to, and were, in fact, internally committed to make such payments. [*80] In Merck & Co., 652 F.3d at 476–477, Schering–Plough, a New Jersey corporation, sought to repatriate significant cash reserves held in foreign subsidiaries without additional tax cost. In a strategy designed by Merrill Lynch, Schering–Plough transferred the “receive leg” of a 20–year interest rate swap to its foreign subsidiary in exchange for a lump sum of money. Id. at 478–479. The transaction was intended to allow Schering–Plough to characterize the transaction as a sale, in effect allowing the corporation to spread its tax recognition of the lump-sum payment over the term of the swap pursuant to then-valid Notice 89–21, 1989–1 C.B. 651. Id. In affirming the lower court’s holding that the transaction was, in substance, a disguised loan, the Court of Appeals dismissed the taxpayer’s contention that the absence of an express, unconditional obligation to repay principal precluded recharacterization of the sale. Id. at 482. Rather, the court stated:
+[A] formal ‘legal obligation’ is not an absolute prerequisite for a determination that a transaction is a loan. * * *
+In the face of the tax code’s general insistence on the controlling effect of economic reality rather than form, it is more appropriate that, in determining whether there was an ‘obligation’ to repay, the court look to whether the transferor’s intention was to structure the transaction to ensure repayment of funds as a practical matter, rather than to whether there were literally no conditions on repayment. It would be for simplicity itself for two parties, especially related parties, to draft a[*81] contract in which repayment would not occur in the event of some occurrence so unlikely that both parties could be confident that it would never transpire, and thus repayment would occur despite the transfer being conditional.* * *
+[Id. at 483.]
+ 
+Setting aside the fact that Merck & Co. concerned, in large part, the saleversus-loan dichotomy rather than the debt-versus-equity question at issue, we believe that the facts of the case are clearly distinguishable from those at hand. The Scherling–Plough transaction “had certain objective indicia of loans” not apparent in the advance agreements such as an unconditional “fixed maturity date” and “periodic interest payments”. See id. at 482. Further, the main contention in Merck & Co. concerned the repayment of principal, which was contingent on payments based on a floating interest rate. Id. at 482–483. Scherling–Plough submitted that if interest rates fell to a certain level, the payments would not be sufficient to repay the advances. Id. Nonetheless, based on testimony of Scherling–Plough representatives adduced at trial evidencing that the parties always expected the recovery of principal, as well as the economic reality that interest rates were almost certain not to fall to a level subjecting repayment to uncertainty, it was clear to the Court of Appeals that repayment was “unconditional”. Id. at 483–484. In contrast, the long and perhaps perpetual terms of the advance agreements rendered repayment of principal speculative, as noted [*82] supra, and payments of base pr, while clearly expected by petitioners during the period the Dutch tax ruling remained effective, were subject to the business realities and uncertainties of petitioners’ global expansion throughout the long term of the investment. Therefore, we are not convinced that full repayment of principal and interest on the advance agreements was “effectively if not explicitly, unconditional.” See id. at 484.70
+ 
+*28 Respondent’s final contention is that the advance agreements provide other legitimate creditor safeguards, referring us to a provision which allows holders to declare unpaid principal and preferred return “immediately due and payable” upon dissolution, insolvency, or receivership of PGI. What respondent fails to appreciate, however, is that any such payment remained subject to “net cash flow” restrictions and, more importantly, would remain subordinate to all indebtedness of PGI and the rights of all creditors. This subordination is both meaningful and significant in the light of PGI’s $980 million in outstanding indebtedness to affiliates during the years at issue. PGI was also exposed to the liabilities of several of its subsidiaries for two of the years at issue, in amounts over $150 [*83] million, the possible claims of which were senior to those of the advance agreements holders, discussed further infra.
+ 
+We have previously held that a provision in a financial instrument affording holders certain rights in the event of liquidation, but nonetheless subordinating those rights to general creditors, “lends no support to the contention that the * * * [instrument] in question represents an obligation of debt rather than merely a preferred stock obligation.” Mullin Bldg. Corp. v. Commissioner, 9 T.C. 350, 354, 1947 WL 296 (1947), aff ‘d, 167 F.2d 1001 (3d Cir.1948). We believe the same logic equally applies here.
+ 
+In sum, we find that the absence of any legitimate creditor safeguards afforded to the holders of the advance agreements is a significant factor evidencing the equity nature of the investment. See Tyler v. Tomlinson, 414 F.2d 844, 849 (5th Cir.1969) (finding that notes which contained “no enforcement provisions, no specific maturity dates, and no sinking fund from which payments of interest and principal might be made” were more appropriately characterized as equity instruments).
+ 
+
+
+5. Participation in Management as a Result of the Advances
+[14] The right of the entity advancing funds to participate in the management of the receiving entity’s business demonstrates that the advance may not have been [*84] bona fide debt and instead was intended as an equity investment. Am. Offshore, Inc. v. Commissioner, 97 T.C. 579, 603, 1991 WL 245194 (1991). The parties did not substantively address this factor as PepsiCo commonly controlled PGI and PWI before the issuance of the advance agreements. Accordingly, this factor is neutral.
+ 
+
+
+6. Status of the Advances in Relation to Regular Corporate Creditors
+[15] Whether an advance is subordinated to obligations to other creditors bears on whether the taxpayer advancing the funds was acting as a creditor or an investor. Estate of Mixon, 464 F.2d at 406. Taking a subordinate position to other creditors may suggest an equity investment. See CMA Consol., Inc. v. Commissioner, T.C. Memo.2005–16.
+ 
+The advance agreements, by their own terms, unequivocally subordinate any obligation of PGI to pay unpaid principal or accrued, but unpaid, preferred return to all indebtedness of PGI and the rights of all creditors. Nonetheless, respondent submits that this feature is not dispositive of equity characterization. See Kraft Food Co. v. Commissioner, 232 F.2d at 126 (“subordination to general creditors is not necessarily indicative of a stock interest. Debt is still debt despite subordination.”); see also Commissioner v. O.P.P. Holding Corp., 76 F.2d 11, 12 (2d Cir.1935) (“We do not think it fatal to the debenture holder’s status as a creditor that his claim is subordinated to those of general creditors. The fact that [*85] ultimately he must be paid a definite sum at a fixed time marks his relationship to the corporation as that of creditor rather than shareholder.”). Furthermore, respondent proffers that, irrespective of the subordination provision, the “practical likelihood” of it affecting payments is “nonexistent”.
+ 
+*29 Respondent is correct in asserting that the advance agreements’ subordination, in itself, is not determinative of equity treatment; however, the same principle applies equally to every factor in our analysis. See Welch v. Commissioner, 204 F.3d 1228, 1230 (9th Cir.2000), aff’g T.C. Memo.1998–121; see also John Kelley Co. v. Commissioner, 326 U.S. 521, 530, 66 S.Ct. 299, 90 L.Ed. 278 (1946) (“There is no one characteristic, not even exclusion from management, which can be said to be decisive in the determination of whether the obligations are risk investments * * * or debts.”). Nonetheless, it is widely recognized, even by the Commissioner, that the legitimate subordination of a financial instrument remains a relevant determinant in a debt-versus-equity inquiry. See e.g., sec. 385(b)(2); TIFD III–E, Inc., 459 F.3d at 237; Roth Steel Tube Co. v. Commissioner, 800 F.2d 625, 631–632 (6th Cir.1986), aff’g T.C. Memo.1985–58; Pritired 1, LLC v. United States, 816 F.Supp.2d 693, 734–735 (S.D.Iowa 2011); Notice 94–47, supra. [*86] During the years at issue, PGI had outstanding indebtedness to affiliates in amounts as high as $980 million.71 All such indebtedness ranked superior to any rights engendered in the advance agreements. Respondent, consistent with his general attempt to integrate petitioners’ entire corporate structure, dismisses as irrelevant such related party indebtedness; he contends that the likelihood that PepsiCo would allow PGI or any of its subsidiaries default on their obligations was “effectively nil”. As discussed supra, respondent’s position finds no basis in fact or law. Respondent has submitted no evidence that PepsiCo was under any obligation to ensure PGI’s or other foreign affiliates’ “inter-company” obligations. Instead, the eventual satisfaction of such obligations was dependent upon the success of PGI’s investments in foreign markets.72 [*87] PGI, during 1996 and 1997, also had substantial exposure to the liabilities of several of its foreign investments.73 In particular, as a member of Pepsi–Cola France Snc and Spizza 30 Snc, PGI remained directly liable to creditors, following a period of notice and demand against the individual entities, for claims against the businesses pursuant to applicable French statutes. Similarly, under Spanish law, PGI had unlimited liability for the debts and obligations of PRI, a Spanish operating entity. The three foreign businesses, collectively, had aggregate liabilities of more than $180 million and $157 million in 1996 and 1997, respectively; the rights of those creditors were senior to those of the advance agreement holders under the express terms of the governing instruments. While PGI’s interests in Spizza 30 Snc and PRI terminated in the 1997 spinoff, this subsequent reorganization was not contemplated when the advance agreements were issued and does not diminish the significance of PGI’s liabilities in 1996 and 1997. Further, PGI was not limited in investing in other ventures in the future which might expose it to further liability. [*88] We find both real and meaningful the subordination provision in the advance agreements; this factor demonstrates an equity characteristic of the instruments.
+ 
+
+
+7. Intent of the Parties
+*30 [16] As noted supra, “the inquiry of a court in resolving the debt-equity issue is primarily directed at ascertaining the intent of the parties”. A.R. Lantz Co., 424 F.2d at 1333 (citing Taft v. Commissioner, 314 F.2d 620 (9th Cir.1963), aff’g in part, rev’g in part T.C. Memo.1961–230). “The intent of the parties, in turn, may be reflected by their subsequent acts; the manner in which the parties treat the instruments is relevant in determining their character.” Monon R.R. v. Commissioner, 55 T.C. at 357.
+ 
+Petitioners, engaging in legitimate tax planning, designed the advance agreements with an expectation that the instruments would be characterized as equity for U.S. Federal income tax purposes and as debt under Dutch tax law. The negotiations with the Dutch Revenue Service underscore petitioners’ efforts to secure this hybrid dynamic. While eventually assuring the Dutch Revenue Service that base pr payments would be made annually, irrespective of provisions in the advance agreements which might provide otherwise, petitioners were uncompromising in their refusal to insert terms in the instruments engendering an [*89] obligation for PGI to make such payments. Petitioners’ vigilance preserved what amounts to base pr payment discretion, a material feature in the light of both the differing terms of the advance agreements and the Frito–Lay notes, and the limited period the Dutch tax ruling remained effective (described further supra). See Universal Castings Corp. v. Commissioner, 37 T.C. 107, 115, 1961 WL 1057 (1961) (indicating that issuer discretion on payments reflects an equity investment), aff’d, 303 F.2d 620 (7th Cir.1962). Undoubtedly, petitioners’ internal commitment to make annual base pr payments that were functionally linked to Frito–Lay Note interest payments evinces a debtlike characteristic of the instruments. Nonetheless, by retaining judgment on whether to make such future payments, petitioners were free to deviate from their representations to the Dutch Revenue Service without the specter of legal consequence. The benefit of added financial maneuverability was desired and sought by petitioners and illuminates a significant equity aspect of the investment.
+ 
+[17] Similarly, petitioners’ actions during the taxable years at issue do not subvert or vitiate their clear intentions to create a legitimate hybrid instrument.74 [*90] While PGI made annual preferred return payments, including base pr, the advance agreements expressly permitted such payments. PGI also made an “in-kind” base pr payment to KFCIH in 1997, apparently in direct contravention of the Dutch tax ruling. Such deviation, according to respondent’s general contentions, should have immediately invalidated the tax ruling, rendering the instruments equity for Dutch tax purposes. Nonetheless, petitioners continued their tax reporting in the manner contemplated in that ruling without adverse effect.
+ 
+The long, and possibly perpetual, terms of the advance agreements also demonstrate that petitioners did not intend to create an instrument with traditional debt characteristics and attendant obligations according to Federal income tax law. As noted supra, the repayment of the principal of petitioners’ advance to PGI was effectively subject to PGI’s speculative investments in undeveloped foreign markets. It remained uncertain at issuance whether funds would be available for repayment at the extended maturity dates. The realistic possibility that a related party might default on a receivable held by PGI, causing the advance agreements to [*91] become perpetual instruments, further dissipated any reasonable expectation of repayment of principal.
+ 
+*31 In sum, we find that petitioners’ intentions comport with the substance of the transaction. They did not intend to create a “definite obligation, repayable in any event.” See Hewlett Packard Co. v. Commissioner, T.C. Memo.2012–135. As a result, this factor demonstrates the equity nature of the instruments.
+ 
+
+
+8. Identity of Interest Between Creditor and Stockholder
+[18] If advances are made by stockholders in proportion to their respective stock ownership, an equity capital contribution is indicated. Estate of Mixon, 464 F.2d at 409; Monon R.R. v. Commissioner, 55 T.C. at 358.
+ 
+Petitioners did not address this factor and respondent, noting that all transactional parties are commonly controlled by PepsiCo, contends that it is not relevant. We agree that the factor does not aid in our inquiry.
+ 
+
+
+9. “Thinness” of Capital Structure in Relation to Debt
+[19] The purpose of examining the debt-to-equity ratio in characterizing an advance is to determine whether a corporation is so thinly capitalized that repayment would be unlikely. CMA Consol., Inc. v. Commissioner, T.C. Memo.2005–16. In such a circumstance, the advance would be indicative of venture capital rather than a loan. Bauer v. Commissioner, 748 F.2d 1365, 1369 (9th Cir. [*92] 1984); see also Hubert Enters., Inc. v. Commissioner, 125 T.C. 72, 96–97, 2005 WL 2293526 (2005), aff ‘d in part, vacated in part and remanded on other grounds, 230 Fed. Appx. 526 (6th Cir.2007).75
+ 
+Petitioners’ finance expert, Mr. James, testified that if the advance agreements are treated as debt for U.S. Federal income tax purposes, PGI’s debt-[*93] to-equity ratio would have been 14.1 to 1 in 1996 and 26.2 to 1 in 1997. In his expert report, Mr. James noted:
+In some industries, such as banking, it is common to see debt-to-equity ratios that exceed 14 to 1. However, a bank, unlike PGI, is required to maintain significant diversification in its assets by type, industry, geography, maturity and overall risk. PGI’s assets, by contrast, primarily consisted of equity investments in and loans to businesses in emerging markets and * * * [Frito–Lay notes]. In my experience, it is highly unlikely that any institution would have extended a loan of similar size to the Advance Agreements if the borrower’s overall leverage were at these levels, particularly given the duration of the Advance Agreements and the expected business plans for PGI’s subsidiaries. It is also unlikely that given this level of leverage that debt could be issued in a capital market transaction.
+Respondent has not contested this section of Mr. James’ analysis.
+ 
+Given PGI’s untenable debt-to-equity ratio according to industry standards, we find that this factor supports the advance agreements’ equity characterization. See Recklitis v. Commissioner, 91 T.C. 874, 904, 1988 WL 116976 (1988) (suggesting the importance of “capitalization averages” in the relevant business when analyzing the alleged thin capitalization of a corporation).
+ 
+
+
+10. Ability of Corporation To Obtain Credit From Outside Sources
+*32 “[T]he touchstone of economic reality is whether an outside lender would have made the payments in the same form and on the same terms.” Segel v. Commissioner, 89 T.C. at 828 (citing Scriptomatic, Inc. v. United States, 555 F.2d [*94] 364, 367 (3d Cir.1977)); see Calumet Indus., Inc. v. Commissioner, 95 T.C. at 287; see also Fin Hay Realty Co. v. United States, 398 F.2d at 697 (“Under an objective test of economic reality it is useful to compare the form which a similar transaction would have taken had it been between the corporation and an outside lender, and if the * * * [related party’s] advance is far more speculative that what an outsider would make, it is obviously a loan in name only.”).76
+ 
+Petitioners’ finance expert, Mr. James, asserts that “no third party lending institution or lender in the capital markets would have loaned funds in the amount of the advance agreements to PGI under any reasonably similar financial terms.” Mr. James derived his conclusion from what he perceived were several atypical or unattractive (from an lender’s standpoint) aspects of the advance agreements, including: (1) the long and perhaps perpetual terms; (2) the subordination of repayment in the light of PGI’s anticipated significant investments in foreign markets; (3) the lack of acceleration rights on default and, similarly, the distinct [*95] possibility of deferral of repayment; and (4) the preferred return payment restrictions.
+ 
+Respondent does not substantively address whether an independent creditor would have advanced funds to PGI in the “same or similar” terms as the advance agreements; rather, he summarily dismisses Mr. James’ conclusions as irrelevant insisting that the expert analysis irreparably suffers from a narrow focus on the terms of the advance agreements and, concomitantly, a failure to perceive the actualities of the transaction. We have previously expressed the limitations of this argument in our discussions concerning other debt-versus-equity factors; respondent’s failure to adequately appreciate the legal significance of the terms of the advance agreements serves as a ubiquitous, acute flaw in his substance-over-form argument.
+ 
+The factors influencing Mr. James’ conclusion have also been discussed further supra and need not be addressed in greater detail. In the light of our previous discussions, supplemented by the unrebutted expert opinion of Mr. James, we find that the terms of the advance agreements could not have been replicated, in any reasonably similar manner, by independent debt financing. Consequently, this factor highlights the equity characteristics of the instruments.
+ 
+
+
+[*96] 11. Use to Which Advances Were Put
+[20] Where a corporation uses an advance of funds to acquire capital assets, the advance is more likely to be characterized as equity. Estate of Mixon, 464 F.2d at 410. Use of advances to meet the daily operating needs of the corporation, rather than to purchase capital assets, is indicative of bona fide indebtedness. Stinnett’s Pontiac Serv., Inc. v. Commissioner, 730 F.2d 634, 640 (11th Cir.1984), aff’g T.C. Memo.1982–314; Raymond v. United States, 511 F.2d 185, 191 (6th Cir.1975); Estate of Mixon, 464 F.2d at 410.
+ 
+*33 PGI issued the advance agreements in exchange for Frito–Lay Notes. With the exception of a September 1997 payment, which was made in kind with shares of a PGI subsidiary as part of the spinoff of PepsiCo’s global restaurant business, every interest payment on the Frito–Lay notes was used to make preferred return payments on the advance agreements. As noted supra, while no evidence was submitted by either party as to PGI’s use of the corresponding Frito–Lay interest payment in September 1997, it appears likely that the payment was used in the context of petitioners’ global expansion. Notwithstanding this deviation, PGI was internally committed to use Frito Lay interest to fund preferred return payments on the advance agreements for the period the Dutch tax ruling remained effective. [*97] Without a greater connection between Frito Lay interest payments and PGI’s capital investments for the years at issue, we find that this factor demonstrates the debtlike character of the advance agreements.
+ 
+
+
+12. Failure of Debtor To Repay
+[21] The repayment of an advance may support its characterization as bona fide indebtedness. Estate of Mixon, 464 F.2d at 410. The advance agreements mature, if at all, in future years; however, petitioners did repay $214,084,144 of principal on the 1997 advance agreement in 1998. Nonetheless, it is premature to rely on this factor as tending to demonstrate either the equity or the debtlike features of the advance agreements. Accordingly, as recognized by respondent, this factor is neutral.
+ 
+
+
+13. Risk Involved in Making Advances
+A significant consideration in our inquiry is “whether the funds were advanced with reasonable expectations of repayment regardless of the success of the venture or were placed at the risk of the business”. Gilbert v. Commissioner, 248 F.2d at 406. Many of the general debt-versus-equity factors “may bear on the degree of the risk” associated with a financial instrument at issue. Id. In essence, this factor represents another means by which to ascertain the intentions of the parties. [*98] As noted supra, several factors evince the uncertainty of repayment of principal on the advance agreements. In particular, the long and conditional maturity dates of the advance agreements, considered in the light of PGI’s investments in foreign markets, subject repayment to the success of such ventures. The overall subordination of those payments similarly diminished any reasonable return of KFCIH’s or PPR’s investment. KFCIH and PPR were also not afforded legitimate creditor remedies to ensure repayment of principal or base pr. And, perhaps most convincingly, the “independent creditor test” underscores that a commercial bank or third party lender would not have engaged in transactions of comparable risk.
+ 
+While we previously recognized the link between Frito–Lay interest payments and payments of base pr on the advance agreements, that link was tenuously conditioned upon PGI’s maintaining the “flow-through” nature of the payments even after the Dutch tax ruling expired. This “flow-through”, while expected, was not assured. Indeed, PGI’s “in kind” distribution in 1997 evidences petitioners’ willingness to vary their conduct from the express terms of the Dutch tax ruling during the years at issue. Further, petitioners never expressed an intention to abide by the payment convention for the extended period following the expiration of the tax ruling. We also noted that although the principal of the [*99] Frito–Lay notes equaled the principal of the advance agreements, the maturity dates of the respective instruments were not congruent. Therefore, when the Frito–Lay notes matured, PGI was not compelled to make corresponding payments of principal on the advance agreements.
+ 
+*34 In accord with our prior discussion, we find that this factor illuminates the equity characteristics of the advance agreements.
+ 
+
+
+14. Debt–Versus–Equity Conclusion
+The determination of debt or equity is no mere counting of factors. Bauer v. Commissioner, 748 F.2d at 1368. However, after consideration of all the facts and circumstances, we believe that the advance agreements exhibited more qualitative and quantitative indicia of equity than debt.
+ 
+
+
+IV. Conclusion
+We hold that the advance agreements are more appropriately characterized as equity for Federal income tax purposes.
+ 
+In reaching our holdings herein, we have considered all arguments made, and, to the extent not mentioned above, we conclude they are moot, irrelevant, or without merit.
+ 
+[*100] To reflect the foregoing,
+ 
+Decisions will be entered under Rule 155.
+All Citations
+T.C. Memo. 2012-269, 2012 WL 4207299, 104 T.C.M. (CCH) 322, T.C.M. (RIA) 2012-269, 2012 RIA TC Memo 2012-269
+
+
+
+Footnotes
+|
+1
+|Unpaid preferred return on the 1996 advance agreements was approximately $386 million as of the end of the PepsiCo years at issue, approximately $306 million of which was attributable to premium pr. The remaining $79,721,156.30 of accrued base pr was paid on January 30, 2003.
+|
+1
+|The parties did not specify the amount of base pr paid by PGI on November 6, 1997, or October 19, 1998, nor could we determine those amounts from the record.
+|
+2
+|The parties did not specify the amount of premium pr paid by PGI on November 6, 1997, or October 19, 1998, nor could we determine those amounts from the record.
+|
+3
+|Unpaid preferred return on the 1997 advance agreement issued to PPR was approximately $287 million as of the end of the PPR years at issue, approximately $266 million of which was attributable to premium pr. The remaining accrued base pr was paid on October 23, 2003.
+|
+1
+|This includes repayment of a note with a principal amount of $214,084,114 that matured on December 9, 1997.
+|
+1
+|Unless otherwise indicated, all section references are to the Internal Revenue Code (Code) in effect for the years in issue, and all Rule references are to the Tax Court Rules of Practice and Procedure.
+|
+2
+|Pepsico filed a consolidated return for U.S. Federal income tax purposes for each of the tax years in issue.
+|
+3
+|The foreign partnerships included Pepsi–Cola Trading Sp.zo.o (Poland), PepsiCola GmbH (Germany), Pepsi–Cola France Snc, KFC France Snc, Spizza 30 Snc (France), Pepsi–Cola CR S.R.O. (Czech Republic), PepsiCo Restaurants Sca (Spain), Pepsi–Cola SR S.R.O. (Slovakia), SVE Trading & Manufacturing Limited (Hungary), PepsiCo Investments Ltd. (China), and PepsiCo Poland.
+|
+4
+|Frito–Lay and Metro Bottling were, at all relevant times, wholly owned (directly or indirectly) by PepsiCo.
+The pre–1996 notes consisted of six promissory notes that had been issued by Frito–Lay, one promissory note that had been issued by Metro Bottling, and one promissory note that had been issued by PepsiCo.
+The one pre–1996 note issued by PepsiCo was held by CapCorp in the principal amount of $118,393,106.86. Petitioners have not found this note.
+|
+5
+|See Convention with Respect to Taxes on Income and Certain Other Taxes, U.S.-Neth., Apr. 29, 1948, 62 Stat. 1757. The Dutch tax treaty was extended to the Netherlands Antilles in 1955.
+|
+6
+|Protocol Amending Article VIII of the 1948 Convention with Respect to Taxes on Income and Certain Other Taxes as Applicable to the Netherlands Antilles, U.S.-Neth., Oct. 10, 1995, Tax Treaties (CCH) para. 6205.
+|
+7
+|PepsiCo expected that cash generated by its North American businesses would fund the company’s dividends and share purchases.
+|
+8
+|PGI and PWI were initially formed as separate subsidiaries to enable the Foreign Partnerships to continue their status as partnerships for U.S. Federal income tax purposes; however, on September 2, 1997, PepsiCo caused PWI to merge into PGI. Thereafter, PepsiCo filed “check the box” elections to treat the Foreign Partnerships as “disregarded entities” for U.S. Federal income tax purposes.
+|
+9
+|Before 1996 PepsiCo was engaged in beverage, restaurant, and snack food operations in China through various operating companies. In 1994 PepsiCo formed PepsiCo Investments (China) Ltd. (PICL) to serve as a holding company for the operating companies. In 1997 PICL was transferred to PGI.
+|
+10
+|The advance agreements are discussed further infra.
+|
+11
+|From 1997 through 2002, PGI acquired interests in several PepsiCo subsidiaries. It also disposed of a number of subsidiaries during the same period.
+|
+12
+|The initial PPR Frito–Lay notes and the additional PPR Frito–Lay notes each had fixed interest rates ranging from 7.35% to 10%.
+One of the additional Frito–Lay notes was issued to extend the maturities of two initial Frito–Lay notes issued on October 19, 1995 and 1996, in principal amounts of $41,523,243.83 and $97,685,350.12, respectively. Petitioners have not found this additional Frito–Lay note.
+|
+13
+|Under subpt. F (secs. 951 through 965), a U.S. shareholder of a controlled foreign corporation generally must include in gross income a pro rata share of the corporation’s subpt. F income in each year; however, the subpt. F income of a controlled foreign corporation in a taxable year cannot exceed its earnings and profits in the same year. See sec. 952(c)(1)(A).
+|
+14
+|In 1995 the Dutch Under–Minister of Finance described tax rulings as:
+[A]n advanced opinion (within the scope of law, case law and regulations) from the Dutch Revenue Service that is binding on the Dutch Revenue Service and which described the tax consequences for multinationals on cross-border situations. [Resolution of the Under–Minister of Finance of 6 July 1995, No. DGO95/2714, V–N 1995, p. 2453.]
+|
+15
+|The Dutch tax ruling process was described in petitioners’ Dutch tax expert’s report, discussed further infra. Respondent does not contest these general findings, and we produce this discussion here to place petitioners’ negotiations with the Dutch Revenue Service in proper context.
+|
+16
+|Mr. Slobbe also sent the drafts to certain KPMG LLP employees who were responsible for the PepsiCo accounts during that period.
+|
+17
+|The mtaudbv version did not specifically define “net cash flow” but simply indicated that it would not include “any equity contributions, loans, or other capital investments received by the Company.”
+|
+18
+|The phrase “[you, me, Bruce, and the inspector]” in the first line of the quoted passage, see supra p. 21, refers to Ms. Turkenburg, Mr. Bartley, Mr. Meyer, and Inspector Munneke, respectively.
+|
+19
+|The parties’ discussion of “debtor’s risk” concerned the possible scenario where PGI would suffer a Dutch tax loss on the Frito–Lay notes while remaining obligated to pay the principal amounts on the advance agreements.
+|
+20
+|Similarly, in a July 30, 1996, facsimile to Inspector Munneke, Ms. Turkenburg emphasized this point and reiterated that upon a “violation of* * * synchronization the qualification of the funding switches to equity.”
+|
+21
+|The facsimile was originally sent by Inspector Munneke on July 23, 1996, and was resent following his receipt of Ms. Turkenburg’s July 30, 1996, facsimile.
+|
+22
+|On November 24, 2000, Ms. Turkenburg, on behalf of PepsiCo, sent a letter to Inspector Munneke requesting a four-year extension of the Dutch tax ruling. Four months later, on March 29, 2001, the Dutch Revenue Service approved a five-year extension of the Dutch tax ruling until December 31, 2005, and noted that no additional extensions would be allowed.
+|
+23
+|The advance agreements explicitly provided that the instruments would be “governed by and construed in accordance with the laws of the State of Delaware.”
+|
+24
+|The adjustment rate was the weighted average of 1/8%, 3/32%, and 1/16%. The weighting of each depended upon the extent to which the principal amount and capitalized base pr of the advance agreements exceeded 1 billion Dutch guilders and, again, upon the extent to which the principal amount and the capitalized base pr exceeded 3 billion Dutch guilders. The principal amount and the capitalized base pr were converted into Dutch guilders on each date the rate was set.
+|
+25
+|The accrual provision specifically prescribed that
+2.(a) * * * The Preferred Return shall accrue semi-annually at a rate equal to the sum of (i) the applicable LIBOR-based rate (the “Base PR”) plus (ii) each of the applicable deferral and subordination premiums (in the aggregate, the “Premium PR”). The applicable LIBOR-based rate shall be determined initially on the date hereof and shall be re-set semi-annually (on each subsequent January 1 and July 1). The applicable LIBOR-based rate shall equal six-month LIBOR as of the relevant re-set date * * * plus 230 basis points minus an adjustment rate * * *. Each of the applicable deferral and subordination premiums shall be determined with reference to six-month LIBOR as defined above. The applicable deferral premium shall equal six-month LIBOR multiplied by a factor of 0.05. The applicable subordination premium shall equal six-month LIBOR multiplied by a factor of 0.45. In the event six-month LIBOR * * * is not available for the relevant re-set date, * * * [PGI/PWI] and the Holder shall agree upon an appropriate variable interest rate standard to be used to calculate the Preferred Return.
+|
+26
+|The “adjustment rate” of the 1997 advance agreement was defined similarly to the “adjustment rate” found in the 1996 advance agreements. See supra note 24.
+|
+27
+|The provision specifically prescribed that
+2.(a) * * * The Preferred return shall accrue semi-annually at a rate equal to the sum of (i) the applicable FIXED rate (the “Base PR”) plus (ii) each of the applicable deferral and subordination premiums (in the aggregate, the “Premium PR”). The applicable FIXED rate shall be determined initially on the date set forth herein and then re-computed on November 23, 2000. The applicable FIXED rate shall be equal to 7.951% minus an adjustment rate * * *. Each of the applicable deferral and subordination premiums shall be determined with reference to the FIXED rate as defined above. The applicable deferral premium shall equal the FIXED rate multiplied by a factor of 0.05. The applicable subordination premium shall equal the FIXED rate multiplied by a factor of 0.45. In the event the FIXED rate as defined above cannot be determined for whatever reason, * * * [PGI] and the Holder shall agree upon an appropriate fixed interest rate standard to be used to calculate the Preferred Return.
+|
+28
+|Preferred return accrued on both capitalized base pr and capitalized premium pr amounts.
+|
+29
+|After the public spinoff of PepsiCo’s global restaurant business on October 2, 1997, PGI no longer held direct or indirect interests in, among other entities, Spizza 30, Snc, and PepsiCo Restaurants International Sca.
+|
+30
+|The transaction was intended to be treated as a reorganization under sec. 368(a)(1)(F).
+|
+31
+|All such payments were made in cash with the exception of the payment made on September 17, 1997, which was made in kind with shares of a PGI subsidiary as part of the spinoff of PepsiCo’s global restaurant business.
+|
+32
+|All such payments were made in cash.
+|
+33
+|All such payments were made in cash.
+|
+34
+|All such payments were made in cash.
+|
+35
+|The amount of premium pr was reduced by 15% to take into account Dutch withholding tax.
+|
+36
+|See supra note 35.
+|
+37
+|As discussed supra, Mr. Sleurink also summarized the Dutch tax ruling process in the 1980s and 1990s.
+|
+38
+|Mr. Sleurink did not explain when payments were “highly uncertain” and when they were “remote”.
+|
+39
+|While the Dutch Supreme Court case was decided after the advance agreements were issued, Mr. Sleurink asserted that “various acknowledged legal scholars interpreting prior Supreme Court decisions confirmed and anticipated the Supreme Court’s 1998 view. * * * [I]n practice, both the Dutch Revenue Service and the Courts give considerable weight to views of acknowledged legal scholars.” Furthermore, the decision of the Court of Appeals of Amsterdam which precipitated the Dutch Supreme Court’s decision was publicly available in printed form before the 1996 advance agreements were issued. The Court of Appeals’ decision, as with the later Supreme Court case, discussed the three key requirements noted supra.
+|
+40
+|Mr. Sleurink noted that some Dutch caselaw during the mid–1990s might have suggested that an instrument’s 50–year term was so extended that it evinced equity-like characteristics; however, he qualified that statement by asserting that it “was not the prevailing view of the courts at that time”.
+|
+41
+|Mr. Sleurink distinguished profit from cashflow as follows:
+An important observation * * * is that case law as well as * * * [the Dutch Corporate Income Tax Act] clearly looked (and still do) at what is referred to as “profit destination” (winstbestemming), i.e. the bottom line profit available for use, once determined, for distribution or to remain within the company as an addition to profit given that the instrument would be reclassified as equity and payments thereon as distributions of profits, i.e. dividends paid to shareholders. By contrast, linking a payment of interest to sufficiently high cash-flows with the borrower, or for example value shifts of certain assets owned by the borrower, would fall in the category of “profit determination” (winstbepaling), i.e. amounts taken into account (“above the line”) in calculating bottom line profits.
+|
+42
+|In the course of his analysis, Mr. James determined that PGI made total aggregate equity investments in and loans to affiliates of approximately $1.4 billion during the years at issue ($864,572,499 in equity investments; $550,665,460 in loans). PGI also had outstanding indebtedness to affiliates in amounts as high as $980 million during the same period.
+In evaluating the capitalization of PGI, Mr. James noted that if the 1996 advance agreements were classified as debt, PGI’s debt-to-equity ratio in 1996 would have been 14.1. If the 1997 advance agreement was further classified as debt, PGI’s debt-to-equity ratio would have been 26.2 to 1 in 1997.
+|
+43
+|Mr. Sleurink examined the original versions of letters and facsimiles between petitioners and the Dutch Revenue Service, which were written in Dutch; however, both petitioners and respondent during the course of litigation generally relied upon the unofficial translations provided by Loyens.
+|
+44
+|Perhaps in no other context is the form of a transaction more significant than in international financial arrangements where two separate tax regimes both endeavor to apply their respective tax laws to transactions considering, primarily, the objective terms of the governing instruments.
+|
+45
+|For instance, in his posttrial brief respondent in part submits:
+The 1996/97 Advance Agreements and corresponding Frito–Lay notes are merely intercompany loans between commonly controlled related entities. PepsiCo can terminate these interrelated obligations anytime it considers it beneficial to do so.* * *
+Given the fact that the obligations Frito–Lay owes to PGI are interconnected with the 1996/97 Advance Agreements PGI has with BFSI or PPR and all entities are controlled by PepsiCo, there is clearly a reasonable expectation that the principal owed under these agreements would be repaid whenever PGI receives payment on the Frito–Lay Notes, regardless of PGI’s profitability.
+|
+46
+|Sec. 385(b) sets forth five factors that may be included in any regulations prescribed by the Secretary to determine the character, for Federal income tax purposes, of an investment in a corporation. Those factors are:
+(1) whether there is a written unconditional promise to pay on demand or on a specified date a sum certain in money in return for an adequate consideration in money or money’s worth, and to pay a fixed rate of interest,
+(2) whether there is subordination to or preference over any indebtedness of the corporation,
+(3) the ratio of debt to equity of the corporation,
+(4) whether there is convertibility into the stock of the corporation, and
+(5) the relationship between holdings of stock in the corporation and holdings of the interest in question.
+|
+47
+|This is a factual issue, to be decided upon all the facts and circumstances in each case. See Estate of Chism v. Commissioner, 322 F.2d 956, 960 (9th Cir.1963), aff’g T.C. Memo.1962–6.
+|
+48
+|In a typical debt-versus-equity case, the Commissioner argues for equity characterization whereas the taxpayers endeavor to secure debt characterization. In the present circumstances the roles are reversed. “This different twist to the usual fact pattern, however, does not require us to apply different legal principles.” Segel v. Commissioner, 89 T.C. 816, 826, 1987 WL 49800 (1987) (citing Ragland Inv. Co. v. Commissioner, 52 T.C. 867, 875, 1969 WL 1672 (1969)). See generally Hewlett Packard Co. v. Commissioner, T.C. Memo.2012–135.
+|
+49
+|The Court of Appeals for the Second Circuit, the court to which appeal in these cases would lie, has not explicitly adopted a specific factor test; however, the court has implied that a thorough inquiry would include factors designated by IRS Notice 94–47, 1994–1 C.B. 357 (eight factors), supplemented with additional, pertinent factors generally considered by other courts. See TIFD III–E, Inc. v. United States, 459 F.3d 220, 239–240 (2d Cir.2006).
+|
+50
+|The factors identified in Notice 94–47, supra, are subsumed within the more discerning inquiry espoused in Dixie Dairies Corp.
+|
+51
+|The form and the labels used for the transaction may signify little when the parties to the transaction are related. Calumet Indus., Inc. v. Commissioner, 95 T.C. 257, 286, 1990 WL 130849 (1990); see also Fin Hay Realty Co. v. United States, 398 F.2d 694, 697 (3d Cir.1968).
+|
+52
+|Preferred stock may be structured to have a maturity date. See Miele v. Commissioner, 56 T.C. 556, 566, 1971 WL 2554 (1971), aff ‘d without published opinion, 474 F.2d 1338 (3d Cir.1973).
+|
+53
+|In Monon R.R., when discussing the debtlike nature of the interest payments, this Court noted:
+Although the interest is payable out of the * * * [taxpayer’s] available net income, and is thus liable to fluctuate according to the vicissitudes of the * * * [taxpayer’s] business fortunes, the amount of interest required to be paid in any year may be ascertained according to an established formula, and such formula for payment leaves nothing to the discretion of the corporate directors. The fact that the directors have the discretion to make payments to the debenture holders in addition to the interest which is required to be paid under the formula does not affect the character of the obligation. The basic provision for the payment of interest was automatic rather than dependent upon the directors. That the amount of interest paid out depends upon profits and is not always the same fixed percentage of principle does not transform the debentures into equity certificates under these circumstances. [Monon R.R. v. Commissioner, 55 T.C. 345, 360–361, 1970 WL 2339 (1970); citation omitted.]
+Respondent proffers that the interest provisions of the advance agreements exhibit more debtlike qualities than those at issue in Monon. We find this assertion entirely unpersuasive. As fully described in the quoted excerpt, the directors in Monon were given no discretion to eliminate mandatory interest payments; rather, they were permitted to make additional, nonmandatory payments if desired. Petitioners, however, can completely eliminate interest payment by the expedient of simply approving capital investments or expenditures in a given year.
+|
+54
+|In an inducement to participate in the exchange, the taxpayer advertised that the debentures were “a debt obligation of the Corporation, a promise to pay a sum certain at a definite maturity date”. Monon R.R. v. Commissioner, 55 T.C. at 351.
+|
+55
+|For purposes of this section, we examine the term of the advance agreements without referring to the possibility that a default by a related party on a loan receivable held by PGI/PWI would render the instruments perpetual. This characteristic, alone, wholly differentiates the advance agreements from the debentures in Monon R.R.
+|
+56
+|We discuss further, infra, that no reasonable commercial investor would have issued a loan to PGI “in similar amounts and under any reasonably similar terms to those of the Advance Agreements.”
+|
+57
+|The recent economic instability experienced in many foreign corridors underscores the precarious nature of similar large international investments.
+|
+58
+|See United States v. Snyder Brothers Co., 367 F.2d 980, 984–985 (5th Cir.1966) (holding that a 20–year term on an instrument was indicative of an equity investment); see also CCA 200932049 (Mar. 10, 2009) (“Generally, the use of a distant due date suggests equity because it exposes an investment to greater risk of an issuer’s business and creates uncertainty regarding both the timing and certainty of repayment.”).
+|
+59
+|This amount does not include loan receivables contributed to PGI.
+|
+60
+|“This factor is somewhat anomalous because most loans are repaid out of earnings.” Laidlaw Transp., Inc. v. Commissioner, T.C. Memo.1998–232 (citing Estate of Mixon v. United States, 464 F.2d 394, 405 n. 15 (5th Cir.1972)).
+|
+61
+|Petitioners proffer that the adherence to the payment schedule implicitly outlined in the Dutch tax ruling was effectively subject to the contingency of PGI’s securing sufficient additional financing for their foreign operations. Citing the testimony of Anthony Bryant, who indicated that he was uncertain as to whether the stream of funding from the Frito Lay Notes would be needed in the context of the global expansion, petitioners submit that it was distinctly possible, as of the issuance of the advance agreements, that PGI might use Frito–Lay interest payments to fund anticipated capital investments.
+We believe that both business exigencies and unforeseen funding shortfalls could have conceivably necessitated the diversion of the Frito–Lay funding stream to PGI’s capital investments. Indeed, the conditionality of the payment of base pr is one of the defining equity features of the advance agreements. Nonetheless, petitioners represented to the Dutch Revenue Service in their formal request for a tax ruling that “it is not the intention that * * * [the Frito–Lay interest] is reinvested in the participations”. Mr. Bartley’s later facsimiles similarly indicate that all parties recognized the “flow thru” nature of the transaction. Accordingly, it appears that in an effort to secure the tax ruling, petitioners internally committed themselves to making such payments (albeit with no guaranty), notwithstanding the fact that separate financing for their new foreign investments was not yet identified.
+|
+62
+|Ms. Turkenburg testified that there was a “certain encouragement * * * for Frito–Lay to make payments on time.” If Frito–Lay deferred payment, they would have to capitalize such payment in a separate “baby note” with a corresponding “two percent surcharge”. This “surcharge” would thereafter increase PGI’s taxable spread.
+|
+63
+|Ms. Turkenburg testified that under similar circumstances, only the future deduction of capitalized base pr would be affected.
+|
+64
+|Respondent also alleges that the payment of principal on the Frito–Lay notes was linked to payment of principal on the Advance Agreements. In support of this contention he refers us to an October 19, 1998, repayment of one of the initial PPR Frito–Lay notes in the principal amount of $214,084,144 which corresponded to a payment, in the exact same amount and on the same day, by PGI to PPR in partial satisfaction of the 1997 advance agreement. Respondent further notes that the aggregate principal amounts of the Frito–Lay notes equal the aggregate principal amounts of the Advance Agreements (referred to by petitioners and the Dutch Revenue Service as “synchronization”). Nonetheless, given the lengthier terms of the Advance Agreements and the fact that the principal of no other Frito–Lay Note has been paid, we believe it premature to conclude that the payment of principal on one instrument would necessitate the payment of principal on the other.
+|
+65
+|Respondent also submits a “flow of funds” chart which purports to illustrate that “on at least one occasion, PepsiCo * * * provided the funds for Frito–Lay to make its interest payments to PGI and those same funds were then returned through PPR back to PepsiCo on the same day.”
+|
+66
+|Petitioners cite the March 2002 amendments to the PepsiCo Frito–Lay notes to further demonstrate the connection between the instruments.
+|
+67
+|The significance of this factor, however, is tempered to an extent given both the long terms of the advance agreements and the limited time the Dutch tax ruling remained effective.
+|
+68
+|“The classic debt is an unqualified obligation to pay a sum certain at a reasonably close fixed maturity date along with a fixed percentage in interest payable regardless of the debtor’s income or lack thereof.” Gilbert v. Commissioner, 248 F.2d 399, 402 (2d Cir.1957).
+|
+69
+|The advance agreements are “governed by and construed in accordance with the laws of the State of Delaware.” Respondent has not argued that Delaware law would provide the holders of the advance agreements a remedy if PGI defaulted on “mandatory” base pr payments.
+|
+70
+|Indeed, the court in Merck & Co., Inc. v. United States, 652 F.3d 475, 483 (3d Cir.2011), qualified its holding by noting that “under many, perhaps most, circumstances, repayment might be sufficiently conditional to prevent characterization of a transaction as a loan.”
+|
+71
+|PGI’s credit facility with ABN–AMRO Bank, N.V., which was secured by a subsidiary guaranty issued by PepsiCo, is not considered in this analysis. See TIFD III–E, Inc., 459 F.3d at 237 (finding that Dutch banks’ investment, although generally subordinated to creditors’, was secured by a guaranty from the taxpayer’s “far more solvent parent”, rendering subordination a mere “fiction”).
+|
+72
+|PGI’s investments in foreign subsidiaries subjected such advances to creditor-debtor, bankruptcy, and general business law in various jurisdictions. Without the benefit of any evidence to the contrary, we believe a default on such obligations both plausible, and, perhaps, beneficial for business purposes in certain circumstances.
+|
+73
+|In determining foreign law, we are free to consider “any relevant material or source, including testimony, whether or not submitted by a party or otherwise admissible. The Court’s determination shall be treated as a ruling on a question of law.” Rule 146; see also Angerhofer v. Commissioner, 87 T.C. 814, 819, 1986 WL 22036 (1986). Petitioners submitted relevant foreign statutes and secondary sources concerning French and Spanish law. Respondent, while questioning the materiality of such law in these cases, does not contest the validity of the proffered sources.
+|
+74
+|Transactions are often purposefully structured to produce favorable tax consequences, and such planning, alone, does not compel the disallowance of the transaction’s tax effects. See Frank Lyon Co. v. United States, 435 U.S. 561, 580, 98 S.Ct. 1291, 55 L.Ed.2d 550 (1978); see also ASA Investerings P’ship v. Commissioner, 201 F.3d 505, 513 (D.C.Cir.2000) (“It is uniformly recognized that taxpayers are entitled to structure their transactions in such a way as to minimize tax.”), aff’g T.C. Memo.1998–305; Ewing v. Commissioner, 91 T.C. 396, 420, 1988 WL 89128 (1988) (“we are cognizant of the fact that tax planning is an economic reality in the business world and the effect of tax laws on a transaction is routinely considered”), aff’d without published opinion, 940 F.2d 1534 (9th Cir.1991).
+|
+75
+|Respondent relies on Fifth Circuit precedent which recognizes that thin capitalization is “very strong evidence” of a capital investment where: (1) the debtto-equity ratio was initially high; (2) the parties understood that it would likely go higher; and (3) substantial portions of these funds were used for the purchase of capital assets and for meeting expenses needed to commence operations. See Estate of Mixon, 464 F.2d at 408 (citing United States v. Henderson, 375 F.2d 36, 40 (5th Cir.1967)). Respondent contends that petitioners cannot satisfy this standard; he submits that, in particular, petitioners have not conclusively demonstrated that PGI used advances to purchase capital assets or to meet expenses needed to commence operations.
+However, neither this Court nor the Court of Appeals for the Second Circuit has embraced this more nuanced test for thin capitalization in a debt-versus-equity analysis. See, e.g., Nassau Lens Co. v. Commissioner, 308 F.2d 39, 47 (2d Cir.1962), remanding 35 T.C. 268, 1960 WL 1303 (1960); Kraft Foods Co. v. Commissioner, 232 F.2d at 127; Hubert Enters., Inc. v. Commissioner, 125 T.C. 72, 96, 2005 WL 2293526 (2005); Anchor Nat’l Life Ins. Co. v. Commissioner, 93 T.C. 382, 401 n. 16, 1989 WL 111358 (1989); Recklitis v. Commissioner, 91 T.C. 874, 903–905, 1988 WL 116976 (1988). Indeed, the Second Circuit has stated that the isolated debt-to-equity ratio is of “great importance in determining whether an ambiguous instrument is a debt or an equity interest.” Kraft Foods Co. v. Commissioner, 232 F.2d at 127. Moreover, the other elements in the Fifth Circuit standard are subsumed within our larger inquiry. Accordingly, we approach the “thin capitalization” factor without addressing the additional Fifth Circuit elements.
+|
+76
+|Respondent, misconstruing relevant legal precedent, initially submitted that the ABN–AMRO credit facility evidences that outside lenders were willing to advance funds to PGI, rendering this factor neutral. However, the focus of the law “is not simply on the ability of a corporation to obtain the funds from outside sources; rather, the focus is whether an outside lender would have lent the funds on the same or similar terms.” Segel v. Commissioner, 89 T.C. at 832 (emphasis supplied) (citing Scriptomatic, Inc. v. United States, 555 F.2d 364, 368 (3d Cir.1977), and Fin Hay Realty Co. v. United States, 398 F.2d at 697).
+|
+
+
+
+
+
+
+
+End of Document
+|© 2025 Thomson Reuters. No claim to original U.S. Government Works.
+|
+
+
+
+
+
+

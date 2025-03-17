@@ -73,6 +73,3 @@ def extract_facts(text: str) -> str:
         output.extend(background_lines)
 
     return "\n".join(output), successful_task
-
-def extract_provisions(text: str) -> str:
-    
