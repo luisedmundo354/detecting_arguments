@@ -1,0 +1,72 @@
+// Syllogism
+digraph {
+	page="8.5,11" size="8.5,11!"
+	node [shape=none]
+	Ma [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise(grounded on binding authority)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">While it may be true that the stock of a<BR ALIGN='left'/>going concern can be valued *964<BR ALIGN='left'/>independently of the assets which are<BR ALIGN='left'/>acquired with such stock, we think that<BR ALIGN='left'/>it is nonsensical to try to look at the<BR ALIGN='left'/>value of the stock separately from that<BR ALIGN='left'/>of the property where, as here, all of<BR ALIGN='left'/>the stock of a corporation which has<BR ALIGN='left'/>never conducted any business is<BR ALIGN='left'/>exchanged for property which will become<BR ALIGN='left'/>all of the assets of such corporation.</TD>
+  </TR>
+</TABLE>
+>]
+	Mi [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise(grounded on evidence)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">In Pittsburgh Terminal Corp., a newly<BR ALIGN='left'/>formed corporation received virtually<BR ALIGN='left'/>all of its assets in exchange for all<BR ALIGN='left'/>but an insignificant portion of its<BR ALIGN='left'/>stock. To ascertain the corporation’s<BR ALIGN='left'/>basis in the property received, this<BR ALIGN='left'/>Court determined the value of such stock<BR ALIGN='left'/>by reference to the fair market value</TD>
+  </TR>
+</TABLE>
+>]
+	C [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Conclusion/Major Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Any evaluation of the stock of the<BR ALIGN='left'/>corporation will necessarily be based<BR ALIGN='left'/>upon the income which can be expected<BR ALIGN='left'/>from the property.   Regardless of the<BR ALIGN='left'/>precise rule of valuation that we were<BR ALIGN='left'/>attempting to apply, we have always<BR ALIGN='left'/>followed the evidence of value on either<BR ALIGN='left'/>side of the transaction which we<BR ALIGN='left'/>considered to be the most reliable. * *<BR ALIGN='left'/>* [60 T.C. at 88; emphasis added.</TD>
+  </TR>
+</TABLE>
+>]
+	Mi11 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise(grounded on evidence)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">We do not consider the fair market value<BR ALIGN='left'/>of the property petitioner received from<BR ALIGN='left'/>Ferroxcube as reliable evidence of the<BR ALIGN='left'/>value of the preferred shares issued to<BR ALIGN='left'/>Ferroxcube. In Pittsburgh Terminal<BR ALIGN='left'/>Corp., we emphasized that reliable<BR ALIGN='left'/>evidence of value on either side of a<BR ALIGN='left'/>transaction is crucial, and there, the<BR ALIGN='left'/>property's value received in exchange<BR ALIGN='left'/>for the corporation's stock was deemed<BR ALIGN='left'/>reliable evidence of the stock's value.</TD>
+  </TR>
+</TABLE>
+>]
+	Mi12 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise(grounded by evidence)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">First, in Pittsburgh Terminal Corp., all<BR ALIGN='left'/>but an insignificant portion of the<BR ALIGN='left'/>corporation’s stock was given as<BR ALIGN='left'/>consideration for the property, and such<BR ALIGN='left'/>property thereafter represented all of<BR ALIGN='left'/>the corporation’s assets. Therefore, the<BR ALIGN='left'/>value of the corporation’s stock<BR ALIGN='left'/>necessarily reflected the value of the<BR ALIGN='left'/>underlying corporate assets.</TD>
+  </TR>
+</TABLE>
+>]
+	C1 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Conclusion/Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">On the basis of the record before us, we<BR ALIGN='left'/>find that Pittsburgh Terminal Corp. is<BR ALIGN='left'/>distinguishable.</TD>
+  </TR>
+</TABLE>
+>]
+	Mi -> C [constraint=true]
+	Ma -> C [constraint=true]
+	Ma -> Mi [arrowhead=none constraint=false style=dashed]
+	Mi11 -> C1 [constraint=true]
+	Mi12 -> C1 [constraint=true]
+	C -> C1 [constraint=true]
+	Mi11 -> Mi12 [arrowhead=none constraint=false style=dashed]
+}
