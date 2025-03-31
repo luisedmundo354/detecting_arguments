@@ -1,0 +1,190 @@
+// Extended Syllogism Tree
+digraph {
+	page="8.5,11" size="8.5,11!"
+	node [shape=none]
+	Ma [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (Binding Authority)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">It is nonsensical to consider stock<BR ALIGN='left'/>value separately from property value<BR ALIGN='left'/>(Implicit: both stock and property are<BR ALIGN='left'/>necessary for proper valuation).</TD>
+  </TR>
+</TABLE>
+>]
+	Mi [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise (Evidence)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">In Pittsburgh, the stock value was<BR ALIGN='left'/>determined based on the property's<BR ALIGN='left'/>market value (both stock and property<BR ALIGN='left'/>values were considered).</TD>
+  </TR>
+</TABLE>
+>]
+	Ma1 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (Conclusion)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">We have always followed the most<BR ALIGN='left'/>reliable evidence of value from both<BR ALIGN='left'/>sides of the transaction.</TD>
+  </TR>
+</TABLE>
+>]
+	Ma -> Ma1 [constraint=true]
+	Mi -> Ma1 [constraint=true]
+	Ma -> Mi [arrowhead=none constraint=false style=dashed]
+	Mi11 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">For Ferroxcube, the court followed the<BR ALIGN='left'/>evidence and did not choose the property<BR ALIGN='left'/>price as the most reliable indicator.</TD>
+  </TR>
+</TABLE>
+>]
+	Mi111 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">For Ferroxcube, the property price is<BR ALIGN='left'/>not the most reliable evidence of the<BR ALIGN='left'/>value.</TD>
+  </TR>
+</TABLE>
+>]
+	Mi12 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">In Pittsburgh, the court followed the<BR ALIGN='left'/>evidence and did not choose the property<BR ALIGN='left'/>price as the most reliable indicator.</TD>
+  </TR>
+</TABLE>
+>]
+	Mi121 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">In Pittsburgh, the property price is the<BR ALIGN='left'/>most reliable evidence of the value.</TD>
+  </TR>
+</TABLE>
+>]
+	Ma3 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (general rule)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Implicit: If the price base of two cases<BR ALIGN='left'/>is not the same, they are different<BR ALIGN='left'/>ragarding which side of the transaction<BR ALIGN='left'/>value is more reliable.</TD>
+  </TR>
+</TABLE>
+>]
+	Mi13 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise (Conclusion)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Pittsburgh and Ferroxcube differ<BR ALIGN='left'/>regarding which side of the transaction<BR ALIGN='left'/>value is deemed more reliable.</TD>
+  </TR>
+</TABLE>
+>]
+	Mi11 -> Mi111 [constraint=true]
+	Mi12 -> Mi121 [constraint=true]
+	Ma1 -> Mi111 [constraint=true]
+	Ma1 -> Mi121 [constraint=true]
+	Ma1 -> Mi11 [arrowhead=none constraint=false style=dashed]
+	Ma1 -> Mi12 [arrowhead=none constraint=false style=dashed]
+	Ma3 -> Mi13 [constraint=true]
+	Mi111 -> Mi13 [constraint=true]
+	Mi121 -> Mi13 [constraint=true]
+	Ma3 -> Mi111 [arrowhead=none constraint=false style=dashed]
+	Ma3 -> Mi121 [arrowhead=none constraint=false style=dashed]
+	stock_pitt [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (genral rule)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">If the proportions of assets and stock<BR ALIGN='left'/>transacted by the company in the<BR ALIGN='left'/>precedent case is different, then the<BR ALIGN='left'/>cases differ in the proportion of stock<BR ALIGN='left'/>and assets transacted.</TD>
+  </TR>
+</TABLE>
+>]
+	stock_ferro [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise (Evidence)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">In Pittsburgh, almost all stock was<BR ALIGN='left'/>exchanged for assets that comprised<BR ALIGN='left'/>nearly all of the company's assets. In<BR ALIGN='left'/>Ferroxcube, only a small fraction of<BR ALIGN='left'/>stock was exchanged for assets<BR ALIGN='left'/>representing a fraction of the total<BR ALIGN='left'/>assets.</TD>
+  </TR>
+</TABLE>
+>]
+	stock_diff [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Pittsburgh and Ferroxcube differ in the<BR ALIGN='left'/>proportion of stock sold and the<BR ALIGN='left'/>corresponding fraction of assets<BR ALIGN='left'/>transacted.</TD>
+  </TR>
+</TABLE>
+>]
+	stock_pitt -> stock_diff [constraint=true]
+	stock_ferro -> stock_diff [constraint=true]
+	stock_ferro -> stock_pitt [arrowhead=none constraint=false style=dashed]
+	if_diff [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (Implicit)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">If there is evidence of differences<BR ALIGN='left'/>between Pittsburgh and Ferroxcube, then<BR ALIGN='left'/>they are distinguishable.</TD>
+  </TR>
+</TABLE>
+>]
+	dist_concl [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Based on the record, Pittsburgh Terminal<BR ALIGN='left'/>Corp. is distinguishable.</TD>
+  </TR>
+</TABLE>
+>]
+	ruling_not_bind [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (Implicit)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">The ruling is not binding in the case at<BR ALIGN='left'/>hand, if the precendent is<BR ALIGN='left'/>distinguishable.</TD>
+  </TR>
+</TABLE>
+>]
+	final [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">The ruling is not binding in the current<BR ALIGN='left'/>case because the precedent is<BR ALIGN='left'/>distinguishable.</TD>
+  </TR>
+</TABLE>
+>]
+	stock_diff -> dist_concl [constraint=true]
+	Mi13 -> dist_concl [constraint=true]
+	if_diff -> dist_concl [constraint=true]
+	stock_diff -> if_diff [arrowhead=none constraint=false style=dashed]
+	Mi13 -> if_diff [arrowhead=none constraint=false style=dashed]
+	ruling_not_bind -> final [constraint=true]
+	dist_concl -> final [constraint=true]
+	ruling_not_bind -> dist_concl [arrowhead=none constraint=false style=dashed]
+}
