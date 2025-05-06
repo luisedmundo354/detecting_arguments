@@ -20,113 +20,116 @@ def html_label(title, content, width=150, wrap_width=40):
 >'''
 
 # Level 
-node_Ma = html_label(
+node_def_Ma1 = html_label(
     "Major Premise (Binding Authority)",
     "Generally, the cost basis of property purchased with other property is the fair market value of the property received in the exchange."
 )
-node_Mi = html_label(
-    "Minor Premise (Evidence)",
-    "The case is a general"
+node_def_Mi1 = html_label(
+    "Minor Premise",
+    "The general rule should be applied to the case."
 )
-node_Ma1 = html_label(
-    "Major Premise (Conclusion)",
+node_def_Ma2 = html_label(
+    "Major Premise",
     "The cost basis Ferroxcube must use is the fair market value of the property"
 )
 
-dot.node('Ma', label=node_Ma)
-dot.node('Mi', label=node_Mi)
-dot.node('Ma1', label=node_Ma1)
+dot.node('dMa1', label=node_def_Ma1)
+dot.node('dMi1', label=node_def_Mi1)
+dot.node('dMa2', label=node_def_Ma2)
 
-dot.edge('Ma', 'Ma1', constraint='true')
-dot.edge('Mi', 'Ma1', constraint='true')
-dot.edge('Ma', 'Mi', style='dashed', arrowhead='none', constraint='false')
+dot.edge('dMa1', 'dMa2', constraint='true')
+dot.edge('dMi1', 'dMa2', constraint='true')
+dot.edge('dMa1', 'dMi1', style='dashed', arrowhead='none', constraint='false')
 
 # Level 
-node_Ma = html_label(
+node_def_Ma31 = html_label(
     "Major Premise (Binding Authority)",
     "Where stock is exchanged for property pursuant to an arm’s-length transaction, the courts have, in certain instances, presumed that the value of such stock equaled the value of the  property received in exchange therefor. Pittsburgh Terminal Corp. This is sometimes referred to as the barter-equation method of valuation."
 )
-node_Mi = html_label(
-    "Minor Premise (Evidence)",
+node_def_Mi31 = html_label(
+    "Minor Premise",
     "Under these circumstances, we cannot find that petitioner and Ferroxcube were dealing at arm’s length in the ordinary sense of that term."
 )
-node_Ma1 = html_label(
-    "Major Premise (Conclusion)",
-    "The court cannot presume that the value of the stock equale the value of the property. Ferroxcube cannot use barter-equation method of valuation"
+node_def_Mi32 = html_label(
+    "Minor Premise",
+    "The court cannot presume that the value of the stock equale the value of the property."
 )
 
-dot.node('Ma', label=node_Ma)
-dot.node('Mi', label=node_Mi)
-dot.node('Ma1', label=node_Ma1)
+dot.node('dMa31', label=node_def_Ma31)
+dot.node('dMi31', label=node_def_Mi31)
+dot.node('dMi32', label=node_def_Mi32)
 
-dot.edge('Ma', 'Ma1', constraint='true')
-dot.edge('Mi', 'Ma1', constraint='true')
-dot.edge('Ma', 'Mi', style='dashed', arrowhead='none', constraint='false')
+dot.edge('dMa31', 'dMi32', constraint='true')
+dot.edge('dMi31', 'dMi32', constraint='true')
+dot.edge('dMa31', 'dMi31', style='dashed', arrowhead='none', constraint='false')
 
 # Level 
-node_Ma = html_label(
+node_def_Ma41 = html_label(
     "Major Premise (genral rule)",
-    "In cases where the best alternative to a negotiated agreement is significantly worse, the seller is in disadvantage."
+    "Implicit: In cases where the best alternative to a negotiated agreement is significantly worse, the seller is in disadvantage."
 )
-node_Mi = html_label(
+node_def_Mi41 = html_label(
     "Minor Premise (Evidence)",
     "It appears that *965 petitioner was the only party interested in purchasing the Memory Systems Division,5 leaving Ferroxcube with the choice of selling the division to petitioner or  scrapping its assets for salvage value."
 )
-node_Ma1 = html_label(
-    "Major Premise (Conclusion)",
-    "It is clear that Ferroxcube was placed at a  distinct disadvantage in negotiating a sale to petitioner."
+node_def_Mi42 = html_label(
+    "Major Premise",
+    "It is clear that Ferroxcube was placed at a distinct disadvantage in negotiating a sale to petitioner."
 )
 
-dot.node('Ma', label=node_Ma)
-dot.node('Mi', label=node_Mi)
-dot.node('Ma1', label=node_Ma1)
+dot.node('dMa41', label=node_def_Ma41)
+dot.node('dMi41', label=node_def_Mi41)
+dot.node('dMa42', label=node_def_Mi42)
 
-dot.edge('Ma', 'Ma1', constraint='true')
-dot.edge('Mi', 'Ma1', constraint='true')
-dot.edge('Ma', 'Mi', style='dashed', arrowhead='none', constraint='false')
+dot.edge('dMa41', 'dMa42', constraint='true')
+dot.edge('dMi41', 'dMa42', constraint='true')
+dot.edge('dMa41', 'dMi41', style='dashed', arrowhead='none', constraint='false')
 
 # Level 
-node_Ma = html_label(
+node_def_Ma3 = html_label(
     "Major Premise (rule)",
     "Arm's length is commonly used to refer to transactions in which two or more unrelated and unaffiliated parties agree to do business, acting independently and in their self-interest."
 )
-node_Ma1 = html_label(
+node_def_Mi3 = html_label(
     "Minor Premise",
-    "Under these circumstances, we cannot find that petitioner and Ferroxcube were dealing at arm’s length in the ordinary sense of that term."
+    "The evidence shows that Ferroxcube was not acting independently."
 )
 
-dot.node('Ma', label=node_Ma)
-dot.node('Mi', label=node_Mi)
-dot.node('Ma1', label=node_Ma1)
+dot.node('dMa3', label=node_def_Ma3)
+dot.node('dMi3', label=node_def_Mi3)
 
-dot.edge('Ma', 'Ma1', constraint='true')
-dot.edge('Mi', 'Ma1', constraint='true')
-dot.edge('Ma', 'Mi', style='dashed', arrowhead='none', constraint='false')
+dot.edge('dMa3', 'dMi31', constraint='true')
+dot.edge('dMi3', 'dMi31', constraint='true')
+dot.edge('dMa3', 'dMi3', style='dashed', arrowhead='none', constraint='false')
 
-# Level 
-node_Ma = html_label(
+# level
+node_def_Ma51 = html_label(
     "Major Premise (rule)",
     "Fair market value has been defined as the price at which property would be sold by a knowledgeable seller to a knowledgeable buyer with neither party under any compulsion to act."
 )
-node_Ma1 = html_label(
+node_def_Mi51 = html_label(
     "Minor Premise",
     "We believe, in light of the lack of any evidence to the contrary, that respondent acted reasonably in assuming that Ferroxcube found itself forced to sell the Memory Systems Division’s assets to  petitioner at a price below their fair market value rather than scrapping those assets for salvage value."
 )
-node_Ma1 = html_label(
+node_def_Mi52 = html_label(
     "Minor Premise",
-    "Ferroxcube was not using fair market value"
+    "Ferroxcube was not using fair market value."
 )
 
-dot.node('Ma', label=node_Ma)
-dot.node('Mi', label=node_Mi)
-dot.node('Ma1', label=node_Ma1)
+dot.node('dMa51', label=node_def_Ma51)
+dot.node('dMi51', label=node_def_Mi51)
+dot.node('dMa52', label=node_def_Mi52)
 
-dot.edge('Ma', 'Ma1', constraint='true')
-dot.edge('Mi', 'Ma1', constraint='true')
-dot.edge('Ma', 'Mi', style='dashed', arrowhead='none', constraint='false')
+dot.edge('dMa51', 'dMa52', constraint='true')
+dot.edge('dMi51', 'dMa52', constraint='true')
+dot.edge('dMa51', 'dMi51', style='dashed', arrowhead='none', constraint='false')
+
+dot.edge('dMa52', 'dMi3', constraint='true')
+dot.edge('dMa42', 'dMi3', constraint='true')
 
 
-# Level
+
+# Below is structure for distinguishable claim
 node_Ma = html_label(
     "Major Premise (Binding Authority)",
     "It is nonsensical to consider stock value separately from property value (Implicit: both stock and property are necessary for proper valuation)."
@@ -136,7 +139,7 @@ node_Mi = html_label(
     "In Pittsburgh, the stock value was determined based on the property's market value (both stock and property values were considered)."
 )
 node_Ma1 = html_label(
-    "Major Premise (Conclusion)",
+    "Major Premise",
     "We have always followed the most reliable evidence of value from both sides of the transaction."
 )
 
@@ -163,7 +166,7 @@ node_Mi111 = html_label(
 )
 node_Mi12 = html_label(
     "Minor Premise",
-    "In Pittsburgh, the court followed the evidence and did not choose the property price as the most reliable indicator."
+    "In Pittsburgh, the court followed the evidence and chose the property price as the most reliable indicator."
 )
 node_Mi121 = html_label(
     "Minor Premise",
@@ -253,6 +256,33 @@ dot.edge('Mi13', 'if_diff', style='dashed', arrowhead='none', constraint='false'
 dot.edge('ruling_not_bind', 'final', constraint='true')
 dot.edge('dist_concl', 'final', constraint='true')
 dot.edge('ruling_not_bind', 'dist_concl', style='dashed', arrowhead='none', constraint='false')
+
+
+
+# Closing Argument
+node_def_Ma6 = html_label(
+    "Major Premise (rule)",
+    "Implicit: When a precedent is not binding, a more general rule must be applied."
+)
+
+dot.node('dMa6', label=node_def_Ma6)
+
+dot.edge('dMa6', 'dMi1', constraint='true')
+dot.edge('final', 'dMi1', constraint='true')
+dot.edge('dMa6', 'final', style='dashed', arrowhead='none', constraint='false')
+
+
+node_def_Ma7 = html_label(
+    "Conclusion",
+    "Since we have rejected the use of this method of valuation in the instant case, we find that petitioner has failed to meet its burden of proof and sustain respondent’s determination."
+)
+
+dot.node('dMa7', label=node_def_Ma7)
+
+dot.edge('dMa2', 'dMa7', constraint='true')
+dot.edge('dMi32', 'dMa7', constraint='true')
+dot.edge('dMa2', 'dMi32', style='dashed', arrowhead='none', constraint='false')
+
 
 print(dot.source)
 dot.render('extended_tree_structure', view=True)

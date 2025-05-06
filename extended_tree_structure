@@ -2,6 +2,163 @@
 digraph {
 	page="8.5,11" size="8.5,11!"
 	node [shape=none]
+	dMa1 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (Binding Authority)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Generally, the cost basis of property<BR ALIGN='left'/>purchased with other property is the<BR ALIGN='left'/>fair market value of the property<BR ALIGN='left'/>received in the exchange.</TD>
+  </TR>
+</TABLE>
+>]
+	dMi1 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">The general rule should be applied to<BR ALIGN='left'/>the case.</TD>
+  </TR>
+</TABLE>
+>]
+	dMa2 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">The cost basis Ferroxcube must use is<BR ALIGN='left'/>the fair market value of the property</TD>
+  </TR>
+</TABLE>
+>]
+	dMa1 -> dMa2 [constraint=true]
+	dMi1 -> dMa2 [constraint=true]
+	dMa1 -> dMi1 [arrowhead=none constraint=false style=dashed]
+	dMa31 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (Binding Authority)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Where stock is exchanged for property<BR ALIGN='left'/>pursuant to an arm’s-length transaction,<BR ALIGN='left'/>the courts have, in certain instances,<BR ALIGN='left'/>presumed that the value of such stock<BR ALIGN='left'/>equaled the value of the  property<BR ALIGN='left'/>received in exchange therefor.<BR ALIGN='left'/>Pittsburgh Terminal Corp. This is<BR ALIGN='left'/>sometimes referred to as the barter-<BR ALIGN='left'/>equation method of valuation.</TD>
+  </TR>
+</TABLE>
+>]
+	dMi31 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Under these circumstances, we cannot<BR ALIGN='left'/>find that petitioner and Ferroxcube were<BR ALIGN='left'/>dealing at arm’s length in the ordinary<BR ALIGN='left'/>sense of that term.</TD>
+  </TR>
+</TABLE>
+>]
+	dMi32 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">The court cannot presume that the value<BR ALIGN='left'/>of the stock equale the value of the<BR ALIGN='left'/>property.</TD>
+  </TR>
+</TABLE>
+>]
+	dMa31 -> dMi32 [constraint=true]
+	dMi31 -> dMi32 [constraint=true]
+	dMa31 -> dMi31 [arrowhead=none constraint=false style=dashed]
+	dMa41 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (genral rule)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Implicit: In cases where the best<BR ALIGN='left'/>alternative to a negotiated agreement is<BR ALIGN='left'/>significantly worse, the seller is in<BR ALIGN='left'/>disadvantage.</TD>
+  </TR>
+</TABLE>
+>]
+	dMi41 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise (Evidence)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">It appears that *965 petitioner was the<BR ALIGN='left'/>only party interested in purchasing the<BR ALIGN='left'/>Memory Systems Division,5 leaving<BR ALIGN='left'/>Ferroxcube with the choice of selling<BR ALIGN='left'/>the division to petitioner or  scrapping<BR ALIGN='left'/>its assets for salvage value.</TD>
+  </TR>
+</TABLE>
+>]
+	dMa42 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">It is clear that Ferroxcube was placed<BR ALIGN='left'/>at a distinct disadvantage in<BR ALIGN='left'/>negotiating a sale to petitioner.</TD>
+  </TR>
+</TABLE>
+>]
+	dMa41 -> dMa42 [constraint=true]
+	dMi41 -> dMa42 [constraint=true]
+	dMa41 -> dMi41 [arrowhead=none constraint=false style=dashed]
+	dMa3 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (rule)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Arm's length is commonly used to refer<BR ALIGN='left'/>to transactions in which two or more<BR ALIGN='left'/>unrelated and unaffiliated parties agree<BR ALIGN='left'/>to do business, acting independently and<BR ALIGN='left'/>in their self-interest.</TD>
+  </TR>
+</TABLE>
+>]
+	dMi3 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">The evidence shows that Ferroxcube was<BR ALIGN='left'/>not acting independently.</TD>
+  </TR>
+</TABLE>
+>]
+	dMa3 -> dMi31 [constraint=true]
+	dMi3 -> dMi31 [constraint=true]
+	dMa3 -> dMi3 [arrowhead=none constraint=false style=dashed]
+	dMa51 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (rule)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Fair market value has been defined as<BR ALIGN='left'/>the price at which property would be<BR ALIGN='left'/>sold by a knowledgeable seller to a<BR ALIGN='left'/>knowledgeable buyer with neither party<BR ALIGN='left'/>under any compulsion to act.</TD>
+  </TR>
+</TABLE>
+>]
+	dMi51 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">We believe, in light of the lack of any<BR ALIGN='left'/>evidence to the contrary, that<BR ALIGN='left'/>respondent acted reasonably in assuming<BR ALIGN='left'/>that Ferroxcube found itself forced to<BR ALIGN='left'/>sell the Memory Systems Division’s<BR ALIGN='left'/>assets to  petitioner at a price below<BR ALIGN='left'/>their fair market value rather than<BR ALIGN='left'/>scrapping those assets for salvage<BR ALIGN='left'/>value.</TD>
+  </TR>
+</TABLE>
+>]
+	dMa52 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Ferroxcube was not using fair market<BR ALIGN='left'/>value.</TD>
+  </TR>
+</TABLE>
+>]
+	dMa51 -> dMa52 [constraint=true]
+	dMi51 -> dMa52 [constraint=true]
+	dMa51 -> dMi51 [arrowhead=none constraint=false style=dashed]
+	dMa52 -> dMi3 [constraint=true]
+	dMa42 -> dMi3 [constraint=true]
 	Ma [label=<
 <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
   <TR>
@@ -25,7 +182,7 @@ digraph {
 	Ma1 [label=<
 <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
   <TR>
-    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (Conclusion)</B></TD>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise</B></TD>
   </TR>
   <TR>
     <TD ALIGN="left" WIDTH="150">We have always followed the most<BR ALIGN='left'/>reliable evidence of value from both<BR ALIGN='left'/>sides of the transaction.</TD>
@@ -61,7 +218,7 @@ digraph {
     <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
   </TR>
   <TR>
-    <TD ALIGN="left" WIDTH="150">In Pittsburgh, the court followed the<BR ALIGN='left'/>evidence and did not choose the property<BR ALIGN='left'/>price as the most reliable indicator.</TD>
+    <TD ALIGN="left" WIDTH="150">In Pittsburgh, the court followed the<BR ALIGN='left'/>evidence and chose the property price as<BR ALIGN='left'/>the most reliable indicator.</TD>
   </TR>
 </TABLE>
 >]
@@ -88,7 +245,7 @@ digraph {
 	Mi13 [label=<
 <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
   <TR>
-    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise (Conclusion)</B></TD>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Minor Premise</B></TD>
   </TR>
   <TR>
     <TD ALIGN="left" WIDTH="150">Pittsburgh and Ferroxcube differ<BR ALIGN='left'/>regarding which side of the transaction<BR ALIGN='left'/>value is deemed more reliable.</TD>
@@ -187,4 +344,30 @@ digraph {
 	ruling_not_bind -> final [constraint=true]
 	dist_concl -> final [constraint=true]
 	ruling_not_bind -> dist_concl [arrowhead=none constraint=false style=dashed]
+	dMa6 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Major Premise (rule)</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Implicit: When a precedent is not<BR ALIGN='left'/>binding, a more general rule must be<BR ALIGN='left'/>applied.</TD>
+  </TR>
+</TABLE>
+>]
+	dMa6 -> dMi1 [constraint=true]
+	final -> dMi1 [constraint=true]
+	dMa6 -> final [arrowhead=none constraint=false style=dashed]
+	dMa7 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR>
+    <TD BGCOLOR="lightblue" WIDTH="150"><B>Conclusion</B></TD>
+  </TR>
+  <TR>
+    <TD ALIGN="left" WIDTH="150">Since we have rejected the use of this<BR ALIGN='left'/>method of valuation in the instant case,<BR ALIGN='left'/>we find that petitioner has failed to<BR ALIGN='left'/>meet its burden of proof and sustain<BR ALIGN='left'/>respondent’s determination.</TD>
+  </TR>
+</TABLE>
+>]
+	dMa2 -> dMa7 [constraint=true]
+	dMi32 -> dMa7 [constraint=true]
+	dMa2 -> dMi32 [arrowhead=none constraint=false style=dashed]
 }
