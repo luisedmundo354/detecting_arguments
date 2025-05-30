@@ -3,9 +3,14 @@ import textwrap
 
 dot = graphviz.Digraph(comment='Extended Syllogism Tree')
 dot.attr(size="8.5,11!", page="8.5,11")
+dot.attr(rankdir="BT")
 dot.attr('node', shape='none')
 
 def html_label(title, content, width=150, wrap_width=40):
+    if title.startswith("Major Premise"):
+        title = title.replace("Major Premise", "Rule", 1)
+    elif title.startswith("Minor Premise"):
+        title = title.replace("Minor Premise", "Analysis", 1)
     wrapped_content = textwrap.fill(content, wrap_width)
     wrapped_content_html = wrapped_content.replace("\n", "<BR ALIGN='left'/>")
     return f'''<

@@ -1,0 +1,69 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=BT
+	node [shape=none]
+	"CWn-yaooUg" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">"(1) The term `reorganization' means (A)<BR ALIGN='left'/>a merger or consolidation (including the<BR ALIGN='left'/>acquisition by one corporation of at<BR ALIGN='left'/>least a majority of the voting stock and<BR ALIGN='left'/>at least a majority of the total number<BR ALIGN='left'/>of shares of all other 420*420 classes<BR ALIGN='left'/>of stock of another corporation, or<BR ALIGN='left'/>substantially all the properties of<BR ALIGN='left'/>another corporation) . . ."</TD></TR>
+</TABLE>
+>]
+	"7gmJYNCIi6" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We have held that where the<BR ALIGN='left'/>consideration consists of cash and short<BR ALIGN='left'/>term notes the transfer does not amount<BR ALIGN='left'/>to a reorganization within the true<BR ALIGN='left'/>meaning of the statute, but is a sale<BR ALIGN='left'/>upon which gain or loss must be reckoned</TD></TR>
+</TABLE>
+>]
+	O5ORLe9l6V [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We have said that the statute was not<BR ALIGN='left'/>satisfied unless the transferor retained<BR ALIGN='left'/>a substantial stake in the enterprise<BR ALIGN='left'/>and such a stake was thought to be<BR ALIGN='left'/>retained where a large proportion of the<BR ALIGN='left'/>consideration was in common stock of the<BR ALIGN='left'/>transferee,[4] or where the transferor<BR ALIGN='left'/>took cash and the entire issue of<BR ALIGN='left'/>preferred stock of the transferee<BR ALIGN='left'/>corporation.[</TD></TR>
+</TABLE>
+>]
+	"-Mxuu0AbiB" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">where the consideration is represented<BR ALIGN='left'/>by a substantial proportion of stock,<BR ALIGN='left'/>and the balance in bonds, the total<BR ALIGN='left'/>consideration received is exempt from<BR ALIGN='left'/>tax under § 112 (b) (4) and 112 (g).[6</TD></TR>
+</TABLE>
+>]
+	"sKhNA73Lf-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We conclude that the Circuit Court of<BR ALIGN='left'/>Appeals was in error in holding that, as<BR ALIGN='left'/>respects any of the property transferred<BR ALIGN='left'/>to the Water Company, the transaction<BR ALIGN='left'/>was other than a sale or exchange upon<BR ALIGN='left'/>which gain or loss must be reckoned in<BR ALIGN='left'/>accordance with the provisions of the<BR ALIGN='left'/>revenue act dealing with the recognition<BR ALIGN='left'/>of gain or loss upon a sale or exchange.</TD></TR>
+</TABLE>
+>]
+	EzyAzDa7Iv [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We are of opinion that the term of the<BR ALIGN='left'/>obligations is not material.</TD></TR>
+</TABLE>
+>]
+	uClZhAbFuq [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the courts have generally held that<BR ALIGN='left'/>receipt of long term bonds as<BR ALIGN='left'/>distinguished from short term notes<BR ALIGN='left'/>constitutes the retention of an interest<BR ALIGN='left'/>in the purchasing corporation. There has<BR ALIGN='left'/>naturally been some difficulty in<BR ALIGN='left'/>classifying the securities involved</TD></TR>
+</TABLE>
+>]
+	xyc7jrtgBi [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Where the consideration is wholly in the<BR ALIGN='left'/>421*421 transferee's bonds, or part cash<BR ALIGN='left'/>and part such bonds, we think it cannot<BR ALIGN='left'/>be said that the transferor retains any<BR ALIGN='left'/>proprietary interest in the enterprise.</TD></TR>
+</TABLE>
+>]
+	SBtnGQhaX0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">On the contrary, he becomes a creditor<BR ALIGN='left'/>of the transferee; and we do not think<BR ALIGN='left'/>that the fact referred to by the Circuit<BR ALIGN='left'/>Court of Appeals, that the bonds were<BR ALIGN='left'/>secured solely by the assets transferred<BR ALIGN='left'/>and that, upon default, the bondholder<BR ALIGN='left'/>would retake only the property sold,<BR ALIGN='left'/>changes his status from that of a<BR ALIGN='left'/>creditor to one having a proprietary<BR ALIGN='left'/>stake, within the purview of the<BR ALIGN='left'/>statute.</TD></TR>
+</TABLE>
+>]
+	"CWn-yaooUg" -> "7gmJYNCIi6"
+	"7gmJYNCIi6" -> O5ORLe9l6V
+	"7gmJYNCIi6" -> "-Mxuu0AbiB"
+	EzyAzDa7Iv -> uClZhAbFuq
+	uClZhAbFuq -> xyc7jrtgBi
+	uClZhAbFuq -> SBtnGQhaX0
+	xyc7jrtgBi -> SBtnGQhaX0
+	"sKhNA73Lf-" -> EzyAzDa7Iv [label="Analysis->Conclusion"]
+	"CWn-yaooUg" -> "sKhNA73Lf-" [label="Rule->Conclusion"]
+}

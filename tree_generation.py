@@ -4,6 +4,7 @@ import textwrap
 dot = graphviz.Digraph(comment='Syllogism')
 dot.attr(size="8.5,11!", page="8.5,11")
 dot.attr('node', shape='none')
+dot.attr(rankdir='BT')
 
 def html_label(title, content, width=150, wrap_width=40):
 
@@ -32,28 +33,28 @@ long_text_C1 = "On the basis of the record before us, we find that Pittsburgh Te
 
 
 node_Ma_label = html_label(
-    "Major Premise(grounded on binding authority)", 
+    "Rule(grounded on binding authority)", 
     long_text_Ma
     )
 node_Mi_label = html_label(
-    "Minor Premise(grounded on evidence)", 
+    "analysis(grounded on evidence)", 
     long_text_Mi    
     )
 node_C_label = html_label(
-    "Conclusion/Major Premise", 
+    "Conclusion/Rule", 
     long_text_C
     )
 
 node_Mi11_label = html_label(
-    "Minor Premise(grounded on evidence)", 
+    "analysis(grounded on evidence)", 
     long_text_Mi11
     )
 node_Mi12_label = html_label(
-    "Minor Premise(grounded by evidence)", 
+    "analysis(grounded by evidence)", 
     long_text_Mi12    
     )
 node_C1_label = html_label(
-    "Conclusion/Minor Premise", 
+    "Conclusion/analysis", 
     long_text_C1
     )
 
