@@ -1,15 +1,47 @@
 {
-  "id": 18,
+  "id": 19,
   "result": [
     {
-      "id": "QXznYBK630",
+      "id": "40PzFuM1tW",
       "type": "labels",
       "value": {
-        "end": 7198,
-        "text": "we are of opinion that the transaction did not amount to a reorganization and that, therefore, the petitioner cannot complain, as the judgment must be affirmed on the ground that no tax-free reorganization was effected within the meaning of the statute.",
-        "start": 6945,
+        "end": 7585,
+        "text": "Section 112 (i) provides, so far as material:\\n\\n\"(1) The term `reorganization' means (A) a merger or consolidation (including the acquisition by one corporation of at least a majority of the voting stock and at least a majority of the total number of shares of all other 420*420 classes of stock of another corporation, or substantially all the properties of another corporation) . . .\"\\n",
+        "start": 7200,
         "labels": [
-          "Conclusion"
+          "Rule"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "parentID": "oaxVdHnyaS",
+      "from_name": "label"
+    },
+    {
+      "id": "kxoYlA53o4",
+      "type": "labels",
+      "value": {
+        "end": 8584,
+        "text": "We have held that where the consideration consists of cash and short term notes the transfer does not amount to a reorganization within the true meaning of the statute, but is a sale upon which gain or loss must be reckoned.[3] We have said that the statute was not satisfied unless the transferor retained a substantial stake in the enterprise and such a stake was thought to be retained where a large proportion of the consideration was in common stock of the transferee,[4] or where the transferor took cash and the entire issue of preferred stock of the transferee corporation.[5] And, where the consideration is represented by a substantial proportion of stock, and the balance in bonds, the total consideration received is exempt from tax under \u00a7 112 (b) (4) and 112 (g).[6]",
+        "start": 7804,
+        "labels": [
+          "Analysis"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "parentID": "oaxVdHnyaS",
+      "from_name": "label"
+    },
+    {
+      "id": "J55VXoA46k",
+      "type": "labels",
+      "value": {
+        "end": 9185,
+        "text": "Where the consideration is wholly in the 421*421 transferee's bonds, or part cash and part such bonds, we think it cannot be said that the transferor retains any proprietary interest in the enterprise.",
+        "start": 8984,
+        "labels": [
+          "Analysis"
         ]
       },
       "origin": "manual",
@@ -17,7 +49,54 @@
       "from_name": "label"
     },
     {
-      "id": "5FXEzvfK2f",
+      "id": "qQRG4IOLeg",
+      "type": "labels",
+      "value": {
+        "end": 9572,
+        "text": "he becomes a creditor of the transferee; and we do not think that the fact referred to by the Circuit Court of Appeals, that the bonds were secured solely by the assets transferred and that, upon default, the bondholder would retake only the property sold, changes his status from that of a creditor to one having a proprietary stake, within the purview of the statute.",
+        "start": 9203,
+        "labels": [
+          "Analysis"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+    },
+    {
+      "id": "8zeHwmCjSH",
+      "type": "labels",
+      "value": {
+        "end": 8983,
+        "text": "We are of opinion that the term of the obligations is not material.",
+        "start": 8916,
+        "labels": [
+          "Analysis"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "parentID": "dRr8C_8KQJ",
+      "from_name": "label"
+    },
+    {
+      "id": "7FNLPyUJiO",
+      "type": "labels",
+      "value": {
+        "end": 8813,
+        "text": "In applying our decision in the Pinellas case, supra, the courts have generally held that receipt of long term bonds as distinguished from short term notes constitutes the retention of an interest in the purchasing corporation.",
+        "start": 8586,
+        "labels": [
+          "Rule"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "parentID": "dRr8C_8KQJ",
+      "from_name": "label"
+    },
+    {
+      "id": "dRr8C_8KQJ",
       "type": "labels",
       "value": {
         "end": 9929,
@@ -29,141 +108,175 @@
       },
       "origin": "manual",
       "to_name": "text",
-      "parentID": "QXznYBK630",
+      "parentID": "oaxVdHnyaS",
       "from_name": "label"
     },
     {
-      "id": "FRmcz4Ab-8",
+      "id": "oaxVdHnyaS",
       "type": "labels",
       "value": {
-        "end": 7585,
-        "text": "Section 112 (i) provides, so far as material:\\n\\n\"(1) The term `reorganization' means (A) a merger or consolidation (including the acquisition by one corporation of at least a majority of the voting stock and at least a majority of the total number of shares of all other 420*420 classes of stock of another corporation, or substantially all the properties of another corporation) . . .\"",
-        "start": 7200,
-        "labels": [
-          "Rule"
-        ]
-      },
-      "origin": "manual",
-      "to_name": "text",
-      "parentID": "Vtb2vDnkUY",
-      "from_name": "label"
-    },
-    {
-      "id": "wxEOLoVLFs",
-      "type": "labels",
-      "value": {
-        "end": 8388,
-        "text": "the section is not to be read literally, as denominating the transfer of all the assets of one company for what amounts to a cash consideration given by the other a reorganization. We have held that where the consideration consists of cash and short term notes the transfer does not amount to a reorganization within the true meaning of the statute, but is a sale upon which gain or loss must be reckoned.[3] We have said that the statute was not satisfied unless the transferor retained a substantial stake in the enterprise and such a stake was thought to be retained where a large proportion of the consideration was in common stock of the transferee,[4] or where the transferor took cash and the entire issue of preferred stock of the transferee corporation.[5]",
-        "start": 7623,
+        "end": 7803,
+        "text": "As the court below properly stated, the section is not to be read literally, as denominating the transfer of all the assets of one company for what amounts to a cash consideration given by the other a reorganization.",
+        "start": 7587,
         "labels": [
           "Analysis"
         ]
       },
       "origin": "manual",
       "to_name": "text",
-      "parentID": "FRmcz4Ab-8",
       "from_name": "label"
     },
     {
-      "id": "Vtb2vDnkUY",
+      "id": "ScPQ1HSjD1",
       "type": "labels",
       "value": {
-        "end": 8584,
-        "text": "And, where the consideration is represented by a substantial proportion of stock, and the balance in bonds, the total consideration received is exempt from tax under \u00a7 112 (b) (4) and 112 (g).[6]",
-        "start": 8389,
+        "end": 11042,
+        "text": "The judgment of the Circuit Court of Appeals is affirmed and the cause is remanded to the District Court with directions to proceed in accordance with the opinion and mandate of the Circuit Court of Appeals.",
+        "start": 10835,
         "labels": [
-          "Rule"
+          "Conclusion"
         ]
       },
       "origin": "manual",
       "to_name": "text",
+      "parentID": "rIEKOIkN1-",
       "from_name": "label"
     },
     {
-      "id": "EaXNOigklS",
+      "id": "BJaxHRCJth",
       "type": "labels",
       "value": {
-        "end": 8813,
-        "text": "the courts have generally held that receipt of long term bonds as distinguished from short term notes constitutes the retention of an interest in the purchasing corporation.",
-        "start": 8640,
-        "labels": [
-          "Rule"
-        ]
-      },
-      "origin": "manual",
-      "to_name": "text",
-      "from_name": "label"
-    },
-    {
-      "id": "tpxmT_Khir",
-      "type": "labels",
-      "value": {
-        "end": 9572,
-        "text": "we do not think that the fact referred to by the Circuit Court of Appeals, that the bonds were secured solely by the assets transferred and that, upon default, the bondholder would retake only the property sold, changes his status from that of a creditor to one having a proprietary stake, within the purview of the statute.",
-        "start": 9248,
+        "end": 10501,
+        "text": "we cannot afford him relief from that portion of the judgment which was adverse to him.",
+        "start": 10414,
         "labels": [
           "Analysis"
         ]
       },
       "origin": "manual",
       "to_name": "text",
-      "parentID": "XoQQmDUwzw",
+      "parentID": "GjvJCY2-_j",
       "from_name": "label"
     },
     {
-      "id": "XoQQmDUwzw",
+      "id": "FmdIJEuzoe",
       "type": "labels",
       "value": {
-        "end": 9242,
-        "text": "Where the consideration is wholly in the 421*421 transferee's bonds, or part cash and part such bonds, we think it cannot be said that the transferor retains any proprietary interest in the enterprise. On the contrary, he becomes a creditor of the transferee",
-        "start": 8984,
+        "end": 10413,
+        "text": "the respondent has not drawn into question so much of the judgment as exempts from taxation gain to the irrigation Company arising from transfer of its assets owned by it on and prior to November 4, 1931, and the part of the liquidating dividend attributable thereto,",
+        "start": 10146,
+        "labels": [
+          "Analysis"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+    },
+    {
+      "id": "GjvJCY2-_j",
+      "type": "labels",
+      "value": {
+        "end": 10139,
+        "text": "Had the respondent sought and been granted certiorari the petitioner's tax liability would, in the view we have expressed, be substantially increased over the amount found due by the Circuit Court of Appeals.",
+        "start": 9931,
         "labels": [
           "Rule"
         ]
       },
       "origin": "manual",
       "to_name": "text",
-      "parentID": "EaXNOigklS",
+      "from_name": "label"
+    },
+    {
+      "id": "rIEKOIkN1-",
+      "type": "labels",
+      "value": {
+        "end": 10833,
+        "text": "A respondent or an appellee may urge any matter appearing in the record in support of a judgment,[8] but he may not attack it even on grounds asserted in the court below, in an effort to have this Court reverse it, when 422*422 he himself has not sought review of the whole judgment, or of that portion which is adverse to him.[9]",
+        "start": 10503,
+        "labels": [
+          "Rule"
+        ]
+      },
+      "origin": "manual",
+      "to_name": "text",
       "from_name": "label"
     },
     {
       "type": "relation",
-      "to_id": "wxEOLoVLFs",
-      "from_id": "FRmcz4Ab-8",
+      "to_id": "8zeHwmCjSH",
+      "from_id": "J55VXoA46k",
+      "direction": "left"
+    },
+    {
+      "type": "relation",
+      "to_id": "8zeHwmCjSH",
+      "from_id": "qQRG4IOLeg",
+      "direction": "left"
+    },
+    {
+      "type": "relation",
+      "to_id": "dRr8C_8KQJ",
+      "from_id": "oaxVdHnyaS",
+      "direction": "left"
+    },
+    {
+      "type": "relation",
+      "to_id": "BJaxHRCJth",
+      "from_id": "FmdIJEuzoe",
+      "direction": "left"
+    },
+    {
+      "type": "relation",
+      "to_id": "BJaxHRCJth",
+      "from_id": "GjvJCY2-_j",
+      "direction": "left"
+    },
+    {
+      "type": "relation",
+      "to_id": "ScPQ1HSjD1",
+      "from_id": "BJaxHRCJth",
+      "direction": "left"
+    },
+    {
+      "type": "relation",
+      "to_id": "ScPQ1HSjD1",
+      "from_id": "rIEKOIkN1-",
+      "direction": "left"
+    },
+    {
+      "type": "relation",
+      "to_id": "40PzFuM1tW",
+      "from_id": "oaxVdHnyaS",
       "direction": "right"
     },
     {
       "type": "relation",
-      "to_id": "FRmcz4Ab-8",
-      "from_id": "Vtb2vDnkUY",
+      "to_id": "kxoYlA53o4",
+      "from_id": "oaxVdHnyaS",
       "direction": "right"
     },
     {
       "type": "relation",
-      "to_id": "tpxmT_Khir",
-      "from_id": "XoQQmDUwzw",
+      "to_id": "7FNLPyUJiO",
+      "from_id": "dRr8C_8KQJ",
       "direction": "right"
     },
     {
       "type": "relation",
-      "to_id": "XoQQmDUwzw",
-      "from_id": "EaXNOigklS",
-      "direction": "right"
-    },
-    {
-      "type": "relation",
-      "to_id": "5FXEzvfK2f",
-      "from_id": "QXznYBK630",
+      "to_id": "8zeHwmCjSH",
+      "from_id": "dRr8C_8KQJ",
       "direction": "right"
     }
   ],
-  "created_username": "Zaid Al-Huneidi zaidal-huneidi@umaryland.edu, 5",
-  "created_ago": "13\u00a0hours, 1\u00a0minute",
+  "created_username": "Luis Brena lbrenap1@jhu.edu, 1",
+  "created_ago": "1\u00a0week, 2\u00a0days",
   "completed_by": {
-    "id": 5,
-    "first_name": "Zaid",
-    "last_name": "Al-Huneidi",
-    "email": "zaidal-huneidi@umaryland.edu"
+    "id": 1,
+    "first_name": "Luis",
+    "last_name": "Brena",
+    "email": "lbrenap1@jhu.edu"
   },
   "task": {
     "id": 156,
@@ -177,11 +290,11 @@
     },
     "meta": {},
     "created_at": "2025-05-28T16:45:48.749723Z",
-    "updated_at": "2025-05-30T00:49:29.592306Z",
+    "updated_at": "2025-05-31T16:52:20.042201Z",
     "is_labeled": true,
     "overlap": 1,
     "inner_id": 20,
-    "total_annotations": 2,
+    "total_annotations": 5,
     "cancelled_annotations": 0,
     "total_predictions": 0,
     "comment_count": 0,
@@ -194,15 +307,15 @@
   },
   "was_cancelled": false,
   "ground_truth": false,
-  "created_at": "2025-05-30T00:03:32.010588Z",
-  "updated_at": "2025-05-30T00:03:32.010603Z",
-  "draft_created_at": "2025-05-29T23:45:07.268800Z",
-  "lead_time": 1193.79,
+  "created_at": "2025-05-30T16:28:21.436222Z",
+  "updated_at": "2025-05-30T16:51:09.141736Z",
+  "draft_created_at": "2025-05-30T16:02:54.740592Z",
+  "lead_time": 6355.8589999999995,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": 5,
+  "updated_by": 1,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

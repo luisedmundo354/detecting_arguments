@@ -1,51 +1,29 @@
 {
-  "id": 12,
+  "id": 14,
   "result": [
     {
-      "id": "tt02lhSjBL",
+      "id": "DjJUcNTW47",
       "type": "labels",
       "value": {
-        "end": 1017,
-        "text": "John B. Lewis died in 1930, and John D. Lewis, Inc., a Rhode Island corporation (hereinafter called the old company), was organized in 1931 to take over the business which the decedent had operated.",
-        "start": 818,
+        "end": 560,
+        "text": "second time on a petition to review a decision of 647*647 the Tax Court, reported in 1948, 10 T.C. 1080. Petitioners have sought, by invoking the doctrine of Gregory v. Helvering, 1935, 293 U.S. 465, 55 S.Ct. 266, 79 L.Ed. 596, 97 A.L.R. 1355, to avoid the tax consequences of a transaction falling within the literal language of the statutory definition of a \"reorganization\". I.R.C. \u00a7 112(g) (1) (",
+        "start": 161,
         "labels": [
-          "Conclusion"
+          "Rule"
         ]
       },
       "origin": "manual",
       "to_name": "text",
       "from_name": "label"
-    },
-    {
-      "id": "tyRss1-e03",
-      "type": "labels",
-      "value": {
-        "end": 1368,
-        "text": "The old company was engaged in three different lines of business in 1941: the manufacture of synthetic resins, the manufacture of chemicals for the textile industry, and the distribution of chemicals",
-        "start": 1169,
-        "labels": [
-          "Analysis"
-        ]
-      },
-      "origin": "manual",
-      "to_name": "text",
-      "parentID": "tt02lhSjBL",
-      "from_name": "label"
-    },
-    {
-      "type": "relation",
-      "to_id": "tyRss1-e03",
-      "from_id": "tt02lhSjBL",
-      "direction": "right"
     }
   ],
-  "created_username": " wilsjur@gmail.com, 2",
-  "created_ago": "1\u00a0day, 16\u00a0hours",
+  "created_username": " ablair-stanek@law.umaryland.edu, 3",
+  "created_ago": "1\u00a0week, 3\u00a0days",
   "completed_by": {
-    "id": 2,
+    "id": 3,
     "first_name": "",
     "last_name": "",
-    "email": "wilsjur@gmail.com"
+    "email": "ablair-stanek@law.umaryland.edu"
   },
   "task": {
     "id": 158,
@@ -59,11 +37,11 @@
     },
     "meta": {},
     "created_at": "2025-05-28T16:45:48.860698Z",
-    "updated_at": "2025-05-28T20:42:57.875798Z",
+    "updated_at": "2025-06-03T00:15:04.175852Z",
     "is_labeled": true,
     "overlap": 1,
     "inner_id": 22,
-    "total_annotations": 4,
+    "total_annotations": 5,
     "cancelled_annotations": 0,
     "total_predictions": 0,
     "comment_count": 0,
@@ -76,15 +54,15 @@
   },
   "was_cancelled": false,
   "ground_truth": false,
-  "created_at": "2025-05-28T20:40:22.201627Z",
-  "updated_at": "2025-05-28T20:40:22.201649Z",
-  "draft_created_at": "2025-05-28T20:38:49.167554Z",
-  "lead_time": 109.44,
+  "created_at": "2025-05-28T20:41:37.558181Z",
+  "updated_at": "2025-05-28T20:41:37.558198Z",
+  "draft_created_at": null,
+  "lead_time": 7.701,
   "import_id": null,
   "last_action": null,
   "bulk_created": false,
   "project": 1,
-  "updated_by": 2,
+  "updated_by": 3,
   "parent_prediction": null,
   "parent_annotation": null,
   "last_created_by": null

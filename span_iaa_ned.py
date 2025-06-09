@@ -17,22 +17,23 @@ f1_by_cat = iaa.compute_iaa(
 
 print(f1_by_cat)        # {'weakness': 0.52, 'strength': 0.74, 'neutral': 0.69}
 """
-
 from __future__ import annotations
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Any
 import itertools
 import numpy as np
+from jedi.inference.gradual.typing import Callable
 from scipy.optimize import linear_sum_assignment
 import Levenshtein
+from abydos.distance import YujianBo, HigueraMico
+from functools import lru_cache
 
 # ---------------------------------------------------------------------------
-# 1.  Normalised Edit Distance (Marzal & Vidal)
+# 1.  Three calculations: Levenshtein distance, Yujian-Bo and Higuera-Mico
 # ---------------------------------------------------------------------------
 
-def _ned(s: str, t: str) -> float:
+def _marzal_ned(s: str, t: str) -> float:
     """
-    Marzal & Vidal NED with costs 1/1/2 (ins/del/sub); O(|edit path|).
-
+    Todo: This implementation is not ready. It doesn't follow min(cost(p))
     Parameters
     ----------
     s, t : str
@@ -54,25 +55,39 @@ def _ned(s: str, t: str) -> float:
     dele = sum(op[0] == 'delete'  for op in ops)
     subs = sum(op[0] == 'replace' for op in ops)
 
-    weight = ins + dele + 2 * subs       # Marzal & Vidal weighted cost
-    length = len(ops)                    # path length |p|
+    weight = ins + dele + subs
+    length = len(ops)                  #  path length |p|
 
     return weight / length
 
+_YB  = YujianBo()
+_HM  = HigueraMico()
 
-# Cache the NED results because many spans repeat across pairwise comparisons
-from functools import lru_cache
+def _yujianbo_nld(s: str, t: str) -> float:
+    return round(_YB.dist(s, t), 6)
+
+def _higuera_mico_ned(s: str, t: str) -> float:
+    return round(_HM.dist(s, t), 6)
+
 @lru_cache(maxsize=100_000)
-def _ned_cached(a: str, b: str) -> float:
-    return _ned(a, b)
-
+def _ned_cached(a: str, b: str, metric: Callable[[str, str], float]) -> float:
+    return metric(a, b)
 
 # ---------------------------------------------------------------------------
 # 2.  Maximum-weight bipartite matching for one annotator pair, one category
 # ---------------------------------------------------------------------------
 
+def _similarity_matrix(spans_a: List[str], spans_b: List[str], metric: Callable[[str, str], float]) -> np.ndarray:
+    """Return S[i,j] =1 - ned"""
+    n, m = len(spans_a), len(spans_b)
+    s_matrix = np.empty((n, m), dtype=float)
+    for i, sa in enumerate(spans_a):
+        for j, sb in enumerate(spans_b):
+            s_matrix[i, j] = 1.0 - _ned_cached(sa, sb, metric)
+    return s_matrix
+
 def _match_and_f1(spans_a: List[str],
-                  spans_b: List[str]) -> Tuple[float, float, float]:
+                  spans_b: List[str]) -> Dict[str, Tuple[float, float, float]]:
     """
     Align two span lists, then compute precision, recall, F1 (micro).
 
@@ -80,28 +95,35 @@ def _match_and_f1(spans_a: List[str],
     -------
     prec, rec, f1 : float
     """
+
+    metrics: Dict[str, Callable[[List[str], List[str]], float]] = {
+        "marzal": _marzal_ned,
+        "yujianbo": _yujianbo_nld,
+       # "higuera_mico": _higuera_mico_ned,
+    }
+
     if not spans_a and not spans_b:
-        return 1.0, 1.0, 1.0             # trivially perfect agreement
+        return {name: (1.0, 1.0, 1.0) for name in metrics}           # trivially perfect agreement
     if not spans_a or not spans_b:
-        return 0.0, 0.0, 0.0
+        return {name: (0.0, 0.0, 0.0) for name in metrics}
 
-    # Build similarity matrix S[i,j] = 1 − NED
     n, m = len(spans_a), len(spans_b)
-    S = np.empty((n, m), dtype=float)
-    for i, sa in enumerate(spans_a):
-        for j, sb in enumerate(spans_b):
-            S[i, j] = 1.0 - _ned_cached(sa, sb)
+    scores: Dict[str, Tuple[float, float, float]] = {}
 
-    # Maximum-weight matching  (Hungarian wants *cost*, so negate)
-    row_idx, col_idx = linear_sum_assignment(-S)        #  :contentReference[oaicite:5]{index=5}
-    tp_soft = S[row_idx, col_idx].sum()                 # soft TP
+    for name, metric in metrics.items():
+        s_matrix = _similarity_matrix(spans_a, spans_b, metric)
 
-    prec = tp_soft / n
-    rec  = tp_soft / m
-    f1   = 0.0 if tp_soft == 0 else (2 * prec * rec) / (prec + rec)
+        # Maximum-weight matching  (Hungarian wants *cost*, so negate)
+        row_idx, col_idx = linear_sum_assignment(-s_matrix)
+        tp_soft = s_matrix[row_idx, col_idx].sum()     # soft TP
 
-    return prec, rec, f1
+        precision = tp_soft / n
+        rec  = tp_soft / m
+        f1   = 0.0 if tp_soft == 0 else (2 * precision * rec) / (precision + rec)
 
+        scores[name] = (precision, rec, f1)
+
+    return scores
 
 # ---------------------------------------------------------------------------
 # 3.  Aggregate over annotators and categories
@@ -109,37 +131,36 @@ def _match_and_f1(spans_a: List[str],
 
 def compute_iaa(annotations: Dict[str, Dict[str, List[str]]],
                 categories: List[str]
-               ) -> Dict[str, float]:
+               ) -> dict[str, dict[str, float]]:
     """
-    Compute micro-average pairwise F1 for each category.
-
-    Parameters
-    ----------
+    Compute micro-average pairwise F1 for each category
     annotations
         {annotator_id: {category: [span_str, ...], ...}, ...}
-    categories
-        List of categories to evaluate (must be keys in each annotator dict).
-
-    Returns
-    -------
-    {category: mean_pairwise_F1}
+    categories: List[str]
     """
     # All unordered annotator pairs
     annotators = list(annotations)
     pairs = list(itertools.combinations(annotators, 2))
 
-    f1_by_cat: Dict[str, List[float]] = {c: [] for c in categories}
+    metric_names = ('marzal', 'yujianbo', 'higuera_mico')
+    f1_by_cat: Dict[str, Dict[str, List[float]]] = {c: {m: [] for m in metric_names} for c in categories}
 
     for a1, a2 in pairs:
         ann1, ann2 = annotations[a1], annotations[a2]
         for cat in categories:
-            _, _, f1 = _match_and_f1(ann1.get(cat, []),
-                                     ann2.get(cat, []))
-            f1_by_cat[cat].append(f1)
+            scores = _match_and_f1(ann1.get(cat, []), ann2.get(cat, []))
+            for metric, (_p, _r, f1) in scores.items():
+                f1_by_cat[cat][metric].append(f1)
 
-    # Mean over pairs  (micro-average across annotator pairs)
-    return {cat: (sum(vals) / len(vals) if vals else 0.0)
-            for cat, vals in f1_by_cat.items()}
+     # Mean over annotator pairs
+    mean_by_cat: Dict[str, Dict[str, float]] = {}
+    for cat, metric_dict in f1_by_cat.items():
+        mean_by_cat[cat] = {
+            metric: (sum(vals) / len(vals) if vals else 0.0)
+            for metric, vals in metric_dict.items()
+        }
+
+    return mean_by_cat
 
 
 # ---------------------------------------------------------------------------

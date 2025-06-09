@@ -18,7 +18,7 @@
     }
   ],
   "created_username": "Luis Brena lbrenap1@jhu.edu, 1",
-  "created_ago": "1\u00a0day, 16\u00a0hours",
+  "created_ago": "1\u00a0week, 3\u00a0days",
   "completed_by": {
     "id": 1,
     "first_name": "Luis",
@@ -37,11 +37,11 @@
     },
     "meta": {},
     "created_at": "2025-05-28T16:45:48.860698Z",
-    "updated_at": "2025-05-28T20:42:57.875798Z",
+    "updated_at": "2025-06-03T00:15:04.175852Z",
     "is_labeled": true,
     "overlap": 1,
     "inner_id": 22,
-    "total_annotations": 4,
+    "total_annotations": 5,
     "cancelled_annotations": 0,
     "total_predictions": 0,
     "comment_count": 0,
