@@ -69,7 +69,7 @@ def main():
     # Compute IAA (micro-average pairwise F1 per category)
     f1_by_cat = iaa_ned.compute_iaa(all_annotations, categories)
     # Compute Krippendorff's alpha for each category
-    alpha_by_cat = compute_krippendorff_alpha(all_annotations, categories)
+    # alpha_by_cat = compute_krippendorff_alpha(all_annotations, categories)
 
     # Output results
     print('Categories:', categories)
@@ -78,10 +78,10 @@ def main():
         score = f1_by_cat.get(cat, 0.0)
         print(cat, ': ', score)
     # Output Krippendorff's alpha
-    print("Krippendorff's alpha by category:")
-    for cat in categories:
-        alpha = alpha_by_cat.get(cat, float('nan'))
-        print(cat, ': ', f'{alpha:.3f}')
+    # print("Krippendorff's alpha by category:")
+    # for cat in categories:
+    #    alpha = alpha_by_cat.get(cat, float('nan'))
+    #    print(cat, ': ', f'{alpha:.3f}')
 
 if __name__ == '__main__':
     main()
