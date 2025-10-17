@@ -1,0 +1,92 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	"EHyUaD-nEC" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This is an appeal from a decision of the<BR ALIGN='left'/>Tax Court of the United States 290*290<BR ALIGN='left'/>which held that Pebble Springs<BR ALIGN='left'/>Distilling Co., the petitioner herein,<BR ALIGN='left'/>did not sustain a loss which the<BR ALIGN='left'/>petitioner claimed resulted from the<BR ALIGN='left'/>sale during 1948 of certain of its<BR ALIGN='left'/>noninventory assets to another<BR ALIGN='left'/>corporation, the Old Peoria Building<BR ALIGN='left'/>Corporation, hereafter referred to as<BR ALIGN='left'/>Old Peoria. All of the stock of the<BR ALIGN='left'/>latter corporation was owned by the<BR ALIGN='left'/>petitioner&#x27;s principal stockholders, or<BR ALIGN='left'/>members of their families, who owned<BR ALIGN='left'/>sufficient stock in the petitioner to<BR ALIGN='left'/>exercise control over it. Most of the<BR ALIGN='left'/>facts involved in this case were<BR ALIGN='left'/>stipulated by the parties.</TD></TR>
+</TABLE>
+>]
+	kLlBzZUJh5 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The petitioner was organized in 1945 and<BR ALIGN='left'/>on May 4, 1946, began the business of<BR ALIGN='left'/>distilling whiskey and other alcoholic<BR ALIGN='left'/>beverages. The corporation was<BR ALIGN='left'/>authorized to issue one million shares<BR ALIGN='left'/>of stock having a par value of $1 per<BR ALIGN='left'/>share. One-half of the authorized number<BR ALIGN='left'/>of shares were issued. The ownership of<BR ALIGN='left'/>the issued shares, the family<BR ALIGN='left'/>relationships of the owners, and their<BR ALIGN='left'/>corporate positions in the petitioner<BR ALIGN='left'/>are shown by the following<BR ALIGN='left'/>table.\n\nOffice held in<BR ALIGN='left'/>Number\nPetitioner and of<BR ALIGN='left'/>Shares\nShareholder Relationships Owned\<BR ALIGN='left'/>n---------------------------------------<BR ALIGN='left'/>-----------------------------------\nRob<BR ALIGN='left'/>ert L. Silberstein President<BR ALIGN='left'/>58,534\nHelen E. Silberstein Wife of<BR ALIGN='left'/>Robert 58,633\nWillard Silberstein<BR ALIGN='left'/>Brother of Robert 58,333\nJulian B.<BR ALIGN='left'/>Venezky Secretary and Treasurer<BR ALIGN='left'/>62,322\nMadelynn Venezky Wife of Julian<BR ALIGN='left'/>58,433\nBernard Venezky Brother of<BR ALIGN='left'/>Julian 58,333\nLewis P. Weiner Vice-<BR ALIGN='left'/>President 25,000\nKathryn R. Weiner Wife<BR ALIGN='left'/>of Lewis 100\n_______\nSub-total<BR ALIGN='left'/>379,688\n\nPublic Holdings<BR ALIGN='left'/>—\n\nApproximately 657 separate<BR ALIGN='left'/>shareholders, none of whom\nbore to any<BR ALIGN='left'/>of the above-named shareholders any of<BR ALIGN='left'/>the\nrelationships set forth in Sec.<BR ALIGN='left'/>24(b) (2) of the Internal\nRevenue Code<BR ALIGN='left'/>120,312\n_______\nTotal 500,000\nThe<BR ALIGN='left'/>directors of the petitioner were Robert<BR ALIGN='left'/>L. Silberstein, Lewis P. Weiner, Julian<BR ALIGN='left'/>B. Venezky and E. R. Morse.\n\nAt a<BR ALIGN='left'/>meeting of petitioner&#x27;s stockholders on<BR ALIGN='left'/>January 5, 1948, the president of<BR ALIGN='left'/>petitioner, Robert L. Silberstein,<BR ALIGN='left'/>reported to the stockholders the<BR ALIGN='left'/>precarious condition of the whiskey<BR ALIGN='left'/>market, the drastic decline in whiskey<BR ALIGN='left'/>prices and the inability of the<BR ALIGN='left'/>petitioner to secure sufficient<BR ALIGN='left'/>additional funds to continue in the<BR ALIGN='left'/>business. He then recommended, on behalf<BR ALIGN='left'/>of the directors, that the company<BR ALIGN='left'/>therefore be dissolved. Pursuant to the<BR ALIGN='left'/>recommendation of the directors, the<BR ALIGN='left'/>stockholders authorized the directors to<BR ALIGN='left'/>dissolve the corporation and to<BR ALIGN='left'/>liquidate its assets. The stockholders<BR ALIGN='left'/>further authorized the directors to sell<BR ALIGN='left'/>petitioner&#x27;s plant and equipment at<BR ALIGN='left'/>public auction and to distribute the<BR ALIGN='left'/>proceeds of the sale and the other<BR ALIGN='left'/>assets of the petitioner pro rata among<BR ALIGN='left'/>the stockholders.\n\nAt that time the<BR ALIGN='left'/>petitioner had a large inventory of<BR ALIGN='left'/>whiskey, a part of which was distributed<BR ALIGN='left'/>pro rata among the stockholders and the<BR ALIGN='left'/>inventory value thereof credited to the<BR ALIGN='left'/>inventory accounts on petitioner&#x27;s<BR ALIGN='left'/>books. At the same time the directors<BR ALIGN='left'/>authorized the sale at auction of<BR ALIGN='left'/>petitioner&#x27;s noninventory assets,<BR ALIGN='left'/>consisting of the distillery, 291*291<BR ALIGN='left'/>fixtures, machinery, good will and<BR ALIGN='left'/>labels, the auction to be held at the<BR ALIGN='left'/>petitioner&#x27;s plant on May 20, 1948.<BR ALIGN='left'/>Timely notices of this auction were sent<BR ALIGN='left'/>to all of the petitioner&#x27;s stockholders,<BR ALIGN='left'/>and the auction was also widely<BR ALIGN='left'/>publicized by display advertisements in<BR ALIGN='left'/>various newspapers and by brochures<BR ALIGN='left'/>mailed to all of the petitioner&#x27;s<BR ALIGN='left'/>stockholders and to others who might be<BR ALIGN='left'/>interested.\n\nOne week before the date<BR ALIGN='left'/>of the auction the petitioner&#x27;s<BR ALIGN='left'/>principal stockholders held a meeting<BR ALIGN='left'/>which they say was for the purpose of<BR ALIGN='left'/>considering what action might be taken<BR ALIGN='left'/>to insure a sale of the plant at<BR ALIGN='left'/>auction, and to prevent a sacrifice<BR ALIGN='left'/>sale. They say that as a solution of<BR ALIGN='left'/>this problem they decided to organize<BR ALIGN='left'/>another corporation on behalf of which a<BR ALIGN='left'/>bid of $242,080 would be made for the<BR ALIGN='left'/>noninventory assets of the petitioner in<BR ALIGN='left'/>the event that no one else made a bid of<BR ALIGN='left'/>at least that amount.</TD></TR>
+</TABLE>
+>]
+	dXAS2JYxsL [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Pursuant to that agreement Old Peoria<BR ALIGN='left'/>was organized. Due to an improper choice<BR ALIGN='left'/>of a corporate name the certificate of<BR ALIGN='left'/>incorporation was not issued until June<BR ALIGN='left'/>5, 1948. A pre-organization subscription<BR ALIGN='left'/>agreement stated that the Old Peoria<BR ALIGN='left'/>Building Corporation was to be<BR ALIGN='left'/>&quot;organized for the purpose of purchasing<BR ALIGN='left'/>the real estate and equipment from the<BR ALIGN='left'/>Pebble Springs Distilling Co.&quot; and &quot;for<BR ALIGN='left'/>such other purposes as the incorporators<BR ALIGN='left'/>may determine.&quot; By that agreement all of<BR ALIGN='left'/>the members of the Silberstein, Venezky<BR ALIGN='left'/>and Weiner families, who together owned<BR ALIGN='left'/>the majority of the stock of the<BR ALIGN='left'/>petitioner, and Ellen S. Weiner, the<BR ALIGN='left'/>Weiners&#x27; daughter, agreed to subscribe<BR ALIGN='left'/>and pay for all of the shares of the new<BR ALIGN='left'/>corporation. The stated purposes for<BR ALIGN='left'/>which Old Peoria was formed included the<BR ALIGN='left'/>dealing in real estate and personal<BR ALIGN='left'/>property useful or convenient in the<BR ALIGN='left'/>carrying on of the real estate business<BR ALIGN='left'/>and of the business of a distiller,<BR ALIGN='left'/>rectifier and wholesale dealer in<BR ALIGN='left'/>alcoholic and nonalcoholic beverages and<BR ALIGN='left'/>the manufacture, sale and distribution<BR ALIGN='left'/>of whiskey and other types of alcoholic<BR ALIGN='left'/>beverages.</TD></TR>
+</TABLE>
+>]
+	Xs3KpHe4eV [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Tax Court held that the transactions<BR ALIGN='left'/>above described, culminating in the<BR ALIGN='left'/>transfer of the auctioned property to<BR ALIGN='left'/>Old Peoria, constituted a nontaxable<BR ALIGN='left'/>reorganization under Section 112(b) (3)<BR ALIGN='left'/>and (g) (1) (D) of the Internal Revenue<BR ALIGN='left'/>Code of 1939, 26 U.S.C.A. § 112(b) (3)<BR ALIGN='left'/>and (g) (1) (D) (1945), and that<BR ALIGN='left'/>therefore no loss could be claimed on<BR ALIGN='left'/>the transfer.</TD></TR>
+</TABLE>
+>]
+	"Ikbb3_P-zq" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 112(g) defines &quot;reorganization&quot;<BR ALIGN='left'/>as &quot;a transfer by a corporation of all<BR ALIGN='left'/>or a part of its assets to another<BR ALIGN='left'/>292*292 corporation if immediately after<BR ALIGN='left'/>the transfer the transferor or its<BR ALIGN='left'/>shareholders or both are in control of<BR ALIGN='left'/>the corporation to which the assets are<BR ALIGN='left'/>transferred.&quot; Section 112(h) defines<BR ALIGN='left'/>&quot;control&quot; as used in this section as<BR ALIGN='left'/>meaning &quot;the ownership of stock<BR ALIGN='left'/>possessing at least 80 per centum of the<BR ALIGN='left'/>total combined voting power of all<BR ALIGN='left'/>classes of stock entitled to vote and at<BR ALIGN='left'/>least 80 per centum of the total number<BR ALIGN='left'/>of shares of all other classes of stock<BR ALIGN='left'/>of the corporation.&quot;</TD></TR>
+</TABLE>
+>]
+	cAhFW_hp1x [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">There was more than sufficient evidence<BR ALIGN='left'/>in this case to support the finding by<BR ALIGN='left'/>the Tax Court that the transfer by the<BR ALIGN='left'/>petitioner of its noninventory assets to<BR ALIGN='left'/>Old Peoria constituted a reorganization<BR ALIGN='left'/>within the meaning of this section.<BR ALIGN='left'/>Eighty-seven and one-half per cent of<BR ALIGN='left'/>the entire stock of Old Peoria was owned<BR ALIGN='left'/>by members of the Silberstein, Venezky<BR ALIGN='left'/>and Weiner families who also owned 75.9<BR ALIGN='left'/>per cent of the stock of the petitioner.<BR ALIGN='left'/>The remaining 12½ per cent of the Old<BR ALIGN='left'/>Peoria stock was owned by Ellen Weiner,<BR ALIGN='left'/>the daughter of Lewis and Kathryn<BR ALIGN='left'/>Weiner. The ownership of 87½ per cent of<BR ALIGN='left'/>the stock of Old Peoria by the owners of<BR ALIGN='left'/>75.9 per cent of the stock of the<BR ALIGN='left'/>petitioner brings this case clearly<BR ALIGN='left'/>within the definition of reorganization<BR ALIGN='left'/>found in Section 112(g) (1) (D) of the<BR ALIGN='left'/>1939 Internal Revenue Code.</TD></TR>
+</TABLE>
+>]
+	OjB4COsPbY [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">To constitute a tax free reorganization<BR ALIGN='left'/>under Section 112(g) (1) (D) of the Code<BR ALIGN='left'/>it was not necessary that the persons<BR ALIGN='left'/>who owned the stock of the transferee<BR ALIGN='left'/>corporation should also have owned 80<BR ALIGN='left'/>per cent of the stock of the transferor<BR ALIGN='left'/>corporation. In Toklan Royalty Corp. v.<BR ALIGN='left'/>Jones, D.C., 58 F. Supp. 967, the court<BR ALIGN='left'/>held that there was a tax free<BR ALIGN='left'/>reorganization where persons owning less<BR ALIGN='left'/>than 80 per cent of the stock of the<BR ALIGN='left'/>original corporation owned all of the<BR ALIGN='left'/>stock in the successor corporation.</TD></TR>
+</TABLE>
+>]
+	H7Dj5eSiS2 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The sale of the auctioned property was<BR ALIGN='left'/>not actually made, under the published<BR ALIGN='left'/>terms of the auction, until the bid was<BR ALIGN='left'/>accepted by the owner — the petitioner.<BR ALIGN='left'/>The board of directors of the petitioner<BR ALIGN='left'/>in a special meeting on June 9, 1948,<BR ALIGN='left'/>four days after the Old Peoria charter<BR ALIGN='left'/>was issued, confirmed and approved the<BR ALIGN='left'/>auction sale; and on June 15, 1948, they<BR ALIGN='left'/>conveyed all of the property involved to<BR ALIGN='left'/>Old Peoria, just as the owners of the<BR ALIGN='left'/>majority of the stock of the petitioner<BR ALIGN='left'/>and the owners of all of the stock of<BR ALIGN='left'/>Old Peoria had contemplated and planned.</TD></TR>
+</TABLE>
+>]
+	_F0JYp4pM0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It was, of course, not required that the<BR ALIGN='left'/>plan of reorganization be in any<BR ALIGN='left'/>particular form or be in writing.</TD></TR>
+</TABLE>
+>]
+	"XSkY0ydA-7" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 112(a) (3) of the Code<BR ALIGN='left'/>recognizes a transfer as tax free only<BR ALIGN='left'/>when 294*294 there is an exchange solely<BR ALIGN='left'/>of stock or securities of &quot;a corporation<BR ALIGN='left'/>a party to a reorganization,&quot; in<BR ALIGN='left'/>pursuance of the plan of reorganization,<BR ALIGN='left'/>for stock or securities in such<BR ALIGN='left'/>corporation or in another corporation a<BR ALIGN='left'/>party to the reorganization. Section<BR ALIGN='left'/>112(b) (4) provides that no gain or loss<BR ALIGN='left'/>shall be recognized if a corporation a<BR ALIGN='left'/>party to the reorganization exchanges<BR ALIGN='left'/>properties, pursuant to a plan of<BR ALIGN='left'/>reorganization, solely for stock or<BR ALIGN='left'/>securities in another corporation a<BR ALIGN='left'/>party to the reorganization. But Section<BR ALIGN='left'/>112(c) provides that if property other<BR ALIGN='left'/>than stock or securities be involved in<BR ALIGN='left'/>such a transaction any gain shall be<BR ALIGN='left'/>limited to that the other party<BR ALIGN='left'/>received. Section 112(e) provides that<BR ALIGN='left'/>on such an exchange no loss shall be<BR ALIGN='left'/>recognized.</TD></TR>
+</TABLE>
+>]
+	"p-FRwCIvPj" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">An analysis of all of the evidence in<BR ALIGN='left'/>this case and of the relevant sections<BR ALIGN='left'/>of the Code convinces us that there was<BR ALIGN='left'/>a proper basis for the conclusion of the<BR ALIGN='left'/>Tax Court that on the transfer here in<BR ALIGN='left'/>question the claimed loss by the<BR ALIGN='left'/>petitioner could not be<BR ALIGN='left'/>sustained.\n\nThe judgment of the Tax<BR ALIGN='left'/>Court is\n\nAffirmed.</TD></TR>
+</TABLE>
+>]
+	bDRGNVJVkh [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The stockholders of Old Peoria now say<BR ALIGN='left'/>that they never intended to distill<BR ALIGN='left'/>whiskey in this plant. But in the pre-<BR ALIGN='left'/>organization subscription agreement they<BR ALIGN='left'/>said that the purpose of organizing Old<BR ALIGN='left'/>Peoria was to purchase the real estate<BR ALIGN='left'/>and equipment of the petitioner and &quot;for<BR ALIGN='left'/>such other purposes as the incorporators<BR ALIGN='left'/>may determine.&quot; In the articles of<BR ALIGN='left'/>incorporation, the incorporators,<BR ALIGN='left'/>including Mr. Venezky, stated that one<BR ALIGN='left'/>of the purposes of the corporation was<BR ALIGN='left'/>&quot;to manufacture, buy, sell and deal in *<BR ALIGN='left'/>* * whiskey of all kinds * * * and to do<BR ALIGN='left'/>and perform all kinds of distilling * *<BR ALIGN='left'/>*.&quot; In the articles of incorporation<BR ALIGN='left'/>they also estimated that during the<BR ALIGN='left'/>first year after its incorporation Old<BR ALIGN='left'/>Peoria would do $50,000 of business.<BR ALIGN='left'/>Certainly the incorporators would not<BR ALIGN='left'/>have estimated this amount of business<BR ALIGN='left'/>if they had then intended that their<BR ALIGN='left'/>only business would consist of renting<BR ALIGN='left'/>dead storage space. Silberstein, Weiner<BR ALIGN='left'/>and Venezky all signed the articles of<BR ALIGN='left'/>incorporation of Old Peoria and swore<BR ALIGN='left'/>that the statements contained therein<BR ALIGN='left'/>were true.</TD></TR>
+</TABLE>
+>]
+	muBOlZ9Y2U [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In Lewis v. Commissioner, supra, the<BR ALIGN='left'/>court also said, 176 F. 2d at page 649:<BR ALIGN='left'/>&quot;The liquidation of the old company does<BR ALIGN='left'/>not change matters because a statutory<BR ALIGN='left'/>reorganization may encompass as one of<BR ALIGN='left'/>its incidents the liquidation of one of<BR ALIGN='left'/>the corporations a party to the<BR ALIGN='left'/>reorganization. [Citing cases.]&quot;</TD></TR>
+</TABLE>
+>]
+	"Ikbb3_P-zq" -> "p-FRwCIvPj"
+	OjB4COsPbY -> "Ikbb3_P-zq"
+	"XSkY0ydA-7" -> "p-FRwCIvPj"
+	cAhFW_hp1x -> "Ikbb3_P-zq"
+	bDRGNVJVkh -> "XSkY0ydA-7"
+	muBOlZ9Y2U -> "XSkY0ydA-7"
+	H7Dj5eSiS2 -> muBOlZ9Y2U
+	_F0JYp4pM0 -> muBOlZ9Y2U
+}

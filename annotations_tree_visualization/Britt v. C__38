@@ -1,0 +1,60 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	aaujOwncKB [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In order to decide this case, we must<BR ALIGN='left'/>determine the basis for computing the<BR ALIGN='left'/>gain realized by the taxpayer in 1934<BR ALIGN='left'/>from the redemption of 72 shares of<BR ALIGN='left'/>preferred stock of United Carbon Company<BR ALIGN='left'/>at $110 per share. The taxpayer acquired<BR ALIGN='left'/>the stock in 1925 in the course of a<BR ALIGN='left'/>liquidation distribution of the assets<BR ALIGN='left'/>of the Liberty Carbon Company, of which<BR ALIGN='left'/>he was a stockholder. In the latter<BR ALIGN='left'/>year, the Liberty Carbon Company and a<BR ALIGN='left'/>number of other corporations, engaged in<BR ALIGN='left'/>the manufacture of carbon black,<BR ALIGN='left'/>transferred their assets to the United<BR ALIGN='left'/>Carbon Company, the inventories for cash<BR ALIGN='left'/>and the other assets in exchange for<BR ALIGN='left'/>shares of preferred and no-par common<BR ALIGN='left'/>stock of the transferee. Thereafter the<BR ALIGN='left'/>Liberty Carbon Company was dissolved and<BR ALIGN='left'/>the taxpayer received in liquidation 72<BR ALIGN='left'/>shares of the preferred and 288 shares<BR ALIGN='left'/>of the common stock of the United Carbon<BR ALIGN='left'/>Company. The preferred stock at the time<BR ALIGN='left'/>had a fair market value of $100 per<BR ALIGN='left'/>share and the common stock, $26.88 per<BR ALIGN='left'/>share.\n\nThe taxpayer adopted $7,200 as<BR ALIGN='left'/>the basis for computing the gain from<BR ALIGN='left'/>the redemption of the preferred stock in<BR ALIGN='left'/>1934, and reported a gain of $720. But<BR ALIGN='left'/>the Commissioner of Internal Revenue<BR ALIGN='left'/>asserted, and the Board of Tax Appeals<BR ALIGN='left'/>held, that the true basis was a<BR ALIGN='left'/>proportionate part of the basis of the<BR ALIGN='left'/>assets of the Liberty Carbon Company,<BR ALIGN='left'/>for which the stock of the United Carbon<BR ALIGN='left'/>Company was exchanged. Computing the<BR ALIGN='left'/>profit on this basis, the Commissioner<BR ALIGN='left'/>determined a deficiency of $933.12.</TD></TR>
+</TABLE>
+>]
+	z2aERHhOx5 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Liberty Carbon Company transferred 92<BR ALIGN='left'/>per cent, i. e., &quot;substantially all&quot; of<BR ALIGN='left'/>its assets, to the United Carbon Company<BR ALIGN='left'/>for stock and cash; and that the stock<BR ALIGN='left'/>received in the exchange represented 73<BR ALIGN='left'/>per cent, i. e., a &quot;material&quot; part of<BR ALIGN='left'/>the value of the transferred assets.<BR ALIGN='left'/>These facts being established, the<BR ALIGN='left'/>conclusion that a statutory<BR ALIGN='left'/>reorganization took place is inevitable.<BR ALIGN='left'/>The taxpayer received the United Carbon<BR ALIGN='left'/>Company stock within the meaning of §<BR ALIGN='left'/>203(b) (3) as the result of a<BR ALIGN='left'/>transaction in which the Liberty Carbon<BR ALIGN='left'/>Company, a party to a reorganization,<BR ALIGN='left'/>exchanged property &quot;in pursuance of the<BR ALIGN='left'/>plan of reorganization, solely for stock<BR ALIGN='left'/>or securities&quot; in United Carbon Company<BR ALIGN='left'/>&quot;another corporation a party to the<BR ALIGN='left'/>reorganization&quot;.</TD></TR>
+</TABLE>
+>]
+	XlFZSLhj8G [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;We have held that where the<BR ALIGN='left'/>consideration consists of cash and short<BR ALIGN='left'/>term notes the transfer does not amount<BR ALIGN='left'/>to a reorganization within the true<BR ALIGN='left'/>meaning of the statute, but is a sale<BR ALIGN='left'/>upon which gain or loss must be<BR ALIGN='left'/>reckoned. We have said that the statute<BR ALIGN='left'/>was not satisfied unless the transferor<BR ALIGN='left'/>retained a substantial stake in the<BR ALIGN='left'/>enterprise and such a stake was thought<BR ALIGN='left'/>to be retained where a large proportion<BR ALIGN='left'/>of the consideration was in common stock<BR ALIGN='left'/>of the transferee, or where the<BR ALIGN='left'/>transferor took cash and the entire<BR ALIGN='left'/>issue of preferred stock of the<BR ALIGN='left'/>transferee corporation. And, where the<BR ALIGN='left'/>consideration is represented by a<BR ALIGN='left'/>substantial proportion of stock, and the<BR ALIGN='left'/>balance in bonds, the total<BR ALIGN='left'/>consideration received is exempt from<BR ALIGN='left'/>tax under Sec. 112 (b) (4) and 112(g).&quot;</TD></TR>
+</TABLE>
+>]
+	RaQ7ikj5eB [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">From the facts in the pending case<BR ALIGN='left'/>outlined above, it is clear that the<BR ALIGN='left'/>consideration for the transfer did not<BR ALIGN='left'/>consist merely of cash or evidences of<BR ALIGN='left'/>indebtedness, but was represented by a<BR ALIGN='left'/>substantial proportion of preferred and<BR ALIGN='left'/>common stock in the transferee<BR ALIGN='left'/>corporation, so that the transferor<BR ALIGN='left'/>retained a substantial stake in the new<BR ALIGN='left'/>enterprise.</TD></TR>
+</TABLE>
+>]
+	qU3UJav9zW [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It is obvious that § 203 contemplates<BR ALIGN='left'/>that no gain or loss shall be recognized<BR ALIGN='left'/>for taxation purposes in a number of<BR ALIGN='left'/>different contingencies that are<BR ALIGN='left'/>separately described in the several sub-<BR ALIGN='left'/>sections, and that a given transaction<BR ALIGN='left'/>may fall outside the terms of one sub-<BR ALIGN='left'/>section and yet satisfy the terms of<BR ALIGN='left'/>another. This view is illustrated by the<BR ALIGN='left'/>Supreme Court in Nelson Co. v.<BR ALIGN='left'/>Helvering, supra, (296 U.S. at page 377,<BR ALIGN='left'/>56 S.Ct. 273, 80 L.Ed. 821) where the<BR ALIGN='left'/>court pointed out that a statutory<BR ALIGN='left'/>reorganization may occur under the terms<BR ALIGN='left'/>of § 203(h) (1) (A), although the<BR ALIGN='left'/>transferor does not acquire a<BR ALIGN='left'/>controlling interest in the transferee<BR ALIGN='left'/>as is provided in § 203(h) (2); and<BR ALIGN='left'/>again in Helvering v. Minnesota Tea Co.,<BR ALIGN='left'/>supra, (296 U.S. at page 384, 56 S.Ct.<BR ALIGN='left'/>269, 80 L.Ed. 284) where the court<BR ALIGN='left'/>pointed out that a taxpayer may find<BR ALIGN='left'/>relief under Clause A of 203(h) (1),<BR ALIGN='left'/>although Clause B may not be applicable<BR ALIGN='left'/>to his case.</TD></TR>
+</TABLE>
+>]
+	"7K7pQ1EkQV" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">That is the situation in the present<BR ALIGN='left'/>case. § 203(b) (4) is inapplicable for<BR ALIGN='left'/>the reasons stated in our former<BR ALIGN='left'/>decision; but § 203(b) (3) correctly<BR ALIGN='left'/>describes the transaction. Such would<BR ALIGN='left'/>have been our decision in the prior case<BR ALIGN='left'/>had the Commissioner not based his<BR ALIGN='left'/>contention entirely upon a sub-section<BR ALIGN='left'/>that did not fit the facts.</TD></TR>
+</TABLE>
+>]
+	kvmsYYeJIi [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Since the transaction under<BR ALIGN='left'/>consideration in the present case falls<BR ALIGN='left'/>within the terms of § 203(b) (3), no<BR ALIGN='left'/>gain or loss was recognizable at the<BR ALIGN='left'/>time of the transfer in 1925; and the<BR ALIGN='left'/>basis for computing the gain of the<BR ALIGN='left'/>taxpayer in 1934 is the cost of his<BR ALIGN='left'/>allocable share of the assets of the<BR ALIGN='left'/>Liberty Carbon Company. This was indeed<BR ALIGN='left'/>the attitude that the taxpayer himself<BR ALIGN='left'/>assumed in regard to the transaction in<BR ALIGN='left'/>1925, because he made no report in his<BR ALIGN='left'/>tax return for that year of gain from<BR ALIGN='left'/>the acquisition of the stock of the<BR ALIGN='left'/>United Carbon Company.\n\nThe decision<BR ALIGN='left'/>of the Board of Tax Appeals is therefore<BR ALIGN='left'/>affirmed.</TD></TR>
+</TABLE>
+>]
+	UmqWZ3CiMi [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Nor do we think that the taxpayer<BR ALIGN='left'/>correctly interprets § 203 when he<BR ALIGN='left'/>contends that if two or more transferors<BR ALIGN='left'/>are engaged in the transactions 14*14<BR ALIGN='left'/>referred to in § 203, the only<BR ALIGN='left'/>applicable sub-section is § 203(b) (4);<BR ALIGN='left'/>and therefore, in such an event, there<BR ALIGN='left'/>can be no statutory reorganization under<BR ALIGN='left'/>§ 203 (b) (2) or § 203(b) (3) unless the<BR ALIGN='left'/>transferors receive amounts of stock<BR ALIGN='left'/>proportionate to their interests in the<BR ALIGN='left'/>property transferred. Such a<BR ALIGN='left'/>construction would unduly restrict the<BR ALIGN='left'/>meaning of the statute and run counter<BR ALIGN='left'/>to the decisions of the Supreme Court.<BR ALIGN='left'/>Nothing in our former opinion justifies<BR ALIGN='left'/>such an interpretation.</TD></TR>
+</TABLE>
+>]
+	XlFZSLhj8G -> RaQ7ikj5eB
+	z2aERHhOx5 -> RaQ7ikj5eB
+	qU3UJav9zW -> kvmsYYeJIi
+	"7K7pQ1EkQV" -> kvmsYYeJIi
+	RaQ7ikj5eB -> "7K7pQ1EkQV"
+	UmqWZ3CiMi -> qU3UJav9zW
+}

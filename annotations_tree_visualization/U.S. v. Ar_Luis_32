@@ -1,0 +1,182 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	"1wYeO5D8Ov" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the charter of the old company was<BR ALIGN='left'/>surrendered and the corporation was<BR ALIGN='left'/>dissolved before the new corporation<BR ALIGN='left'/>received the assets through transfer by<BR ALIGN='left'/>the trustees.</TD></TR>
+</TABLE>
+>]
+	PmBL6vUU6j [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[8RLUHR_dma]</TD></TR>
+</TABLE>
+>]
+	s9IrZoAZaA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">There was no right on the part of the<BR ALIGN='left'/>dissolved corporation to enforce any<BR ALIGN='left'/>agreement as to what was to take place<BR ALIGN='left'/>subsequent to its dissolution. It had no<BR ALIGN='left'/>rights or obligations, as far as any<BR ALIGN='left'/>plan to form a new corporation was<BR ALIGN='left'/>concerned, or to see that the trustees<BR ALIGN='left'/>for the former stockholders entered into<BR ALIGN='left'/>such a plan or transferred the assets to<BR ALIGN='left'/>a new corporation.</TD></TR>
+</TABLE>
+>]
+	nVaBDjSpEe [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The new corporation had no rights that<BR ALIGN='left'/>could be enforced against the former<BR ALIGN='left'/>stockholders of the old corporation to<BR ALIGN='left'/>require them to form a new corporation,<BR ALIGN='left'/>or, for that matter, any rights whatever<BR ALIGN='left'/>with respect to the old corporation or<BR ALIGN='left'/>the former stockholders thereof</TD></TR>
+</TABLE>
+>]
+	x5R0zbAp6R [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Title 26 U.S.C.A. § 112(g)(2),<BR ALIGN='left'/>provides:\n\n&quot;The term `a party to a<BR ALIGN='left'/>reorganization&#x27; includes a corporation<BR ALIGN='left'/>resulting from a reorganization and<BR ALIGN='left'/>includes both corporations in the case<BR ALIGN='left'/>of a reorganization resulting from the<BR ALIGN='left'/>acquisition by one corporation of stock<BR ALIGN='left'/>or properties of another.&quot;</TD></TR>
+</TABLE>
+>]
+	NRatysk4UG [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Manifestly, there could be no transfer<BR ALIGN='left'/>by the old corporation of its 233*233<BR ALIGN='left'/>assets to the new corporation which, in<BR ALIGN='left'/>the strict language of the statute, is<BR ALIGN='left'/>required in order to constitute a<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	qGmAKnteyd [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the term, &quot;plan of reorganization,&quot; has<BR ALIGN='left'/>reference to a consummated transaction<BR ALIGN='left'/>specifically defined as a reorganization<BR ALIGN='left'/>under section 112(g)(1), and that the<BR ALIGN='left'/>term is not to be construed as<BR ALIGN='left'/>broadening the definition of<BR ALIGN='left'/>reorganization as set forth in that<BR ALIGN='left'/>section; and, as heretofore mentioned,<BR ALIGN='left'/>that the plan of reorganization must be<BR ALIGN='left'/>adopted by each of the corporations<BR ALIGN='left'/>parties thereto. Title 26, Code of<BR ALIGN='left'/>Federal Regulations, 29.112(g)-1 to<BR ALIGN='left'/>(g)-6, inclusive.</TD></TR>
+</TABLE>
+>]
+	l05SUuhkBh [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the term, &quot;a party to a reorganization&quot;,<BR ALIGN='left'/>includes, in addition to a corporation<BR ALIGN='left'/>which performs the specific act<BR ALIGN='left'/>constituting the reorganization, as<BR ALIGN='left'/>described and defined in section<BR ALIGN='left'/>112(g)(1), only a corporation specified<BR ALIGN='left'/>in section 112(g)(2);</TD></TR>
+</TABLE>
+>]
+	uUWe8ire4B [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;The plan of reorganization must be<BR ALIGN='left'/>adopted by each of the corporations<BR ALIGN='left'/>parties thereto; and the adoption must<BR ALIGN='left'/>be shown by the acts of its duly<BR ALIGN='left'/>constituted responsible officers, and<BR ALIGN='left'/>appear upon the official records of the<BR ALIGN='left'/>corporation.&quot; Treasury Reg. 103, Section<BR ALIGN='left'/>19.112(g)-6, Title 26 Code of Federal<BR ALIGN='left'/>Regulations, 29.112(g)-6.</TD></TR>
+</TABLE>
+>]
+	smQ4V9tyEE [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the expenses incurred therefor were for<BR ALIGN='left'/>the benefit of the old corporation; and,<BR ALIGN='left'/>since they constituted ordinary and<BR ALIGN='left'/>necessary expense in carrying on its<BR ALIGN='left'/>business, they were properly deductible.</TD></TR>
+</TABLE>
+>]
+	p3wF6T7kR4 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It is our conclusion that there was no<BR ALIGN='left'/>transfer by the old corporation of its<BR ALIGN='left'/>assets to the new corporation, within<BR ALIGN='left'/>the meaning of section 112(g)(1);</TD></TR>
+</TABLE>
+>]
+	izLUy2vvDd [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">neither the old nor the new corporation<BR ALIGN='left'/>was a &quot;party to a reorganization&quot;, as<BR ALIGN='left'/>set forth in section 112(g)(2);</TD></TR>
+</TABLE>
+>]
+	hws_SYo8f5 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the transactions out of which this<BR ALIGN='left'/>controversy arose did not constitute a<BR ALIGN='left'/>reorganization within the intendment of<BR ALIGN='left'/>the Internal Revenue Code.</TD></TR>
+</TABLE>
+>]
+	rFlcrnJWap [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">concluded that the transactions in<BR ALIGN='left'/>question amounted to liquidation of the<BR ALIGN='left'/>old corporation, we are of the opinion<BR ALIGN='left'/>that the services of the tax accountant<BR ALIGN='left'/>and attorneys, here 236*236 in question,<BR ALIGN='left'/>were rendered to the old corporation</TD></TR>
+</TABLE>
+>]
+	"2d6noDin5h" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[4oaxjbzAMH]</TD></TR>
+</TABLE>
+>]
+	i2KN3LfYE4 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;No gain or loss shall be recognized if<BR ALIGN='left'/>a corporation a party to a<BR ALIGN='left'/>reorganization exchanges property, in<BR ALIGN='left'/>pursuance of the plan of reorganization,<BR ALIGN='left'/>solely for stock or securities in<BR ALIGN='left'/>another corporation a party to the<BR ALIGN='left'/>reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	R_RjHenr6Q [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">An exchange of property for stock in<BR ALIGN='left'/>which gain or loss is not recognized<BR ALIGN='left'/>under the Internal Revenue Act must<BR ALIGN='left'/>satisfy the following requirements: (1)<BR ALIGN='left'/>there must be a reorganization, as that<BR ALIGN='left'/>term is defined in the statute;</TD></TR>
+</TABLE>
+>]
+	lQn05HqcKK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(5) both the transferor and the<BR ALIGN='left'/>corporation, the stock or securities of<BR ALIGN='left'/>which are received, must be a party to<BR ALIGN='left'/>the reorganization. Mertens&#x27; Law of<BR ALIGN='left'/>Federal Income Taxation, Volume 3,<BR ALIGN='left'/>Section 20.65 (page 236).</TD></TR>
+</TABLE>
+>]
+	B0dKYtUnkO [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[hb4dSJfJ0j]</TD></TR>
+</TABLE>
+>]
+	cDaU5NzqB6 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(2) the corporation must transfer<BR ALIGN='left'/>&quot;property;&quot;</TD></TR>
+</TABLE>
+>]
+	AgEoQ3S4i1 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion [5Lv-<BR ALIGN='left'/>b_i8TW]</TD></TR>
+</TABLE>
+>]
+	byUWrTHjAu [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[kppElOoMos]</TD></TR>
+</TABLE>
+>]
+	jV7jAcQaka [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We do not find, in what is here claimed<BR ALIGN='left'/>by the government to constitute a &quot;plan<BR ALIGN='left'/>of reorganization,&quot;</TD></TR>
+</TABLE>
+>]
+	iaCXGGDYDK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">When the old corporation was dissolved<BR ALIGN='left'/>and the assets were transferred to its<BR ALIGN='left'/>former stockholders, there was a break<BR ALIGN='left'/>in the continuity of ownership, for, as<BR ALIGN='left'/>a general rule, a corporation and its<BR ALIGN='left'/>stockholders are deemed separate<BR ALIGN='left'/>entities; and this is true in respect to<BR ALIGN='left'/>tax problems. New Colonial Ice Co., Inc.<BR ALIGN='left'/>v. Helvering, 292 U.S. 435, 54 S.Ct.<BR ALIGN='left'/>788, 78 L.Ed. 1348.</TD></TR>
+</TABLE>
+>]
+	Bn3B_sI2tU [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[COQv5fjmgE]</TD></TR>
+</TABLE>
+>]
+	"dC4oW2-s1p" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">corporation and the new corporation</TD></TR>
+</TABLE>
+>]
+	"1wYeO5D8Ov" -> NRatysk4UG
+	l05SUuhkBh -> NRatysk4UG
+	rFlcrnJWap -> smQ4V9tyEE
+	izLUy2vvDd -> B0dKYtUnkO
+	lQn05HqcKK -> B0dKYtUnkO
+	B0dKYtUnkO -> hws_SYo8f5
+	cDaU5NzqB6 -> AgEoQ3S4i1
+	p3wF6T7kR4 -> AgEoQ3S4i1
+	AgEoQ3S4i1 -> hws_SYo8f5
+	hws_SYo8f5 -> smQ4V9tyEE
+	"2d6noDin5h" -> smQ4V9tyEE
+	nVaBDjSpEe -> byUWrTHjAu
+	s9IrZoAZaA -> byUWrTHjAu
+	NRatysk4UG -> p3wF6T7kR4
+	PmBL6vUU6j -> p3wF6T7kR4
+	uUWe8ire4B -> byUWrTHjAu
+	qGmAKnteyd -> jV7jAcQaka
+	byUWrTHjAu -> jV7jAcQaka
+	jV7jAcQaka -> hws_SYo8f5
+	Bn3B_sI2tU -> hws_SYo8f5
+}

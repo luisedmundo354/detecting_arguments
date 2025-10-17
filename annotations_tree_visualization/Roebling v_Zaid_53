@@ -1,0 +1,123 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	DSBkI8PhV0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">811*811 Petitioner, an individual<BR ALIGN='left'/>residing in Trenton, New Jersey, filed a<BR ALIGN='left'/>Federal income tax return for the<BR ALIGN='left'/>calendar year 1938 with the Collector of<BR ALIGN='left'/>Internal Revenue for the First District<BR ALIGN='left'/>of New Jersey.\n\nOn December 5, 1935,<BR ALIGN='left'/>petitioner acquired by gift 166 shares<BR ALIGN='left'/>of the stock of South Jersey Gas,<BR ALIGN='left'/>Electric and Traction Co. (hereinafter<BR ALIGN='left'/>referred to as South Jersey). This stock<BR ALIGN='left'/>had been acquired by petitioner&#x27;s donor<BR ALIGN='left'/>on March 12, 1914, at a cost of<BR ALIGN='left'/>$16,600.\n\nSouth Jersey was a<BR ALIGN='left'/>corporation organized on August 31,<BR ALIGN='left'/>1900, under the laws of the State of New<BR ALIGN='left'/>Jersey, for the purpose of furnishing<BR ALIGN='left'/>electricity and gas for public and<BR ALIGN='left'/>private use in that state.\n\nIn June,<BR ALIGN='left'/>1903, South Jersey had leased all its<BR ALIGN='left'/>franchises, plants and operating<BR ALIGN='left'/>equipment to Public Service Corporation<BR ALIGN='left'/>of New Jersey for 900 years. The lessee<BR ALIGN='left'/>was to pay rent which beginning December<BR ALIGN='left'/>1, 1908, amounted to $480,000 per annum.<BR ALIGN='left'/>In addition the lessee agreed to pay the<BR ALIGN='left'/>interest charges on the lessor&#x27;s bonded<BR ALIGN='left'/>indebtedness, all taxes, insurance and<BR ALIGN='left'/>such sums as were necessary to maintain,<BR ALIGN='left'/>repair, improve and extend the leased<BR ALIGN='left'/>properties. All replacements and<BR ALIGN='left'/>additions became the property of South<BR ALIGN='left'/>Jersey subject to the terms of the<BR ALIGN='left'/>lease.\n\nThe lease further provided<BR ALIGN='left'/>that upon default of the terms of the<BR ALIGN='left'/>lease for a period of 30 days, after<BR ALIGN='left'/>notice, South Jersey could terminate the<BR ALIGN='left'/>lease, reenter and reacquire the<BR ALIGN='left'/>property and additions and extensions<BR ALIGN='left'/>thereto.\n\nUnder the terms of the lease<BR ALIGN='left'/>South Jersey could enter upon the leased<BR ALIGN='left'/>property for the purpose of inspecting<BR ALIGN='left'/>it and determining its condition and the<BR ALIGN='left'/>character of the management and whether<BR ALIGN='left'/>the covenants of the lease were being<BR ALIGN='left'/>complied with.\n\nIn July, 1924, this<BR ALIGN='left'/>lease was assigned by Public Service<BR ALIGN='left'/>Corporation of New Jersey to Public<BR ALIGN='left'/>Service Electric and Gas Company which<BR ALIGN='left'/>assumed the obligations thereof.\n\nFrom<BR ALIGN='left'/>December 1, 1908, to June 1, 1937, the<BR ALIGN='left'/>net rentals received by South Jersey,<BR ALIGN='left'/>the lessor company, were distributed to<BR ALIGN='left'/>its stockholders at the rate of 8% per<BR ALIGN='left'/>annum on the par value of its stock.<BR ALIGN='left'/>South Jersey had outstanding 60,000<BR ALIGN='left'/>shares of capital stock of $100 par<BR ALIGN='left'/>value, of which Public Service Electric<BR ALIGN='left'/>and Gas Company, the assignee of the<BR ALIGN='left'/>lease, held 1,705 shares, and Public<BR ALIGN='left'/>Service Corporation of New Jersey, the<BR ALIGN='left'/>original lessee, held 15,773 shares. The<BR ALIGN='left'/>remaining 42,521 shares were held by<BR ALIGN='left'/>other interests. Public Service<BR ALIGN='left'/>Corporation of New Jersey held<BR ALIGN='left'/>substantially all the voting stock of<BR ALIGN='left'/>Public Service Electric and Gas<BR ALIGN='left'/>Company.\n\nPublic Service Electric and<BR ALIGN='left'/>Gas Company as a part of its unified<BR ALIGN='left'/>electrical system held and operated<BR ALIGN='left'/>under long-term leases the properties of<BR ALIGN='left'/>many other utility companies. For more<BR ALIGN='left'/>than ten years Public Service and its<BR ALIGN='left'/>parent, Public Service Corporation of<BR ALIGN='left'/>New Jersey, had engaged in a systematic<BR ALIGN='left'/>effort to acquire the fee to these<BR ALIGN='left'/>properties, and by 1927 had acquired<BR ALIGN='left'/>more than two-thirds of the stock of<BR ALIGN='left'/>certain of these lessor companies. A<BR ALIGN='left'/>projected merger of the lessee companies<BR ALIGN='left'/>into Public Service Electric Gas through<BR ALIGN='left'/>the exchange of stock in the lessor<BR ALIGN='left'/>companies for 6% cumulative preferred<BR ALIGN='left'/>stock of Electric and Gas callable in<BR ALIGN='left'/>three years was enjoined by the Chancery<BR ALIGN='left'/>Court of New Jersey as unfair to the<BR ALIGN='left'/>minority stockholders of those<BR ALIGN='left'/>companies. Outwater v. Public Service<BR ALIGN='left'/>Corporation, 103 N.J.Eq. 461, 143 A.<BR ALIGN='left'/>729.\n\nOn May 10, 1937, the directors<BR ALIGN='left'/>of South Jersey and of Public Service<BR ALIGN='left'/>Electric and Gas Company adopted a &quot;Plan<BR ALIGN='left'/>of Reorganization&quot; under which it was<BR ALIGN='left'/>proposed that the former company be<BR ALIGN='left'/>merged into the latter in accordance<BR ALIGN='left'/>with the statutes of New Jersey. This<BR ALIGN='left'/>plan provided that the stockholders of<BR ALIGN='left'/>South Jersey (other than Public Service<BR ALIGN='left'/>Electric and Gas Company) should<BR ALIGN='left'/>exchange, dollar for dollar, their stock<BR ALIGN='left'/>in South Jersey for 8% one hundred years<BR ALIGN='left'/>first mortgage bonds of Public Service<BR ALIGN='left'/>Electric and Gas Company. These bonds<BR ALIGN='left'/>were to be issued under a prior mortgage<BR ALIGN='left'/>of Public Service Electric and Gas<BR ALIGN='left'/>Company dated August 1, 1924, and under<BR ALIGN='left'/>a supplemental indenture later to be<BR ALIGN='left'/>executed. It was expressly provided in<BR ALIGN='left'/>the &quot;Agreement of Merger&quot; executed on<BR ALIGN='left'/>the same day: &quot;The capital stock of the<BR ALIGN='left'/>Public Service Electric and Gas Company<BR ALIGN='left'/>* * * will not be changed by reason of<BR ALIGN='left'/>this agreement.&quot; Also, the stock of<BR ALIGN='left'/>South Jersey held by Public Service<BR ALIGN='left'/>Electric and Gas Company was not to<BR ALIGN='left'/>participate in the exchange but was to<BR ALIGN='left'/>be delivered up and cancelled.\n\nThe<BR ALIGN='left'/>&quot;Agreement of Merger&quot; was accepted by<BR ALIGN='left'/>the stockholders of South Jersey and of<BR ALIGN='left'/>Public Service Electric and Gas Company,<BR ALIGN='left'/>and approved by the Board of Public<BR ALIGN='left'/>Utilities Commissioners of the State of<BR ALIGN='left'/>New Jersey and by the Federal Power<BR ALIGN='left'/>812*812 Commission. The &quot;Agreement of<BR ALIGN='left'/>Merger&quot; with the certificates of the<BR ALIGN='left'/>secretaries of the constituent companies<BR ALIGN='left'/>as to the confirmatory votes of the<BR ALIGN='left'/>stockholders, and the certificates of<BR ALIGN='left'/>approval of the Public Utility<BR ALIGN='left'/>Commissioners of New Jersey and of the<BR ALIGN='left'/>Federal Power Commission was filed with<BR ALIGN='left'/>the Secretary of State of New Jersey on<BR ALIGN='left'/>November 17, 1938.\n\nThe &quot;Agreement of<BR ALIGN='left'/>Merger&quot; was consummated pursuant to its<BR ALIGN='left'/>provisions. In accordance therewith the<BR ALIGN='left'/>taxpayer received in exchange for his<BR ALIGN='left'/>166 shares of stock in South Jersey,<BR ALIGN='left'/>$16,600, principal amount of 8% bonds<BR ALIGN='left'/>which on November 25, 1938, had a fair<BR ALIGN='left'/>market value of $34,777.\n\nThe<BR ALIGN='left'/>Commissioner determined that the<BR ALIGN='left'/>difference between the basis of the<BR ALIGN='left'/>taxpayer&#x27;s stock in South Jersey and the<BR ALIGN='left'/>fair market value of the bonds received<BR ALIGN='left'/>in exchange therefor must be recognized<BR ALIGN='left'/>as taxable income in 1938 and he<BR ALIGN='left'/>asserted a deficiency which the Tax<BR ALIGN='left'/>Court sustained, so far as it was based<BR ALIGN='left'/>upon this item.</TD></TR>
+</TABLE>
+>]
+	LbdNYAdmv1 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(1) Whether the transaction hereafter<BR ALIGN='left'/>stated between a lessor corporation and<BR ALIGN='left'/>a lessee corporation constitued a<BR ALIGN='left'/>&quot;statutory merger&quot;, within the meaning<BR ALIGN='left'/>of Sec. 112(g) (1) (A) of the Revenue<BR ALIGN='left'/>Act of 1938, 26 U.S.C.A. Int.Rev.Code, §<BR ALIGN='left'/>112(g) (1) (A);[</TD></TR>
+</TABLE>
+>]
+	ADelpjeATE [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(2) whether the doctrine of &quot;continuity<BR ALIGN='left'/>of interest&quot; as enunciated in LeTulle v.<BR ALIGN='left'/>Scofield, 308 U.S. 415, 60 S.Ct. 313, 84<BR ALIGN='left'/>L.Ed. 355, applies to a &quot;statutory<BR ALIGN='left'/>merger&quot;,</TD></TR>
+</TABLE>
+>]
+	"06FroItQIj" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(3) whether under the facts a<BR ALIGN='left'/>&quot;continuity of interest&quot; actually<BR ALIGN='left'/>existed.</TD></TR>
+</TABLE>
+>]
+	xe7XzDpwdr [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">1) that the merger of South Jersey into<BR ALIGN='left'/>Public Service Electric and Gas Co. was<BR ALIGN='left'/>a &quot;true statutory merger&quot; under the laws<BR ALIGN='left'/>of the state of New Jersey and therefore<BR ALIGN='left'/>the exchange of stock for bonds was not<BR ALIGN='left'/>a taxable event under Sec. 112 of the<BR ALIGN='left'/>Revenue Act of 1938</TD></TR>
+</TABLE>
+>]
+	"07lc3XIrgU" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(2) that since there was a &quot;true<BR ALIGN='left'/>statutory merger&quot; the &quot;continuity of<BR ALIGN='left'/>interest&quot; doctrine in the LeTulle v.<BR ALIGN='left'/>Scofield case is inapplicable</TD></TR>
+</TABLE>
+>]
+	"iRaYI-NPJv" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(3) that in any event a &quot;continuity of<BR ALIGN='left'/>interest&quot; actually existed in the<BR ALIGN='left'/>instant case.</TD></TR>
+</TABLE>
+>]
+	IiQprJKa7o [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The admitted fact that the merger of the<BR ALIGN='left'/>two corporations was a &quot;true statutory<BR ALIGN='left'/>merger&quot; under the New Jersey law is not<BR ALIGN='left'/>dispositive of the question as to<BR ALIGN='left'/>whether there was a &quot;statutory merger&quot;<BR ALIGN='left'/>here within the meaning of Sec. 112(g)<BR ALIGN='left'/>(1) (A). It is well-settled that a State<BR ALIGN='left'/>law cannot alter the essential<BR ALIGN='left'/>characteristics required to enable a<BR ALIGN='left'/>taxpayer to obtain exemption under the<BR ALIGN='left'/>provisions of a Federal Revenue Act.[</TD></TR>
+</TABLE>
+>]
+	gYdVYpcL14 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We so held in Commissioner of Internal<BR ALIGN='left'/>Revenue v. Gilmore&#x27;s Estate, 3 Cir., 130<BR ALIGN='left'/>F.2d 791. Indeed that case is completely<BR ALIGN='left'/>dispositive of the taxpayer&#x27;s first two<BR ALIGN='left'/>contentions. In Gilmore&#x27;s Estate we<BR ALIGN='left'/>found that though there was, in that<BR ALIGN='left'/>case, a &quot;true statutory merger&quot; under<BR ALIGN='left'/>the identical laws of New Jersey<BR ALIGN='left'/>involved here, (1) such &quot;true statutory<BR ALIGN='left'/>merger&quot; is insufficient without more to<BR ALIGN='left'/>qualify as a &quot;reorganization&quot; under the<BR ALIGN='left'/>Revenue Act, and (2) that a &quot;continuity<BR ALIGN='left'/>of interest&quot; as enunciated in numerous<BR ALIGN='left'/>decisions of the Supreme Court of the<BR ALIGN='left'/>United States and the pertinent Treasury<BR ALIGN='left'/>Regulation 101[4] must still be present<BR ALIGN='left'/>to establish a true reorganization. In<BR ALIGN='left'/>Gilmore&#x27;s Estate we said, on page<BR ALIGN='left'/>794:\n\n&quot;It is now settled that whether<BR ALIGN='left'/>a transaction qualifies as a<BR ALIGN='left'/>reorganization under the various Revenue<BR ALIGN='left'/>Acts does not turn alone upon compliance<BR ALIGN='left'/>with the literal language of the<BR ALIGN='left'/>statute. The judicial interpretation has<BR ALIGN='left'/>determined that something more may be<BR ALIGN='left'/>needed and that, indeed, under some<BR ALIGN='left'/>circumstances, something less will do.<BR ALIGN='left'/>Our concern in this case is the<BR ALIGN='left'/>`something more&#x27; since we have concluded<BR ALIGN='left'/>that there was a literal compliance. * *<BR ALIGN='left'/>*\n\n&quot;The reorganization provisions were<BR ALIGN='left'/>enacted to free from the imposition of<BR ALIGN='left'/>an income tax purely `paper profits or<BR ALIGN='left'/>losses&#x27; wherein there is no realization<BR ALIGN='left'/>of gain or loss in the business sense<BR ALIGN='left'/>but merely the recasting of the same<BR ALIGN='left'/>interests in a different form, the tax<BR ALIGN='left'/>being postponed to a future date when a<BR ALIGN='left'/>more tangible gain or loss is realized.<BR ALIGN='left'/>* * *&quot;</TD></TR>
+</TABLE>
+>]
+	fUhB_VeIMK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">it has been recognized that a<BR ALIGN='left'/>transaction may not qualify as a<BR ALIGN='left'/>`reorganization&#x27; under the various<BR ALIGN='left'/>revenue acts though the literal language<BR ALIGN='left'/>of the statute is satisfied. See Paul,<BR ALIGN='left'/>Studies in Federal Taxation (3d Series),<BR ALIGN='left'/>p. 91 et seq.</TD></TR>
+</TABLE>
+>]
+	rqs_fEyxtO [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Pinellas case introduced the<BR ALIGN='left'/>continuity of interest theory to<BR ALIGN='left'/>eliminate those transactions which had<BR ALIGN='left'/>`no real semblance to a merger or<BR ALIGN='left'/>consolidation&#x27; (287 U.S. page 470, 53<BR ALIGN='left'/>S.Ct. [257] 77 L.Ed. 428) and to avoid a<BR ALIGN='left'/>construction which `would make evasion<BR ALIGN='left'/>of taxation very easy.&#x27;</TD></TR>
+</TABLE>
+>]
+	KzAAhvcd4r [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">That Sec. 112 has made &quot;the continuity<BR ALIGN='left'/>of interest test * * * much stricter&quot;<BR ALIGN='left'/>was held in Helvering v. Southwest<BR ALIGN='left'/>Corporation, 315 U.S. 194-198, 62 S.Ct.<BR ALIGN='left'/>546, 550, 86 L.Ed. 789. Said the Court,<BR ALIGN='left'/>page 198 of 315 U.S., at page 550 of 62<BR ALIGN='left'/>S.Ct.:\n\n&quot;Under the statute involved in<BR ALIGN='left'/>Helvering v. Alabama Asphaltic Limestone<BR ALIGN='left'/>Co., 315 U.S. 179, 62 S.Ct. 540, 86<BR ALIGN='left'/>L.Ed. 775, decided this day, there would<BR ALIGN='left'/>have been a `reorganization&#x27; here. For<BR ALIGN='left'/>the creditors of the old company had<BR ALIGN='left'/>acquired substantially the entire<BR ALIGN='left'/>proprietary interest of the old<BR ALIGN='left'/>stockholders. See Helvering v. Minnesota<BR ALIGN='left'/>Tea Co., 296 U.S. 378, 56 S.Ct. 269, 80<BR ALIGN='left'/>L.Ed. 284. But clause (B) of § 112(g)<BR ALIGN='left'/>(1) of the 1934 Act [26 U.S.C.A.<BR ALIGN='left'/>Int.Rev.Acts, page 695] effects an<BR ALIGN='left'/>important change as respects<BR ALIGN='left'/>transactions whereby one corporation<BR ALIGN='left'/>acquires substantially all of the assets<BR ALIGN='left'/>of another. See S. Rep. No. 558, 73d<BR ALIGN='left'/>Cong., 2d Sess., Committee Reports,<BR ALIGN='left'/>Revenue Acts 1913-1938, pp. 598-599. The<BR ALIGN='left'/>continuity of interest test is made much<BR ALIGN='left'/>stricter. See Paul, Studies in Federal<BR ALIGN='left'/>Taxation (3rd Series), pp. 36-41. * *<BR ALIGN='left'/>*&quot;[5] (Emphasis supplied)</TD></TR>
+</TABLE>
+>]
+	"SomI4z54q-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In view of the cases cited we cannot<BR ALIGN='left'/>subscribe to the taxpayer&#x27;s contention<BR ALIGN='left'/>that under Sec. 112(g) (1) (A) of the<BR ALIGN='left'/>Revenue Act of 1938 the requirements of<BR ALIGN='left'/>New Jersey law supersede the &quot;continuity<BR ALIGN='left'/>of interest&quot; test as applied in LeTulle<BR ALIGN='left'/>v. Scofield and the numerous other<BR ALIGN='left'/>decisions.</TD></TR>
+</TABLE>
+>]
+	box36F8w6b [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The taxpayer&#x27;s remaining contention that<BR ALIGN='left'/>the requisite &quot;continuity of interest&quot;<BR ALIGN='left'/>is present under the peculiar facts in<BR ALIGN='left'/>this case is premised on a rather novel<BR ALIGN='left'/>theory. He urges that &quot;prior to the<BR ALIGN='left'/>merger, the stockholders of South Jersey<BR ALIGN='left'/>had no proprietary interest in its<BR ALIGN='left'/>properties in any real sense&quot;, and that<BR ALIGN='left'/>in sanctioning the merger &quot;the decision<BR ALIGN='left'/>of the New Jersey courts recognized that<BR ALIGN='left'/>the stock in the lessor companies was<BR ALIGN='left'/>substantially equivalent to a perpetual<BR ALIGN='left'/>8% bond.&quot;\n\nThis contention places the<BR ALIGN='left'/>taxpayer in an anomalous position.<BR ALIGN='left'/>Whereas the &quot;continuity of interest&quot;<BR ALIGN='left'/>principle is predicated on the existence<BR ALIGN='left'/>of a proprietary right which must be<BR ALIGN='left'/>carried over into the reorganized<BR ALIGN='left'/>corporation, the taxpayer at one and the<BR ALIGN='left'/>same time asserts that a &quot;continuity of<BR ALIGN='left'/>interest&quot; existed in the reorganized<BR ALIGN='left'/>company, even though there was no<BR ALIGN='left'/>proprietary interest by the stockholders<BR ALIGN='left'/>in the merged corporation to be carried<BR ALIGN='left'/>over into the reorganized<BR ALIGN='left'/>corporation.\n\n814*814 It is<BR ALIGN='left'/>unnecessary, however, to further explore<BR ALIGN='left'/>this contention because two things are<BR ALIGN='left'/>so clear that he who runs may read.<BR ALIGN='left'/>First, the stockholders in South Jersey<BR ALIGN='left'/>had a definite and clearly fixed<BR ALIGN='left'/>proprietary interest in its property.<BR ALIGN='left'/>The lease provided that all replacements<BR ALIGN='left'/>and additions to the leased property<BR ALIGN='left'/>were to be the property of South Jersey<BR ALIGN='left'/>and subject to the terms and conditions<BR ALIGN='left'/>of the lease. Further, on the expiration<BR ALIGN='left'/>of the lease all the property subject to<BR ALIGN='left'/>its terms was to be returned to South<BR ALIGN='left'/>Jersey. South Jersey owned the property<BR ALIGN='left'/>under lease even though that lease was<BR ALIGN='left'/>for a 900-year term. The lease further<BR ALIGN='left'/>provided that upon default of its terms<BR ALIGN='left'/>South Jersey could terminate the lease<BR ALIGN='left'/>and re-enter and re-acquire the property<BR ALIGN='left'/>and additions and extensions thereto.</TD></TR>
+</TABLE>
+>]
+	YrN5MgmLXN [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In view of the incontrovertible facts<BR ALIGN='left'/>the taypayer&#x27;s argument that the<BR ALIGN='left'/>stockholders in South Jersey had no<BR ALIGN='left'/>proprietary interest is without basis.</TD></TR>
+</TABLE>
+>]
+	"fK-4BcdLYb" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Finally, it is equally clear that when<BR ALIGN='left'/>the stockholders of South Jersey<BR ALIGN='left'/>exchanged their stock in that<BR ALIGN='left'/>corporation for the long-term bonds of<BR ALIGN='left'/>Public Service Electric and Gas Company,<BR ALIGN='left'/>they surrendered their proprietary<BR ALIGN='left'/>interest and simply became creditors of<BR ALIGN='left'/>Public Service. They no longer owned any<BR ALIGN='left'/>of the former property of South Jersey<BR ALIGN='left'/>and they had no proprietary interest in<BR ALIGN='left'/>the property of Public Service. The Tax<BR ALIGN='left'/>Court succinctly described the situation<BR ALIGN='left'/>when it stated:\n\n&quot;* * * It follows<BR ALIGN='left'/>that no continuing stake in the merged<BR ALIGN='left'/>enterprise was retained by South Jersey<BR ALIGN='left'/>or its stockholders, and hence that the<BR ALIGN='left'/>requisite continuity of interest is not<BR ALIGN='left'/>furnished either by the proprietary<BR ALIGN='left'/>interests acquired by the merged<BR ALIGN='left'/>corporation, nor by the bondholders&#x27;<BR ALIGN='left'/>status conferred upon the former<BR ALIGN='left'/>shareholders.&quot; (emphasis<BR ALIGN='left'/>supplied)\n\nTaxpayer urges that the<BR ALIGN='left'/>substance of the transaction here is<BR ALIGN='left'/>close to that involved in Commissioner<BR ALIGN='left'/>of Internal Revenue v. Neustadt&#x27;s Trust<BR ALIGN='left'/>et al., 2 Cir., 131 F.2d 528. That is<BR ALIGN='left'/>not so. In the Neustadt&#x27;s Trust case the<BR ALIGN='left'/>taxpayers merely exchanged their<BR ALIGN='left'/>holdings of long-term debenture bonds<BR ALIGN='left'/>for an equivalent face amount of short-<BR ALIGN='left'/>term debenture bonds and both the Tax<BR ALIGN='left'/>Court and the United States Circuit<BR ALIGN='left'/>Court of Appeals for the Second Circuit<BR ALIGN='left'/>ruled that the transaction was part of a<BR ALIGN='left'/>&quot;recapitalization&quot; where no transfer of<BR ALIGN='left'/>assets and no change of capital stock<BR ALIGN='left'/>occurred.</TD></TR>
+</TABLE>
+>]
+	AKCJ4Zbndy [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">For the reasons stated the decision of<BR ALIGN='left'/>the Tax Court of the United States is<BR ALIGN='left'/>affirmed.</TD></TR>
+</TABLE>
+>]
+	LbdNYAdmv1 -> xe7XzDpwdr
+	ADelpjeATE -> "07lc3XIrgU"
+	"06FroItQIj" -> "iRaYI-NPJv"
+	IiQprJKa7o -> gYdVYpcL14
+	xe7XzDpwdr -> IiQprJKa7o
+	"07lc3XIrgU" -> IiQprJKa7o
+	gYdVYpcL14 -> fUhB_VeIMK
+	fUhB_VeIMK -> rqs_fEyxtO
+	rqs_fEyxtO -> KzAAhvcd4r
+	KzAAhvcd4r -> "SomI4z54q-"
+	"06FroItQIj" -> box36F8w6b
+	box36F8w6b -> YrN5MgmLXN
+	YrN5MgmLXN -> "fK-4BcdLYb"
+	"fK-4BcdLYb" -> AKCJ4Zbndy
+	"SomI4z54q-" -> AKCJ4Zbndy
+}

@@ -1,0 +1,323 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	_0b4KxbC2r [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This litigation, the basic facts of<BR ALIGN='left'/>which are not in dispute, centers on the<BR ALIGN='left'/>transfer of the operating assets of<BR ALIGN='left'/>Capital Sales, Inc., to Southern Sash<BR ALIGN='left'/>Supply Co., and the subsequent<BR ALIGN='left'/>dissolution of Capital Sales. Both<BR ALIGN='left'/>corporations were owned and operated by<BR ALIGN='left'/>the taxpayers in this case, Joseph<BR ALIGN='left'/>Simon, John Beard, and Warner Mathis.<BR ALIGN='left'/>Mathis was president and majority<BR ALIGN='left'/>shareholder of Capital Sales prior to<BR ALIGN='left'/>its dissolution in 1974 and has<BR ALIGN='left'/>continued to serve as president and<BR ALIGN='left'/>principal stockholder of Southern Sash.<BR ALIGN='left'/>Both corporations were incorporated in<BR ALIGN='left'/>Alabama and engaged in the building<BR ALIGN='left'/>supply business, although Southern<BR ALIGN='left'/>Sash&#x27;s gross receipts have been much<BR ALIGN='left'/>larger than those of Capital Sales. In<BR ALIGN='left'/>the 1973 fiscal year, for example,<BR ALIGN='left'/>Southern Sash grossed approximately $3<BR ALIGN='left'/>million while Capital Sales had 341*341<BR ALIGN='left'/>an income of only $125,000. The two<BR ALIGN='left'/>companies shared common office and<BR ALIGN='left'/>warehouse space, together with a third<BR ALIGN='left'/>corporation owned by taxpayers. They<BR ALIGN='left'/>also shared salespersons.\n\nShortly<BR ALIGN='left'/>after its incorporation in 1960, Capital<BR ALIGN='left'/>Sales became a distributor of Modernfold<BR ALIGN='left'/>doors, which at the time were<BR ALIGN='left'/>manufactured by New Castle Products,<BR ALIGN='left'/>Inc. Although it later added other<BR ALIGN='left'/>products to its line, the sale of these<BR ALIGN='left'/>doors accounted for most of its<BR ALIGN='left'/>business, approximately eighty percent<BR ALIGN='left'/>by 1973.\n\nIn 1968, Capital Sales and<BR ALIGN='left'/>New Castle Products entered into a<BR ALIGN='left'/>written agreement which designated<BR ALIGN='left'/>Capital Sales as a distributor of<BR ALIGN='left'/>Modernfold doors for south central<BR ALIGN='left'/>Alabama. The agreement further provided<BR ALIGN='left'/>that it was nonassignable and could be<BR ALIGN='left'/>cancelled by either party without cause<BR ALIGN='left'/>upon thirty days notice. Although this<BR ALIGN='left'/>distributorship agreement was not<BR ALIGN='left'/>expressly termed a &quot;franchise,&quot; it is<BR ALIGN='left'/>referred to as such by the parties to<BR ALIGN='left'/>this lawsuit and by the Tax<BR ALIGN='left'/>Court.\n\nSometime after this agreement<BR ALIGN='left'/>was entered into, New Castle Products<BR ALIGN='left'/>was purchased by American-Standard<BR ALIGN='left'/>Company. American-Standard manufactured<BR ALIGN='left'/>larger and more expensive products<BR ALIGN='left'/>including movable walls selling for<BR ALIGN='left'/>$100,000 or more each, in addition to<BR ALIGN='left'/>the Modernfold doors handled by Capital<BR ALIGN='left'/>Sales.\n\nIn 1973, E. C. Gilmore, a<BR ALIGN='left'/>salesman for Capital Sales who handled<BR ALIGN='left'/>the Modernfold account, told Mathis he<BR ALIGN='left'/>had been informed by officials of<BR ALIGN='left'/>American-Standard that they were<BR ALIGN='left'/>considering shifting the Modernfold<BR ALIGN='left'/>franchise to another distributor,<BR ALIGN='left'/>because they preferred larger companies<BR ALIGN='left'/>to distribute their products. The<BR ALIGN='left'/>officials expressed their willingness,<BR ALIGN='left'/>however, to transfer the Modernfold<BR ALIGN='left'/>account to Southern Sash since it was<BR ALIGN='left'/>considerably larger than Capital Sales.<BR ALIGN='left'/>Mathis agreed it would be better to have<BR ALIGN='left'/>the franchise transferred to Southern<BR ALIGN='left'/>Sash than to lose it to an unrelated<BR ALIGN='left'/>company.\n\nAfter further discussions<BR ALIGN='left'/>between Gilmore and American-Standard&#x27;s<BR ALIGN='left'/>sales representative and sales manager,<BR ALIGN='left'/>the proposed transfer of the account was<BR ALIGN='left'/>arranged. On December 18, 1973,<BR ALIGN='left'/>American-Standard&#x27;s credit manager wrote<BR ALIGN='left'/>Capital Sales: &quot;Effective December 31,<BR ALIGN='left'/>1973, we are changing our records to<BR ALIGN='left'/>show Southern Sash Supply ... as the<BR ALIGN='left'/>distributor but we will not change the<BR ALIGN='left'/>distributor number that has been<BR ALIGN='left'/>assigned to you.&quot; The letter also stated<BR ALIGN='left'/>that after December 31 further shipments<BR ALIGN='left'/>would be billed to Southern Sash rather<BR ALIGN='left'/>than to Capital Sales.\n\nIn January<BR ALIGN='left'/>1974, the taxpayers, convening as<BR ALIGN='left'/>Capital Sales&#x27; shareholders and board of<BR ALIGN='left'/>directors, voted to dissolve the<BR ALIGN='left'/>company. All of its assets other than<BR ALIGN='left'/>cash, certificates of deposit, and<BR ALIGN='left'/>investments in stock were sold to<BR ALIGN='left'/>Southern Sash for approximately $54,000.<BR ALIGN='left'/>The assets sold included notes and<BR ALIGN='left'/>accounts receivable, outstanding<BR ALIGN='left'/>Modernfold door orders, and an<BR ALIGN='left'/>automobile used in the business. About<BR ALIGN='left'/>$135,000, representing the remaining<BR ALIGN='left'/>assets held by Capital Sales as well as<BR ALIGN='left'/>the proceeds from the sale to Southern<BR ALIGN='left'/>Sash, was then distributed to the<BR ALIGN='left'/>shareholders, and the corporation was<BR ALIGN='left'/>formally dissolved.</TD></TR>
+</TABLE>
+>]
+	KEtmefyOhN [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">On their 1974 tax returns, taxpayers<BR ALIGN='left'/>treated the distributed amount as<BR ALIGN='left'/>received in a complete liquidation,<BR ALIGN='left'/>taxable as capital gain. I.R.C. § 331,<BR ALIGN='left'/>26 U.S.C.A. § 331. The Government<BR ALIGN='left'/>assessed deficiencies, contending the<BR ALIGN='left'/>distribution was incident to a<BR ALIGN='left'/>reorganization, taxable as ordinary<BR ALIGN='left'/>income. I.R.C. §§ 356, 368, 26 U.S.C.A.<BR ALIGN='left'/>§§ 356, 368.</TD></TR>
+</TABLE>
+>]
+	"1R5AwxbE9-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Government also imposed an<BR ALIGN='left'/>accumulated earnings tax on Capital<BR ALIGN='left'/>Sales, which was upheld by the Tax Court<BR ALIGN='left'/>and is not contested on this appeal.</TD></TR>
+</TABLE>
+>]
+	"2-crwbIfgM" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The type of reorganization the<BR ALIGN='left'/>Government alleges occurred in this case<BR ALIGN='left'/>is defined by sections 354 and 368 of<BR ALIGN='left'/>the Internal Revenue Code, which in<BR ALIGN='left'/>distilled form set forth the following<BR ALIGN='left'/>requirements:</TD></TR>
+</TABLE>
+>]
+	"57oj3PXhms" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(2) of substantially all of its assets<BR ALIGN='left'/>[§ 354(b)(1)(A)];</TD></TR>
+</TABLE>
+>]
+	b4Urh43ntl [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(3) to a corporation controlled by the<BR ALIGN='left'/>shareholders of the transferor-<BR ALIGN='left'/>corporation or by the transferor-<BR ALIGN='left'/>corporation itself [§ 368(a)(1)(D)];</TD></TR>
+</TABLE>
+>]
+	"tviMAkGL-R" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(4) in exchange for stock or securities<BR ALIGN='left'/>of the transferee corporation [§<BR ALIGN='left'/>354(a)(1)];</TD></TR>
+</TABLE>
+>]
+	"QSw6_RPI2-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(5) followed by a distribution of stock<BR ALIGN='left'/>or securities of the transferee-<BR ALIGN='left'/>corporation to the transferor&#x27;s<BR ALIGN='left'/>shareholders [§ 354(b)(1)(B)];</TD></TR>
+</TABLE>
+>]
+	aymLlF4IRv [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(6) pursuant to a plan of reorganization<BR ALIGN='left'/>[§ 354(b)(1)].</TD></TR>
+</TABLE>
+>]
+	kqJoLn5UIq [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(1) There must be a transfer by a<BR ALIGN='left'/>corporation [§ 368(a)(1)(D)];</TD></TR>
+</TABLE>
+>]
+	FOzAfmTCV5 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Tax Court found a liquidation.</TD></TR>
+</TABLE>
+>]
+	ewklga7Ilt [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In this case, it is undisputed that a<BR ALIGN='left'/>transfer took place</TD></TR>
+</TABLE>
+>]
+	WonVInG_DI [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">that the taxpayers controlled both<BR ALIGN='left'/>Capital Sales, the transferor<BR ALIGN='left'/>corporation, and Southern Sash, the<BR ALIGN='left'/>transferee company.</TD></TR>
+</TABLE>
+>]
+	d6DFgL8s9B [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">An exchange and distribution of stock<BR ALIGN='left'/>are also conceded, even though no<BR ALIGN='left'/>Southern Sash stock was exchanged at the<BR ALIGN='left'/>time of the transfer or distributed in<BR ALIGN='left'/>the liquidation.</TD></TR>
+</TABLE>
+>]
+	U_Ebe5mWnw [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The law is well settled that where<BR ALIGN='left'/>shareholders of the transferor<BR ALIGN='left'/>corporation already own all of the stock<BR ALIGN='left'/>of the transferee corporation, the<BR ALIGN='left'/>issuance of further stock for exchange<BR ALIGN='left'/>and distribution is not required.</TD></TR>
+</TABLE>
+>]
+	ghcRvGNKXc [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The disputed issues are whether there<BR ALIGN='left'/>was a transfer of &quot;substantially all&quot; of<BR ALIGN='left'/>the assets of Capital Sales</TD></TR>
+</TABLE>
+>]
+	"6S4Kc59o0L" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">if so, whether the transfer was pursuant<BR ALIGN='left'/>to &quot;a plan of reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	y8ojUt6U5P [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Transfer of &quot;Substantially All&quot; of the<BR ALIGN='left'/>Assets</TD></TR>
+</TABLE>
+>]
+	qjqXJbmuJd [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Tax Court held the requirement of a<BR ALIGN='left'/>transfer of &quot;substantially all&quot;<BR ALIGN='left'/>transferor Capital Sales&#x27; assets was not<BR ALIGN='left'/>met, because American-Standard rather<BR ALIGN='left'/>than Capital Sales directed the transfer<BR ALIGN='left'/>of the principal operating asset, the<BR ALIGN='left'/>Modernfold door franchise. The court,<BR ALIGN='left'/>with four judges dissenting, concluded<BR ALIGN='left'/>that absent a transfer by Capital Sales<BR ALIGN='left'/>of this franchise,</TD></TR>
+</TABLE>
+>]
+	Qr1XUMCSX6 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the Government improperly used step-<BR ALIGN='left'/>transaction analysis in characterizing<BR ALIGN='left'/>the series of events as a<BR ALIGN='left'/>reorganization. Under step-transaction<BR ALIGN='left'/>analysis, the events are reviewed as a<BR ALIGN='left'/>whole to determine whether they are<BR ALIGN='left'/>integrated parts of a scheme of<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	owxIPH_UxA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">As the Tax Court noted, there are<BR ALIGN='left'/>apparently no previous cases in this<BR ALIGN='left'/>Circuit or elsewhere which have squarely<BR ALIGN='left'/>addressed whether a transfer under these<BR ALIGN='left'/>circumstances precludes a finding of<BR ALIGN='left'/>reorganization. An analysis of closely-<BR ALIGN='left'/>related cases, however, indicates the<BR ALIGN='left'/>transfer of the franchise as well as the<BR ALIGN='left'/>subsequent liquidation and distribution<BR ALIGN='left'/>should be viewed as steps in a<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	r6KxtMyQNT [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A scheme of reorganization is<BR ALIGN='left'/>characterized by a continuity of the<BR ALIGN='left'/>original business by the same<BR ALIGN='left'/>shareholders.</TD></TR>
+</TABLE>
+>]
+	CPBBH4H550 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A reorganization will be found for tax<BR ALIGN='left'/>purposes when, after the completion of a<BR ALIGN='left'/>series of transactions, the taxpayers<BR ALIGN='left'/>are &quot;in control of the same going<BR ALIGN='left'/>business as before, albeit in a new<BR ALIGN='left'/>corporate shell, having in the meantime<BR ALIGN='left'/>extracted a substantial portion of the<BR ALIGN='left'/>accumulated earnings and profits of the<BR ALIGN='left'/>business.&quot;</TD></TR>
+</TABLE>
+>]
+	"8OQkKa3alr" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This is precisely the situation here.<BR ALIGN='left'/>Capital Sales&#x27; entire operating assets<BR ALIGN='left'/>were transferred to Southern Sash, and<BR ALIGN='left'/>its business was continued exactly as<BR ALIGN='left'/>before except under Southern Sash&#x27;s<BR ALIGN='left'/>name. The result is identical to that in<BR ALIGN='left'/>previous cases in which reorganizations<BR ALIGN='left'/>have been found:\n\nThe [transferor<BR ALIGN='left'/>corporation&#x27;s] business was transferred<BR ALIGN='left'/>to the new company, bearing a similar<BR ALIGN='left'/>name and controlled by the same persons.<BR ALIGN='left'/>It employed the same personnel, used the<BR ALIGN='left'/>same facilities, had the same address,<BR ALIGN='left'/>and dealt with the same clients as<BR ALIGN='left'/>though nothing had occurred apart from<BR ALIGN='left'/>the minor change in name of the<BR ALIGN='left'/>business. There was here the most<BR ALIGN='left'/>complete continuity of enterprise — the<BR ALIGN='left'/>very kind of continuity that is basic to<BR ALIGN='left'/>a corporate reorganization ....\n343*343<BR ALIGN='left'/>DeGroff v. Commissioner, 54 T.C. 59, 72<BR ALIGN='left'/>(1970) (quoting Moffatt v. Commissioner,<BR ALIGN='left'/>42 T.C. 558, 578, aff&#x27;d, 363 F.2d 262<BR ALIGN='left'/>(9th Cir. 1966)). See also Ringwalt v.<BR ALIGN='left'/>United States, 549 F.2d 89, 91 (8th Cir.<BR ALIGN='left'/>1977); Lewis v. Commissioner, 176 F.2d<BR ALIGN='left'/>646, 648 (1st Cir. 1949).</TD></TR>
+</TABLE>
+>]
+	gENiQMWj7J [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In light of this undisputed continuity<BR ALIGN='left'/>of Capital Sales&#x27; business by Southern<BR ALIGN='left'/>Sash, the fact that American-Standard<BR ALIGN='left'/>technically transferred the Modernfold<BR ALIGN='left'/>franchise should not require a different<BR ALIGN='left'/>result. The evidence is clear that<BR ALIGN='left'/>Mathis and Gilmore played an important<BR ALIGN='left'/>role in having the franchise shifted to<BR ALIGN='left'/>Southern Sash, albeit to prevent the<BR ALIGN='left'/>account from being lost to an unrelated<BR ALIGN='left'/>company.</TD></TR>
+</TABLE>
+>]
+	lnkttVucQn [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Courts have found reorganizations even<BR ALIGN='left'/>though the transfer of a principal<BR ALIGN='left'/>operating asset was carried out by a<BR ALIGN='left'/>third party.</TD></TR>
+</TABLE>
+>]
+	"RgEa-5zTl_" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Commissioner v. Morgan, 288 F.2d 676 (3d<BR ALIGN='left'/>Cir. 1961) (principal asset of the<BR ALIGN='left'/>transferor investment company, a<BR ALIGN='left'/>contract to render advisory services to<BR ALIGN='left'/>a mutual fund, shifted to the transferee<BR ALIGN='left'/>company by the fund);</TD></TR>
+</TABLE>
+>]
+	gQom0DsVMp [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Liddon v. Commissioner, 230 F.2d 304<BR ALIGN='left'/>(6th Cir. 1956) (transfer of principal<BR ALIGN='left'/>asset, an automobile dealership<BR ALIGN='left'/>franchise, carried out by General<BR ALIGN='left'/>Motors, the franchisor).</TD></TR>
+</TABLE>
+>]
+	wa5IseQuBO [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Cf. Moffatt v. Commissioner, 363 F.2d<BR ALIGN='left'/>262, 268 n.2 (9th Cir. 1966)<BR ALIGN='left'/>(transferor&#x27;s skilled employees, its<BR ALIGN='left'/>most essential asset, made their own<BR ALIGN='left'/>decision to shift to the transferee<BR ALIGN='left'/>company);</TD></TR>
+</TABLE>
+>]
+	WJyiQJSsIg [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">DeGroff v. Commissioner, 54 T.C. 59<BR ALIGN='left'/>(1970), aff&#x27;d, 444 F.2d 1385 (10th Cir.<BR ALIGN='left'/>1971) (transfer of the most valuable<BR ALIGN='left'/>asset, an exclusive patent licensing<BR ALIGN='left'/>agreement, carried out by the licensor).</TD></TR>
+</TABLE>
+>]
+	ETwcCn5gwT [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Liddon, for example, the court held a<BR ALIGN='left'/>reorganization occurred despite the fact<BR ALIGN='left'/>the decision to transfer the automobile<BR ALIGN='left'/>franchise lay entirely within the<BR ALIGN='left'/>discretion of the franchisor.</TD></TR>
+</TABLE>
+>]
+	"7nyUTTmTeO" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We hold, then, the requirement of a<BR ALIGN='left'/>transfer of &quot;substantially all&quot; its<BR ALIGN='left'/>assets was met in this case.</TD></TR>
+</TABLE>
+>]
+	K28h6QteVe [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A &quot;Plan&quot; of Reorganization</TD></TR>
+</TABLE>
+>]
+	lQr4BZHs2v [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Taxpayers further contend the<BR ALIGN='left'/>requirement of a &quot;plan&quot; of<BR ALIGN='left'/>reorganization is not satisfied. They<BR ALIGN='left'/>argue their plan was only to liquidate<BR ALIGN='left'/>Capital Sales, not to reorganize their<BR ALIGN='left'/>companies, and that the transfer of<BR ALIGN='left'/>Capital Sales&#x27; operating assets to<BR ALIGN='left'/>Southern Sash was made only as an<BR ALIGN='left'/>incident to liquidation.</TD></TR>
+</TABLE>
+>]
+	"8fgWGVJsLo" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">To meet the requirement of a &quot;plan,&quot;<BR ALIGN='left'/>however, it is sufficient if the steps<BR ALIGN='left'/>taken as a whole constitute a<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	"5l75f6-ZOg" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The reorganization provisions are not<BR ALIGN='left'/>voluntary, and a series of transactions<BR ALIGN='left'/>may fall within their terms regardless<BR ALIGN='left'/>of how they are characterized by the<BR ALIGN='left'/>taxpayers. Davant, supra, 366 F.2d at<BR ALIGN='left'/>887.</TD></TR>
+</TABLE>
+>]
+	uUKV2IQX3v [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Taxpayers&#x27; final contention is that the<BR ALIGN='left'/>steps were taken out of a desire to<BR ALIGN='left'/>retain the Modernfold account rather<BR ALIGN='left'/>than to avoid taxes. The presence of a<BR ALIGN='left'/>legitimate business purpose is not<BR ALIGN='left'/>dispositive.</TD></TR>
+</TABLE>
+>]
+	INVNnNFnct [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Often, the reason for similar<BR ALIGN='left'/>transactions is to consolidate separate<BR ALIGN='left'/>businesses for greater efficiency, see,<BR ALIGN='left'/>e. g., Commissioner v. Morgan, 288 F.2d<BR ALIGN='left'/>676 (3d Cir. 1961), or to buy out a<BR ALIGN='left'/>minority shareholder, see, e. g., Reef<BR ALIGN='left'/>Corp. v. Commissioner, 368 F.2d 125 (5th<BR ALIGN='left'/>Cir. 1966); Liddon v. Commissioner, 230<BR ALIGN='left'/>F.2d 304 (6th Cir. 1956).</TD></TR>
+</TABLE>
+>]
+	"3U4mUvF-Z3" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Such business purposes will not prevent<BR ALIGN='left'/>what is in substance a reorganization<BR ALIGN='left'/>from being considered such for tax<BR ALIGN='left'/>purposes. Lewis v. Commissioner, 176<BR ALIGN='left'/>F.2d 646, 650 (1st Cir. 1949); Rose v.<BR ALIGN='left'/>United States, 1979-1 U.S.T.C. ¶ 9194<BR ALIGN='left'/>(W.D.Wash.1978) (&quot;while the existence of<BR ALIGN='left'/>a business purpose is a factor to be<BR ALIGN='left'/>considered, it is not dispositive or<BR ALIGN='left'/>controlling in determining whether a<BR ALIGN='left'/>liquidation is or is not a step in a<BR ALIGN='left'/>corporate reorganization&quot;).</TD></TR>
+</TABLE>
+>]
+	Lt9hB9ctnI [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A finding of reorganization in this case<BR ALIGN='left'/>is supported not only by the case law,<BR ALIGN='left'/>but also by an examination of the<BR ALIGN='left'/>congressional intent underlying the<BR ALIGN='left'/>liquidation and reorganization<BR ALIGN='left'/>provisions, when they are viewed as a<BR ALIGN='left'/>&quot;functional whole.&quot; Davant v.<BR ALIGN='left'/>Commissioner, 366 F.2d 874, 879 (5th<BR ALIGN='left'/>Cir. 1966). 344*344 The purpose of the<BR ALIGN='left'/>liquidation provisions is to provide<BR ALIGN='left'/>capital gain or loss treatment for<BR ALIGN='left'/>shareholders when their interest in a<BR ALIGN='left'/>business or a distinct part thereof has<BR ALIGN='left'/>been terminated and the assets<BR ALIGN='left'/>distributed. I.R.C. §§ 331-337, 26<BR ALIGN='left'/>U.S.C.A. §§ 331-337. Such a distribution<BR ALIGN='left'/>is considered the equivalent of a sale<BR ALIGN='left'/>of stock which, of course, is the<BR ALIGN='left'/>classic transaction subject to capital<BR ALIGN='left'/>gain treatment. See Pridemark, Inc. v.<BR ALIGN='left'/>Commissioner, 345 F.2d 35, 41 (4th Cir.<BR ALIGN='left'/>1965).</TD></TR>
+</TABLE>
+>]
+	mY1iKYDxHx [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The reorganization provisions, on the<BR ALIGN='left'/>other hand, provide relief where the<BR ALIGN='left'/>business of a corporation will be<BR ALIGN='left'/>continued by the shareholders but with<BR ALIGN='left'/>changes in the corporate form. These<BR ALIGN='left'/>provisions provide for the<BR ALIGN='left'/>nonrecognition of gain or loss to the<BR ALIGN='left'/>extent the shareholders exchange stocks<BR ALIGN='left'/>or securities of the old corporation for<BR ALIGN='left'/>those of the new. I.R.C. § 354, 26<BR ALIGN='left'/>U.S.C.A. § 354. Property received in the<BR ALIGN='left'/>exchange other than stocks or<BR ALIGN='left'/>securities, however, call &quot;boot,&quot; is<BR ALIGN='left'/>generally viewed as equivalent to<BR ALIGN='left'/>dividends and is taxed as such, at least<BR ALIGN='left'/>to the extent it represents<BR ALIGN='left'/>undistributed earnings and profits of<BR ALIGN='left'/>the corporation. I.R.C. § 356, 26<BR ALIGN='left'/>U.S.C.A. § 356. See generally Davant v.<BR ALIGN='left'/>Commissioner, 366 F.2d 874, 882-87 (5th<BR ALIGN='left'/>Cir. 1966).</TD></TR>
+</TABLE>
+>]
+	"6aNRvelyjt" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Congress, then, has clearly mandated<BR ALIGN='left'/>different tax consequences depending on<BR ALIGN='left'/>whether a business is terminated or is<BR ALIGN='left'/>instead carried on in a modified form.<BR ALIGN='left'/>Where as here the business is continued<BR ALIGN='left'/>under the control of the same<BR ALIGN='left'/>shareholders, the reorganization<BR ALIGN='left'/>provisions should be held applicable,<BR ALIGN='left'/>provided the other requirements of these<BR ALIGN='left'/>provisions are satisfied.</TD></TR>
+</TABLE>
+>]
+	"558mi0zudW" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The liquidation provisions should not be<BR ALIGN='left'/>applied where they would enable &quot;the<BR ALIGN='left'/>stockholders of a corporation to<BR ALIGN='left'/>withdraw its earnings and profits in the<BR ALIGN='left'/>form of liquid or investment or other<BR ALIGN='left'/>nonessential assets, to continue in the<BR ALIGN='left'/>same relationship to `the business,&#x27; and<BR ALIGN='left'/>to avoid tax at ordinary income rates on<BR ALIGN='left'/>what is essentially a dividend.&quot;</TD></TR>
+</TABLE>
+>]
+	ghPEju32Ev [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We hold the transfer of the operating<BR ALIGN='left'/>assets of Capital Sales to Southern Sash<BR ALIGN='left'/>and the subsequent liquidation and<BR ALIGN='left'/>distribution of the remaining Capital<BR ALIGN='left'/>Sales&#x27; assets to its shareholders were<BR ALIGN='left'/>integrated steps resulting in a<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	"XvZmI_pH-R" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The decision of the Tax Court is<BR ALIGN='left'/>therefore reversed.</TD></TR>
+</TABLE>
+>]
+	"4TaJj7VNEX" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">REVERSED AND REMANDED.</TD></TR>
+</TABLE>
+>]
+	"2-crwbIfgM" -> kqJoLn5UIq
+	"2-crwbIfgM" -> "57oj3PXhms"
+	"2-crwbIfgM" -> b4Urh43ntl
+	"2-crwbIfgM" -> "tviMAkGL-R"
+	"2-crwbIfgM" -> "QSw6_RPI2-"
+	"2-crwbIfgM" -> aymLlF4IRv
+	kqJoLn5UIq -> ewklga7Ilt
+	b4Urh43ntl -> WonVInG_DI
+	"tviMAkGL-R" -> d6DFgL8s9B
+	d6DFgL8s9B -> U_Ebe5mWnw
+	"QSw6_RPI2-" -> U_Ebe5mWnw
+	"57oj3PXhms" -> ghcRvGNKXc
+	aymLlF4IRv -> "6S4Kc59o0L"
+	"57oj3PXhms" -> y8ojUt6U5P
+	y8ojUt6U5P -> qjqXJbmuJd
+	qjqXJbmuJd -> Qr1XUMCSX6
+	Qr1XUMCSX6 -> owxIPH_UxA
+	owxIPH_UxA -> r6KxtMyQNT
+	r6KxtMyQNT -> CPBBH4H550
+	CPBBH4H550 -> "8OQkKa3alr"
+	lnkttVucQn -> gENiQMWj7J
+	"RgEa-5zTl_" -> lnkttVucQn
+	gQom0DsVMp -> lnkttVucQn
+	wa5IseQuBO -> lnkttVucQn
+	"8OQkKa3alr" -> lnkttVucQn
+	ETwcCn5gwT -> gQom0DsVMp
+	gENiQMWj7J -> "7nyUTTmTeO"
+	aymLlF4IRv -> K28h6QteVe
+	lQr4BZHs2v -> "8fgWGVJsLo"
+	"8fgWGVJsLo" -> "5l75f6-ZOg"
+	"5l75f6-ZOg" -> uUKV2IQX3v
+	uUKV2IQX3v -> INVNnNFnct
+	INVNnNFnct -> "3U4mUvF-Z3"
+	"3U4mUvF-Z3" -> Lt9hB9ctnI
+	Lt9hB9ctnI -> mY1iKYDxHx
+	mY1iKYDxHx -> "6aNRvelyjt"
+	"6aNRvelyjt" -> "558mi0zudW"
+	"558mi0zudW" -> ghPEju32Ev
+	ghPEju32Ev -> "XvZmI_pH-R"
+	"7nyUTTmTeO" -> "XvZmI_pH-R"
+	"XvZmI_pH-R" -> "4TaJj7VNEX"
+}

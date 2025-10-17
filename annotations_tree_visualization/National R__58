@@ -1,0 +1,61 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	l9SGTbFbwZ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">These assets were acquired under these<BR ALIGN='left'/>circumstances: In the early part of 1928<BR ALIGN='left'/>one Francis Quinn approached each of the<BR ALIGN='left'/>three above companies, and also the<BR ALIGN='left'/>Banner Machine Company and the Kuhlke<BR ALIGN='left'/>Machine Company, with proposals for the<BR ALIGN='left'/>transfer of their assets to a<BR ALIGN='left'/>corporation to be organized, the<BR ALIGN='left'/>plaintiff in this case. Contracts were<BR ALIGN='left'/>entered into between him and each of<BR ALIGN='left'/>these five companies, under which they<BR ALIGN='left'/>agreed to convey all of their assets to<BR ALIGN='left'/>this corporation for a certain amount in<BR ALIGN='left'/>cash, the assumption of their<BR ALIGN='left'/>liabilities, and the issuance to them of<BR ALIGN='left'/>a certain number of shares of<BR ALIGN='left'/>plaintiff&#x27;s stock, except that the<BR ALIGN='left'/>contract with the Kuhlke Machine Company<BR ALIGN='left'/>provided for a transfer of only a<BR ALIGN='left'/>portion of its assets to plaintiff, and<BR ALIGN='left'/>none of its liabilities were assumed.<BR ALIGN='left'/>Plaintiff was to have an authorized<BR ALIGN='left'/>capital of 152,000 shares of common<BR ALIGN='left'/>stock of no par value. 15,000 shares of<BR ALIGN='left'/>it were to be issued to Francis Quinn<BR ALIGN='left'/>for his services, and 35,000 shares were<BR ALIGN='left'/>to be sold to J. A. Sisto &amp; Company,<BR ALIGN='left'/>bankers, at $15 a share. The plaintiff<BR ALIGN='left'/>was also to issue $1,300,000 of first<BR ALIGN='left'/>mortgage six percent bonds, which were<BR ALIGN='left'/>to be sold to J. A. Sisto &amp; Company at<BR ALIGN='left'/>90 percent of their par<BR ALIGN='left'/>value.\n\nPursuant to these agreements,<BR ALIGN='left'/>a total of 82,080 shares of plaintiff&#x27;s<BR ALIGN='left'/>stock were actually issued, 12,000 to<BR ALIGN='left'/>the Akron Rubber Mold &amp; Machine Company,<BR ALIGN='left'/>11,000 to the DeMattia companies, 4,000<BR ALIGN='left'/>to Banner Machine Company, 5,080 to<BR ALIGN='left'/>Kuhlke Machine Company, 15,000 to<BR ALIGN='left'/>Francis Quinn, and 35,000 to J. A. Sisto<BR ALIGN='left'/>&amp; Company.\n\nThe Commissioner of<BR ALIGN='left'/>Internal Revenue held that this<BR ALIGN='left'/>transaction was a reorganization and<BR ALIGN='left'/>that the proper basis for depreciation<BR ALIGN='left'/>of the assets received from the Akron<BR ALIGN='left'/>Rubber Mold &amp; Machine Company and the<BR ALIGN='left'/>two DeMattia companies was the cost of<BR ALIGN='left'/>those assets to those companies, and not<BR ALIGN='left'/>to the plaintiff. But, on the contrary,<BR ALIGN='left'/>he held that the proper basis for the<BR ALIGN='left'/>assets received from the Banner Machine<BR ALIGN='left'/>Company and the Kuhlke Machine Company<BR ALIGN='left'/>was their cost to plaintiff, or, in the<BR ALIGN='left'/>absence of proof of cost, their market<BR ALIGN='left'/>value at the time plaintiff acquired<BR ALIGN='left'/>them. This, he held, was for the reason<BR ALIGN='left'/>that neither the Banner Machine Company<BR ALIGN='left'/>nor Kuhlke Machine Company was a party<BR ALIGN='left'/>to the reorganization. The Banner<BR ALIGN='left'/>Machine Company was not a party to the<BR ALIGN='left'/>reorganization because prior to the time<BR ALIGN='left'/>it received the stock from the plaintiff<BR ALIGN='left'/>it had made commitments for the sale of<BR ALIGN='left'/>it and, in fact, did later sell it; the<BR ALIGN='left'/>Kuhlke Machine Company was not a party<BR ALIGN='left'/>to the reorganization because the<BR ALIGN='left'/>plaintiff did not acquire &quot;substantially<BR ALIGN='left'/>all of the properties of the company.&quot;</TD></TR>
+</TABLE>
+>]
+	TRe3bXx42P [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 114 makes the basis for<BR ALIGN='left'/>computing depreciation the same as the<BR ALIGN='left'/>basis for computing gain or loss, and<BR ALIGN='left'/>section 113 fixes cost as the ordinary<BR ALIGN='left'/>basis for computing gain or loss on<BR ALIGN='left'/>property acquired after February 28,<BR ALIGN='left'/>1913; but it sets out twelve exceptions<BR ALIGN='left'/>to this general rule. Exception number<BR ALIGN='left'/>(6) provides that if property was<BR ALIGN='left'/>acquired in the manner this property was<BR ALIGN='left'/>acquired, &quot;the basis shall be the same<BR ALIGN='left'/>as in the case of the property<BR ALIGN='left'/>exchanged.&quot; This seems to support<BR ALIGN='left'/>defendant&#x27;s position; but the section<BR ALIGN='left'/>concludes — &quot;This paragraph shall not<BR ALIGN='left'/>apply to property acquired by a<BR ALIGN='left'/>corporation by the issuance of its stock<BR ALIGN='left'/>or securities as the consideration in<BR ALIGN='left'/>whole or in part for the transfer of the<BR ALIGN='left'/>property to it.&quot;</TD></TR>
+</TABLE>
+>]
+	W3zQvZSE7t [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Thus we see that while this section is<BR ALIGN='left'/>applicable to the corporation<BR ALIGN='left'/>transferring its property for stock, it<BR ALIGN='left'/>is expressly made inapplicable to the<BR ALIGN='left'/>corporation issuing its stock for<BR ALIGN='left'/>property.</TD></TR>
+</TABLE>
+>]
+	"6bYQ0JfjFH" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Paragraph (7), immediately following the<BR ALIGN='left'/>above-mentioned paragraph, provides that<BR ALIGN='left'/>the basis for the property received for<BR ALIGN='left'/>stock in a reorganization shall be the<BR ALIGN='left'/>same as it would be in the hands of the<BR ALIGN='left'/>transferor, but only in the event that<BR ALIGN='left'/>&quot;immediately after the transfer an<BR ALIGN='left'/>interest or control in such property of<BR ALIGN='left'/>80 per centum or more remained in the<BR ALIGN='left'/>same persons or any of them.&quot; If such<BR ALIGN='left'/>interest or control did not remain in<BR ALIGN='left'/>such hands, then, of course, the general<BR ALIGN='left'/>rule applied, to wit, cost.</TD></TR>
+</TABLE>
+>]
+	oHdU0XJU5I [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In subparagraph (8) another case is<BR ALIGN='left'/>described where cost to the seller is<BR ALIGN='left'/>not the proper basis. This is where<BR ALIGN='left'/>property is transferred by one or more<BR ALIGN='left'/>persons to a corporation solely in<BR ALIGN='left'/>exchange for its stock or securities and<BR ALIGN='left'/>where immediately after the exchange the<BR ALIGN='left'/>persons transferring the property are in<BR ALIGN='left'/>control of the corporation in<BR ALIGN='left'/>substantially the same proportion as<BR ALIGN='left'/>their former interests in the property<BR ALIGN='left'/>transferred. (The defendant concedes<BR ALIGN='left'/>that for this section to be applicable,<BR ALIGN='left'/>as well as subsection (7), the<BR ALIGN='left'/>transferors must have not less than an<BR ALIGN='left'/>80 percent interest or control in the<BR ALIGN='left'/>transferee corporation.)</TD></TR>
+</TABLE>
+>]
+	Qm0RBDVms5 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Unless, therefore, 80 percent interest<BR ALIGN='left'/>or control remains in the same persons<BR ALIGN='left'/>after the transfer, the proper basis is<BR ALIGN='left'/>the cost to the plaintiff, and not cost<BR ALIGN='left'/>to the persons who transferred the<BR ALIGN='left'/>property to plaintiff.</TD></TR>
+</TABLE>
+>]
+	zXw6ka_ELd [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Deducting these 35,000 shares from the<BR ALIGN='left'/>total shares issued, leaves only 47,080<BR ALIGN='left'/>shares, which is considerably less than<BR ALIGN='left'/>the 80 percent fixed by the statute.</TD></TR>
+</TABLE>
+>]
+	kKHgP6GlYM [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It results that plaintiff is correct in<BR ALIGN='left'/>saying the proper basis for the assets<BR ALIGN='left'/>in question is their cost to it.</TD></TR>
+</TABLE>
+>]
+	W3zQvZSE7t -> TRe3bXx42P
+	"6bYQ0JfjFH" -> TRe3bXx42P
+	oHdU0XJU5I -> TRe3bXx42P
+	Qm0RBDVms5 -> "6bYQ0JfjFH"
+	Qm0RBDVms5 -> oHdU0XJU5I
+	zXw6ka_ELd -> oHdU0XJU5I
+	TRe3bXx42P -> kKHgP6GlYM
+}

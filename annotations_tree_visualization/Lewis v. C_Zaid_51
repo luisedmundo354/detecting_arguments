@@ -1,0 +1,116 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	bs2gAva_H0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Tax Court found that &quot;there was no<BR ALIGN='left'/>interruption of [the chemical<BR ALIGN='left'/>manufacturing] business and no change of<BR ALIGN='left'/>location, policy, personnel, officers,<BR ALIGN='left'/>or directors, but no salaries were paid<BR ALIGN='left'/>to the officers. The new company<BR ALIGN='left'/>continued to conduct the chemical<BR ALIGN='left'/>manufacturing business until the latter<BR ALIGN='left'/>part of 1944, when the Hercules Powder<BR ALIGN='left'/>Co. purchased the bulk of its assets.<BR ALIGN='left'/>The new company was liquidated and<BR ALIGN='left'/>dissolved in 1945. The 1941 transfer of<BR ALIGN='left'/>assets from the old company to the new<BR ALIGN='left'/>company in exchange for the latter&#x27;s<BR ALIGN='left'/>stock was undertaken for reasons germane<BR ALIGN='left'/>to the continuance of the corporate<BR ALIGN='left'/>business. There was a business purpose<BR ALIGN='left'/>in the transaction, and the plan which<BR ALIGN='left'/>was adopted and carried out effected a<BR ALIGN='left'/>genuine reorganization of corporate<BR ALIGN='left'/>business, with a continuity of the<BR ALIGN='left'/>enterprise 648*648 and continuity of<BR ALIGN='left'/>interests therein under a modified<BR ALIGN='left'/>corporate structure.&quot;</TD></TR>
+</TABLE>
+>]
+	KxKfDNLwIv [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Petitioners have sought, by invoking the<BR ALIGN='left'/>doctrine of Gregory v. Helvering, 1935,<BR ALIGN='left'/>293 U.S. 465, 55 S.Ct. 266, 79 L.Ed.<BR ALIGN='left'/>596, 97 A.L.R. 1355, to avoid the tax<BR ALIGN='left'/>consequences of a transaction falling<BR ALIGN='left'/>within the literal language of the<BR ALIGN='left'/>statutory definition of a<BR ALIGN='left'/>&quot;reorganization&quot;. I.R.C. § 112(g) (1)<BR ALIGN='left'/>(D), 26 U.S.C.A. § 112(g) (1) (D). On<BR ALIGN='left'/>the first petition, we vacated the Tax<BR ALIGN='left'/>Court&#x27;s decision, reported in 1946, 6 T.<BR ALIGN='left'/>C. 455, and remanded the case for<BR ALIGN='left'/>further proceedings. 1 Cir., 1947, 160<BR ALIGN='left'/>F.2d 839.</TD></TR>
+</TABLE>
+>]
+	bkWGWEleGf [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">John B. Lewis died in 1930, and John D.<BR ALIGN='left'/>Lewis, Inc., a Rhode Island corporation<BR ALIGN='left'/>(hereinafter called the old company),<BR ALIGN='left'/>was organized in 1931 to take over the<BR ALIGN='left'/>business which the decedent had<BR ALIGN='left'/>operated. The common stock was issued to<BR ALIGN='left'/>the trustees under decedent&#x27;s will, and<BR ALIGN='left'/>had a basis of $435,000 in their hands.<BR ALIGN='left'/>Petitioners are the surviving<BR ALIGN='left'/>trustees.\n\nThe old company was engaged<BR ALIGN='left'/>in three different lines of business in<BR ALIGN='left'/>1941: the manufacture of synthetic<BR ALIGN='left'/>resins, the manufacture of chemicals for<BR ALIGN='left'/>the textile industry, and the<BR ALIGN='left'/>distribution of chemicals. In July,<BR ALIGN='left'/>1941, the synthetic resin business and<BR ALIGN='left'/>the chemical distributing business were<BR ALIGN='left'/>sold for a total of approximately<BR ALIGN='left'/>$325,000 in cash and marketable<BR ALIGN='left'/>securities. At that time petitioners,<BR ALIGN='left'/>who were directors of the old company,<BR ALIGN='left'/>tried to sell the chemical manufacturing<BR ALIGN='left'/>business too, but their efforts were<BR ALIGN='left'/>unsuccessful. They decided to continue<BR ALIGN='left'/>operating this business until they could<BR ALIGN='left'/>dispose of it at a fair price, but they<BR ALIGN='left'/>did not want to leave the old company&#x27;s<BR ALIGN='left'/>liquid assets at the risk of the<BR ALIGN='left'/>chemical manufacturing business. Advice<BR ALIGN='left'/>of counsel was sought as to how to<BR ALIGN='left'/>distribute the liquid assets so as to<BR ALIGN='left'/>incur a minimum tax. The decision was<BR ALIGN='left'/>reached to transfer the operating assets<BR ALIGN='left'/>of the chemical manufacturing business<BR ALIGN='left'/>to a new corporation in exchange for its<BR ALIGN='left'/>stock and to distribute this stock,<BR ALIGN='left'/>together with the old company&#x27;s liquid<BR ALIGN='left'/>assets, in liquidation of the old<BR ALIGN='left'/>company.\n\nSteps were then taken to<BR ALIGN='left'/>carry this decision into effect. On<BR ALIGN='left'/>December 27, 1941, the directors of the<BR ALIGN='left'/>old company voted to transfer to a<BR ALIGN='left'/>corporation to be organized (hereinafter<BR ALIGN='left'/>called the new company) all the assets<BR ALIGN='left'/>of the old company, other than cash in<BR ALIGN='left'/>excess of $90,000 and securities, in<BR ALIGN='left'/>consideration of the issuance to the old<BR ALIGN='left'/>company of the capital stock of the new<BR ALIGN='left'/>company and the assumption by the latter<BR ALIGN='left'/>of the old company&#x27;s liabilities. This<BR ALIGN='left'/>action of the directors was ratified by<BR ALIGN='left'/>the shareholders on the same day. On<BR ALIGN='left'/>December 29, 1941, the new company was<BR ALIGN='left'/>incorporated under the laws of Rhode<BR ALIGN='left'/>Island. At 11 A.M. on that day, the old<BR ALIGN='left'/>company made the transfer of assets to<BR ALIGN='left'/>the new company in exchange for its<BR ALIGN='left'/>stock, and at 11:30 A.M. the directors<BR ALIGN='left'/>of the old company voted to liquidate<BR ALIGN='left'/>that company by distributing its<BR ALIGN='left'/>remaining assets, including the stock of<BR ALIGN='left'/>the new company, to the shareholders of<BR ALIGN='left'/>the old company in cancellation of the<BR ALIGN='left'/>old company&#x27;s outstanding shares.<BR ALIGN='left'/>Immediately thereafter the shareholders<BR ALIGN='left'/>of the old company ratified this action,<BR ALIGN='left'/>and it was carried out. The Tax Court<BR ALIGN='left'/>found that the gain realized by<BR ALIGN='left'/>petitioners, as trustees, on this<BR ALIGN='left'/>exchange was $66,107.30, and this amount<BR ALIGN='left'/>was not disputed by petitioners. The<BR ALIGN='left'/>cash distributed to petitioners exceeded<BR ALIGN='left'/>this sum, and the undistributed earnings<BR ALIGN='left'/>or profits of the old company<BR ALIGN='left'/>accumulated since 1931 also exceeded it.</TD></TR>
+</TABLE>
+>]
+	RuiLyHrgJ6 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">On the fiduciary income tax return of<BR ALIGN='left'/>the Estate of John B. Lewis for the year<BR ALIGN='left'/>1941, petitioners reported the gain on<BR ALIGN='left'/>the exchange of the old company&#x27;s shares<BR ALIGN='left'/>as a long-term capital gain under I.R.C.<BR ALIGN='left'/>§§ 115(c) and 117, 26 U.S.C.A. §§<BR ALIGN='left'/>115(c), 117, realized upon the complete<BR ALIGN='left'/>liquidation of the old company. The<BR ALIGN='left'/>Commissioner determined a deficiency on<BR ALIGN='left'/>the grounds that the liquidating<BR ALIGN='left'/>distribution to petitioners by the old<BR ALIGN='left'/>company was made pursuant to a plan of<BR ALIGN='left'/>reorganization; that under § 112(c) (1)<BR ALIGN='left'/>the gain was recognized in full since it<BR ALIGN='left'/>was less than the value of the &quot;boot&quot;,<BR ALIGN='left'/>that is, the cash and securities (other<BR ALIGN='left'/>than the stock of the new company)<BR ALIGN='left'/>distributed; and that since the<BR ALIGN='left'/>distribution had the effect of a<BR ALIGN='left'/>dividend, it was taxable as such<BR ALIGN='left'/>pursuant to § 112(c) (2). On the basis<BR ALIGN='left'/>of the above findings, the Tax Court<BR ALIGN='left'/>sustained the Commissioner. This<BR ALIGN='left'/>decision of the Tax Court is now before<BR ALIGN='left'/>us on review.</TD></TR>
+</TABLE>
+>]
+	fA8Ob9DvV0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">§ 112(g) (1) (D): &quot;The term<BR ALIGN='left'/>`reorganization&#x27; means * * * (D) a<BR ALIGN='left'/>transfer by a corporation of all or a<BR ALIGN='left'/>part of its assets to another<BR ALIGN='left'/>corporation if immediately after the<BR ALIGN='left'/>transfer the transferor or its<BR ALIGN='left'/>shareholders or both are in control of<BR ALIGN='left'/>the corporation to which the assets are<BR ALIGN='left'/>transferred&quot;.</TD></TR>
+</TABLE>
+>]
+	hQ1988e7uG [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The controlling factor which we have<BR ALIGN='left'/>concluded brings this case within the<BR ALIGN='left'/>statute is that a basic element of the<BR ALIGN='left'/>plan was the continuance of the chemical<BR ALIGN='left'/>manufacturing business in the corporate<BR ALIGN='left'/>shell of the new company, with the gain<BR ALIGN='left'/>(were it not for the &quot;boot&quot;) not having<BR ALIGN='left'/>sufficiently crystallized for<BR ALIGN='left'/>recognition, because the collective<BR ALIGN='left'/>interests of the shareholders &quot;still<BR ALIGN='left'/>remained in solution.&quot;</TD></TR>
+</TABLE>
+>]
+	"d-MnmeI-9A" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The decision of the Tax Court is<BR ALIGN='left'/>affirmed.</TD></TR>
+</TABLE>
+>]
+	xhvsLq6aOb [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">As a leading practitioner has put it,<BR ALIGN='left'/>&quot;the essence of [a statutory<BR ALIGN='left'/>reorganization] is a continuance of the<BR ALIGN='left'/>proprietary interests in the continuing<BR ALIGN='left'/>enterprise under modified corporate<BR ALIGN='left'/>form, the transaction being deemed<BR ALIGN='left'/>insufficiently closed economically to<BR ALIGN='left'/>justify a tax at the time, except in so<BR ALIGN='left'/>far as the stockholder gets something in<BR ALIGN='left'/>addition to stock or securities in the<BR ALIGN='left'/>reorganized company.&quot;</TD></TR>
+</TABLE>
+>]
+	uc2fJ6Rft6 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This description fits the transaction<BR ALIGN='left'/>here.\n\nHowever, petitioners contend<BR ALIGN='left'/>that George D. Graham v. Com&#x27;r, 1938, 37<BR ALIGN='left'/>B.T.A. 623,[2] governs and supports<BR ALIGN='left'/>their position that a statutory<BR ALIGN='left'/>reorganization did not take place. Even<BR ALIGN='left'/>assuming the correctness of the Graham<BR ALIGN='left'/>decision[3] for purposes of this case,<BR ALIGN='left'/>we nevertheless consider it<BR ALIGN='left'/>distinguishable. There the old<BR ALIGN='left'/>corporation sold about 95% of its<BR ALIGN='left'/>assets, and then transferred the<BR ALIGN='left'/>remaining 5%, consisting of notes,<BR ALIGN='left'/>mortgages, stock, etc., to a new<BR ALIGN='left'/>corporation in exchange for the latter&#x27;s<BR ALIGN='left'/>stock. The old corporation then<BR ALIGN='left'/>liquidated, distributing cash and<BR ALIGN='left'/>securities and the new corporation&#x27;s<BR ALIGN='left'/>stock to its 649*649 shareholders in<BR ALIGN='left'/>return for their stock. The Commissioner<BR ALIGN='left'/>disallowed the loss taken on the<BR ALIGN='left'/>exchange by some of the shareholders in<BR ALIGN='left'/>the old corporation, but the Board of<BR ALIGN='left'/>Tax Appeals upheld their contention that<BR ALIGN='left'/>no reorganization had taken place.<BR ALIGN='left'/>According to the Board, the new<BR ALIGN='left'/>corporation &quot;was organized to liquidate<BR ALIGN='left'/>the remaining assets of [the old<BR ALIGN='left'/>corporation] and not to carry on any<BR ALIGN='left'/>business enterprise&quot;; the statute &quot;was<BR ALIGN='left'/>not intended to include such a<BR ALIGN='left'/>transaction&quot;. 37 B.T.A. at page 630.<BR ALIGN='left'/>Hence, the loss on the liquidation<BR ALIGN='left'/>exchange was held to be allowable.</TD></TR>
+</TABLE>
+>]
+	"98FFL3huaC" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Thus, in the Graham case, the Board<BR ALIGN='left'/>apparently concluded that a sine qua non<BR ALIGN='left'/>of a statutory reorganization was<BR ALIGN='left'/>absent: &quot;Reorganization presupposes<BR ALIGN='left'/>continuance of business under modified<BR ALIGN='left'/>corporate forms.&quot; Cortland Specialty Co.<BR ALIGN='left'/>v. Commissioner, 2 Cir., 1932, 60 F.2d<BR ALIGN='left'/>937, 940, (italics added).[4] But in the<BR ALIGN='left'/>present case, petitioners&#x27; plan<BR ALIGN='left'/>contemplated that the new company would<BR ALIGN='left'/>carry on the chemical manufacturing<BR ALIGN='left'/>business transferred to it, and this was<BR ALIGN='left'/>done. Although petitioners&#x27; intention<BR ALIGN='left'/>was to dispose of the chemical<BR ALIGN='left'/>manufacturing business eventually, the<BR ALIGN='left'/>fact that a going business was<BR ALIGN='left'/>transferred and operated left the new<BR ALIGN='left'/>company and petitioners, its<BR ALIGN='left'/>shareholders, in a position where they<BR ALIGN='left'/>stood to gain or lose from operations<BR ALIGN='left'/>just as before the transfer; if business<BR ALIGN='left'/>conditions warranted it, the business<BR ALIGN='left'/>could have been continued indefinitely.</TD></TR>
+</TABLE>
+>]
+	gSdg_VA2tn [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The liquidation of the old company does<BR ALIGN='left'/>not change matters because a statutory<BR ALIGN='left'/>reorganization may encompass as one of<BR ALIGN='left'/>its incidents the liquidation of one of<BR ALIGN='left'/>the corporations a party to the<BR ALIGN='left'/>reorganization. Commissioner v.<BR ALIGN='left'/>Whitaker, 1 Cir., 1938, 101 F.2d 640;<BR ALIGN='left'/>Helvering v. Schoellkopf, 2 Cir., 1938,<BR ALIGN='left'/>100 F.2d 415; Fisher v. Commissioner, 6<BR ALIGN='left'/>Cir., 1939, 108 F.2d 707; Elise W.<BR ALIGN='left'/>Hill&#x27;s Estate v. Com&#x27;r, 1948, 10 T.C.<BR ALIGN='left'/>1090. Nor does the statute make the<BR ALIGN='left'/>amount of property transferred to the<BR ALIGN='left'/>new corporation a decisive factor in<BR ALIGN='left'/>determining whether a reorganization<BR ALIGN='left'/>took place. Helvering v. Schoellkopf,<BR ALIGN='left'/>supra. What is controlling is that in<BR ALIGN='left'/>both the &quot;popular and economic<BR ALIGN='left'/>sense,&quot;[5] and the intendment of the<BR ALIGN='left'/>statute, considerations of &quot;boot&quot;<BR ALIGN='left'/>aside,[6] gain or loss is not<BR ALIGN='left'/>sufficiently crystallized for<BR ALIGN='left'/>recognition by the mere transfer of a<BR ALIGN='left'/>going business to another corporation<BR ALIGN='left'/>for operation indefinitely; &quot;the<BR ALIGN='left'/>collective interests still remained in<BR ALIGN='left'/>solution.&quot; Helvering v. Gregory, 2 Cir.,<BR ALIGN='left'/>1934, 69 F.2d 809, 811. Hence, the<BR ALIGN='left'/>transaction was within the statute.</TD></TR>
+</TABLE>
+>]
+	R7I0x3gs0o [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Somewhat the same disposition may be<BR ALIGN='left'/>made of petitioners&#x27; further argument.<BR ALIGN='left'/>They maintain that the creation of the<BR ALIGN='left'/>new company and the transfer to it of<BR ALIGN='left'/>the chemical manufacturing business was<BR ALIGN='left'/>motivated by the desire to free the<BR ALIGN='left'/>liquid assets of the old company from<BR ALIGN='left'/>the risk of the manufacturing business;<BR ALIGN='left'/>that the old company could have<BR ALIGN='left'/>continued to operate the manufacturing<BR ALIGN='left'/>business, and that only the shareholders<BR ALIGN='left'/>received any advantage from the new<BR ALIGN='left'/>arrangement. In short, their position is<BR ALIGN='left'/>that no statutory reorganization took<BR ALIGN='left'/>place because the plan was motivated by<BR ALIGN='left'/>a &quot;shareholder purpose&quot; and not the<BR ALIGN='left'/>&quot;corporate purpose&quot; which they say is<BR ALIGN='left'/>required by Gregory v. Helvering, 1935,<BR ALIGN='left'/>293 U.S. 465, 55 S.Ct. 266, 79 L.Ed.<BR ALIGN='left'/>596, 97 A. L.R. 1355. We reject this<BR ALIGN='left'/>argument, as did the Tax Court.</TD></TR>
+</TABLE>
+>]
+	"7i84uy0L1H" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">At one time, in applying the so-called<BR ALIGN='left'/>&quot;business purpose&quot; test of the Gregory<BR ALIGN='left'/>case, the Tax Court did distinguish<BR ALIGN='left'/>between &quot;shareholder purpose&quot; and<BR ALIGN='left'/>&quot;corporate purpose&quot; in closely held<BR ALIGN='left'/>corporations. Louis Wellhouse, Jr. v.<BR ALIGN='left'/>Com&#x27;r, 1944, 3 T.C. 363; Alice H. Bazley<BR ALIGN='left'/>v. Com&#x27;r, 1945, 4 T.C. 897; Adam A.<BR ALIGN='left'/>Adams v. Com&#x27;r, 1945, 5 T.C. 351;[7]<BR ALIGN='left'/>Marion Heady v. Com&#x27;r, 650*650 1945, 4<BR ALIGN='left'/>CCH TCM Dec. 14,702(m).[8] We think that<BR ALIGN='left'/>the Tax Court has been correctly advised<BR ALIGN='left'/>in unequivocally repudiating that<BR ALIGN='left'/>distinction here. Cf. Richard H.<BR ALIGN='left'/>Survaunt v. Com&#x27;r, 1945, 5 T.C. 665,<BR ALIGN='left'/>affirmed 8 Cir., 1947, 162 F.2d 753; see<BR ALIGN='left'/>Comment, 43 Ill. L.Rev. 512, 517 (1948).<BR ALIGN='left'/>To seek to differentiate between<BR ALIGN='left'/>&quot;corporate purpose&quot; and &quot;shareholder<BR ALIGN='left'/>purpose&quot; is unrealistic and impractical,<BR ALIGN='left'/>particularly with respect to closely<BR ALIGN='left'/>held corporations. See Spear, &quot;Corporate<BR ALIGN='left'/>Business Purpose&quot; in Reorganization, 3<BR ALIGN='left'/>Tax.L.Rev. 225, 242-43 (1948). The<BR ALIGN='left'/>separate legal identity of these<BR ALIGN='left'/>corporations should not obscure the fact<BR ALIGN='left'/>that they are operated by their<BR ALIGN='left'/>shareholders in a manner thought best<BR ALIGN='left'/>calculated to serve the latter&#x27;s<BR ALIGN='left'/>interests. What is deemed best for the<BR ALIGN='left'/>shareholders is deemed best for the<BR ALIGN='left'/>corporation, and vice versa. We think it<BR ALIGN='left'/>not insignificant that, in affirming the<BR ALIGN='left'/>Bazley and Adams decisions, the Supreme<BR ALIGN='left'/>Court gave no countenance to the<BR ALIGN='left'/>distinction petitioners advocate. 1947,<BR ALIGN='left'/>331 U.S. 737, 67 S.Ct. 1489, 91 L.Ed.<BR ALIGN='left'/>1782, 173 A. L.R. 905.</TD></TR>
+</TABLE>
+>]
+	aNa2ENt1T7 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Whatever hesitation we may have had<BR ALIGN='left'/>earlier, we are now convinced that<BR ALIGN='left'/>emphasis upon &quot;business purpose&quot; as a<BR ALIGN='left'/>requisite for statutory reorganization<BR ALIGN='left'/>is futile on the facts here<BR ALIGN='left'/>presented.[9] Cf. Lourie, The Business<BR ALIGN='left'/>Purpose Doctrine, 25 Taxes 800, 805-06<BR ALIGN='left'/>(1947). This is not a situation as in<BR ALIGN='left'/>the Gregory case where the new<BR ALIGN='left'/>corporation was an evanescent creature,<BR ALIGN='left'/>&quot;brought into existence for no other<BR ALIGN='left'/>purpose&quot; than to serve as &quot;a mere device<BR ALIGN='left'/>* * * to transfer a parcel of corporate<BR ALIGN='left'/>shares&quot; to a shareholder, and<BR ALIGN='left'/>immediately thereafter dissolved. There<BR ALIGN='left'/>it was clear that &quot;the transaction upon<BR ALIGN='left'/>its face lies outside the plain intent<BR ALIGN='left'/>of the statute.&quot; 293 U.S. at pages<BR ALIGN='left'/>469-470, 55 S.Ct. at page 268, 79 L.Ed.<BR ALIGN='left'/>596, 97 A.L.R. 1355.</TD></TR>
+</TABLE>
+>]
+	C7Da8Jzurn [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">As we have stated, continuance of the<BR ALIGN='left'/>business is a sine qua non of a<BR ALIGN='left'/>statutory reorganization, but we need<BR ALIGN='left'/>look no further than the Bazley case to<BR ALIGN='left'/>see that in some contexts the mere fact<BR ALIGN='left'/>that the business is continued does not<BR ALIGN='left'/>mean that a statutory reorganization has<BR ALIGN='left'/>taken place. See Spear, &quot;Corporate<BR ALIGN='left'/>Business Purpose&quot; in Reorganization, 3<BR ALIGN='left'/>Tax L.Rev. 225 (1948). Hence, to<BR ALIGN='left'/>denominate as &quot;business purpose&quot; the<BR ALIGN='left'/>intention to have the new company<BR ALIGN='left'/>continue the chemical manufacturing<BR ALIGN='left'/>business would serve only to confuse.<BR ALIGN='left'/>Whatever remaining utility there may be<BR ALIGN='left'/>in the &quot;business purpose&quot; test, reliance<BR ALIGN='left'/>upon such formula must not become a<BR ALIGN='left'/>substitute for independent analysis.</TD></TR>
+</TABLE>
+>]
+	"O5MIkSvXh-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Here we regard it as equally clear that<BR ALIGN='left'/>the transaction lies inside &quot;the plain<BR ALIGN='left'/>intent of the statute.&quot;</TD></TR>
+</TABLE>
+>]
+	KxKfDNLwIv -> bkWGWEleGf
+	bkWGWEleGf -> bs2gAva_H0
+	bs2gAva_H0 -> RuiLyHrgJ6
+	fA8Ob9DvV0 -> xhvsLq6aOb
+	hQ1988e7uG -> "d-MnmeI-9A"
+	xhvsLq6aOb -> uc2fJ6Rft6
+	uc2fJ6Rft6 -> "98FFL3huaC"
+	"98FFL3huaC" -> gSdg_VA2tn
+	gSdg_VA2tn -> R7I0x3gs0o
+	R7I0x3gs0o -> "7i84uy0L1H"
+	"7i84uy0L1H" -> aNa2ENt1T7
+	aNa2ENt1T7 -> "O5MIkSvXh-"
+	"O5MIkSvXh-" -> C7Da8Jzurn
+	C7Da8Jzurn -> hQ1988e7uG
+}

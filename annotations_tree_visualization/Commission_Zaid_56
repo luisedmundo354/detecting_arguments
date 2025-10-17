@@ -1,0 +1,149 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	VWoGVACJZM [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">On October 2, 1931, the Timken-Detroit<BR ALIGN='left'/>Company, a Michigan corporation, entered<BR ALIGN='left'/>708*708 into a &quot;plan and agreement of<BR ALIGN='left'/>merger, consolidation and<BR ALIGN='left'/>reorganization&quot; with the Silent<BR ALIGN='left'/>Automatic Company, another Michigan<BR ALIGN='left'/>corporation, with its officers and<BR ALIGN='left'/>principal stockholders, respondents<BR ALIGN='left'/>Segall and Tant, individually, and with<BR ALIGN='left'/>the latter as its trustee. Silent<BR ALIGN='left'/>Automatic agreed to transfer and Timken<BR ALIGN='left'/>agreed to acquire all the assets of<BR ALIGN='left'/>Silent Automatic, including those of its<BR ALIGN='left'/>wholly owned subsidiary, Silent<BR ALIGN='left'/>Automatic Sales Corporation, a Delaware<BR ALIGN='left'/>corporation. The date fixed for the<BR ALIGN='left'/>transfer was January 2, 1932. Silent<BR ALIGN='left'/>Automatic agreed that prior to that<BR ALIGN='left'/>date, the Sales Corporation would be<BR ALIGN='left'/>dissolved, its assets distributed and<BR ALIGN='left'/>its capital stock cancelled or redeemed.<BR ALIGN='left'/>Timken agreed to assume, with three<BR ALIGN='left'/>exceptions immaterial here, Silent<BR ALIGN='left'/>Automatic&#x27;s obligations, as of the date<BR ALIGN='left'/>fixed for transfer, and to pay<BR ALIGN='left'/>$2,100,000 as follows: $760,000 in cash<BR ALIGN='left'/>to Tant, as trustee of Silent Automatic,<BR ALIGN='left'/>upon execution of the agreement; a<BR ALIGN='left'/>promissory note for $100,000 dated<BR ALIGN='left'/>October 2, 1931, and maturing January 2,<BR ALIGN='left'/>1933, payable to Surprenant &amp; Company,<BR ALIGN='left'/>for their services as brokers; 5% gold<BR ALIGN='left'/>debentures in the amount of $1,240,000,<BR ALIGN='left'/>bearing interest from October 2, 1931,<BR ALIGN='left'/>payable in five annual installments<BR ALIGN='left'/>beginning January 2, 1933, and<BR ALIGN='left'/>guaranteed by the Timken-Detroit Axle<BR ALIGN='left'/>Company, an Ohio corporation, parent and<BR ALIGN='left'/>sole owner of the Timken-Detroit<BR ALIGN='left'/>Company. Until delivery, Silent<BR ALIGN='left'/>Automatic agreed that it would conduct<BR ALIGN='left'/>its business in the usual manner; that<BR ALIGN='left'/>it would enter into no unusual contract<BR ALIGN='left'/>or contract of employment running beyond<BR ALIGN='left'/>January 2, 1932; that it would incur no<BR ALIGN='left'/>liability except in the usual course of<BR ALIGN='left'/>business; and that neither it nor the<BR ALIGN='left'/>Sales Corporation would declare any<BR ALIGN='left'/>dividends prior to delivery to Timken.<BR ALIGN='left'/>Respondents and Silent Automatic also<BR ALIGN='left'/>undertook to refrain from manufacture or<BR ALIGN='left'/>sale of oil burners for a period of five<BR ALIGN='left'/>years beginning January 1, 1932.</TD></TR>
+</TABLE>
+>]
+	GTbAank9I3 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Commissioner of Internal Revenue<BR ALIGN='left'/>asserted deficiencies in respondents&#x27;<BR ALIGN='left'/>taxes for the year 1932, on the theory<BR ALIGN='left'/>that certain transactions that<BR ALIGN='left'/>eventuated in the dissolution of the<BR ALIGN='left'/>Silent Automatic Company constituted a<BR ALIGN='left'/>sale of its assets to the Timken-Detroit<BR ALIGN='left'/>Company, and that respondents are liable<BR ALIGN='left'/>as transferees for taxes upon that part<BR ALIGN='left'/>of the profit distributed to them as<BR ALIGN='left'/>stockholders. The Board of Tax Appeals<BR ALIGN='left'/>held, in accordance with respondents&#x27;<BR ALIGN='left'/>contentions, that the transactions<BR ALIGN='left'/>constituted a tax-free reorganization,<BR ALIGN='left'/>and the Commissioner now petitions for<BR ALIGN='left'/>review of that decision. On motion of<BR ALIGN='left'/>the Commissioner and with respondents&#x27;<BR ALIGN='left'/>consent, we ordered that the two cases<BR ALIGN='left'/>be consolidated.\n\nThere is no dispute<BR ALIGN='left'/>as to any material fact, and the parties<BR ALIGN='left'/>have stipulated the bases upon which the<BR ALIGN='left'/>taxes shall be computed in the event<BR ALIGN='left'/>there was no reorganization. Respondents<BR ALIGN='left'/>concede that they are transferees within<BR ALIGN='left'/>the meaning of Section 311 (a) (1), (f),<BR ALIGN='left'/>of the Revenue Act of 1932. 26<BR ALIGN='left'/>U.S.C.A.Int.Rev.Code, § 311 (a) (1),<BR ALIGN='left'/>(f).</TD></TR>
+</TABLE>
+>]
+	cAEQJCyVqY [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The definition of reorganization was<BR ALIGN='left'/>identical in the Revenue Acts of 1928<BR ALIGN='left'/>and 1932, 26 U.S.C.A.Int.Rev.Acts, pages<BR ALIGN='left'/>379, and 513 and read, in part, as<BR ALIGN='left'/>follows: &quot;The term `reorganization&#x27;<BR ALIGN='left'/>means (A) a merger or consolidation<BR ALIGN='left'/>(including the acquisition by one<BR ALIGN='left'/>corporation of at least a majority of<BR ALIGN='left'/>the voting stock and at least a majority<BR ALIGN='left'/>of the total number of shares of all<BR ALIGN='left'/>other classes of stock of another<BR ALIGN='left'/>corporation, or substantially all the<BR ALIGN='left'/>properties of another corporation)</TD></TR>
+</TABLE>
+>]
+	"4fLCSHBRvz" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The first question presented is whether<BR ALIGN='left'/>the agreement and the transaction<BR ALIGN='left'/>pursuant thereto constituted a taxfree<BR ALIGN='left'/>reorganization under Section 112 (b) (4)<BR ALIGN='left'/>and (d) (1) of the Revenue Act of 1928<BR ALIGN='left'/>or 1932, 26 U.S.C. A.Int.Rev.Code, § 112<BR ALIGN='left'/>(b) (4), (d) (1).[*]</TD></TR>
+</TABLE>
+>]
+	k3jyDiwjjs [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Respondents argue that their contention<BR ALIGN='left'/>is supported by Helvering v. Minnesota<BR ALIGN='left'/>Tea Co., 296 U.S. 378, 56 S.Ct. 269, 80<BR ALIGN='left'/>L. Ed. 284; Nelson Co. v. Helvering, 296<BR ALIGN='left'/>U.S. 374, 56 S.Ct. 273, 80 L.Ed. 821,<BR ALIGN='left'/>and Helvering v. Watts, 296 U.S. 387, 56<BR ALIGN='left'/>S.Ct. 275, 80 L.Ed. 289. We disagree. In<BR ALIGN='left'/>each of those cases, the transferor<BR ALIGN='left'/>retained what Mr. Justice Roberts<BR ALIGN='left'/>recently called a &quot;proprietary interest<BR ALIGN='left'/>in the enterprise,&quot; in the form of<BR ALIGN='left'/>common or preferred stock. LeTulle v.<BR ALIGN='left'/>Scofield, 308 U.S. 415, 421, 60 S.Ct.<BR ALIGN='left'/>313, 316, 84 L.Ed. 355. Interest of this<BR ALIGN='left'/>nature was lacking in the instant case,<BR ALIGN='left'/>the Silent Automatic having received<BR ALIGN='left'/>only cash and debentures.\n\nIt is<BR ALIGN='left'/>argued that the instant case is<BR ALIGN='left'/>distinguishable from the Pinellas case,<BR ALIGN='left'/>supra, and Cortland Specialty Co. v.<BR ALIGN='left'/>Commissioner, 2 Cir., 60 F.2d 937, since<BR ALIGN='left'/>the notes given the vendors therein ran<BR ALIGN='left'/>for no more than three and one-half and<BR ALIGN='left'/>fourteen months, respectively, whereas<BR ALIGN='left'/>maturities of the debentures herein were<BR ALIGN='left'/>spread over a period of five years. We<BR ALIGN='left'/>are of the opinion that this distinction<BR ALIGN='left'/>is immaterial.</TD></TR>
+</TABLE>
+>]
+	nbV4GGSQxz [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We think the case at bar controlled by<BR ALIGN='left'/>the decision of the United States<BR ALIGN='left'/>Supreme Court in LeTulle v. Scofield,<BR ALIGN='left'/>supra.</TD></TR>
+</TABLE>
+>]
+	eOF9aNcx2D [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In that case, LeTulle owned certain<BR ALIGN='left'/>lands and irrigation properties and the<BR ALIGN='left'/>Gulf Coast Irrigation Company, of which<BR ALIGN='left'/>he was sole stockholder, owned certain<BR ALIGN='left'/>other irrigation properties. The Gulf<BR ALIGN='left'/>Coast Water Company entered into an<BR ALIGN='left'/>agreement with LeTulle and the<BR ALIGN='left'/>Irrigation Company that the latter would<BR ALIGN='left'/>acquire LeTulle&#x27;s properties and<BR ALIGN='left'/>thereafter convey all its properties to<BR ALIGN='left'/>the Water Company for $50,000 in cash<BR ALIGN='left'/>and $750,000 in bonds, payable serially<BR ALIGN='left'/>from January 1, 1933, to January 1,<BR ALIGN='left'/>1944. Expressing the view that a<BR ALIGN='left'/>reorganization had not been consummated,<BR ALIGN='left'/>Mr. Justice Roberts, after reviewing the<BR ALIGN='left'/>decisions, said:\n\n&quot;We are of opinion<BR ALIGN='left'/>that the term of the obligations is not<BR ALIGN='left'/>material. Where the consideration is<BR ALIGN='left'/>wholly in the transferee&#x27;s bonds, or<BR ALIGN='left'/>part cash and part such bonds, we think<BR ALIGN='left'/>it cannot be said that the transferor<BR ALIGN='left'/>retains any proprietary interest in the<BR ALIGN='left'/>enterprise. On the contrary, he becomes<BR ALIGN='left'/>a creditor of the transferee; and we do<BR ALIGN='left'/>not think that the fact referred to by<BR ALIGN='left'/>the Circuit Court of Appeals, that the<BR ALIGN='left'/>bonds were secured solely by the assets<BR ALIGN='left'/>transferred and that, upon default, the<BR ALIGN='left'/>bondholder would retake only the<BR ALIGN='left'/>property sold, changes his status from<BR ALIGN='left'/>that of a creditor to one having a<BR ALIGN='left'/>proprietary stake, within the purview of<BR ALIGN='left'/>the statute.\n\n&quot;We conclude that the<BR ALIGN='left'/>Circuit Court of Appeals was in error in<BR ALIGN='left'/>holding that, as respects any of the<BR ALIGN='left'/>property transferred to the Water<BR ALIGN='left'/>Company, the transaction was other than<BR ALIGN='left'/>a sale or exchange upon which gain or<BR ALIGN='left'/>loss must be reckoned in accordance with<BR ALIGN='left'/>the provisions of the revenue act<BR ALIGN='left'/>dealing with the recognition of gain or<BR ALIGN='left'/>loss upon a sale or exchange.&quot;</TD></TR>
+</TABLE>
+>]
+	feSOmRGd4U [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This definition has received judicial<BR ALIGN='left'/>construction. The Supreme Court has held<BR ALIGN='left'/>that the parenthetical clause must be<BR ALIGN='left'/>read, in the light of the preceding<BR ALIGN='left'/>terms, to effect the general purpose of<BR ALIGN='left'/>the tax exemption, which contemplated a<BR ALIGN='left'/>&quot;real semblance to a merger or<BR ALIGN='left'/>consolidation.&quot; Pinellas Ice &amp; Cold<BR ALIGN='left'/>Storage Co. v. Commissioner, 287 U.S.<BR ALIGN='left'/>462, 53 S.Ct. 257, 260, 77 L.Ed. 428.<BR ALIGN='left'/>The interest acquired in the transferee<BR ALIGN='left'/>company must be definite and material<BR ALIGN='left'/>and must represent a substantial part of<BR ALIGN='left'/>the thing transferred. &quot;This much is<BR ALIGN='left'/>necessary in order that the result<BR ALIGN='left'/>accomplished may genuinely partake of<BR ALIGN='left'/>the nature of merger or consolidation.&quot;<BR ALIGN='left'/>Helvering v. Minnesota Tea Co., 296 U.S.<BR ALIGN='left'/>378, 385, 56 S.Ct. 269, 272, 80 L.Ed.<BR ALIGN='left'/>284. Accordingly, it has been held<BR ALIGN='left'/>essential to reorganization that there<BR ALIGN='left'/>remain in the transferor or its<BR ALIGN='left'/>stockholders a substantial and material<BR ALIGN='left'/>continuity of interest in the property<BR ALIGN='left'/>transferred. A transfer of all the<BR ALIGN='left'/>709*709 assets of one company to another<BR ALIGN='left'/>for what amounts to a cash consideration<BR ALIGN='left'/>is not a reorganization, but a sale, the<BR ALIGN='left'/>gain on which, if any, is taxable.<BR ALIGN='left'/>Pinellas Ice &amp; Cold Storage Co. v.<BR ALIGN='left'/>Commissioner, supra.</TD></TR>
+</TABLE>
+>]
+	CWEeeuhgwF [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We think the transactions involved<BR ALIGN='left'/>herein constituted a sale, and the Board<BR ALIGN='left'/>of Tax Appeals erred in holding<BR ALIGN='left'/>otherwise.</TD></TR>
+</TABLE>
+>]
+	TIObqkNovP [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Board of course did not consider<BR ALIGN='left'/>when the sale took place, having<BR ALIGN='left'/>erroneously reached the conclusion that<BR ALIGN='left'/>there was none; and that question<BR ALIGN='left'/>remains to be determined.\n\nRespondents<BR ALIGN='left'/>take the position that we must affirm<BR ALIGN='left'/>the Board&#x27;s decision of no tax liability<BR ALIGN='left'/>in 1932, if we conclude from the facts<BR ALIGN='left'/>found that the sale occurred in 1931;<BR ALIGN='left'/>but they contend that we cannot reverse<BR ALIGN='left'/>and remand with proper directions if our<BR ALIGN='left'/>conclusion is that the sale occurred in<BR ALIGN='left'/>1932, — even though the question was<BR ALIGN='left'/>briefed and argued to us, and all the<BR ALIGN='left'/>relevant evidence was before the Board<BR ALIGN='left'/>and is in the record here. We are<BR ALIGN='left'/>unimpressed with this argument.</TD></TR>
+</TABLE>
+>]
+	oO3E5iva6_ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Decision as to when the gain was<BR ALIGN='left'/>realized requires construction of a<BR ALIGN='left'/>written contract and the applicable<BR ALIGN='left'/>statutes in the light of undisputed<BR ALIGN='left'/>facts.</TD></TR>
+</TABLE>
+>]
+	vDNj5U6Bou [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The ultimate question, if not solely one<BR ALIGN='left'/>of law, is at least a mixed question of<BR ALIGN='left'/>law and fact, and may properly be<BR ALIGN='left'/>decided by a reviewing court.<BR ALIGN='left'/>Commissioner v. Southern Bell T. &amp; T.<BR ALIGN='left'/>Co., 6 Cir., 102 F.2d 397; Washburn v.<BR ALIGN='left'/>Commissioner, 8 Cir., 51 F. 2d 949.</TD></TR>
+</TABLE>
+>]
+	QlahHPS9dA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">There are no hard and fast rules of<BR ALIGN='left'/>thumb that can be used in determining,<BR ALIGN='left'/>for taxation purposes, when a sale was<BR ALIGN='left'/>consummated, and no single factor is<BR ALIGN='left'/>controlling; the transaction must be<BR ALIGN='left'/>viewed as a whole and in the light of<BR ALIGN='left'/>realism and practicality.</TD></TR>
+</TABLE>
+>]
+	q_70fDAhnl [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Passage of title is perhaps the most<BR ALIGN='left'/>conclusive circumstance. Brown Lumber<BR ALIGN='left'/>Co. v. Commissioner, 59 App.D.C. 110, 35<BR ALIGN='left'/>F.2d 880.</TD></TR>
+</TABLE>
+>]
+	"90NUyGPcyz" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Transfer of possession is also<BR ALIGN='left'/>significant. Helvering v. Nibley-<BR ALIGN='left'/>Mimnaugh 710*710 Lumber Co., 63 App.D.C.<BR ALIGN='left'/>181, 70 F.2d 843; Commissioner v. Union<BR ALIGN='left'/>Pac. R. Co., 2 Cir., 86 F.2d 637;<BR ALIGN='left'/>Brunton v. Commissioner, 9 Cir., 42 F.2d<BR ALIGN='left'/>81.</TD></TR>
+</TABLE>
+>]
+	QhtDUO1hbt [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A factor often considered is whether<BR ALIGN='left'/>there has been such substantial<BR ALIGN='left'/>performance of conditions precedent as<BR ALIGN='left'/>imposes upon the purchaser an<BR ALIGN='left'/>unconditional duty to pay. Commissioner<BR ALIGN='left'/>v. North Jersey Title Ins. Co., 3 Cir.,<BR ALIGN='left'/>79 F.2d 492; Brunton v. Commissioner,<BR ALIGN='left'/>supra; Case v. Commissioner, 9 Cir., 103<BR ALIGN='left'/>F.2d 283; United States v. Utah-Idaho<BR ALIGN='left'/>Sugar Co., 10 Cir., 96 F.2d 756. See<BR ALIGN='left'/>Options and Sale Contracts in Taxation,<BR ALIGN='left'/>46 Yale Law Jour. 272, 279.</TD></TR>
+</TABLE>
+>]
+	"PrjYiDlt-M" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In Lucas v. North Texas Lumber Co., 281<BR ALIGN='left'/>U.S. 11, 50 S.Ct. 184, 74 L.Ed. 668, a<BR ALIGN='left'/>ten-day option to purchase timber lands<BR ALIGN='left'/>was given to a solvent offeree on<BR ALIGN='left'/>December 27, 1916. Having found the<BR ALIGN='left'/>title satisfactory, the option holder on<BR ALIGN='left'/>December 30 arranged for the money<BR ALIGN='left'/>needed, gave notice of exercise of the<BR ALIGN='left'/>option and declared itself ready to<BR ALIGN='left'/>close the transaction and pay the<BR ALIGN='left'/>purchase price &quot;as soon as the papers<BR ALIGN='left'/>were prepared&quot;; and the offeror<BR ALIGN='left'/>immediately ceased operating its saw<BR ALIGN='left'/>mill and withdrew all its employees.<BR ALIGN='left'/>Conveyance and payment of the purchase<BR ALIGN='left'/>price followed on January 5, 1917. The<BR ALIGN='left'/>vendor, reporting on the accrual basis,<BR ALIGN='left'/>included the profit in its return for<BR ALIGN='left'/>the year 1916. Mr. Justice Butler,<BR ALIGN='left'/>holding this not proper, said:<BR ALIGN='left'/>&quot;Respondent did not prepare the papers<BR ALIGN='left'/>necessary to effect the transfer or make<BR ALIGN='left'/>tender of title or possession or demand<BR ALIGN='left'/>the purchase price in 1916. The title<BR ALIGN='left'/>and right of possession remained in it<BR ALIGN='left'/>until the transaction was closed.<BR ALIGN='left'/>Consequently unconditional liability of<BR ALIGN='left'/>vendee for the purchase price was not<BR ALIGN='left'/>created in that year. * * * The entry of<BR ALIGN='left'/>the purchase price in respondent&#x27;s<BR ALIGN='left'/>accounts as income in that year was not<BR ALIGN='left'/>warranted. Respondent was not entitled<BR ALIGN='left'/>to make return or have the tax computed<BR ALIGN='left'/>on that basis, as clearly it did not<BR ALIGN='left'/>reflect 1916 income.&quot;</TD></TR>
+</TABLE>
+>]
+	Cxh3HwEgXQ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">An executory contract was made on<BR ALIGN='left'/>October 2, 1931. Some of the purchase<BR ALIGN='left'/>price was then paid and a promissory<BR ALIGN='left'/>note for broker&#x27;s commission given, but<BR ALIGN='left'/>the Timken Company did not have an<BR ALIGN='left'/>unconditional right to the execution of<BR ALIGN='left'/>the documents transferring title until<BR ALIGN='left'/>it delivered or tendered the promised<BR ALIGN='left'/>debentures on January 2, 1932; nor had<BR ALIGN='left'/>Silent Automatic an unconditional right<BR ALIGN='left'/>to the debentures until it had delivered<BR ALIGN='left'/>or tendered the bills of sale<BR ALIGN='left'/>contemplated.</TD></TR>
+</TABLE>
+>]
+	apCdvHLUjJ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It follows, we think, under the doctrine<BR ALIGN='left'/>of the Lucas case, that for taxation<BR ALIGN='left'/>purposes the sale herein did not occur<BR ALIGN='left'/>until January 2, 1932</TD></TR>
+</TABLE>
+>]
+	nJqlXLEmM9 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Moreover, we think this conclusion<BR ALIGN='left'/>accords with the intention of the<BR ALIGN='left'/>parties. An examination of the contract<BR ALIGN='left'/>reveals that Silent Automatic agreed to<BR ALIGN='left'/>transfer and Timken to acquire all of<BR ALIGN='left'/>the former&#x27;s assets, including those of<BR ALIGN='left'/>the Sales Corporation &quot;as of January 2,<BR ALIGN='left'/>1932.&quot; These concurrent obligations were<BR ALIGN='left'/>to be performed &quot;on January 2, 1932, or<BR ALIGN='left'/>as soon thereafter as possible.&quot; Silent<BR ALIGN='left'/>Automatic also agreed that it would<BR ALIGN='left'/>&quot;diligently conduct its business in the<BR ALIGN='left'/>usual manner&quot; until delivery, and Timken<BR ALIGN='left'/>agreed to assume all notes and accounts<BR ALIGN='left'/>payable as shown by the consolidated<BR ALIGN='left'/>balance sheet of Silent Automatic and<BR ALIGN='left'/>the Sales Corporation dated August 31,<BR ALIGN='left'/>1931, &quot;together with those currently<BR ALIGN='left'/>accruing from August 31, 1931, to the<BR ALIGN='left'/>effective date of delivery.&quot; The common<BR ALIGN='left'/>stockholders of Silent Automatic were<BR ALIGN='left'/>informed that Timken would acquire the<BR ALIGN='left'/>assets of Silent Automatic as of January<BR ALIGN='left'/>2, 1932, subject to its liabilities. The<BR ALIGN='left'/>stockholders of the Timken-Detroit Axle<BR ALIGN='left'/>Company were notified not only that<BR ALIGN='left'/>Timken and Silent Automatic would merge<BR ALIGN='left'/>on January 2, 1932, but that they would<BR ALIGN='left'/>continue to operate separately until<BR ALIGN='left'/>that time. We think the parties<BR ALIGN='left'/>themselves have interpreted this<BR ALIGN='left'/>agreement as contemplating consummation<BR ALIGN='left'/>on January 2, 1932. Their interpretation<BR ALIGN='left'/>is entitled to great, if not<BR ALIGN='left'/>controlling, weight. Switzer v.<BR ALIGN='left'/>Pinconning Lumber Co., 59 Mich. 488, 26<BR ALIGN='left'/>N.W. 762.</TD></TR>
+</TABLE>
+>]
+	UYVWeT6xda [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The judgment of the Board of Tax Appeals<BR ALIGN='left'/>is reversed and the cause remanded for<BR ALIGN='left'/>further proceedings in accordance with<BR ALIGN='left'/>the views expressed herein.</TD></TR>
+</TABLE>
+>]
+	GTbAank9I3 -> VWoGVACJZM
+	GTbAank9I3 -> "4fLCSHBRvz"
+	"4fLCSHBRvz" -> cAEQJCyVqY
+	cAEQJCyVqY -> feSOmRGd4U
+	feSOmRGd4U -> k3jyDiwjjs
+	k3jyDiwjjs -> nbV4GGSQxz
+	nbV4GGSQxz -> eOF9aNcx2D
+	eOF9aNcx2D -> CWEeeuhgwF
+	TIObqkNovP -> oO3E5iva6_
+	oO3E5iva6_ -> vDNj5U6Bou
+	vDNj5U6Bou -> QlahHPS9dA
+	QlahHPS9dA -> "90NUyGPcyz"
+	"90NUyGPcyz" -> "PrjYiDlt-M"
+	"PrjYiDlt-M" -> Cxh3HwEgXQ
+	Cxh3HwEgXQ -> nJqlXLEmM9
+	nJqlXLEmM9 -> apCdvHLUjJ
+	apCdvHLUjJ -> UYVWeT6xda
+}

@@ -1,182 +1,179 @@
+# span_iaa_ned.py
 """
-span_iaa.py – Fast inter-annotator agreement for span tasks
-==========================================================
+Fast inter-annotator agreement (IAA) for span tasks using [0,1]-normalized
+edit distances (NED). Designed to plug into the folder-based script:
 
-Usage
------
-import span_iaa as iaa
+    f1_by_cat = iaa_ned.compute_iaa(all_annotations, categories)
 
-f1_by_cat = iaa.compute_iaa(
-    annotations = {
-        "ann_1": {"weakness": [...], "strength": [...], ...},
-        "ann_2": {...},
-        ...
-    },
-    categories = ["weakness", "strength", "neutral"]
-)
+Inputs:
+    annotations: {annotator_id: {category: [span_text, ...]}, ...}
+    categories : list[str]
 
-print(f1_by_cat)        # {'weakness': 0.52, 'strength': 0.74, 'neutral': 0.69}
+Returns:
+    {category: F1}   # mean of pairwise F1s across annotator pairs
+
+Only normalized-in-[0,1] distances are used, so precision/recall/F1 remain valid.
+
+Requires:
+    pip install numpy scipy abydos
 """
 from __future__ import annotations
-from typing import Dict, List, Tuple, Any
+
+from typing import Dict, List, Callable, Tuple
 import itertools
 import numpy as np
-from jedi.inference.gradual.typing import Callable
 from scipy.optimize import linear_sum_assignment
-import Levenshtein
+from tqdm import tqdm
+
+# Normalized edit distances from Abydos
 from abydos.distance import YujianBo, HigueraMico
-from functools import lru_cache
 
-# ---------------------------------------------------------------------------
-# 1.  Three calculations: Levenshtein distance, Yujian-Bo and Higuera-Mico
-# ---------------------------------------------------------------------------
 
-def _marzal_ned(s: str, t: str) -> float:
+
+_YB = YujianBo()
+_HM = HigueraMico()
+
+def _yujianbo_nld(a: str, b: str) -> float:
+    # Metric in [0,1] as per Yujian & Bo
+    return _YB.dist(a, b)
+
+def _higueramico_nld(a: str, b: str) -> float:
+    # Contextual normalized edit distance, also normalized in [0,1] in Abydos
+    return _HM.dist(a, b)
+
+# Registry of supported metrics (all normalized)
+_METRICS: Dict[str, Callable[[str, str], float]] = {
+    "yujianbo": _yujianbo_nld,
+    "higueramico": _higueramico_nld,
+}
+
+
+
+def _similarity_matrix(
+        spans_a: List[str],
+        spans_b: List[str],
+        metric: Callable[[str, str], float],
+        min_sim: float = 0.0,
+) -> np.ndarray:
     """
-    Todo: This implementation is not ready. It doesn't follow min(cost(p))
-    Parameters
-    ----------
-    s, t : str
-        Two spans to compare.
-
-    Returns
-    -------
-    float
-        Normalised edit distance in [0, 2]  (0 = identical, 2 = worst-case)
+    Build similarity matrix S where S[i, j] = 1 - NED(a_i, b_j).
+    Entries below min_sim are clipped to 0 (acts as 'forbidden' when padded).
     """
-    if s == t:
-        return 0.0
-
-    ops = Levenshtein.editops(s, t)      # optimal edit script
-    if not ops:
-        return 0.0                       # equal strings caught above anyway
-
-    ins  = sum(op[0] == 'insert'  for op in ops)
-    dele = sum(op[0] == 'delete'  for op in ops)
-    subs = sum(op[0] == 'replace' for op in ops)
-
-    weight = ins + dele + subs
-    length = len(ops)                  #  path length |p|
-
-    return weight / length
-
-_YB  = YujianBo()
-_HM  = HigueraMico()
-
-def _yujianbo_nld(s: str, t: str) -> float:
-    return round(_YB.dist(s, t), 6)
-
-def _higuera_mico_ned(s: str, t: str) -> float:
-    return round(_HM.dist(s, t), 6)
-
-@lru_cache(maxsize=100_000)
-def _ned_cached(a: str, b: str, metric: Callable[[str, str], float]) -> float:
-    return metric(a, b)
-
-# ---------------------------------------------------------------------------
-# 2.  Maximum-weight bipartite matching for one annotator pair, one category
-# ---------------------------------------------------------------------------
-
-def _similarity_matrix(spans_a: List[str], spans_b: List[str], metric: Callable[[str, str], float]) -> np.ndarray:
-    """Return S[i,j] =1 - ned"""
     n, m = len(spans_a), len(spans_b)
-    s_matrix = np.empty((n, m), dtype=float)
+    if n == 0 or m == 0:
+        return np.zeros((n, m), dtype=float)
+
+    S = np.empty((n, m), dtype=float)
     for i, sa in enumerate(spans_a):
         for j, sb in enumerate(spans_b):
-            s_matrix[i, j] = 1.0 - _ned_cached(sa, sb, metric)
-    return s_matrix
+            s = 1.0 - float(metric(sa, sb))
+            S[i, j] = s if s >= min_sim else 0.0
+    return S
 
-def _match_and_f1(spans_a: List[str],
-                  spans_b: List[str]) -> Dict[str, Tuple[float, float, float]]:
+
+def _soft_tp_from_matching(S: np.ndarray) -> float:
     """
-    Align two span lists, then compute precision, recall, F1 (micro).
+    Compute soft true positives as the sum of matched similarities.
 
-    Returns
-    -------
-    prec, rec, f1 : float
+    We pad to a square matrix with zeros so the Hungarian algorithm
+    can 'leave spans unmatched' by pairing them with a zero column/row.
     """
+    n, m = S.shape
+    if n == 0 and m == 0:
+        return 0.0
+    N = max(n, m)
+    Ssq = np.zeros((N, N), dtype=float)
+    Ssq[:n, :m] = S
+    # Hungarian expects a cost matrix; maximize S by minimizing -S
+    row_idx, col_idx = linear_sum_assignment(-Ssq)
+    tp_soft = float(Ssq[row_idx, col_idx].sum())
+    return tp_soft
 
-    metrics: Dict[str, Callable[[List[str], List[str]], float]] = {
-        "marzal": _marzal_ned,
-        "yujianbo": _yujianbo_nld,
-       # "higuera_mico": _higuera_mico_ned,
-    }
 
-    if not spans_a and not spans_b:
-        return {name: (1.0, 1.0, 1.0) for name in metrics}           # trivially perfect agreement
-    if not spans_a or not spans_b:
-        return {name: (0.0, 0.0, 0.0) for name in metrics}
-
+def _pairwise_prf1(
+        spans_a: List[str],
+        spans_b: List[str],
+        metric: Callable[[str, str], float],
+        min_sim: float = 0.0,
+) -> Tuple[float, float, float]:
+    """
+    Precision, recall, F1 for a single annotator pair within one category,
+    using 'soft' true positives (sum of matched similarities).
+    """
     n, m = len(spans_a), len(spans_b)
-    scores: Dict[str, Tuple[float, float, float]] = {}
 
-    for name, metric in metrics.items():
-        s_matrix = _similarity_matrix(spans_a, spans_b, metric)
+    # Trivial perfect agreement if both empty
+    if n == 0 and m == 0:
+        return 1.0, 1.0, 1.0
+    # If exactly one is empty, there can be no matches
+    if n == 0 or m == 0:
+        return 0.0, 0.0, 0.0
 
-        # Maximum-weight matching  (Hungarian wants *cost*, so negate)
-        row_idx, col_idx = linear_sum_assignment(-s_matrix)
-        tp_soft = s_matrix[row_idx, col_idx].sum()     # soft TP
+    S = _similarity_matrix(spans_a, spans_b, metric, min_sim=min_sim)
+    tp_soft = _soft_tp_from_matching(S)
 
-        precision = tp_soft / n
-        rec  = tp_soft / m
-        f1   = 0.0 if tp_soft == 0 else (2 * precision * rec) / (precision + rec)
+    precision = tp_soft / n
+    recall = tp_soft / m
+    if precision + recall == 0:
+        f1 = 0.0
+    else:
+        f1 = (2.0 * precision * recall) / (precision + recall)
+    return precision, recall, f1
 
-        scores[name] = (precision, rec, f1)
 
-    return scores
 
-# ---------------------------------------------------------------------------
-# 3.  Aggregate over annotators and categories
-# ---------------------------------------------------------------------------
-
-def compute_iaa(annotations: Dict[str, Dict[str, List[str]]],
-                categories: List[str]
-               ) -> dict[str, dict[str, float]]:
+def compute_iaa(
+        annotations: Dict[str, Dict[str, List[str]]],
+        categories: List[str],
+        *,
+        metric: str = "yujianbo",
+        min_sim: float = 0.0,
+) -> Dict[str, float]:
     """
-    Compute micro-average pairwise F1 for each category
-    annotations
-        {annotator_id: {category: [span_str, ...], ...}, ...}
-    categories: List[str]
+    Compute mean pairwise F1 for each category across all unordered
+    annotator pairs. Returns {category: F1}.
+
+    Args:
+        annotations: {annotator: {category: [span_text, ...]}}
+        categories : list of categories to score
+        metric     : one of {"yujianbo", "higueramico"} (all in [0,1])
+        min_sim    : optional similarity threshold in [0,1].
+                     Pairs below this are treated like 'no match'.
+
+    Notes:
+        - This is a *mean over annotator pairs* (macro over pairs).
+        - Soft TP = sum of matched similarities from Hungarian alignment.
     """
-    # All unordered annotator pairs
-    annotators = list(annotations)
-    pairs = list(itertools.combinations(annotators, 2))
+    if metric not in _METRICS:
+        raise ValueError(f"Unsupported metric '{metric}'. "
+                         f"Choose from {sorted(_METRICS.keys())}")
+    dist = _METRICS[metric]
 
-    metric_names = ('marzal', 'yujianbo', 'higuera_mico')
-    f1_by_cat: Dict[str, Dict[str, List[float]]] = {c: {m: [] for m in metric_names} for c in categories}
+    ann_ids = list(annotations)
+    pairs = list(itertools.combinations(ann_ids, 2))
 
-    for a1, a2 in pairs:
+    f1_by_cat: Dict[str, List[float]] = {c: [] for c in categories}
+
+    for a1, a2 in tqdm(pairs, desc="Pairs processing progress"):
         ann1, ann2 = annotations[a1], annotations[a2]
         for cat in categories:
-            scores = _match_and_f1(ann1.get(cat, []), ann2.get(cat, []))
-            for metric, (_p, _r, f1) in scores.items():
-                f1_by_cat[cat][metric].append(f1)
+            spans_a = ann1.get(cat, []) or []
+            spans_b = ann2.get(cat, []) or []
+            _, _, f1 = _pairwise_prf1(spans_a, spans_b, dist, min_sim=min_sim)
+            f1_by_cat[cat].append(f1)
 
-     # Mean over annotator pairs
-    mean_by_cat: Dict[str, Dict[str, float]] = {}
-    for cat, metric_dict in f1_by_cat.items():
-        mean_by_cat[cat] = {
-            metric: (sum(vals) / len(vals) if vals else 0.0)
-            for metric, vals in metric_dict.items()
-        }
+    # Mean over annotator pairs; if no pairs, return 0.0
+    return {
+        cat: (float(np.mean(vals)) if vals else 0.0)
+        for cat, vals in f1_by_cat.items()
+    }
 
-    return mean_by_cat
-
-
-# ---------------------------------------------------------------------------
-# 4.  Convenience CLI -- `python span_iaa.py example.json`
-# ---------------------------------------------------------------------------
 if __name__ == "__main__":
-    import json, sys, pathlib, textwrap
+    import json, sys, pathlib
     if len(sys.argv) != 2:
-        print(textwrap.dedent(f"""
-            Usage:
-                python {pathlib.Path(__file__).name} annotations.json
-            The JSON file must have the structure described in compute_iaa().
-        """).strip())
+        print(f"Usage: python {pathlib.Path(__file__).name} annotations.json")
         sys.exit(1)
-
     data = json.loads(pathlib.Path(sys.argv[1]).read_text(encoding="utf-8"))
-    cats = sorted(next(iter(data.values())).keys())
+    cats = sorted({c for ann in data.values() for c in ann})
     print("Categories:", cats)
     print(json.dumps(compute_iaa(data, cats), indent=2))

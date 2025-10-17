@@ -1,0 +1,47 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	"3pF3Z7jzys" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;A Section 368(a) (1) (F) reorganization<BR ALIGN='left'/>is defined as `a mere change in<BR ALIGN='left'/>identity, form, or place of<BR ALIGN='left'/>organization, however effected.&#x27; * * *<BR ALIGN='left'/>In the past, type (F) reorganizations<BR ALIGN='left'/>have overlapped with type (A), (C) and<BR ALIGN='left'/>(D) reorganizations. For this reason<BR ALIGN='left'/>this provision has received almost no<BR ALIGN='left'/>administrative or judicial attention. It<BR ALIGN='left'/>is true that a substantial shift in the<BR ALIGN='left'/>proprietary interest in a corporation<BR ALIGN='left'/>accomplishing a reorganization can<BR ALIGN='left'/>hardly be characterized as a mere change<BR ALIGN='left'/>in identity or form * * * The term `mere<BR ALIGN='left'/>change in identity [or] form&#x27; obviously<BR ALIGN='left'/>refers to a situation where it<BR ALIGN='left'/>represents a mere change in form as<BR ALIGN='left'/>opposed to a change in substance.<BR ALIGN='left'/>Whatever the outer limits of Section<BR ALIGN='left'/>368(a) (1) (F), it can clearly be<BR ALIGN='left'/>applied where the corporate enterprise<BR ALIGN='left'/>continues uninterrupted, except for a<BR ALIGN='left'/>distribution of 931*931 some liquidated<BR ALIGN='left'/>assets or cash. Under such<BR ALIGN='left'/>circumstances, there is a change of<BR ALIGN='left'/>corporate vehicles but not a change in<BR ALIGN='left'/>substance.&quot;</TD></TR>
+</TABLE>
+>]
+	LNmSxBU_OK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It seems clear that the only difference<BR ALIGN='left'/>between Harry&#x27;s Department Store, Inc.<BR ALIGN='left'/>and the later Harry&#x27;s of Alabama, Inc.<BR ALIGN='left'/>was that common creditors of the old<BR ALIGN='left'/>company accepted 22½% cash and 17½% in<BR ALIGN='left'/>notes for the obligations owing them.<BR ALIGN='left'/>There were no other changes at all.</TD></TR>
+</TABLE>
+>]
+	ouvrbnqy3_ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Court finds that the arrangement was<BR ALIGN='left'/>clearly an &quot;F&quot; reorganization within the<BR ALIGN='left'/>meaning of Section 368(a) (1) (F). There<BR ALIGN='left'/>was a change of vehicle but not of<BR ALIGN='left'/>substance.</TD></TR>
+</TABLE>
+>]
+	zr9Pl_IqTg [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;Although the exact function and scope<BR ALIGN='left'/>of the (F) reorganization in the scheme<BR ALIGN='left'/>of tax deferred transactions described<BR ALIGN='left'/>in Section 368(a) (1) have never been<BR ALIGN='left'/>clearly defined, it is apparent from<BR ALIGN='left'/>language of subparagraph (F) that it is<BR ALIGN='left'/>distinguishable from the five preceding<BR ALIGN='left'/>types of reorganizations as encompassing<BR ALIGN='left'/>only the simplest and least significant<BR ALIGN='left'/>of corporate changes. The (F) type<BR ALIGN='left'/>reorganization presumes that the<BR ALIGN='left'/>surviving corporation is the same<BR ALIGN='left'/>corporation as the predecessor in every<BR ALIGN='left'/>respect except for minor or technical<BR ALIGN='left'/>differences * * *</TD></TR>
+</TABLE>
+>]
+	"6z_XaHV_1g" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Here we have the same stockholders<BR ALIGN='left'/>owning the old and the new company. We<BR ALIGN='left'/>have the same assets. We have the same<BR ALIGN='left'/>liabilities except for the scaled down<BR ALIGN='left'/>demands of common creditors. And even as<BR ALIGN='left'/>to these the new corporation agreed that<BR ALIGN='left'/>if it failed to pay the installment<BR ALIGN='left'/>parts of their respective debts the<BR ALIGN='left'/>common creditors were free to advance<BR ALIGN='left'/>claims for the full amounts owing should<BR ALIGN='left'/>there be a subsequent bankruptcy. The<BR ALIGN='left'/>changes made were insignificant.</TD></TR>
+</TABLE>
+>]
+	"7DyDL3mITk" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The plaintiff is entitled to judgment.</TD></TR>
+</TABLE>
+>]
+	LNmSxBU_OK -> "3pF3Z7jzys"
+	"3pF3Z7jzys" -> ouvrbnqy3_
+	zr9Pl_IqTg -> ouvrbnqy3_
+	"6z_XaHV_1g" -> zr9Pl_IqTg
+	ouvrbnqy3_ -> "7DyDL3mITk"
+}

@@ -1,0 +1,88 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	"BNbihg6K-B" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Respondent, a Minnesota corporation with<BR ALIGN='left'/>three stockholders, assailed a<BR ALIGN='left'/>deficiency assessment for 1928 income<BR ALIGN='left'/>tax, and prevailed below. The<BR ALIGN='left'/>Commissioner seeks reversal. He claims<BR ALIGN='left'/>the transaction out of which the<BR ALIGN='left'/>assessment arose was not a<BR ALIGN='left'/>reorganization within § 112, par. (i)<BR ALIGN='left'/>(1) (A), Revenue Act, 1928, c. 852, 45<BR ALIGN='left'/>Stat. 791</TD></TR>
+</TABLE>
+>]
+	MaPt76thEF [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Circuit Court of Appeals held<BR ALIGN='left'/>otherwise and remanded the cause for<BR ALIGN='left'/>determination by the Board whether the<BR ALIGN='left'/>whole of the cash received by the<BR ALIGN='left'/>Minnesota Tea Company was in fact<BR ALIGN='left'/>distributed as required by the act. We<BR ALIGN='left'/>granted certiorari because of alleged<BR ALIGN='left'/>conflicting opinions.</TD></TR>
+</TABLE>
+>]
+	XMM6SzXFKd [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The petition also stated that, as the<BR ALIGN='left'/>taxpayer made an earlier conveyance of<BR ALIGN='left'/>certain assets, the later one, here in<BR ALIGN='left'/>question, of what remained to the Grand<BR ALIGN='left'/>Union Company did not result in<BR ALIGN='left'/>acquisition by one corporation of<BR ALIGN='left'/>substantially all property of another.<BR ALIGN='left'/>This point was not raised prior to the<BR ALIGN='left'/>petition for certiorari and, in the<BR ALIGN='left'/>circumstances, we do not consider it.</TD></TR>
+</TABLE>
+>]
+	ZbYUyIojHd [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">July 14, 1928, respondent caused<BR ALIGN='left'/>Peterson Investment Company to be<BR ALIGN='left'/>organized and transferred to the latter<BR ALIGN='left'/>real estate, investments and<BR ALIGN='left'/>miscellaneous assets in exchange for the<BR ALIGN='left'/>transferee&#x27;s entire capital stock. The<BR ALIGN='left'/>shares thus obtained were immediately<BR ALIGN='left'/>distributed among the three<BR ALIGN='left'/>stockholders. August 23, 1928 it<BR ALIGN='left'/>transferred all remaining assets to<BR ALIGN='left'/>Grand Union Company in exchange for<BR ALIGN='left'/>voting trust certificates, representing<BR ALIGN='left'/>18,000 shares of the transferee&#x27;s common<BR ALIGN='left'/>stock, and $426,842.52 cash. It retained<BR ALIGN='left'/>the certificates; but immediately<BR ALIGN='left'/>distributed the money among the<BR ALIGN='left'/>stockholders, who agreed to pay<BR ALIGN='left'/>$106,471.73 of its outstanding debts.<BR ALIGN='left'/>Although of opinion that there had been<BR ALIGN='left'/>reorganization, the Commissioner treated<BR ALIGN='left'/>as taxable gain the amount of the<BR ALIGN='left'/>assumed debts upon the view that this<BR ALIGN='left'/>amount of the cash received 382*382 by<BR ALIGN='left'/>the company was really appropriated to<BR ALIGN='left'/>the payment of its debts</TD></TR>
+</TABLE>
+>]
+	fRUNJdiWbs [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The matter went before the Board of Tax<BR ALIGN='left'/>Appeals upon the question whether the<BR ALIGN='left'/>Commissioner ruled rightly in respect of<BR ALIGN='left'/>this taxable gain. Both parties<BR ALIGN='left'/>proceeded upon the view that there had<BR ALIGN='left'/>been reorganization. Of its own motion,<BR ALIGN='left'/>the Board questioned and denied the<BR ALIGN='left'/>existence of one. It then ruled that the<BR ALIGN='left'/>corporation had realized taxable gain<BR ALIGN='left'/>amounting to the difference between cost<BR ALIGN='left'/>of the property transferred and the cash<BR ALIGN='left'/>received plus the value of the 18,000<BR ALIGN='left'/>shares — $712,195.90.</TD></TR>
+</TABLE>
+>]
+	tr3Cy6k5R9 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Circuit Court of Appeals found there<BR ALIGN='left'/>was reorganization within the statute<BR ALIGN='left'/>and reversed the Board. It 383*383<BR ALIGN='left'/>concluded that the words &quot;the<BR ALIGN='left'/>acquisition by one corporation of .. .<BR ALIGN='left'/>substantially all the property of<BR ALIGN='left'/>another corporation&quot; plainly include the<BR ALIGN='left'/>transaction under consideration. Also<BR ALIGN='left'/>that Clause (B), § 112 (i) (1), first<BR ALIGN='left'/>introduced by Revenue Act of 1924, and<BR ALIGN='left'/>continued in later statutes, did not<BR ALIGN='left'/>narrow the scope of Clause (A). Further,<BR ALIGN='left'/>that reorganization was not dependent<BR ALIGN='left'/>upon dissolution by the conveying<BR ALIGN='left'/>corporation. And finally, that its<BR ALIGN='left'/>conclusions find support in Treasury<BR ALIGN='left'/>regulations long in force.</TD></TR>
+</TABLE>
+>]
+	UOmvg9Ukyu [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">§ 112, par. (i) (1) (A), Revenue Act,<BR ALIGN='left'/>1928, c. 852, 45 Stat. 791: &quot;The term<BR ALIGN='left'/>`reorganization&#x27; means (A) a merger or<BR ALIGN='left'/>consolidation (including the acquisition<BR ALIGN='left'/>by one corporation of at least a<BR ALIGN='left'/>majority of the voting stock and at<BR ALIGN='left'/>least a majority of the total number of<BR ALIGN='left'/>shares of all other classes 380*380 of<BR ALIGN='left'/>stock of another corporation, or<BR ALIGN='left'/>substantially all the properties of<BR ALIGN='left'/>another corporation).&quot;</TD></TR>
+</TABLE>
+>]
+	baddWKv5zQ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">But the mere purchase for money of the<BR ALIGN='left'/>assets of one Company by another is<BR ALIGN='left'/>beyond the evident purpose of the<BR ALIGN='left'/>provision, and has no real semblance to<BR ALIGN='left'/>a merger or consolidation. Certainly, we<BR ALIGN='left'/>think that to be within the exemption<BR ALIGN='left'/>the seller must acquire an interest in<BR ALIGN='left'/>the affairs of the purchasing company<BR ALIGN='left'/>more definite than that incident to<BR ALIGN='left'/>ownership of its short-term purchase-<BR ALIGN='left'/>money notes.&quot; And we now add that this<BR ALIGN='left'/>interest must be definite and material;<BR ALIGN='left'/>it must represent a substantial part of<BR ALIGN='left'/>the value of the thing transferred.</TD></TR>
+</TABLE>
+>]
+	ZeFRTK8wM9 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Commissioner maintains that the<BR ALIGN='left'/>statute presents two definitions of<BR ALIGN='left'/>reorganization by transfer of assets.<BR ALIGN='left'/>384*384 One, Clause (B), requires that<BR ALIGN='left'/>the transferror obtain control of the<BR ALIGN='left'/>transferee. The other, Clause (A), is<BR ALIGN='left'/>part of the definition of merger or<BR ALIGN='left'/>consolidation, and must be narrowly<BR ALIGN='left'/>interpreted so as to necessitate<BR ALIGN='left'/>something nearly akin to technical<BR ALIGN='left'/>merger or consolidation. These clauses<BR ALIGN='left'/>have separate legislative histories and<BR ALIGN='left'/>were intended to be mutually exclusive.<BR ALIGN='left'/>Consequently, he says, Clause (A) must<BR ALIGN='left'/>be restricted to prevent overlapping and<BR ALIGN='left'/>negation of the condition in Clause (B).<BR ALIGN='left'/>Also, the transaction here involved<BR ALIGN='left'/>substantially changed the relation of<BR ALIGN='left'/>the taxpayer to its assets; a large<BR ALIGN='left'/>amount of cash passed between the<BR ALIGN='left'/>parties; there are many attributes of a<BR ALIGN='left'/>sale; what was done did not sufficiently<BR ALIGN='left'/>resemble merger or consolidation as<BR ALIGN='left'/>commonly understood.\n\nWith painstaking<BR ALIGN='left'/>care, the opinion of the court below<BR ALIGN='left'/>gives the history of Clauses (A) and<BR ALIGN='left'/>(B), § 112 (i) (1). We need not repeat<BR ALIGN='left'/>the story. Clause (A) first appeared in<BR ALIGN='left'/>the Act of 1921; (B) was added by the<BR ALIGN='left'/>1924 Act. We find nothing in the history<BR ALIGN='left'/>or words employed which indicates an<BR ALIGN='left'/>intention to modify the evident meaning<BR ALIGN='left'/>of (A) by what appears in (B). Both can<BR ALIGN='left'/>have effect, and if one does somewhat<BR ALIGN='left'/>overlap the other the taxpayer should<BR ALIGN='left'/>not be denied, for that reason, what one<BR ALIGN='left'/>paragraph clearly grants him. Treasury<BR ALIGN='left'/>regulations long enforced support the<BR ALIGN='left'/>taxpayer&#x27;s position, as the opinion<BR ALIGN='left'/>below plainly points out.\n\nPinellas<BR ALIGN='left'/>Ice Co. v. Commissioner, 287 U.S. 462,<BR ALIGN='left'/>470, considered the language of § 203<BR ALIGN='left'/>(h) (1) (A), Act of 1926, which became §<BR ALIGN='left'/>112 (i) (1) (A), Act of 1928, and held<BR ALIGN='left'/>that a sale for money or short-term<BR ALIGN='left'/>notes was not within its intendment. We<BR ALIGN='left'/>approved the conclusion of the<BR ALIGN='left'/>Commissioner, Board of Tax Appeals and<BR ALIGN='left'/>Court of Appeals that the transaction<BR ALIGN='left'/>there involved was in reality a sale for<BR ALIGN='left'/>the equivalent of money — not an<BR ALIGN='left'/>exchange for securities. But we<BR ALIGN='left'/>disapproved the following assumption<BR ALIGN='left'/>385*385 and observations of the court:<BR ALIGN='left'/>&quot;That in adopting paragraph (h) Congress<BR ALIGN='left'/>intended to use the words `merger&#x27; and<BR ALIGN='left'/>`consolidation&#x27; in their ordinary and<BR ALIGN='left'/>accepted meanings. Giving the matter in<BR ALIGN='left'/>parenthesis the most liberal<BR ALIGN='left'/>construction, it is only when there is<BR ALIGN='left'/>an acquisition of substantially all the<BR ALIGN='left'/>property of another corporation in<BR ALIGN='left'/>connection with a merger or<BR ALIGN='left'/>consolidation that a reorganization<BR ALIGN='left'/>takes place. Clause (B) of the paragraph<BR ALIGN='left'/>removes any doubt as to the intention of<BR ALIGN='left'/>Congress on this point.&quot; And we said:<BR ALIGN='left'/>&quot;The words within the parenthesis may<BR ALIGN='left'/>not be disregarded. They expand the<BR ALIGN='left'/>meaning of `merger&#x27; or `consolidation&#x27;<BR ALIGN='left'/>so as to include some things which<BR ALIGN='left'/>partake of the nature of a merger or<BR ALIGN='left'/>consolidation but are beyond the<BR ALIGN='left'/>ordinary and commonly accepted meaning<BR ALIGN='left'/>of those words — so as to embrace<BR ALIGN='left'/>circumstances difficult to delimit but<BR ALIGN='left'/>which in strictness cannot be designated<BR ALIGN='left'/>as either merger or consolidation.</TD></TR>
+</TABLE>
+>]
+	KTyrkxd111 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">True it is that the relationship of the<BR ALIGN='left'/>taxpayer to the assets conveyed was<BR ALIGN='left'/>substantially changed, but this is not<BR ALIGN='left'/>inhibited by the statute. Also, a large<BR ALIGN='left'/>part of the consideration was cash.<BR ALIGN='left'/>This, we think, is permissible so long<BR ALIGN='left'/>as the taxpayer received an interest in<BR ALIGN='left'/>the affairs of the transferee which<BR ALIGN='left'/>represented a material part of the value<BR ALIGN='left'/>of the transferred assets.</TD></TR>
+</TABLE>
+>]
+	oG8eEuRMUu [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Finally, it is said the transferror was<BR ALIGN='left'/>not dissolved and therefore the<BR ALIGN='left'/>transaction does not adequately resemble<BR ALIGN='left'/>consolidation. But dissolution is not<BR ALIGN='left'/>prescribed and we are unable to see that<BR ALIGN='left'/>such action is essential to the end in<BR ALIGN='left'/>view.</TD></TR>
+</TABLE>
+>]
+	ojbawcUThH [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The challenged judgment is\n\nAffirmed.</TD></TR>
+</TABLE>
+>]
+	ZbYUyIojHd -> fRUNJdiWbs
+	fRUNJdiWbs -> "BNbihg6K-B"
+	"BNbihg6K-B" -> tr3Cy6k5R9
+	tr3Cy6k5R9 -> MaPt76thEF
+	MaPt76thEF -> XMM6SzXFKd
+	UOmvg9Ukyu -> baddWKv5zQ
+	baddWKv5zQ -> ZeFRTK8wM9
+	ZeFRTK8wM9 -> KTyrkxd111
+	KTyrkxd111 -> oG8eEuRMUu
+	oG8eEuRMUu -> ojbawcUThH
+}

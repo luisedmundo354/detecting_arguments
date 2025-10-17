@@ -1,0 +1,95 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	VweFlLiqY3 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Jack D. Ringwalt and other taxpayers[1]<BR ALIGN='left'/>appeal from the district court&#x27;s[2]<BR ALIGN='left'/>judgment disallowing their claims for<BR ALIGN='left'/>income tax refunds for the year 1967. In<BR ALIGN='left'/>this appeal appellants contend the<BR ALIGN='left'/>district court erred in concluding that<BR ALIGN='left'/>certain corporate transactions<BR ALIGN='left'/>constituted a corporate reorganization<BR ALIGN='left'/>rather than a liquidation producing more<BR ALIGN='left'/>favorable tax treatment.</TD></TR>
+</TABLE>
+>]
+	vd2vfjhGMw [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The basic facts are described in a<BR ALIGN='left'/>stipulation adopted by the district<BR ALIGN='left'/>court. In 1949 Ringwalt organized a<BR ALIGN='left'/>general insurance agency entitled<BR ALIGN='left'/>Ringwalt &amp; Liesche, Inc. (R &amp; L, Inc.).<BR ALIGN='left'/>Ringwalt, owning 84% of the shares in<BR ALIGN='left'/>the corporation, served as its<BR ALIGN='left'/>president. On April 30, 1959, Ringwalt<BR ALIGN='left'/>established a trust for the benefit of<BR ALIGN='left'/>his children, and he transferred all of<BR ALIGN='left'/>his shares in R &amp; L, Inc. to himself as<BR ALIGN='left'/>trustee. The trust, commonly known as a<BR ALIGN='left'/>Clifford Trust, was specified to last<BR ALIGN='left'/>until May 1, 1969, with the trust income<BR ALIGN='left'/>being distributable and taxable to the<BR ALIGN='left'/>children during the ten-year period.<BR ALIGN='left'/>Ringwalt retained a reversionary<BR ALIGN='left'/>interest in the trust corpus and held<BR ALIGN='left'/>various administrative powers as<BR ALIGN='left'/>trustee, including sole discretion to<BR ALIGN='left'/>allocate trust receipts between<BR ALIGN='left'/>principal and income.\n\nThe critical<BR ALIGN='left'/>events for purposes of this appeal<BR ALIGN='left'/>consist of the sale by R &amp; L, Inc. of a<BR ALIGN='left'/>major asset, the dissolution of R &amp; L,<BR ALIGN='left'/>Inc., and the subsequent formation of a<BR ALIGN='left'/>new insurance corporation. The record<BR ALIGN='left'/>reflects that Ringwalt had formed<BR ALIGN='left'/>several insurance companies, including<BR ALIGN='left'/>National Fire and Marine Insurance<BR ALIGN='left'/>Company. R &amp; L, Inc. owned 51% of the<BR ALIGN='left'/>shares in National Fire and Marine, but<BR ALIGN='left'/>on March 16, 1967, sold its entire<BR ALIGN='left'/>interest to Berkshire-Hathaway, Inc. R &amp;<BR ALIGN='left'/>L, Inc. realized a taxable gain on the<BR ALIGN='left'/>sale exceeding $700,000. Shortly<BR ALIGN='left'/>afterward, the shareholders of R &amp; L,<BR ALIGN='left'/>Inc. adopted a resolution authorizing<BR ALIGN='left'/>dissolution of the corporation effective<BR ALIGN='left'/>March 31, 1967. Ringwalt &amp; Liesche Co.<BR ALIGN='left'/>(R &amp; L Co.) was organized on April 1,<BR ALIGN='left'/>1967, with respective shareholdings<BR ALIGN='left'/>similar to those of R &amp; L, Inc. but with<BR ALIGN='left'/>one exception: Ringwalt, rather than the<BR ALIGN='left'/>trust, obtained an 84% interest in the<BR ALIGN='left'/>new corporation. R &amp; L Co. purchased the<BR ALIGN='left'/>operating assets and corporate name of R<BR ALIGN='left'/>&amp; L, Inc. and proceeded to conduct the<BR ALIGN='left'/>business formerly conducted by R &amp; L,<BR ALIGN='left'/>Inc. 91*91 in substantially the same<BR ALIGN='left'/>manner and at the same location.\n\nOn<BR ALIGN='left'/>April 1, 1967, R &amp; L, Inc.&#x27;s assets were<BR ALIGN='left'/>distributed to its shareholders in<BR ALIGN='left'/>connection with its dissolution. In<BR ALIGN='left'/>particular, $932,754.06 was distributed<BR ALIGN='left'/>to Ringwalt as trustee of the short-term<BR ALIGN='left'/>trust. These funds were subsequently<BR ALIGN='left'/>reinvested in publicly-held securities<BR ALIGN='left'/>because, in Ringwalt&#x27;s view, investment<BR ALIGN='left'/>in R &amp; L Co. would have been unduly<BR ALIGN='left'/>speculative.\n\nIn their individual<BR ALIGN='left'/>federal income tax returns for the year<BR ALIGN='left'/>1967, Ringwalt and the other taxpayers<BR ALIGN='left'/>treated the distribution received from R<BR ALIGN='left'/>&amp; L, Inc. as a corporate liquidation[3]<BR ALIGN='left'/>and reported long-term capital gain. R &amp;<BR ALIGN='left'/>L, Inc., similarly treating the<BR ALIGN='left'/>distribution as a liquidation,[4]<BR ALIGN='left'/>reported no gain with respect to the<BR ALIGN='left'/>sale of the National Fire and Marine<BR ALIGN='left'/>stock or the transfer of the operating<BR ALIGN='left'/>assets to R &amp; L Co. In contrast, the<BR ALIGN='left'/>Internal Revenue Service determined that<BR ALIGN='left'/>the series of transactions through which<BR ALIGN='left'/>R &amp; L, Inc. transferred its assets to R<BR ALIGN='left'/>&amp; L Co. and then dissolved constituted a<BR ALIGN='left'/>corporate reorganization[5] rather than<BR ALIGN='left'/>a liquidation. Accordingly, the Internal<BR ALIGN='left'/>Revenue Service treated the liquidating<BR ALIGN='left'/>distribution as essentially equivalent<BR ALIGN='left'/>to a dividend, which is ordinary<BR ALIGN='left'/>income,[6] as opposed to capital gain,<BR ALIGN='left'/>which would have been appropriate if the<BR ALIGN='left'/>transactions were treated as a corporate<BR ALIGN='left'/>liquidation. Income tax deficiencies<BR ALIGN='left'/>were assessed against Ringwalt and the<BR ALIGN='left'/>other taxpayers; Ringwalt&#x27;s deficiency<BR ALIGN='left'/>was approximately $150,000.</TD></TR>
+</TABLE>
+>]
+	gx8RbbbfuS [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">After payment of the tax, the taxpayers<BR ALIGN='left'/>initiated refund actions in the district<BR ALIGN='left'/>court. The district court, holding in<BR ALIGN='left'/>favor of the United States, concluded<BR ALIGN='left'/>that the dissolution of R &amp; L, Inc. and<BR ALIGN='left'/>subsequent creation of R &amp; L Co. was<BR ALIGN='left'/>correctly treated as a corporate<BR ALIGN='left'/>reorganization, and the court dismissed<BR ALIGN='left'/>the taxpayers&#x27; claims for refunds.</TD></TR>
+</TABLE>
+>]
+	FnlUFCeDPG [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A corporate liquidation consists of the<BR ALIGN='left'/>cessation of business by the corporation<BR ALIGN='left'/>and the distribution of its assets to<BR ALIGN='left'/>its shareholders. See, e. g., I.R.C. §<BR ALIGN='left'/>332. A corporate reorganization<BR ALIGN='left'/>constitutes a continuation of business<BR ALIGN='left'/>activity by the same shareholders in<BR ALIGN='left'/>modified corporate form. See I.R.C. §<BR ALIGN='left'/>368. See generally B. Bittker &amp; J.<BR ALIGN='left'/>Eustice, Federal Income Taxation of<BR ALIGN='left'/>Corporations and Shareholders ¶ 14.54<BR ALIGN='left'/>(3rd ed. 1971).\n\nIn a liquidation,<BR ALIGN='left'/>favorable tax treatment may be<BR ALIGN='left'/>appropriate in that the distribution can<BR ALIGN='left'/>be reported as a capital gain by a<BR ALIGN='left'/>shareholder, and no gain need be<BR ALIGN='left'/>recognized by the corporation. See<BR ALIGN='left'/>I.R.C. §§ 331 and 337. Nevertheless,<BR ALIGN='left'/>such advantageous tax treatment is<BR ALIGN='left'/>denied when an ostensible liquidation is<BR ALIGN='left'/>tainted by reincorporation of the<BR ALIGN='left'/>original corporation&#x27;s operating assets<BR ALIGN='left'/>in a &quot;new&quot; corporation controlled by the<BR ALIGN='left'/>same shareholders. See I.R.C. § 368. In<BR ALIGN='left'/>that situation, the series of corporate<BR ALIGN='left'/>transactions constituting a liquidation-<BR ALIGN='left'/>reorganization is collapsed, and the tax<BR ALIGN='left'/>treatment accorded to reorganizations<BR ALIGN='left'/>preempts that accorded to complete<BR ALIGN='left'/>liquidations.[7]</TD></TR>
+</TABLE>
+>]
+	"Lmzub3_xb-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The central issue in this appeal<BR ALIGN='left'/>obviously is whether the series of<BR ALIGN='left'/>corporate transactions described above<BR ALIGN='left'/>should be treated as a corporate<BR ALIGN='left'/>reorganization or a liquidation.</TD></TR>
+</TABLE>
+>]
+	"yi1HM-hnwl" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We conclude that the dissolution of R &amp;<BR ALIGN='left'/>L, Inc. and concomitant incorporation of<BR ALIGN='left'/>R &amp; L Co. should be construed as a<BR ALIGN='left'/>reorganization rather than a<BR ALIGN='left'/>liquidation.</TD></TR>
+</TABLE>
+>]
+	Z05lwFvwNN [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The series of transactions that took<BR ALIGN='left'/>place in the instant case appears<BR ALIGN='left'/>governed by I.R.C. § 368(a)(1)(D), which<BR ALIGN='left'/>defines a reorganization as:\n\na<BR ALIGN='left'/>transfer by a corporation of all or a<BR ALIGN='left'/>part of its assets to another<BR ALIGN='left'/>corporation if immediately after the<BR ALIGN='left'/>transfer the transferor, or one or more<BR ALIGN='left'/>of its shareholders (including persons<BR ALIGN='left'/>who were shareholders immediately before<BR ALIGN='left'/>the transfer), or any combination<BR ALIGN='left'/>thereof, is in control of the<BR ALIGN='left'/>corporation to which the assets are<BR ALIGN='left'/>transferred; but only if, in pursuance<BR ALIGN='left'/>of the plan, stock or securities of the<BR ALIGN='left'/>corporation to which the assets are<BR ALIGN='left'/>transferred are distributed in a<BR ALIGN='left'/>transaction which qualifies under<BR ALIGN='left'/>section 354, 355, or 356.</TD></TR>
+</TABLE>
+>]
+	GLGarRPLtw [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Taxpayers&#x27; most critical contention, in<BR ALIGN='left'/>claiming that the series of corporate<BR ALIGN='left'/>transactions described above should not<BR ALIGN='left'/>have been treated as a reorganization,<BR ALIGN='left'/>is that a reorganization requires a<BR ALIGN='left'/>consistency of ownership between the<BR ALIGN='left'/>original corporation and the surviving<BR ALIGN='left'/>corporation, allegedly absent in this<BR ALIGN='left'/>case.</TD></TR>
+</TABLE>
+>]
+	"1k2mi8mxBU" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">See, e. g., Helvering v. Southwest<BR ALIGN='left'/>Corp., 315 U.S. 194, 201-02, 62 S.Ct.<BR ALIGN='left'/>546, 86 L.Ed. 789 (1942). Taxpayers<BR ALIGN='left'/>emphasize, in this regard, that Ringwalt<BR ALIGN='left'/>held an 84% interest in R &amp; L, Inc. only<BR ALIGN='left'/>as trustee under a short-term trust and<BR ALIGN='left'/>owned in his individual capacity an 84%<BR ALIGN='left'/>interest in R &amp; L Co. Accordingly, they<BR ALIGN='left'/>assert that the common control<BR ALIGN='left'/>requirement for a reorganization under<BR ALIGN='left'/>section 368(a)(1)(D) has not been<BR ALIGN='left'/>met.[8] The government contends,<BR ALIGN='left'/>however, that Ringwalt did have<BR ALIGN='left'/>sufficient control as trustee for the<BR ALIGN='left'/>Clifford Trust in order to satisfy the<BR ALIGN='left'/>common control element of a<BR ALIGN='left'/>reorganization.\n\nIn determining that<BR ALIGN='left'/>the continuity of interest requirement<BR ALIGN='left'/>had been established in the instant<BR ALIGN='left'/>case, the district court specifically<BR ALIGN='left'/>found that Ringwalt was treated<BR ALIGN='left'/>appropriately as the owner of 84% of the<BR ALIGN='left'/>R &amp; L, Inc. stock because of the<BR ALIGN='left'/>significant incidence of his ownership<BR ALIGN='left'/>over the trust property. We agree. The<BR ALIGN='left'/>district court&#x27;s finding is adequately<BR ALIGN='left'/>supported by the record.\n\nAssessing<BR ALIGN='left'/>continuity of interest ultimately<BR ALIGN='left'/>depends upon proof of beneficial<BR ALIGN='left'/>ownership without regard to the<BR ALIGN='left'/>existence or absence of legal title. See<BR ALIGN='left'/>Bondy v. Commissioner, 269 F.2d 463,<BR ALIGN='left'/>466-67 (4th Cir. 1959); Commissioner v.<BR ALIGN='left'/>National Bellas Hess, Inc., supra, 220<BR ALIGN='left'/>F.2d at 421. Cf. Kamborian v.<BR ALIGN='left'/>Commissioner, 469 F.2d 219, 221-22 (1st<BR ALIGN='left'/>Cir. 1972). The only beneficial right<BR ALIGN='left'/>that Ringwalt relinquished under the<BR ALIGN='left'/>trust agreement was the right to receive<BR ALIGN='left'/>trust receipts allocable to income.<BR ALIGN='left'/>Ringwalt had numerous powers of<BR ALIGN='left'/>administration over the trust. The trust<BR ALIGN='left'/>assets were subject to execution by<BR ALIGN='left'/>Ringwalt&#x27;s creditors. Ringwalt also<BR ALIGN='left'/>retained a reversionary interest in the<BR ALIGN='left'/>corpus of the trust to insure that he<BR ALIGN='left'/>would be entitled to total control after<BR ALIGN='left'/>ten years.\n\nMost significantly,<BR ALIGN='left'/>examination of the declaration of trust<BR ALIGN='left'/>reveals that Ringwalt as trustee<BR ALIGN='left'/>possessed extensive power to allocate<BR ALIGN='left'/>trust receipts between principal and<BR ALIGN='left'/>income. I.R.C. § 677(a)(2) provides that<BR ALIGN='left'/>the grantor of a trust shall be treated<BR ALIGN='left'/>as the owner when the trust income may<BR ALIGN='left'/>be held or accumulated, in the grantor&#x27;s<BR ALIGN='left'/>uncontrolled discretion, for future<BR ALIGN='left'/>distribution to 93*93 himself.[9] See<BR ALIGN='left'/>Helvering v. Clifford, 309 U.S. 331,<BR ALIGN='left'/>334-38, 60 S.Ct. 554, 84 L.Ed. 788<BR ALIGN='left'/>(1940). Cf. Swanson v. Commissioner, 518<BR ALIGN='left'/>F.2d 59, 63 (8th Cir. 1975). In<BR ALIGN='left'/>accordance with Ringwalt&#x27;s powers as<BR ALIGN='left'/>trustee, the 1967 liquidating<BR ALIGN='left'/>distribution received from dissolution<BR ALIGN='left'/>of R &amp; L, Inc. was allocated to<BR ALIGN='left'/>principal, held by the trust for future<BR ALIGN='left'/>distribution and actually distributed to<BR ALIGN='left'/>Ringwalt upon termination of the trust<BR ALIGN='left'/>in 1969.</TD></TR>
+</TABLE>
+>]
+	MS1X84CNNa [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Under these circumstances, it appears<BR ALIGN='left'/>that Ringwalt should be treated as the<BR ALIGN='left'/>owner of the Clifford Trust, pursuant to<BR ALIGN='left'/>section 677(a)(2),[10]</TD></TR>
+</TABLE>
+>]
+	XaIpZ3rs3G [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">correspondingly we hold that the common<BR ALIGN='left'/>control requirement for a<BR ALIGN='left'/>reorganization, defined by section 368,<BR ALIGN='left'/>was satisfied.[11]</TD></TR>
+</TABLE>
+>]
+	mnFSqH5LH5 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The transactions that occurred in the<BR ALIGN='left'/>instant case, which in substance were<BR ALIGN='left'/>really a continuation of the insurance<BR ALIGN='left'/>business rather than its cessation, were<BR ALIGN='left'/>properly characterized as a<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	"-Z69-dCUZh" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Affirmed.</TD></TR>
+</TABLE>
+>]
+	vd2vfjhGMw -> gx8RbbbfuS
+	gx8RbbbfuS -> VweFlLiqY3
+	VweFlLiqY3 -> "Lmzub3_xb-"
+	"Lmzub3_xb-" -> FnlUFCeDPG
+	FnlUFCeDPG -> Z05lwFvwNN
+	Z05lwFvwNN -> GLGarRPLtw
+	GLGarRPLtw -> "1k2mi8mxBU"
+	"1k2mi8mxBU" -> MS1X84CNNa
+	MS1X84CNNa -> XaIpZ3rs3G
+	XaIpZ3rs3G -> mnFSqH5LH5
+	mnFSqH5LH5 -> "-Z69-dCUZh"
+}

@@ -1,0 +1,273 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	c1EA1ThRBD [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">These three petitions to review<BR ALIGN='left'/>decisions of the Tax Court all involve a<BR ALIGN='left'/>determination of whether the<BR ALIGN='left'/>&quot;recapitalization&quot; of an incorporated<BR ALIGN='left'/>printing business in St. Louis,<BR ALIGN='left'/>Missouri, in 1940 constituted a tax-free<BR ALIGN='left'/>&quot;reorganization&quot; of a corporation within<BR ALIGN='left'/>the meaning of § 112(g) (1) (D) of the<BR ALIGN='left'/>Internal Revenue Code, 26 U.S.C. A.<BR ALIGN='left'/>Int.Rev.Code, § 112(g) (1) (D), rather<BR ALIGN='left'/>than a liquidation. The three cases<BR ALIGN='left'/>involve the same transactions. They were<BR ALIGN='left'/>consolidated for hearing before the Tax<BR ALIGN='left'/>Court, resulting in a single transcript<BR ALIGN='left'/>of the record, a single finding of facts<BR ALIGN='left'/>and a single opinion (5 T.C. 665). They<BR ALIGN='left'/>may accordingly be disposed of in a<BR ALIGN='left'/>single opinion in this court.</TD></TR>
+</TABLE>
+>]
+	USuv0RwbtH [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The evidentiary facts, as found by the<BR ALIGN='left'/>Tax Court, are not in dispute. The<BR ALIGN='left'/>inferential facts and conclusions of the<BR ALIGN='left'/>court only are controverted.\n\nThe<BR ALIGN='left'/>National Typesetting Company (herein<BR ALIGN='left'/>called the Company) was incorporated<BR ALIGN='left'/>under the laws of Missouri in 1927 with<BR ALIGN='left'/>1000 shares of no par value stock. In<BR ALIGN='left'/>July, 1940, petitioner, Richard H.<BR ALIGN='left'/>Survaunt, and one Lee M. Hartwell owned<BR ALIGN='left'/>all of the stock of the Company in equal<BR ALIGN='left'/>shares. Hartwell died on July 19, 1940,<BR ALIGN='left'/>and his widow, Eleanor L. Hartwell, was<BR ALIGN='left'/>appointed executrix of his estate.\n\nAt<BR ALIGN='left'/>the time of Hartwell&#x27;s death he and<BR ALIGN='left'/>petitioner Survaunt were indebted in<BR ALIGN='left'/>equal amounts on their individual unpaid<BR ALIGN='left'/>and past due promissory notes. As of<BR ALIGN='left'/>December 30, 1940, the aggregate amount<BR ALIGN='left'/>of unpaid principal of these notes was<BR ALIGN='left'/>$29,534.18; and the holders of the notes<BR ALIGN='left'/>were insisting upon payment. Neither<BR ALIGN='left'/>Survaunt nor the Hartwell estate had any<BR ALIGN='left'/>assets, other than their stock in the<BR ALIGN='left'/>Company, with which to<BR ALIGN='left'/>pay.\n\nConfronted with this situation<BR ALIGN='left'/>the debtors decided to attempt to refund<BR ALIGN='left'/>their individual notes with corporate<BR ALIGN='left'/>notes issued by the Company. Their<BR ALIGN='left'/>counsel, however, advised them that<BR ALIGN='left'/>under the law of Missouri the Company<BR ALIGN='left'/>could not assume their individual<BR ALIGN='left'/>obligations. In order, therefore, to<BR ALIGN='left'/>provide means to meet their indebtedness<BR ALIGN='left'/>the stockholders decided to dissolve and<BR ALIGN='left'/>liquidate the Company. Accordingly at a<BR ALIGN='left'/>meeting of the stockholders held<BR ALIGN='left'/>December 30, 1940, a resolution was<BR ALIGN='left'/>unanimously adopted immediately<BR ALIGN='left'/>dissolving the Company and distributing<BR ALIGN='left'/>all of its property to the stockholders<BR ALIGN='left'/>who assumed the Company&#x27;s debts.\n\nWith<BR ALIGN='left'/>the dissolution of the Company thus<BR ALIGN='left'/>consummated, all the property received<BR ALIGN='left'/>by the stockholders, less enough to pay<BR ALIGN='left'/>the Company&#x27;s debts, was conveyed by<BR ALIGN='left'/>them by bill of sale to a new<BR ALIGN='left'/>corporation which they had caused to be<BR ALIGN='left'/>organized under the laws of Missouri on<BR ALIGN='left'/>December 30, 1940, under the name of<BR ALIGN='left'/>National Typesetting Corporation (herein<BR ALIGN='left'/>called the Corporation), which had a<BR ALIGN='left'/>certificate of authority to commence<BR ALIGN='left'/>business on December 31, 1940. The<BR ALIGN='left'/>Corporation was authorized to issue 4000<BR ALIGN='left'/>shares of capital stock without par<BR ALIGN='left'/>value. After the transfer the<BR ALIGN='left'/>Corporation without interruption<BR ALIGN='left'/>continued with no change in policy to<BR ALIGN='left'/>conduct the identical business<BR ALIGN='left'/>previously conducted by the<BR ALIGN='left'/>Company.\n\nThe agreed price of the<BR ALIGN='left'/>assets conveyed to the Corporation by<BR ALIGN='left'/>the bill of sale was $113,297.57,<BR ALIGN='left'/>consisting of promissory notes<BR ALIGN='left'/>aggregating $29,534.18, equaling the<BR ALIGN='left'/>amount of Survaunt and Hartwell&#x27;s<BR ALIGN='left'/>individual indebtedness, and the 4000<BR ALIGN='left'/>shares of the Corporation&#x27;s authorized<BR ALIGN='left'/>no par value capital stock at an agreed<BR ALIGN='left'/>value of $83,763.39.\n\nThe notes<BR ALIGN='left'/>aggregating $29,534.18 called for in the<BR ALIGN='left'/>bill of sale were never actually issued.<BR ALIGN='left'/>After the organization of the<BR ALIGN='left'/>Corporation Survaunt and Mrs. Hartwell<BR ALIGN='left'/>did not arrive at a settlement with<BR ALIGN='left'/>their creditors until July 21, 1941,<BR ALIGN='left'/>when notes of the corporation in the<BR ALIGN='left'/>amount of $27,967.80 and cash furnished<BR ALIGN='left'/>by Survaunt and Mrs. Hartwell were used<BR ALIGN='left'/>to satisfy the indebtedness to their<BR ALIGN='left'/>creditors.\n\nOn August 8, 1941, the<BR ALIGN='left'/>Probate Court having jurisdiction of the<BR ALIGN='left'/>Hartwell estate, acting upon petition of<BR ALIGN='left'/>Mrs. Hartwell, entered 755*755 an order<BR ALIGN='left'/>&quot;* * * that all right, title and<BR ALIGN='left'/>interest of the Estate of Lee M.<BR ALIGN='left'/>Hartwell, deceased, in * * * 2000 shares<BR ALIGN='left'/>of the capital stock of National<BR ALIGN='left'/>Typesetting Corporation&quot; and &quot;notes of<BR ALIGN='left'/>said Corporation * * * be assigned,<BR ALIGN='left'/>transferred and delivered to Eleanor L.<BR ALIGN='left'/>Hartwell, in her individual capacity, in<BR ALIGN='left'/>consideration of her assumption of the<BR ALIGN='left'/>claims&quot; against the Hartwell estate,<BR ALIGN='left'/>&quot;and in full release and discharge of<BR ALIGN='left'/>this estate therefor, and in full<BR ALIGN='left'/>settlement of the claim of Eleanor L.<BR ALIGN='left'/>Hartwell for her year&#x27;s support and<BR ALIGN='left'/>absolute property. * * *&quot;</TD></TR>
+</TABLE>
+>]
+	Yeg2RZyOwd [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In No. 13,339 the Tax Court sustained a<BR ALIGN='left'/>deficiency in the income tax return of<BR ALIGN='left'/>petitioner Survaunt for the taxable year<BR ALIGN='left'/>ending December 31, 1940, in the amount<BR ALIGN='left'/>of $74.95. The deficiency results from<BR ALIGN='left'/>the denial by the Commissioner of<BR ALIGN='left'/>Survaunt&#x27;s claimed deduction of $891.23<BR ALIGN='left'/>for a net long term capital loss of<BR ALIGN='left'/>$1,782.46 as a stockholder upon the<BR ALIGN='left'/>liquidation of the Company on December<BR ALIGN='left'/>30, 1940. The Commissioner held and the<BR ALIGN='left'/>Tax Court found that the transaction in<BR ALIGN='left'/>which the Company&#x27;s assets were<BR ALIGN='left'/>transferred to the Corporation leaving<BR ALIGN='left'/>the stockholders of the old Company in<BR ALIGN='left'/>control of the new corporation was a<BR ALIGN='left'/>reorganization under § 112(g) (1) (D) of<BR ALIGN='left'/>the Internal Revenue Code and not a mere<BR ALIGN='left'/>liquidation of the old Company.</TD></TR>
+</TABLE>
+>]
+	c1IOBvJ6Ow [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The petitions in Nos. 13,340 and 13,341<BR ALIGN='left'/>are duplications of the same deficiency<BR ALIGN='left'/>in the income tax of National<BR ALIGN='left'/>Typesetting Corporation for the taxable<BR ALIGN='left'/>year ending November 30, 1941, in that<BR ALIGN='left'/>the appeal to the Tax Court in No.<BR ALIGN='left'/>13,341 was taken to correct an error in<BR ALIGN='left'/>No. 13,340 resulting from the issuance<BR ALIGN='left'/>of two notices of deficiency for the<BR ALIGN='left'/>same tax deficiency. No. 13,340 was<BR ALIGN='left'/>dismissed by the Tax Court, and the<BR ALIGN='left'/>deficiency in No. 13,341 was sustained.</TD></TR>
+</TABLE>
+>]
+	"6HFX2fKbCz" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A petition for review was filed in No.<BR ALIGN='left'/>13,340 because § 1117(d) of the Internal<BR ALIGN='left'/>Revenue Code, 26 U.S.C.A. Int.Rev.Code,<BR ALIGN='left'/>§ 1117(d) provides that an order of<BR ALIGN='left'/>dismissal by the Tax Court &quot;shall be<BR ALIGN='left'/>considered as its decision that the<BR ALIGN='left'/>deficiency is the amount determined by<BR ALIGN='left'/>the Commissioner.&quot; The parties agree<BR ALIGN='left'/>that No. 13,340 should be reversed and<BR ALIGN='left'/>remanded to the Tax Court with<BR ALIGN='left'/>directions to enter a decision of no<BR ALIGN='left'/>deficiency. It will be so ordered.</TD></TR>
+</TABLE>
+>]
+	mpQUqUKbbq [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In No. 13,341 the Corporation in its<BR ALIGN='left'/>income tax return for 1941 claimed a<BR ALIGN='left'/>deduction of $5,567.01 for depreciation<BR ALIGN='left'/>computed on the alleged cost or fair<BR ALIGN='left'/>market value of $72,092.05 for the<BR ALIGN='left'/>depreciable assets acquired for its<BR ALIGN='left'/>stock and notes at the time of its<BR ALIGN='left'/>organization. The Commissioner<BR ALIGN='left'/>disallowed the deduction to the extent<BR ALIGN='left'/>of $4,643.64 on the ground that such<BR ALIGN='left'/>assets were acquired in connection with<BR ALIGN='left'/>a reorganization within the meaning of §<BR ALIGN='left'/>112 (g) (1) (D) of the Code, and that<BR ALIGN='left'/>the Corporation was required to take the<BR ALIGN='left'/>basis for depreciation of its<BR ALIGN='left'/>predecessor. The Corporation also<BR ALIGN='left'/>deducted $1,900 as legal and accounting<BR ALIGN='left'/>fees incurred in connection with its<BR ALIGN='left'/>organization. The deduction was denied<BR ALIGN='left'/>on the ground that such expenses should<BR ALIGN='left'/>be capitalized and not deducted as<BR ALIGN='left'/>current expenses. The total deficiency<BR ALIGN='left'/>of the Corporation redetermined by the<BR ALIGN='left'/>Tax Court was $965.30.</TD></TR>
+</TABLE>
+>]
+	PaWTieK8xO [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Tax Court found that the whole<BR ALIGN='left'/>transaction by which the Corporation<BR ALIGN='left'/>succeeded to the Company&#x27;s business was<BR ALIGN='left'/>pursuant to a plan of reorganization;<BR ALIGN='left'/>and, in its opinion, the Court declared<BR ALIGN='left'/>that there was a &quot;reorganization&quot; and<BR ALIGN='left'/>not a mere &quot;liquidation&quot; of the old<BR ALIGN='left'/>Company; that considering all parts of<BR ALIGN='left'/>the transaction together and not<BR ALIGN='left'/>separately, the liquidation of the old<BR ALIGN='left'/>Company assumes the character of only<BR ALIGN='left'/>one step in an integrated transaction;<BR ALIGN='left'/>that by means of the entire operation<BR ALIGN='left'/>there was a &quot;transfer&quot; within the<BR ALIGN='left'/>meaning of Internal Revenue Code, §<BR ALIGN='left'/>112(g) (1) (D), by the old &quot;corporation<BR ALIGN='left'/>of all or a part of its assets to<BR ALIGN='left'/>another corporation&quot; and &quot;immediately<BR ALIGN='left'/>after the transfer the transferor or its<BR ALIGN='left'/>shareholders or both&quot; were in control —<BR ALIGN='left'/>that is, held 80 per cent of the stock,<BR ALIGN='left'/>§ 112(h), — of the transferee<BR ALIGN='left'/>corporation; that &quot;It does not change<BR ALIGN='left'/>the result that the stockholders acted<BR ALIGN='left'/>as a conduit for the delivery of the<BR ALIGN='left'/>assets * * *; that there was a partial<BR ALIGN='left'/>alteration of the derivative interests,<BR ALIGN='left'/>which occurred independently of the plan<BR ALIGN='left'/>and would have taken place irrespective<BR ALIGN='left'/>of it * * *; or even that the<BR ALIGN='left'/>stockholders had a personal, — as<BR ALIGN='left'/>opposed to a corporate — reason for the<BR ALIGN='left'/>756*756 arrangement * * *&quot;; and that<BR ALIGN='left'/>&quot;the expenses incurred for attorney&#x27;s<BR ALIGN='left'/>fees and related charges are to be<BR ALIGN='left'/>capitalized, and are not deductible as<BR ALIGN='left'/>current expense.&quot;</TD></TR>
+</TABLE>
+>]
+	YvPkiZ3498 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Petitioners concede that if there were a<BR ALIGN='left'/>corporate reorganization within the<BR ALIGN='left'/>meaning of the statute the decision of<BR ALIGN='left'/>the Tax Court should be affirmed; but<BR ALIGN='left'/>they contend that the Court erred in so<BR ALIGN='left'/>deciding</TD></TR>
+</TABLE>
+>]
+	"CFy8FV-Wj6" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">1. Because the form of the transaction<BR ALIGN='left'/>did not meet the requirements of the<BR ALIGN='left'/>statute in that there was no transfer of<BR ALIGN='left'/>its assets by one corporation to another<BR ALIGN='left'/>corporation;</TD></TR>
+</TABLE>
+>]
+	Lo0BYtw0KH [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">2. Because the requisite continuity of<BR ALIGN='left'/>interest did not exist for the reason<BR ALIGN='left'/>that the ownership of stock of the new<BR ALIGN='left'/>corporation by the estate of Lee M.<BR ALIGN='left'/>Hartwell, deceased, was transitory and<BR ALIGN='left'/>should be disregarded;</TD></TR>
+</TABLE>
+>]
+	fsC7LCaBe9 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">3. Because the reason for the<BR ALIGN='left'/>transactions was found by the Tax Court<BR ALIGN='left'/>to be personal as opposed to corporate,<BR ALIGN='left'/>and, therefore, the corporate purpose<BR ALIGN='left'/>required by the statute was absent.</TD></TR>
+</TABLE>
+>]
+	H3vE1h7FkL [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Petitioners&#x27; first contention in brief<BR ALIGN='left'/>is that the sole objective of the series<BR ALIGN='left'/>of transactions outlined above was to<BR ALIGN='left'/>supply the individual stockholders of<BR ALIGN='left'/>the old Company with the assets<BR ALIGN='left'/>necessary to pay their individual debts,<BR ALIGN='left'/>and that, therefore, the liquidation of<BR ALIGN='left'/>the old Company constituted a<BR ALIGN='left'/>consummation of the plan.</TD></TR>
+</TABLE>
+>]
+	LkkGQ69MFK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Tax Court was warranted in finding<BR ALIGN='left'/>that the plan as a whole contemplated<BR ALIGN='left'/>not only the distribution of the assets<BR ALIGN='left'/>of the old Company to its stockholders<BR ALIGN='left'/>but the organization of a new<BR ALIGN='left'/>corporation designed to carry on the<BR ALIGN='left'/>identical business of the old Company<BR ALIGN='left'/>without change of ownership and to issue<BR ALIGN='left'/>to the stockholders its capital stock<BR ALIGN='left'/>and its notes with which to pay their<BR ALIGN='left'/>individual debts. The conclusion of the<BR ALIGN='left'/>Tax Court was, therefore, inescapable</TD></TR>
+</TABLE>
+>]
+	J8KJHyBSkw [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In Helvering v. Alabama Asphaltic<BR ALIGN='left'/>Limestone Co., 315 U.S. 179, 62 S.Ct.<BR ALIGN='left'/>540, 86 L.Ed. 775, the Supreme Court<BR ALIGN='left'/>held that the transfer in bankruptcy of<BR ALIGN='left'/>the assets of an old corporation to its<BR ALIGN='left'/>creditors and by them to a new<BR ALIGN='left'/>corporation constituted a reorganization<BR ALIGN='left'/>within the meaning of the statute.</TD></TR>
+</TABLE>
+>]
+	YASgEVdgk2 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In any event the finding of the Tax<BR ALIGN='left'/>Court that the liquidation of the old<BR ALIGN='left'/>Company was but one step in an<BR ALIGN='left'/>integrated transaction is a finding of<BR ALIGN='left'/>fact and does not violate any law or<BR ALIGN='left'/>regulation.</TD></TR>
+</TABLE>
+>]
+	"3r2zUd0Vrm" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The finding is therefore binding on this<BR ALIGN='left'/>court.</TD></TR>
+</TABLE>
+>]
+	ZsI6cDLwp_ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The second contention, that the<BR ALIGN='left'/>requisite continuity of interest did not<BR ALIGN='left'/>exist, is based upon the fact that the<BR ALIGN='left'/>ownership of stock in the new<BR ALIGN='left'/>Corporation which was vested in the<BR ALIGN='left'/>Hartwell estate on December 31, 1940,<BR ALIGN='left'/>was transferred to Eleanor L. Hartwell,<BR ALIGN='left'/>widow of Lee M. Hartwell, on August 8,<BR ALIGN='left'/>1941.</TD></TR>
+</TABLE>
+>]
+	hBAe5qHsKr [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;tax is to be determined by the<BR ALIGN='left'/>character of the transaction as<BR ALIGN='left'/>originally contemplated.&quot;</TD></TR>
+</TABLE>
+>]
+	RpPN12m_vb [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The short answer to this contention is<BR ALIGN='left'/>that the transfer of this stock to<BR ALIGN='left'/>Eleanor L. Hartwell was not a part of<BR ALIGN='left'/>the plan of reorganization at the time<BR ALIGN='left'/>the plan was conceived and executed.</TD></TR>
+</TABLE>
+>]
+	Ry69wGFSK0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Further, it is not logical to contend<BR ALIGN='left'/>that the holding of the stock for more<BR ALIGN='left'/>than seven months by the estate was<BR ALIGN='left'/>transitory and at the same time to argue<BR ALIGN='left'/>that the holding of the title to the<BR ALIGN='left'/>assets of the old Company by the estate<BR ALIGN='left'/>from December 30th until December 31st<BR ALIGN='left'/>was not transitory.</TD></TR>
+</TABLE>
+>]
+	rvaSS7Umcr [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The distinction between the two<BR ALIGN='left'/>transfers for tax purposes is that<BR ALIGN='left'/>757*757 the transfer in 1940 was a step<BR ALIGN='left'/>in a plan of reorganization while the<BR ALIGN='left'/>transfer of the stock in 1941 was not.</TD></TR>
+</TABLE>
+>]
+	"3zmw2u8KCV" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The first step was intended to be<BR ALIGN='left'/>retroactive</TD></TR>
+</TABLE>
+>]
+	cro9OqwxRq [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the second was not.</TD></TR>
+</TABLE>
+>]
+	"6Zus7Katcu" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the first transaction it was not<BR ALIGN='left'/>intended that the assets of the old<BR ALIGN='left'/>Company should remain in the hands of<BR ALIGN='left'/>the stockholders but that they should<BR ALIGN='left'/>transfer them to the new corporation.</TD></TR>
+</TABLE>
+>]
+	"20twTKDscU" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The stockholders in the transfer of the<BR ALIGN='left'/>assets acted as a mere conduit,<BR ALIGN='left'/>Minnesota Tea Co. v. Helvering, 302 U.S.<BR ALIGN='left'/>609, 614, 58 S.Ct. 393, 82 L.Ed. 474,<BR ALIGN='left'/>while the transfer of the stock to<BR ALIGN='left'/>Eleanor L. Hartwell was not contemplated<BR ALIGN='left'/>in December, 1940.</TD></TR>
+</TABLE>
+>]
+	pTtVkiyxLy [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Petitioners&#x27; third proposition, namely,<BR ALIGN='left'/>that there was no reorganization as<BR ALIGN='left'/>defined in § 112(g) (1) (D) of the Code<BR ALIGN='left'/>because the reason for the transaction<BR ALIGN='left'/>was found by the Tax Court to be<BR ALIGN='left'/>personal as opposed to corporate,<BR ALIGN='left'/>presents the serious question involved<BR ALIGN='left'/>here.</TD></TR>
+</TABLE>
+>]
+	iH76gtyKde [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">§ 112(g) (1) (D) of the Code</TD></TR>
+</TABLE>
+>]
+	"Z2X-Uz6W3H" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Subdivision (g)-2 of the regulations<BR ALIGN='left'/>provides that &quot;* * * the transaction, or<BR ALIGN='left'/>series of transactions, embraced in a<BR ALIGN='left'/>plan of reorganization * * * must be<BR ALIGN='left'/>undertaken for reasons germane to the<BR ALIGN='left'/>continuance of the business of a<BR ALIGN='left'/>corporation a party to the<BR ALIGN='left'/>reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	"8EWnhtj5Ah" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In Gregory v. Helvering, supra [293 U.<BR ALIGN='left'/>S. 465, 55 S.Ct. 267], the Supreme<BR ALIGN='left'/>Court, speaking of corporate<BR ALIGN='left'/>reorganizations within the meaning of<BR ALIGN='left'/>the statute involved herein, said:\n\n&quot;*<BR ALIGN='left'/>* * the question for determination is<BR ALIGN='left'/>whether what was done, apart from the<BR ALIGN='left'/>tax motive, was the thing which the<BR ALIGN='left'/>statute intended. * * *\n\n&quot;When<BR ALIGN='left'/>subdivision (B) speaks of a transfer of<BR ALIGN='left'/>assets by one corporation to another, it<BR ALIGN='left'/>means a transfer made `in pursuance of a<BR ALIGN='left'/>plan of reorganization&#x27; section 112(g)<BR ALIGN='left'/>of corporate business; and not a<BR ALIGN='left'/>transfer of assets by one corporation to<BR ALIGN='left'/>another in pursuance of a plan having no<BR ALIGN='left'/>relation to the business of either, as<BR ALIGN='left'/>plainly is the case here.&quot;</TD></TR>
+</TABLE>
+>]
+	YJssWpR_42 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;Usually * * * the continuance of the<BR ALIGN='left'/>business in the hands of the transferee<BR ALIGN='left'/>(or by a reorganized company in the case<BR ALIGN='left'/>of a recapitalization) is deemed<BR ALIGN='left'/>sufficient indication of the required<BR ALIGN='left'/>`business purpose&#x27; and the Treasury<BR ALIGN='left'/>Regulations * * * [103, § 19.112(g)-1]<BR ALIGN='left'/>list this as a requirement of the<BR ALIGN='left'/>statutory reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	NtiYnVgziv [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the case of a corporation which has<BR ALIGN='left'/>undistributed earnings, the creation of<BR ALIGN='left'/>new corporate obligations which are<BR ALIGN='left'/>transferred to stockholders in relation<BR ALIGN='left'/>to their former holdings, so as to<BR ALIGN='left'/>produce, for all practical purposes, the<BR ALIGN='left'/>same result as a distribution of cash<BR ALIGN='left'/>earnings of equivalent value, cannot<BR ALIGN='left'/>obtain tax immunity because cast in the<BR ALIGN='left'/>form of a recapitalization-<BR ALIGN='left'/>reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	"xcQ-gJ7P_V" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Applying these principles to the cases<BR ALIGN='left'/>under consideration we think the<BR ALIGN='left'/>decision of the Tax Court is conclusive.</TD></TR>
+</TABLE>
+>]
+	Auq6ZUoob9 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Here the balance sheet of the old<BR ALIGN='left'/>Company as of December 30, 1940, showed<BR ALIGN='left'/>fixed or depreciable assets as follows:<BR ALIGN='left'/>Cost, $72,311.54; reserve for<BR ALIGN='left'/>depreciation, $62,639.33; net,<BR ALIGN='left'/>$9,672.21. The balance sheet of the new<BR ALIGN='left'/>Corporation as of December 31, 1940, set<BR ALIGN='left'/>up on the basis of the agreed price for<BR ALIGN='left'/>the transfer of the assets of the old<BR ALIGN='left'/>Company for stock and notes, showed<BR ALIGN='left'/>fixed or depreciable assets in the<BR ALIGN='left'/>amount of $72,092,05. The Tax Court held<BR ALIGN='left'/>that the transaction constituted a tax-<BR ALIGN='left'/>free reorganization and that the new<BR ALIGN='left'/>Corporation was required to take the<BR ALIGN='left'/>basis for depreciation of its<BR ALIGN='left'/>predecessor.</TD></TR>
+</TABLE>
+>]
+	lGvhhLsZab [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In this instance the new Corporation<BR ALIGN='left'/>functioned as a business corporation<BR ALIGN='left'/>759*759 as was intended when the plan<BR ALIGN='left'/>was conceived. It carried on the<BR ALIGN='left'/>business of its predecessor without a<BR ALIGN='left'/>break in its continuity. The plan<BR ALIGN='left'/>contemplated a living, active<BR ALIGN='left'/>corporation for the purpose of carrying<BR ALIGN='left'/>on a corporate business indefinitely. It<BR ALIGN='left'/>seems clear to us that the Tax Court<BR ALIGN='left'/>complied strictly with the teaching of<BR ALIGN='left'/>the Gregory case when it considered<BR ALIGN='left'/>&quot;what was done&quot; as a whole including the<BR ALIGN='left'/>complete plan and the entire series of<BR ALIGN='left'/>transactions making it effective, and<BR ALIGN='left'/>not merely the &quot;personal&quot; reason of the<BR ALIGN='left'/>stockholders when the plan was<BR ALIGN='left'/>initiated.</TD></TR>
+</TABLE>
+>]
+	dD2vyN78rU [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Tax Court did not predicate its<BR ALIGN='left'/>conclusion that there was a<BR ALIGN='left'/>reorganization upon any single finding<BR ALIGN='left'/>of fact nor a single step in the<BR ALIGN='left'/>transaction.</TD></TR>
+</TABLE>
+>]
+	"6djtJ_3VWh" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;that requires all parts of the<BR ALIGN='left'/>transaction to be considered together<BR ALIGN='left'/>rather than separately.&quot;</TD></TR>
+</TABLE>
+>]
+	AUxuFN2Zfk [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We conclude that there is a rational<BR ALIGN='left'/>basis in law for the decision of the Tax<BR ALIGN='left'/>Court that a reorganization occurred<BR ALIGN='left'/>when the series of undisputed<BR ALIGN='left'/>transactions are considered as an<BR ALIGN='left'/>integrated whole.</TD></TR>
+</TABLE>
+>]
+	XWWh0WgMDQ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The decisions of the Tax Court in No.<BR ALIGN='left'/>13,339 and in No. 13,341 are accordingly<BR ALIGN='left'/>affirmed, and the decision in No. 13,340<BR ALIGN='left'/>is reversed with directions to enter a<BR ALIGN='left'/>decision of no deficiency therein.</TD></TR>
+</TABLE>
+>]
+	USuv0RwbtH -> Yeg2RZyOwd
+	Yeg2RZyOwd -> c1IOBvJ6Ow
+	c1IOBvJ6Ow -> "6HFX2fKbCz"
+	"6HFX2fKbCz" -> mpQUqUKbbq
+	mpQUqUKbbq -> PaWTieK8xO
+	PaWTieK8xO -> c1EA1ThRBD
+	c1EA1ThRBD -> YvPkiZ3498
+	YvPkiZ3498 -> "CFy8FV-Wj6"
+	"CFy8FV-Wj6" -> Lo0BYtw0KH
+	Lo0BYtw0KH -> fsC7LCaBe9
+	"CFy8FV-Wj6" -> H3vE1h7FkL
+	H3vE1h7FkL -> LkkGQ69MFK
+	YASgEVdgk2 -> "3r2zUd0Vrm"
+	LkkGQ69MFK -> J8KJHyBSkw
+	J8KJHyBSkw -> YASgEVdgk2
+	ZsI6cDLwp_ -> hBAe5qHsKr
+	hBAe5qHsKr -> Ry69wGFSK0
+	Ry69wGFSK0 -> rvaSS7Umcr
+	rvaSS7Umcr -> "3zmw2u8KCV"
+	"3zmw2u8KCV" -> cro9OqwxRq
+	"3zmw2u8KCV" -> "6Zus7Katcu"
+	cro9OqwxRq -> "20twTKDscU"
+	"6Zus7Katcu" -> RpPN12m_vb
+	"20twTKDscU" -> RpPN12m_vb
+	fsC7LCaBe9 -> pTtVkiyxLy
+	pTtVkiyxLy -> iH76gtyKde
+	iH76gtyKde -> "Z2X-Uz6W3H"
+	"Z2X-Uz6W3H" -> "8EWnhtj5Ah"
+	"8EWnhtj5Ah" -> YJssWpR_42
+	YJssWpR_42 -> NtiYnVgziv
+	NtiYnVgziv -> "6djtJ_3VWh"
+	"6djtJ_3VWh" -> Auq6ZUoob9
+	Auq6ZUoob9 -> lGvhhLsZab
+	lGvhhLsZab -> dD2vyN78rU
+	dD2vyN78rU -> "xcQ-gJ7P_V"
+	"3r2zUd0Vrm" -> AUxuFN2Zfk
+	AUxuFN2Zfk -> XWWh0WgMDQ
+	RpPN12m_vb -> AUxuFN2Zfk
+	"xcQ-gJ7P_V" -> AUxuFN2Zfk
+}

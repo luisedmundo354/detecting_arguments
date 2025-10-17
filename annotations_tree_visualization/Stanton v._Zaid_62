@@ -1,0 +1,88 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	"6lwBp7u4eS" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Mr. Stanton&#x27;s 1966 decision to terminate<BR ALIGN='left'/>a Subchapter R election[2] which he had<BR ALIGN='left'/>made in 1964. By virtue of that election<BR ALIGN='left'/>his sole proprietorship, Stanton<BR ALIGN='left'/>Refractory Sales Company, was taxed as<BR ALIGN='left'/>if it were a corporation. Stanton chose<BR ALIGN='left'/>to terminate because Congress, in 1966,<BR ALIGN='left'/>had repealed the provision in the<BR ALIGN='left'/>Internal Revenue Code which had<BR ALIGN='left'/>permitted the election. Act of April 14,<BR ALIGN='left'/>1966, Pub.L. No. 89-389, § 4, 80 Stat.<BR ALIGN='left'/>115, amending Int.Rev.Code § 1361 (now<BR ALIGN='left'/>Int.Rev.Code § 1361(n)). The repealing<BR ALIGN='left'/>legislation provided that any election<BR ALIGN='left'/>not terminated on or before December 31,<BR ALIGN='left'/>1968 would be terminated by operation of<BR ALIGN='left'/>law on January 1, 1969. Taxpayers were<BR ALIGN='left'/>given the right to terminate Subchapter<BR ALIGN='left'/>R elections voluntarily by the December<BR ALIGN='left'/>31st date.\n\nAlong with his decision to<BR ALIGN='left'/>terminate, which was made as of November<BR ALIGN='left'/>1, 1966, Stanton decided to form a new<BR ALIGN='left'/>corporation. This decision grew out of<BR ALIGN='left'/>discussions he had had, prior to the<BR ALIGN='left'/>termination date, with E. M. Harvey,<BR ALIGN='left'/>President of North State Pyrophyllite<BR ALIGN='left'/>Co., a North Carolina refractory<BR ALIGN='left'/>manufacturer. The proprietorship was the<BR ALIGN='left'/>exclusive sales representative for North<BR ALIGN='left'/>State to both the United States and<BR ALIGN='left'/>Canadian steel industries. The<BR ALIGN='left'/>discussions dealt with the desirability<BR ALIGN='left'/>of incorporating so that there would be<BR ALIGN='left'/>continuity in the operation of the<BR ALIGN='left'/>business in the event of Stanton&#x27;s<BR ALIGN='left'/>death. Harvey had expressed the<BR ALIGN='left'/>preference that Mrs. Wanda Stanton, who<BR ALIGN='left'/>was an active participant in the<BR ALIGN='left'/>business of the proprietorship, have an<BR ALIGN='left'/>ownership interest in any corporation<BR ALIGN='left'/>that might be formed. But there were<BR ALIGN='left'/>other motivations for incorporation<BR ALIGN='left'/>unrelated to Mrs. Stanton.[3]\n\nAs<BR ALIGN='left'/>planned, Stanton was to transfer some,<BR ALIGN='left'/>but not all, of the assets of the<BR ALIGN='left'/>Subchapter R proprietorship to the new<BR ALIGN='left'/>corporation, and Mrs. Stanton was to<BR ALIGN='left'/>receive 49% of the newly-issued stock.<BR ALIGN='left'/>This was precisely how the new<BR ALIGN='left'/>corporation was formed. On November 1,<BR ALIGN='left'/>1966, the date of the Subchapter R<BR ALIGN='left'/>termination, 15*15 Stanton caused the<BR ALIGN='left'/>incorporation of Stanton Refractories,<BR ALIGN='left'/>Inc., and transferred the operating<BR ALIGN='left'/>assets of the proprietorship to it. The<BR ALIGN='left'/>stock of the corporation was issued 51%<BR ALIGN='left'/>to Mr. Stanton and 49% to Mrs. Stanton.<BR ALIGN='left'/>The opening balance sheet of the<BR ALIGN='left'/>corporation, as of November 1, 1966,<BR ALIGN='left'/>reflected the following:\n\nASSETS\nCash<BR ALIGN='left'/>$ 8,261.83\nAccounts Receivable<BR ALIGN='left'/>4,263.97\nInventory 39,144.74\nFurniture<BR ALIGN='left'/>and Equipment\n(Net of depreciation)<BR ALIGN='left'/>10,242.75\nInsurance Deposit<BR ALIGN='left'/>140.00\nTelephone Deposit<BR ALIGN='left'/>100.00\n__________\nTOTAL ASSETS $62,153<BR ALIGN='left'/>.29\n==========\nLIABILITIES:\n\nAccount<BR ALIGN='left'/>s Payable $50,406.33\nAccrued Taxes<BR ALIGN='left'/>1,746.96\nNet Equity\nCapital Stock<BR ALIGN='left'/>$10,000\nRetained Earnings<BR ALIGN='left'/>0\n_______\n10,000.00\nTOTAL LIABILITIES<BR ALIGN='left'/>$62,153.29\n==========\nThe<BR ALIGN='left'/>consideration for the $10,000 in capital<BR ALIGN='left'/>stock came entirely from the assets<BR ALIGN='left'/>transferred from the Subchapter R<BR ALIGN='left'/>proprietorship. As of October 31, 1966,<BR ALIGN='left'/>the balance sheet of the Subchapter R<BR ALIGN='left'/>proprietorship was as<BR ALIGN='left'/>follows:\n\nASSETS\nCash<BR ALIGN='left'/>$122,314.41\nAccounts Receivable<BR ALIGN='left'/>45,561.18\nInventory<BR ALIGN='left'/>39,144.74\nFurniture and Equipment\n(Net<BR ALIGN='left'/>of depreciation) 10,242.75\nInsurance<BR ALIGN='left'/>Deposit 140.00\nTelephone Deposit<BR ALIGN='left'/>100.00\n___________\nTOTAL ASSETS $217,5<BR ALIGN='left'/>03.08\n===========\nLIABILITIES\nAccount<BR ALIGN='left'/>s Payable $ 50,406.33\nAccrued Payroll<BR ALIGN='left'/>Taxes 1,746.96\nProvision for Federal<BR ALIGN='left'/>Income\nTaxes 4,933.52\nEquity:\nPaid-In<BR ALIGN='left'/>Capital $22,067.54\nRetained Earnings 13<BR ALIGN='left'/>8,348.73\n160,416.27\n__________\nTOTAL<BR ALIGN='left'/>LIABILITIES<BR ALIGN='left'/>$217,503.08\n===========\n16*16 Thus the<BR ALIGN='left'/>effect of the termination of the<BR ALIGN='left'/>election was that the corporation<BR ALIGN='left'/>received all the proprietorship&#x27;s<BR ALIGN='left'/>furniture and equipment, its deposits<BR ALIGN='left'/>and inventory and sufficient cash and<BR ALIGN='left'/>accounts receivable, such that the value<BR ALIGN='left'/>of these assets equalled the value of<BR ALIGN='left'/>the accounts payable and accrued payroll<BR ALIGN='left'/>taxes assumed plus the value of the<BR ALIGN='left'/>capital stock. Stanton retained<BR ALIGN='left'/>$114,052.58 in cash and $41,297.21 in<BR ALIGN='left'/>accounts receivable, and assumed<BR ALIGN='left'/>liability for Subchapter R federal<BR ALIGN='left'/>income taxes in the amount of $4933.52.<BR ALIGN='left'/>On their 1966 return the taxpayers<BR ALIGN='left'/>reported a long term capital gain on the<BR ALIGN='left'/>liquidation of the Subchapter R<BR ALIGN='left'/>proprietorship in the amount of<BR ALIGN='left'/>$138,348.73. This sum was equal to the<BR ALIGN='left'/>retained earnings of the proprietorship,<BR ALIGN='left'/>an amount we note was the equivalent of<BR ALIGN='left'/>the earned surplus of a corporation.<BR ALIGN='left'/>Stanton&#x27;s basis for the assets of the<BR ALIGN='left'/>proprietorship was $22,067.54, an amount<BR ALIGN='left'/>which was the equivalent of the paid-in<BR ALIGN='left'/>capital of a corporation. The Internal<BR ALIGN='left'/>Revenue Service treated the transaction<BR ALIGN='left'/>as resulting in a taxable dividend in<BR ALIGN='left'/>the amount of the claimed capital gain<BR ALIGN='left'/>and assessed a deficiency of $48,104.65<BR ALIGN='left'/>in income tax for the year 1966. This<BR ALIGN='left'/>amount with interest was paid on April<BR ALIGN='left'/>8, 1970, and a claim for a refund in the<BR ALIGN='left'/>amount of $56,673.20 followed, resulting<BR ALIGN='left'/>in the instant suit.</TD></TR>
+</TABLE>
+>]
+	vkV81cHEIc [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Int.Rev.Code § 1361(l) which<BR ALIGN='left'/>provides:\n\n&quot;A distribution in partial<BR ALIGN='left'/>or complete liquidation with respect to<BR ALIGN='left'/>a proprietorship or partnership interest<BR ALIGN='left'/>by an enterprise as to which an election<BR ALIGN='left'/>has been made under subsection (a),<BR ALIGN='left'/>shall be treated as a corporate<BR ALIGN='left'/>liquidation in accordance with part II<BR ALIGN='left'/>of sub-chapter C [§§ 331-346] of this<BR ALIGN='left'/>chapter.&quot;</TD></TR>
+</TABLE>
+>]
+	W1QuOoy2AC [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Treatment as a liquidation under Int.<BR ALIGN='left'/>Rev.Code § 331 would result in a long<BR ALIGN='left'/>term capital gain in the amount<BR ALIGN='left'/>reported.</TD></TR>
+</TABLE>
+>]
+	"OS-LwOjAJw" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The court held that Mrs. Stanton&#x27;s<BR ALIGN='left'/>ownership of 49% of the stock of the new<BR ALIGN='left'/>corporate enterprise, Stanton<BR ALIGN='left'/>Refractories, Inc. prevented Stanton<BR ALIGN='left'/>from having the requisite 80% control of<BR ALIGN='left'/>that enterprise as required by the<BR ALIGN='left'/>definition of &quot;control&quot; found in<BR ALIGN='left'/>Int.Rev.Code § 368(c):\n\n&quot;For purposes<BR ALIGN='left'/>of part I (other than section 304), part<BR ALIGN='left'/>II, and this part, the term `control&#x27;<BR ALIGN='left'/>means the ownership of stock possessing<BR ALIGN='left'/>at least 80 percent of the total<BR ALIGN='left'/>combined voting power of all classes of<BR ALIGN='left'/>stock entitled to vote and at least 80<BR ALIGN='left'/>percent of the total number of shares of<BR ALIGN='left'/>all other classes of stock of the<BR ALIGN='left'/>corporation.&quot;</TD></TR>
+</TABLE>
+>]
+	NfKmF3sjxa [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The district court emphasized the<BR ALIGN='left'/>undisputed fact that Stanton had a sound<BR ALIGN='left'/>business purpose for giving his wife, an<BR ALIGN='left'/>active participant in his business, a<BR ALIGN='left'/>percentage of stock which would reassure<BR ALIGN='left'/>his supplier of her continued<BR ALIGN='left'/>participation. But in looking only at<BR ALIGN='left'/>the percentage of ownership which<BR ALIGN='left'/>resulted from that gift, the court<BR ALIGN='left'/>disregarded what the government contends<BR ALIGN='left'/>is the controlling reality; that at the<BR ALIGN='left'/>time of the transfer of the operating<BR ALIGN='left'/>assets from the Subchapter R enterprise<BR ALIGN='left'/>to the new enterprise Stanton had the<BR ALIGN='left'/>absolute right to designate who would<BR ALIGN='left'/>receive all the stock. That his business<BR ALIGN='left'/>judgment strongly suggested the wisdom<BR ALIGN='left'/>of a gift of 49% to his wife in no way<BR ALIGN='left'/>lessened his control.</TD></TR>
+</TABLE>
+>]
+	OHzI0y2V_w [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">That distinction suffices, and we need<BR ALIGN='left'/>not consider whether, as the government<BR ALIGN='left'/>contends, Fahs was erroneously decided<BR ALIGN='left'/>since Franklin Russell, Jr. was in<BR ALIGN='left'/>practical effect, a 50% owner of the<BR ALIGN='left'/>transferred enterprise. That would, of<BR ALIGN='left'/>course, have caused the aggregation of<BR ALIGN='left'/>his and his father&#x27;s control, and have<BR ALIGN='left'/>made the reorganization tax-free. Even<BR ALIGN='left'/>if the record supported a finding that<BR ALIGN='left'/>prior to November 1, 1966 Mrs. Stanton<BR ALIGN='left'/>had acquired in some binding manner a<BR ALIGN='left'/>49% interest in the transferred<BR ALIGN='left'/>enterprise (and nothing in the record so<BR ALIGN='left'/>suggests) we would be inclined to agree<BR ALIGN='left'/>with the government that in such case<BR ALIGN='left'/>her interest and that of her husband<BR ALIGN='left'/>would be aggregated for purposes of §<BR ALIGN='left'/>368(c).</TD></TR>
+</TABLE>
+>]
+	bQeGjOy6MB [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We recognize that by attempting to<BR ALIGN='left'/>ameliorate the lot of one group of<BR ALIGN='left'/>unwary Subchapter R taxpayers Congress,<BR ALIGN='left'/>19*19 in repealing Int.Rev.Code § 1361,<BR ALIGN='left'/>erected a snare for another in which the<BR ALIGN='left'/>Stantons became enmeshed. The taxpayer<BR ALIGN='left'/>could, however, have liquidated his<BR ALIGN='left'/>Subchapter R enterprise with long term<BR ALIGN='left'/>capital gain consequences had he<BR ALIGN='left'/>foregone the benefits of carrying on the<BR ALIGN='left'/>same enterprise in corporate form. He<BR ALIGN='left'/>could also have transferred all of the<BR ALIGN='left'/>assets of the enterprise to a successor<BR ALIGN='left'/>corporation in a tax-free<BR ALIGN='left'/>reorganization. He could not, following<BR ALIGN='left'/>such a transfer, have distributed earned<BR ALIGN='left'/>surplus at long term capital gain rates.<BR ALIGN='left'/>The &quot;boot&quot; provisions in the<BR ALIGN='left'/>reorganization sections of the Code are<BR ALIGN='left'/>designed to prevent the equivalent of<BR ALIGN='left'/>such a distribution in connection with<BR ALIGN='left'/>partial transfers in reorganization.</TD></TR>
+</TABLE>
+>]
+	jOW1LZbvLe [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The judgment of the district court will<BR ALIGN='left'/>be reversed.</TD></TR>
+</TABLE>
+>]
+	GwKhRe5KAa [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Int. Rev.Code § 368(a)(1)(D). That<BR ALIGN='left'/>subsection reads as follows:\n\n&quot;[A]<BR ALIGN='left'/>transfer by a corporation of all or a<BR ALIGN='left'/>part of its assets to another<BR ALIGN='left'/>corporation if immediately after the<BR ALIGN='left'/>transfer the transferor, or one or more<BR ALIGN='left'/>of its shareholders (including persons<BR ALIGN='left'/>who were shareholders immediately before<BR ALIGN='left'/>the transfer), or any combination<BR ALIGN='left'/>thereof, is in control of the<BR ALIGN='left'/>corporation to which the assets are<BR ALIGN='left'/>transferred; but only if, in pursuance<BR ALIGN='left'/>of the plan, stock or securities of the<BR ALIGN='left'/>corporation to which the assets are<BR ALIGN='left'/>transferred are distributed in a<BR ALIGN='left'/>transaction which qualifies under<BR ALIGN='left'/>section 354, 355, or 356 [is a<BR ALIGN='left'/>reorganization].&quot;</TD></TR>
+</TABLE>
+>]
+	d97RFnsfyr [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Taxpayers rely heavily on Fahs v.<BR ALIGN='left'/>Florida Machine &amp; Foundry Co., 168 F.2d<BR ALIGN='left'/>957 (5th Cir.1948). That case is clearly<BR ALIGN='left'/>distinguishable. The issue was the<BR ALIGN='left'/>transferee corporation&#x27;s basis for<BR ALIGN='left'/>certain real estate it had sold.</TD></TR>
+</TABLE>
+>]
+	"M9mk2CD-UL" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Whether the exchange was tax-free<BR ALIGN='left'/>depended, in turn, on whether one of two<BR ALIGN='left'/>stockholders was in control when the<BR ALIGN='left'/>transfer was made. The stockholders were<BR ALIGN='left'/>father and son. The father owned a<BR ALIGN='left'/>machine shop conducted as a<BR ALIGN='left'/>proprietorship. Its assets included the<BR ALIGN='left'/>real estate. In 1921, in order to induce<BR ALIGN='left'/>the son, an engineer, to stay with the<BR ALIGN='left'/>business, the father entered into an<BR ALIGN='left'/>agreement whereby the son would<BR ALIGN='left'/>eventually receive a one-half interest<BR ALIGN='left'/>if he did stay. In 1924, and pursuant to<BR ALIGN='left'/>that agreement, the transferee<BR ALIGN='left'/>corporation was formed. The father<BR ALIGN='left'/>transferred all the proprietorship<BR ALIGN='left'/>assets to it, and the stock was issued<BR ALIGN='left'/>one-half to him and the other half<BR ALIGN='left'/>(except for 3 qualifying shares) to the<BR ALIGN='left'/>son.</TD></TR>
+</TABLE>
+>]
+	"1y6zqy6akq" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;We are of [the] opinion the district<BR ALIGN='left'/>court&#x27;s finding that Franklin Russell,<BR ALIGN='left'/>Senior, was not in `control&#x27; of taxpayer<BR ALIGN='left'/>corporation `immediately after the<BR ALIGN='left'/>transfer&#x27; on July 16, 1924 and<BR ALIGN='left'/>therefore, that Section 112(b)(5) did<BR ALIGN='left'/>not apply, is abundantly supported by<BR ALIGN='left'/>the evidence.&quot; Id. at 959.</TD></TR>
+</TABLE>
+>]
+	vkV81cHEIc -> W1QuOoy2AC
+	W1QuOoy2AC -> GwKhRe5KAa
+	GwKhRe5KAa -> "OS-LwOjAJw"
+	"OS-LwOjAJw" -> NfKmF3sjxa
+	d97RFnsfyr -> "M9mk2CD-UL"
+	"M9mk2CD-UL" -> "1y6zqy6akq"
+	"1y6zqy6akq" -> OHzI0y2V_w
+	OHzI0y2V_w -> bQeGjOy6MB
+	bQeGjOy6MB -> jOW1LZbvLe
+	NfKmF3sjxa -> d97RFnsfyr
+}

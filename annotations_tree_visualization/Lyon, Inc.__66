@@ -1,0 +1,80 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	"405pO_VHxs" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Board of Tax Appeals upheld the<BR ALIGN='left'/>respondent.</TD></TR>
+</TABLE>
+>]
+	"tB-mhgkfuv" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It will aid understanding of the problem<BR ALIGN='left'/>if we narrate the steps taken by the<BR ALIGN='left'/>principal stockholder of the taxpayer,<BR ALIGN='left'/>to defer or avoid substantial tax<BR ALIGN='left'/>burdens, and detail his frankly avowed<BR ALIGN='left'/>purposes as we refer to the statutory<BR ALIGN='left'/>provisions upon which he relied, and the<BR ALIGN='left'/>contemporaneous development of the law<BR ALIGN='left'/>interpreting them. The taxpayer is a<BR ALIGN='left'/>corporation organized June 6, 1930,<BR ALIGN='left'/>under the laws of Delaware, and its<BR ALIGN='left'/>principal stockholder is G. Albert Lyon.<BR ALIGN='left'/>Prior to May 3, 1930, Lyon was engaged<BR ALIGN='left'/>in the manufacture of metal covers for<BR ALIGN='left'/>automobile tires, in Detroit. He was<BR ALIGN='left'/>also the owner of numerous applications<BR ALIGN='left'/>for American and Canadian patents<BR ALIGN='left'/>relating to tire covers, and owned<BR ALIGN='left'/>machinery and equipment for their<BR ALIGN='left'/>manufacture. In February, 1930, he<BR ALIGN='left'/>negotiated with the 211*211 Houdaille-<BR ALIGN='left'/>Hershey Company for the sale of his<BR ALIGN='left'/>business and patent applications, and on<BR ALIGN='left'/>May 3, a contract was consummated<BR ALIGN='left'/>whereby Lyon, or a corporation to be<BR ALIGN='left'/>formed by him, would sell the Houdaille-<BR ALIGN='left'/>Hershey Company the tire cover business<BR ALIGN='left'/>and Lyon would grant it an exclusive<BR ALIGN='left'/>license to manufacture under his<BR ALIGN='left'/>patents. At the time of the agreement<BR ALIGN='left'/>the book value of Lyon&#x27;s assets,<BR ALIGN='left'/>exclusive of patent rights, was<BR ALIGN='left'/>$203,572.30, and he carried patent<BR ALIGN='left'/>rights on his books at cost of<BR ALIGN='left'/>development, $56,411.90. The contract<BR ALIGN='left'/>also granted to the purchaser an option<BR ALIGN='left'/>to buy the patents.\n\nSince the patent<BR ALIGN='left'/>rights were found by the Board to have<BR ALIGN='left'/>had at the time a fair market value of<BR ALIGN='left'/>over a million dollars, it will readily<BR ALIGN='left'/>be seen that Lyon&#x27;s tax situation at<BR ALIGN='left'/>once became to him a matter of great<BR ALIGN='left'/>concern. He consulted counsel and was<BR ALIGN='left'/>advised that if he transferred his<BR ALIGN='left'/>assets to a temporary corporation in<BR ALIGN='left'/>exchange for all of its stock, and then<BR ALIGN='left'/>caused the temporary corporation to<BR ALIGN='left'/>transfer the assets so received to a<BR ALIGN='left'/>permanent operating corporation in<BR ALIGN='left'/>exchange for less than 80% of its stock,<BR ALIGN='left'/>neither the transfer to the temporary<BR ALIGN='left'/>corporation nor its transfer to the<BR ALIGN='left'/>permanent corporation would be subject<BR ALIGN='left'/>to tax, and the permanent corporation<BR ALIGN='left'/>would be entitled to use, as the cost of<BR ALIGN='left'/>the assets, their value at the time they<BR ALIGN='left'/>were acquired. A plan in accordance with<BR ALIGN='left'/>this advice was put into effect. On June<BR ALIGN='left'/>12, 1930, Lyon transferred his tire<BR ALIGN='left'/>cover business, including patent<BR ALIGN='left'/>applications, subject to the agreement<BR ALIGN='left'/>of May 3, to a corporation organized by<BR ALIGN='left'/>him under the style &quot;Lyon Development<BR ALIGN='left'/>Company, Inc.,&quot; and received in exchange<BR ALIGN='left'/>all of the corporation&#x27;s stock. Two days<BR ALIGN='left'/>later, on June 14, this corporation<BR ALIGN='left'/>transferred the assets received from<BR ALIGN='left'/>Lyon, likewise subject to the contract<BR ALIGN='left'/>of May 3, to the petitioner in exchange<BR ALIGN='left'/>for 885 shares of petitioner&#x27;s Class A<BR ALIGN='left'/>voting stock and 1600 shares of its<BR ALIGN='left'/>Class B non-voting stock. The stock<BR ALIGN='left'/>received by the temporary corporation<BR ALIGN='left'/>constituted 79.27% of the taxpayer&#x27;s<BR ALIGN='left'/>total stock. On June 13, 1930, Lyon&#x27;s<BR ALIGN='left'/>wife, Elizabeth Aikens Lyon, transferred<BR ALIGN='left'/>certain stocks owned by her to the<BR ALIGN='left'/>taxpayer in exchange for 650 shares of<BR ALIGN='left'/>its Class A voting stock, which resulted<BR ALIGN='left'/>in all of the stock being owned by the<BR ALIGN='left'/>Lyons.</TD></TR>
+</TABLE>
+>]
+	NWvAGMcUEK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Lyon&#x27;s plan was to sell his tire cover<BR ALIGN='left'/>business and patent applications in such<BR ALIGN='left'/>manner that the tax upon any gain<BR ALIGN='left'/>derived therefrom would be postponed,<BR ALIGN='left'/>and the corporation formed to hold the<BR ALIGN='left'/>patents enabled to use a basis for<BR ALIGN='left'/>depreciation, stepped up from Lyon&#x27;s<BR ALIGN='left'/>cost to current fair value. The first<BR ALIGN='left'/>part of his purpose was in part achieved<BR ALIGN='left'/>by the transfer of all of his assets to<BR ALIGN='left'/>the temporary corporation in exchange<BR ALIGN='left'/>for all of its stock. This was a tax-<BR ALIGN='left'/>free transaction within § 112(b) (5) of<BR ALIGN='left'/>the Revenue Act of 1928, 26 U.S.C.A.<BR ALIGN='left'/>Int.Rev.Acts, page 377,</TD></TR>
+</TABLE>
+>]
+	b2a8PF1mDY [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">No gain or loss shall be recognized if<BR ALIGN='left'/>property is transferred to a corporation<BR ALIGN='left'/>by one or more persons solely in<BR ALIGN='left'/>exchange for stock or securities in such<BR ALIGN='left'/>corporation, and immediately after the<BR ALIGN='left'/>exchange such person or persons are in<BR ALIGN='left'/>control of the corporation; but in the<BR ALIGN='left'/>case of an exchange by two or more<BR ALIGN='left'/>persons this paragraph shall apply only<BR ALIGN='left'/>if the amount of the stock and<BR ALIGN='left'/>securities received by each is<BR ALIGN='left'/>substantially in proportion to his<BR ALIGN='left'/>interest in the property prior to the<BR ALIGN='left'/>exchange.&quot;</TD></TR>
+</TABLE>
+>]
+	rTpwIAHYxX [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">By virtue of § 113(a) (6), 26 U.S.C.A.<BR ALIGN='left'/>Int.Rev.Acts, page 381, however, the<BR ALIGN='left'/>basis for valuing the transferred assets<BR ALIGN='left'/>remained the same in the hands of the<BR ALIGN='left'/>corporation as when they were owned by<BR ALIGN='left'/>Lyon. The stepped up basis was sought to<BR ALIGN='left'/>be achieved by the transfer of the<BR ALIGN='left'/>assets to a second corporation, and<BR ALIGN='left'/>thereby not only to effect a tax-free<BR ALIGN='left'/>reorganization but to make applicable to<BR ALIGN='left'/>depreciation base § 113(a) 212*212 (7)<BR ALIGN='left'/>of the same statute, which provides:<BR ALIGN='left'/>&quot;(7) Transfers to corporation where<BR ALIGN='left'/>control of property remains in same<BR ALIGN='left'/>persons. If the property was acquired<BR ALIGN='left'/>after December 31, 1917, by a<BR ALIGN='left'/>corporation in connection with a<BR ALIGN='left'/>reorganization, and immediately after<BR ALIGN='left'/>the transfer an interest or control in<BR ALIGN='left'/>such property of 80 per centum or more<BR ALIGN='left'/>remained in the same persons or any of<BR ALIGN='left'/>them, then the basis shall be the same<BR ALIGN='left'/>as it would be in the hands of the<BR ALIGN='left'/>transferor, increased in the amount of<BR ALIGN='left'/>gain or decreased in the amount of loss<BR ALIGN='left'/>recognized to the transferor upon such<BR ALIGN='left'/>transfer under the law applicable to the<BR ALIGN='left'/>year in which the transfer was made.<BR ALIGN='left'/>This paragraph shall not apply if the<BR ALIGN='left'/>property acquired consists of stock or<BR ALIGN='left'/>securities in a corporation a party to<BR ALIGN='left'/>the reorganization, unless acquired by<BR ALIGN='left'/>the issuance of stock or securities of<BR ALIGN='left'/>the transferee as the consideration in<BR ALIGN='left'/>whole or in part for the transfer.&quot;</TD></TR>
+</TABLE>
+>]
+	a2hh_ulxaW [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It will be observed that under § 113(a)<BR ALIGN='left'/>(7), a transfer by a corporation in<BR ALIGN='left'/>connection with a reorganization leaves<BR ALIGN='left'/>the basis the same as in the hands of<BR ALIGN='left'/>the transferrer only if immediately<BR ALIGN='left'/>after the transfer an interest or<BR ALIGN='left'/>control in the property of 80% remains<BR ALIGN='left'/>in the same persons, or any of them. It<BR ALIGN='left'/>was for this reason that the temporary<BR ALIGN='left'/>corporation exchanged its assets for<BR ALIGN='left'/>stock which constituted but 79.27% of<BR ALIGN='left'/>the petitioner&#x27;s capitalization. The<BR ALIGN='left'/>remaining stock of the taxpayer was<BR ALIGN='left'/>acquired directly from the taxpayer by<BR ALIGN='left'/>Mrs. Lyon in exchange for some stock<BR ALIGN='left'/>that she held in Lyon &amp; Wilson, Inc.,<BR ALIGN='left'/>and additional stock in that company<BR ALIGN='left'/>which Lyon, at the time, gave her as a<BR ALIGN='left'/>gift, for the purpose of making the<BR ALIGN='left'/>exchange. Since the interests of Mrs.<BR ALIGN='left'/>Lyon and the temporary corporation in<BR ALIGN='left'/>the property transferred were thought to<BR ALIGN='left'/>be substantially disproportionate to the<BR ALIGN='left'/>amounts of stock respectively received<BR ALIGN='left'/>by them it was believed that the<BR ALIGN='left'/>taxpayer would not be required to use<BR ALIGN='left'/>the transferrer&#x27;s basis but would be<BR ALIGN='left'/>permitted to use as a basis its own cost<BR ALIGN='left'/>in pursuance of the provisions of §§<BR ALIGN='left'/>112(b) (5) and 113(a) (8).</TD></TR>
+</TABLE>
+>]
+	vTgWrmBLFn [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Supreme Court, in the Gregory case,<BR ALIGN='left'/>said [293 U.S. 465, 55 S.Ct. 267, 79<BR ALIGN='left'/>L.Ed. 596, 97 A.L.R. 1355]: &quot;When<BR ALIGN='left'/>subdivision (B) speaks of a transfer of<BR ALIGN='left'/>assets by one corporation to another, it<BR ALIGN='left'/>means a transfer made `in pursuance of a<BR ALIGN='left'/>plan of reorganization&#x27; (section 112(g)<BR ALIGN='left'/>of corporate business; and not a<BR ALIGN='left'/>transfer of assets by one corporation to<BR ALIGN='left'/>another in pursuance of a plan having no<BR ALIGN='left'/>relation to the business of either, as<BR ALIGN='left'/>plainly is the case here.&quot;</TD></TR>
+</TABLE>
+>]
+	g6R9aKz7mA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The changing of one corporation having<BR ALIGN='left'/>no business purpose into another<BR ALIGN='left'/>corporation without business purpose, is<BR ALIGN='left'/>but a change of style and still lacks<BR ALIGN='left'/>business purpose. It is but the same<BR ALIGN='left'/>thing under another name. But when a<BR ALIGN='left'/>corporation however lacking in economic<BR ALIGN='left'/>reason for existence is so transformed<BR ALIGN='left'/>and vitalized that a new economic<BR ALIGN='left'/>enterprise has come into being with<BR ALIGN='left'/>purpose, function and reason for<BR ALIGN='left'/>permanent existence, then we think it is<BR ALIGN='left'/>the product of a reorganization both in<BR ALIGN='left'/>its technical and popular sense.</TD></TR>
+</TABLE>
+>]
+	qktmQtkskg [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 113(a) (12) of the Revenue Act<BR ALIGN='left'/>of 1934, 26 U.S.C.A. Int.Rev.Acts, page<BR ALIGN='left'/>700, provides that if property was<BR ALIGN='left'/>acquired by a corporation in any taxable<BR ALIGN='left'/>year prior to January 1, 1934, the basis<BR ALIGN='left'/>thereof shall be the same as the basis<BR ALIGN='left'/>prescribed in the Revenue Act of 1932, §<BR ALIGN='left'/>113(a) (7), 26 U.S.C.A. Int.Rev.Acts,<BR ALIGN='left'/>page 516, which provides that if the<BR ALIGN='left'/>property of a corporation was acquired<BR ALIGN='left'/>after December 31, 1917, in connection<BR ALIGN='left'/>with a reorganization and immediately<BR ALIGN='left'/>after the transfer the interest and<BR ALIGN='left'/>control in such property of 50 or more<BR ALIGN='left'/>per cent remained in the same persons,<BR ALIGN='left'/>or any of them, the basis shall be the<BR ALIGN='left'/>same as though in the hands of the<BR ALIGN='left'/>transferrer. The 80% limitation was<BR ALIGN='left'/>reduced to 50% to check tax avoidance<BR ALIGN='left'/>not only in the Revenue Act of 1932 but<BR ALIGN='left'/>in subsequent Revenue Acts.</TD></TR>
+</TABLE>
+>]
+	nbHYSFiiqR [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Having concluded that notwithstanding<BR ALIGN='left'/>the taxpayer&#x27;s reliance upon the<BR ALIGN='left'/>decision in Gregory v. Helvering, supra,<BR ALIGN='left'/>there was a reorganization, the Board&#x27;s<BR ALIGN='left'/>decision sustaining the Commissioner in<BR ALIGN='left'/>limiting the depreciation base to Lyon&#x27;s<BR ALIGN='left'/>cost, must be upheld, unless there is<BR ALIGN='left'/>persuasiveness in the taxpayer&#x27;s<BR ALIGN='left'/>concluding argument.</TD></TR>
+</TABLE>
+>]
+	KI2Qbix9Ug [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The decision of the Board of Tax Appeals<BR ALIGN='left'/>is affirmed.</TD></TR>
+</TABLE>
+>]
+	NWvAGMcUEK -> b2a8PF1mDY
+	a2hh_ulxaW -> rTpwIAHYxX
+	g6R9aKz7mA -> vTgWrmBLFn
+	b2a8PF1mDY -> nbHYSFiiqR
+	rTpwIAHYxX -> nbHYSFiiqR
+	vTgWrmBLFn -> nbHYSFiiqR
+	qktmQtkskg -> nbHYSFiiqR
+	nbHYSFiiqR -> KI2Qbix9Ug
+}

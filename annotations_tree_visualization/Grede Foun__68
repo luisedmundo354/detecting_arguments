@@ -1,0 +1,61 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	xUYcuFbrds [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The court finds that the acquisition of<BR ALIGN='left'/>the assets of Liberty was not &quot;in<BR ALIGN='left'/>exchange solely for voting stock&quot; of<BR ALIGN='left'/>plaintiff, and therefore the transaction<BR ALIGN='left'/>does not qualify as a &quot;reorganization&quot;<BR ALIGN='left'/>within the meaning of § 368(a) (1)<BR ALIGN='left'/>(C).\n\nPlaintiff has not met its burden<BR ALIGN='left'/>of proof that it is entitled to a refund<BR ALIGN='left'/>of federal income taxes for the fiscal<BR ALIGN='left'/>year ended October 31, 1955.\n\n267*267<BR ALIGN='left'/>The court hereby adopts the stipulated<BR ALIGN='left'/>facts as findings of fact. Additional<BR ALIGN='left'/>findings of fact are as set forth in<BR ALIGN='left'/>this decision, as are the court&#x27;s<BR ALIGN='left'/>conclusions of law, in conformity with<BR ALIGN='left'/>Rule 52(a) of the Federal Rules of Civil<BR ALIGN='left'/>Procedure, 28 U.S.C.A. The clerk is<BR ALIGN='left'/>hereby directed to enter judgment in<BR ALIGN='left'/>favor of the defendant dismissing this<BR ALIGN='left'/>action.</TD></TR>
+</TABLE>
+>]
+	NzvpI4Uv5X [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The crucial element of a nontaxable<BR ALIGN='left'/>&quot;(C)&quot; type reorganization is that the<BR ALIGN='left'/>acquisition of the assets of Liberty<BR ALIGN='left'/>must have been in exchange solely for<BR ALIGN='left'/>plaintiff&#x27;s voting stock. The Supreme<BR ALIGN='left'/>Court has stated that this requirement<BR ALIGN='left'/>&quot;* * * leaves no leeway. Voting stock<BR ALIGN='left'/>plus some other consideration does not<BR ALIGN='left'/>meet the statutory requirement.&quot;<BR ALIGN='left'/>Helvering v. Southwest Consolidated<BR ALIGN='left'/>Corp., 315 U.S. 194, 198, 62 S.Ct. 546,<BR ALIGN='left'/>550, 86 L.Ed. 789 (1942).</TD></TR>
+</TABLE>
+>]
+	H5tvWJZTPQ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Defendant&#x27;s attack on the transaction<BR ALIGN='left'/>here involved is based on the fact that<BR ALIGN='left'/>plaintiff, in acquiring the assets of<BR ALIGN='left'/>Liberty, exchanged not only its own<BR ALIGN='left'/>voting stock but also its 175 shares of<BR ALIGN='left'/>Liberty stock. It is not disputed that<BR ALIGN='left'/>the first step of the plan, i. e., the<BR ALIGN='left'/>transfer to plaintiff of Liberty&#x27;s<BR ALIGN='left'/>assets in exchange for 5,000 shares of<BR ALIGN='left'/>plaintiff&#x27;s stock, would be squarely<BR ALIGN='left'/>within § 368 (a) (1) (C) if it had ended<BR ALIGN='left'/>there. The difficulty is that the second<BR ALIGN='left'/>step of the plan required Liberty to<BR ALIGN='left'/>liquidate, with 265*265 Liberty&#x27;s<BR ALIGN='left'/>shareholders (including plaintiff)<BR ALIGN='left'/>exchanging Liberty stock for plaintiff&#x27;s<BR ALIGN='left'/>stock. Each step is part of one<BR ALIGN='left'/>integrated plan, and for federal income<BR ALIGN='left'/>tax purposes the court must consider<BR ALIGN='left'/>only the end result, not its component<BR ALIGN='left'/>parts.</TD></TR>
+</TABLE>
+>]
+	eL84W1kyDc [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A substantially identical plan was held<BR ALIGN='left'/>not to meet the requirements of a<BR ALIGN='left'/>nontaxable reorganization in Bausch &amp;<BR ALIGN='left'/>Lomb Optical Company v. Commissioner of<BR ALIGN='left'/>Internal Revenue, 267 F.2d 75 (2d Cir.<BR ALIGN='left'/>1959), cert. denied 361 U.S. 835, 80<BR ALIGN='left'/>S.Ct. 88, 4 L.Ed.2d 76. Although the<BR ALIGN='left'/>case was decided under the predecessor<BR ALIGN='left'/>of § 368 (a) (1) (C) (i. e., § 112(g)<BR ALIGN='left'/>(1) (C) of the Internal Revenue Code of<BR ALIGN='left'/>1939, 26 U.S.C.A. § 112(g) (1) (C)),[3]<BR ALIGN='left'/>that statute is identical in all<BR ALIGN='left'/>material respects.</TD></TR>
+</TABLE>
+>]
+	QSl9b3zbiG [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Substantially the same argument was<BR ALIGN='left'/>presented in the Bausch &amp; Lomb case as<BR ALIGN='left'/>plaintiff presents in this action; i.<BR ALIGN='left'/>e., that each step in the plan had a<BR ALIGN='left'/>separate and distinct business purpose.<BR ALIGN='left'/>Assuming this to be true, this fact<BR ALIGN='left'/>alone does not serve to render the<BR ALIGN='left'/>transaction nontaxable. The<BR ALIGN='left'/>specifications of the reorganization<BR ALIGN='left'/>provisions of the code are precise and<BR ALIGN='left'/>must be strictly complied with in order<BR ALIGN='left'/>to entitle the taxpayer to the benefit<BR ALIGN='left'/>of tax-free treatment thereunder.</TD></TR>
+</TABLE>
+>]
+	"4gwQjTRIdl" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">As stated in the Bausch &amp; Lomb case,<BR ALIGN='left'/>supra, 267 F.2d at pages 77-78:\n\n&quot;* *<BR ALIGN='left'/>* the Congress has defined in Section<BR ALIGN='left'/>112(g) (1) (C) how a reorganization<BR ALIGN='left'/>thereunder may be effected, and the only<BR ALIGN='left'/>question for us to decide, on this phase<BR ALIGN='left'/>of the case, is whether the necessary<BR ALIGN='left'/>requirements have been truly fulfilled.<BR ALIGN='left'/>It is for the Congress and not for us to<BR ALIGN='left'/>say whether some other alleged<BR ALIGN='left'/>equivalent set of facts should receive<BR ALIGN='left'/>the same tax free status.&quot;</TD></TR>
+</TABLE>
+>]
+	QuncvaKKVw [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">There was no comparable section in the<BR ALIGN='left'/>1939 Code under which the Bausch &amp; Lomb<BR ALIGN='left'/>Optical Company case was decided. The<BR ALIGN='left'/>purpose of § 311 was to codify the<BR ALIGN='left'/>general rule that a corporation does not<BR ALIGN='left'/>realize taxable income when it<BR ALIGN='left'/>distributes property to its<BR ALIGN='left'/>stockholders. See 3 U.S.Code Cong. and<BR ALIGN='left'/>Admin.News, 83rd Cong., 2d Sess. (1954),<BR ALIGN='left'/>page 4884; Treasury Regulations §<BR ALIGN='left'/>1.311-1 (1954). Plaintiff&#x27;s argument<BR ALIGN='left'/>assumes that Liberty, while it<BR ALIGN='left'/>momentarily held plaintiff&#x27;s stock,<BR ALIGN='left'/>became a stockholder of plaintiff and<BR ALIGN='left'/>that the surrender of the 175 Liberty<BR ALIGN='left'/>shares was a &quot;distribution, with respect<BR ALIGN='left'/>to its stock, of * * * property&quot; within<BR ALIGN='left'/>the meaning of § 311 (a) (2).\n\nNot<BR ALIGN='left'/>only does this theory ignore the<BR ALIGN='left'/>integrated nature of the whole plan, but<BR ALIGN='left'/>it distorts the substance and purpose of<BR ALIGN='left'/>it. In fact, plaintiff has conceded in<BR ALIGN='left'/>its pretrial brief at page 25 that the<BR ALIGN='left'/>transitory ownership of plaintiff&#x27;s<BR ALIGN='left'/>stock by Liberty should be disregarded<BR ALIGN='left'/>in determining the net effect of the<BR ALIGN='left'/>entire transaction. Moreover, this<BR ALIGN='left'/>theory was not presented by plaintiff in<BR ALIGN='left'/>its claim for refund and, therefore,<BR ALIGN='left'/>could not be considered in this action,<BR ALIGN='left'/>even if it had merit.</TD></TR>
+</TABLE>
+>]
+	Oh7q_qTl9M [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Plaintiff&#x27;s board of directors had<BR ALIGN='left'/>considered a merger under the laws of<BR ALIGN='left'/>the State of Wisconsin as a means of<BR ALIGN='left'/>accomplishing its objectives, which<BR ALIGN='left'/>merger could have resulted in a tax-free<BR ALIGN='left'/>reorganization as a &quot;statutory merger&quot;<BR ALIGN='left'/>under § 368(a) (1) (A), but it was<BR ALIGN='left'/>determined that the merger procedure<BR ALIGN='left'/>would be too lengthy. The board was<BR ALIGN='left'/>advised by its counsel that the plan<BR ALIGN='left'/>which was adopted here would be the<BR ALIGN='left'/>simplest and most practical way to<BR ALIGN='left'/>accomplish its purpose. Having chosen<BR ALIGN='left'/>this method, plaintiff must bear the tax<BR ALIGN='left'/>consequences resulting therefrom.</TD></TR>
+</TABLE>
+>]
+	H5tvWJZTPQ -> NzvpI4Uv5X
+	eL84W1kyDc -> H5tvWJZTPQ
+	QSl9b3zbiG -> eL84W1kyDc
+	"4gwQjTRIdl" -> eL84W1kyDc
+	QuncvaKKVw -> "4gwQjTRIdl"
+	Oh7q_qTl9M -> eL84W1kyDc
+	NzvpI4Uv5X -> xUYcuFbrds
+}

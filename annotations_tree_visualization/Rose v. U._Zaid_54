@@ -1,0 +1,214 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	"8-qu980ZQL" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The district court granted summary<BR ALIGN='left'/>judgment for the Government, on the<BR ALIGN='left'/>ground that the purported liquidation of<BR ALIGN='left'/>Port Dry Kiln was, in effect, part of a<BR ALIGN='left'/>reorganization under I.R.C. §<BR ALIGN='left'/>368(a)(1)(D). Cash received in a Section<BR ALIGN='left'/>D reorganization is taxed as ordinary<BR ALIGN='left'/>income. This appeal followed.</TD></TR>
+</TABLE>
+>]
+	HxTWB6SEGm [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Appellants Stanley and June Rose owned<BR ALIGN='left'/>all of the shares of capital stock of<BR ALIGN='left'/>two corporations, Port Dry Kiln Company<BR ALIGN='left'/>(Port Dry Kiln) and Exeter Lumber Sales<BR ALIGN='left'/>Company (Exeter).[1] Stanley Rose was<BR ALIGN='left'/>president of both corporations, and<BR ALIGN='left'/>Stanley Rose, June Rose and Jerry<BR ALIGN='left'/>Houston constituted the board of<BR ALIGN='left'/>directors of both corporations during<BR ALIGN='left'/>all relevant years.\n\nExeter was<BR ALIGN='left'/>incorporated in 1955 and operated a<BR ALIGN='left'/>sawmill. In January 1962, appellants<BR ALIGN='left'/>organized Port Dry Kiln for the purpose<BR ALIGN='left'/>of drying the lumber produced by Exeter.<BR ALIGN='left'/>Port Dry Kiln&#x27;s facilities consisted of<BR ALIGN='left'/>two dry kilns constructed by the Port of<BR ALIGN='left'/>Longview, a Washington State municipal<BR ALIGN='left'/>corporation, and leased to the company,<BR ALIGN='left'/>and a third dry kiln constructed by Port<BR ALIGN='left'/>Dry Kiln on land leased to it by the<BR ALIGN='left'/>Port of Longview.\n\nThe Exeter sawmill<BR ALIGN='left'/>was located approximately three quarters<BR ALIGN='left'/>of a mile from the kiln facilities.<BR ALIGN='left'/>Exeter also had a planing mill on Port<BR ALIGN='left'/>of Longview property adjacent to the<BR ALIGN='left'/>kilns. All of Exeter&#x27;s lumber was dried<BR ALIGN='left'/>by Port Dry Kiln, accounting for about<BR ALIGN='left'/>90 percent of the use of the<BR ALIGN='left'/>kilns.\n\nOn November 21, 1968, the<BR ALIGN='left'/>directors and shareholders of Port Dry<BR ALIGN='left'/>Kiln authorized the dissolution of Port<BR ALIGN='left'/>Dry Kiln effective November 30, 1968.[2]<BR ALIGN='left'/>On that day, Port Dry 1032*1032 Kiln<BR ALIGN='left'/>transferred to Exeter its right, title<BR ALIGN='left'/>and interest in the leases with the Port<BR ALIGN='left'/>of Longview. Exeter gave no<BR ALIGN='left'/>consideration. Port Dry Kiln also sold<BR ALIGN='left'/>the third kiln to Exeter for $72,740.46<BR ALIGN='left'/>which was the depreciated value as<BR ALIGN='left'/>reflected on Port Dry Kiln&#x27;s<BR ALIGN='left'/>books.\n\nOn January 2, 1969, the<BR ALIGN='left'/>remaining asset of Port Dry Kiln —<BR ALIGN='left'/>$318,818 in cash — was distributed to<BR ALIGN='left'/>appellants pursuant to the plan of<BR ALIGN='left'/>dissolution. After the dissolution and<BR ALIGN='left'/>purported liquidation of Port Dry Kiln,<BR ALIGN='left'/>Exeter continued to operate the dry<BR ALIGN='left'/>kilns until November 18, 1974, when the<BR ALIGN='left'/>assets of Exeter were sold to a third<BR ALIGN='left'/>party.\n\nAppellants treated the receipt<BR ALIGN='left'/>of the cash as a distribution in<BR ALIGN='left'/>complete liquidation, and under I.R.C.<BR ALIGN='left'/>§§ 331 and 337 reported their receipt of<BR ALIGN='left'/>the $318,318 ($318,818 less the $500<BR ALIGN='left'/>basis in the Port Dry Kiln Stock) as<BR ALIGN='left'/>qualifying for treatment as long-term<BR ALIGN='left'/>capital gain. The Commissioner of<BR ALIGN='left'/>Internal Revenue determined that the<BR ALIGN='left'/>distribution was taxable as ordinary<BR ALIGN='left'/>income and issued a statutory notice of<BR ALIGN='left'/>deficiency. Appellants paid the asserted<BR ALIGN='left'/>deficiency[3] and filed a claim for<BR ALIGN='left'/>refund. The Commissioner denied the<BR ALIGN='left'/>claim and appellants then brought this<BR ALIGN='left'/>suit for refund in the district court.</TD></TR>
+</TABLE>
+>]
+	"GzXqKx-FPD" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">368(a)(1)(D):</TD></TR>
+</TABLE>
+>]
+	KnUZYD0Ytn [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(1) control</TD></TR>
+</TABLE>
+>]
+	"9VfUWUnaN4" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(2) distribution of stock or securities</TD></TR>
+</TABLE>
+>]
+	AsA_vapQ5m [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">3) transfer of assets</TD></TR>
+</TABLE>
+>]
+	kLhgRRU3PO [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(4) a plan of reorganization</TD></TR>
+</TABLE>
+>]
+	sgp6qblsXo [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;Control&quot; of the transferee corporation<BR ALIGN='left'/>requires that there be shareholder<BR ALIGN='left'/>control of 80 percent 1034*1034 of the<BR ALIGN='left'/>total combined voting power and 80<BR ALIGN='left'/>percent of the total nonvoting shares of<BR ALIGN='left'/>the corporation.</TD></TR>
+</TABLE>
+>]
+	tCpp_1Sc5H [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">No stock or securities were distributed<BR ALIGN='left'/>to the Roses.</TD></TR>
+</TABLE>
+>]
+	Tly8shFtG_ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">But despite the language in §<BR ALIGN='left'/>368(a)(1)(D), courts have held that a<BR ALIGN='left'/>distribution of stock or securities is<BR ALIGN='left'/>not necessary where ownership of the<BR ALIGN='left'/>transferor and transferee corporations<BR ALIGN='left'/>is identical, because such a<BR ALIGN='left'/>distribution would be a mere formality.<BR ALIGN='left'/>Atlas Tool Co. v. Commissioner, 614 F.2d<BR ALIGN='left'/>860, 865 (3rd Cir.), cert. denied, ___<BR ALIGN='left'/>U.S. ___, 101 S.Ct. 110, 66 L.Ed.2d 43<BR ALIGN='left'/>(1980); Davant v. Commissioner, 366 F.2d<BR ALIGN='left'/>874, 886-87 (5th Cir. 1966), cert.<BR ALIGN='left'/>denied, 386 U.S. 1022, 87 S.Ct. 1370, 18<BR ALIGN='left'/>L.Ed.2d 460 (1967).</TD></TR>
+</TABLE>
+>]
+	XoYO42Ie3k [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Since the Roses owned all the stock of<BR ALIGN='left'/>both the transferor and transferee<BR ALIGN='left'/>corporations</TD></TR>
+</TABLE>
+>]
+	bfGBTNFOhe [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">we hold that no distribution of stock or<BR ALIGN='left'/>securities was necessary to meet the<BR ALIGN='left'/>requirements of § 368(a)(1)(D).</TD></TR>
+</TABLE>
+>]
+	KwOKfnAooI [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The control element is clearly satisfied<BR ALIGN='left'/>here as appellants owned all of the<BR ALIGN='left'/>capital stock of both Exeter and Port<BR ALIGN='left'/>Dry Kiln at all relevant times.</TD></TR>
+</TABLE>
+>]
+	rRWg7T40cT [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A distribution pursuant to §<BR ALIGN='left'/>368(a)(1)(D) must also qualify under §<BR ALIGN='left'/>354 or § 355 in order for § 356 to be<BR ALIGN='left'/>applicable.</TD></TR>
+</TABLE>
+>]
+	P7P6qRscEA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 355 concerns the distribution of<BR ALIGN='left'/>stock or securities of a controlled<BR ALIGN='left'/>corporation and is not applicable to<BR ALIGN='left'/>this case.</TD></TR>
+</TABLE>
+>]
+	UdRl3y0_NL [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Roses contend that if taxpayers<BR ALIGN='left'/>structure a transaction as a sale and<BR ALIGN='left'/>liquidation, Section D can be applied to<BR ALIGN='left'/>reclassify the transaction as a<BR ALIGN='left'/>reorganization only if the Government<BR ALIGN='left'/>can show a tax-avoidance motive in the<BR ALIGN='left'/>taxpayer&#x27;s structuring of the<BR ALIGN='left'/>transaction. Appellants essentially<BR ALIGN='left'/>argue that if a transaction meets the<BR ALIGN='left'/>requirements for both a § 337<BR ALIGN='left'/>liquidation and a § 368(a)(1)(D)<BR ALIGN='left'/>reorganization, the Government is<BR ALIGN='left'/>precluded from considering the<BR ALIGN='left'/>transaction to be a Section D<BR ALIGN='left'/>reorganization if the taxpayers are able<BR ALIGN='left'/>to show a business purpose for<BR ALIGN='left'/>structuring the transaction as a sale<BR ALIGN='left'/>and liquidation. The Government contends<BR ALIGN='left'/>that Section D applies as a matter of<BR ALIGN='left'/>law when its technical requirements are<BR ALIGN='left'/>met.[9]\n\nIn making their argument the<BR ALIGN='left'/>appellants rely on cases in which the<BR ALIGN='left'/>courts have recharacterized transactions<BR ALIGN='left'/>as reorganizations after finding the<BR ALIGN='left'/>transactions to be contrived plans to<BR ALIGN='left'/>bail out corporate earnings and profits<BR ALIGN='left'/>without appropriate payment of taxes. In<BR ALIGN='left'/>Gregory v. Helvering, 293 U.S. 465, 55<BR ALIGN='left'/>S.Ct. 266, 79 L.Ed. 596 (1935), the<BR ALIGN='left'/>Supreme Court held that taxpayers cannot<BR ALIGN='left'/>take advantage of the tax-free<BR ALIGN='left'/>reorganization provisions of the<BR ALIGN='left'/>Internal Revenue Code in absence of a<BR ALIGN='left'/>business purpose for the transaction<BR ALIGN='left'/>other than a purpose to avoid<BR ALIGN='left'/>taxes.[10]\n\n1036*1036 On its face, §<BR ALIGN='left'/>368(a)(1)(D) does not require a finding<BR ALIGN='left'/>of tax avoidance before it can be<BR ALIGN='left'/>applied. In the recent case of Atlas<BR ALIGN='left'/>Tool Co. v. Commissioner, supra, the<BR ALIGN='left'/>Third Circuit considered an almost<BR ALIGN='left'/>identical factual situation. The court<BR ALIGN='left'/>held that no tax-avoidance motive need<BR ALIGN='left'/>be found in order to classify as a<BR ALIGN='left'/>Section D reorganization a transaction<BR ALIGN='left'/>which consisted of the dissolution of<BR ALIGN='left'/>one corporation and transfer of its<BR ALIGN='left'/>assets to another corporation. The court<BR ALIGN='left'/>based its holding on the fact that the<BR ALIGN='left'/>I.R.C. provisions governing taxation of<BR ALIGN='left'/>reorganization were intended to apply<BR ALIGN='left'/>only to transactions that were founded<BR ALIGN='left'/>upon a business purpose. The court<BR ALIGN='left'/>stated:\n\nThere is no disagreement<BR ALIGN='left'/>among the parties that a business<BR ALIGN='left'/>purpose is required for a<BR ALIGN='left'/>reorganization. The [appellants] contend<BR ALIGN='left'/>that there was a business purpose for<BR ALIGN='left'/>liquidation as opposed to<BR ALIGN='left'/>reincorporation, and that from this<BR ALIGN='left'/>business purpose for liquidation one can<BR ALIGN='left'/>infer a non-tax avoidance motive for the<BR ALIGN='left'/>overall transaction. However, the<BR ALIGN='left'/>liquidation-reincorporation doctrine is<BR ALIGN='left'/>aimed at recharacterizing liquidations<BR ALIGN='left'/>in light of the entire transaction,<BR ALIGN='left'/>notwithstanding liquidation motives.<BR ALIGN='left'/>Thus the liquidation purpose alone, and<BR ALIGN='left'/>therefore the inference of a non-tax<BR ALIGN='left'/>avoidance motive from it, cannot by<BR ALIGN='left'/>definition be dispositive, and certainly<BR ALIGN='left'/>does not prevent the characterization of<BR ALIGN='left'/>the transaction as a D reorganization.<BR ALIGN='left'/>(Footnotes omitted.)\nAtlas, supra, at<BR ALIGN='left'/>866.</TD></TR>
+</TABLE>
+>]
+	"nF-N_Ui79B" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We hold that once a sale and liquidation<BR ALIGN='left'/>meets the technical requirements of §<BR ALIGN='left'/>368(a)(1)(D), it can be reclassified as<BR ALIGN='left'/>a Section D reorganization without the<BR ALIGN='left'/>necessity of the Government showing that<BR ALIGN='left'/>the transaction was structured as a sale<BR ALIGN='left'/>and liquidation to receive more<BR ALIGN='left'/>favorable tax treatment.</TD></TR>
+</TABLE>
+>]
+	oQN2n57REt [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 354(a)(1) provides that &quot;[n]o<BR ALIGN='left'/>gain or loss shall be recognized if<BR ALIGN='left'/>stock or securities in a corporation a<BR ALIGN='left'/>party to a reorganization are, in<BR ALIGN='left'/>pursuance of the plan of reorganization,<BR ALIGN='left'/>exchanged solely for stock or securities<BR ALIGN='left'/>in such corporation or in another<BR ALIGN='left'/>corporation a party to the<BR ALIGN='left'/>reorganization.&quot;[7]</TD></TR>
+</TABLE>
+>]
+	R2PtN85fc7 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">However, § 354(b)(1) limits the<BR ALIGN='left'/>application of § 354(a)(1) by requiring<BR ALIGN='left'/>that:\n\nSubsection (a) shall not apply<BR ALIGN='left'/>to an exchange in pursuance of a plan of<BR ALIGN='left'/>reorganization within the meaning of<BR ALIGN='left'/>section 368(a)(1)(D), unless —\n(A) the<BR ALIGN='left'/>corporation to which the assets are<BR ALIGN='left'/>transferred acquires substantially all<BR ALIGN='left'/>of the assets of the transferor of such<BR ALIGN='left'/>assets. (Emphasis added.)</TD></TR>
+</TABLE>
+>]
+	ekSX2Ft8_o [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Generally, the &quot;substantially all&quot;<BR ALIGN='left'/>requirement is determined by focusing on<BR ALIGN='left'/>the transfer of the operating assets by<BR ALIGN='left'/>the transferor and not on the non-<BR ALIGN='left'/>operating or liquid assets such as cash.</TD></TR>
+</TABLE>
+>]
+	MQqthbVgYA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In this case all the operating assets —<BR ALIGN='left'/>the three kilns and leases — were<BR ALIGN='left'/>transferred. Only the cash was not<BR ALIGN='left'/>transferred. In Moffatt v. Commissioner,<BR ALIGN='left'/>363 F.2d 262 (9th Cir. 1966), cert.<BR ALIGN='left'/>denied, 386 U.S. 1016, 87 S.Ct. 1370, 18<BR ALIGN='left'/>L.Ed.2d 453 (1967), this court held that<BR ALIGN='left'/>the transfer of key personnel and<BR ALIGN='left'/>operating assets qualified as<BR ALIGN='left'/>substantially-all, even though non-<BR ALIGN='left'/>operating physical assets such as land<BR ALIGN='left'/>were retained. But in Swanson v. United<BR ALIGN='left'/>States, 479 F.2d 539 (9th Cir. 1973),<BR ALIGN='left'/>this court affirmed a district court<BR ALIGN='left'/>finding that the failure to transfer<BR ALIGN='left'/>liquid assets precluded satisfaction of<BR ALIGN='left'/>the substantially-all requirement.<BR ALIGN='left'/>Swanson is distinguishable from the<BR ALIGN='left'/>present case because it was grounded on<BR ALIGN='left'/>the district court&#x27;s holding that the<BR ALIGN='left'/>liquid assets were essential operating<BR ALIGN='left'/>assets of the corporation. Swanson<BR ALIGN='left'/>involved an underground pipe<BR ALIGN='left'/>construction business with a need for<BR ALIGN='left'/>liquid assets to secure required<BR ALIGN='left'/>bonding.</TD></TR>
+</TABLE>
+>]
+	wTcJsXkDyK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 354(b)(1)(B) requires that the<BR ALIGN='left'/>distribution of securities in a Section<BR ALIGN='left'/>D reorganization be &quot;in pursuance of the<BR ALIGN='left'/>plan of reorganization.&quot; A formal<BR ALIGN='left'/>written document is not necessary.</TD></TR>
+</TABLE>
+>]
+	O2HkV9rP6R [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In this case, the district court held<BR ALIGN='left'/>that all the operating assets were<BR ALIGN='left'/>transferred. Appellants give no reasons<BR ALIGN='left'/>for finding the cash to be an essential<BR ALIGN='left'/>operating asset of Port Dry Kiln.</TD></TR>
+</TABLE>
+>]
+	JvTLbCbuiN [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We find that the requirement of<BR ALIGN='left'/>transferring &quot;substantially all&quot; of the<BR ALIGN='left'/>Port Dry Kiln assets has been met.</TD></TR>
+</TABLE>
+>]
+	"1DFvBiiTZe" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The district court found that the<BR ALIGN='left'/>minutes of the November 21, 1968 meeting<BR ALIGN='left'/>of the Board of Directors of Port Dry<BR ALIGN='left'/>Kiln authorizing the dissolution of that<BR ALIGN='left'/>corporation and the subsequent transfer<BR ALIGN='left'/>of its operating assets to Exeter and<BR ALIGN='left'/>the payment of the sale proceeds to<BR ALIGN='left'/>appellants 1035*1035 provided sufficient<BR ALIGN='left'/>evidence that the distribution was a<BR ALIGN='left'/>part of a plan of reorganization. The<BR ALIGN='left'/>sale and distribution was clearly part<BR ALIGN='left'/>of an overall plan to have the lumber-<BR ALIGN='left'/>drying operation done by Exeter. The<BR ALIGN='left'/>controlling shareholders chose to call<BR ALIGN='left'/>the transaction a plan of liquidation.<BR ALIGN='left'/>If what resulted was in fact a plan of<BR ALIGN='left'/>reorganization, the chosen label is not<BR ALIGN='left'/>dispositive. Atlas Tool Co. v.<BR ALIGN='left'/>Commissioner, supra, at 866; Wilson v.<BR ALIGN='left'/>Commissioner, 46 T.C. 334, 345<BR ALIGN='left'/>(1966).[8]</TD></TR>
+</TABLE>
+>]
+	"s3q-O4agvo" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We conclude, as did the district court,<BR ALIGN='left'/>that the transaction which resulted in<BR ALIGN='left'/>the distribution of the $318,818 to the<BR ALIGN='left'/>Roses met all the statutory requirements<BR ALIGN='left'/>of a § 368(a)(1)(D) reorganization.</TD></TR>
+</TABLE>
+>]
+	fzu7zBxmjS [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The fact that the taxpayers can show a<BR ALIGN='left'/>valid business purpose for the sale and<BR ALIGN='left'/>liquidation does not preclude a<BR ALIGN='left'/>qualifying transaction from being<BR ALIGN='left'/>classified as a Section D<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	EHw8Op14lq [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Given our agreement with the district<BR ALIGN='left'/>court&#x27;s conclusion that the existence of<BR ALIGN='left'/>a business purpose or non-tax-avoidance<BR ALIGN='left'/>purpose for a liquidation does not<BR ALIGN='left'/>preclude a sale and liquidation from<BR ALIGN='left'/>falling under Section D summary judgment<BR ALIGN='left'/>was appropriate and the Government was<BR ALIGN='left'/>entitled to prevail as a matter of law.</TD></TR>
+</TABLE>
+>]
+	ukb0p2b4N3 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In this case the undisputed facts<BR ALIGN='left'/>clearly establish that the Port Dry Kiln<BR ALIGN='left'/>liquidation and sale met the<BR ALIGN='left'/>requirements for a Section D<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	JB2FKtBayP [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The decision of the district court is<BR ALIGN='left'/>AFFIRMED.</TD></TR>
+</TABLE>
+>]
+	HxTWB6SEGm -> "8-qu980ZQL"
+	"GzXqKx-FPD" -> KnUZYD0Ytn
+	"GzXqKx-FPD" -> "9VfUWUnaN4"
+	"GzXqKx-FPD" -> AsA_vapQ5m
+	"GzXqKx-FPD" -> kLhgRRU3PO
+	KnUZYD0Ytn -> sgp6qblsXo
+	"9VfUWUnaN4" -> tCpp_1Sc5H
+	tCpp_1Sc5H -> Tly8shFtG_
+	Tly8shFtG_ -> XoYO42Ie3k
+	XoYO42Ie3k -> bfGBTNFOhe
+	sgp6qblsXo -> KwOKfnAooI
+	rRWg7T40cT -> P7P6qRscEA
+	P7P6qRscEA -> oQN2n57REt
+	oQN2n57REt -> R2PtN85fc7
+	R2PtN85fc7 -> ekSX2Ft8_o
+	ekSX2Ft8_o -> MQqthbVgYA
+	AsA_vapQ5m -> rRWg7T40cT
+	MQqthbVgYA -> O2HkV9rP6R
+	O2HkV9rP6R -> JvTLbCbuiN
+	kLhgRRU3PO -> wTcJsXkDyK
+	wTcJsXkDyK -> "1DFvBiiTZe"
+	"1DFvBiiTZe" -> "s3q-O4agvo"
+	"GzXqKx-FPD" -> UdRl3y0_NL
+	UdRl3y0_NL -> "nF-N_Ui79B"
+	"nF-N_Ui79B" -> fzu7zBxmjS
+	"nF-N_Ui79B" -> ukb0p2b4N3
+	ukb0p2b4N3 -> EHw8Op14lq
+	EHw8Op14lq -> JB2FKtBayP
+}

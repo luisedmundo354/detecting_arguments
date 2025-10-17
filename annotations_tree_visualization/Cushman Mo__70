@@ -1,0 +1,96 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	kuj_wECuZI [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the Nebraska statute and the decision of<BR ALIGN='left'/>the Supreme Court of Nebraska in Schmidt<BR ALIGN='left'/>&amp; Bro. Co. v. Mahoney, 60 Neb. 20, 82<BR ALIGN='left'/>N.W. 99. Section 24-220,<BR ALIGN='left'/>Comp.Stat.Nebr.1929, reads:<BR ALIGN='left'/>&quot;Corporations whose charters expire * *<BR ALIGN='left'/>* by the voluntary act of the<BR ALIGN='left'/>stockholders, may continue to act for<BR ALIGN='left'/>the purpose of 980*980 closing their<BR ALIGN='left'/>business, but for no other purpose.&quot;<BR ALIGN='left'/>Section 24-107 provides: &quot;Upon the<BR ALIGN='left'/>dissolution * * * of any corporation * *<BR ALIGN='left'/>* the directors * * * acting last before<BR ALIGN='left'/>the time of its dissolution, * * * shall<BR ALIGN='left'/>be the trustees of the creditors and<BR ALIGN='left'/>stockholders of the corporation<BR ALIGN='left'/>dissolved, and shall have full power to<BR ALIGN='left'/>settle the affairs of the same, collect<BR ALIGN='left'/>and pay the outstanding debts, and<BR ALIGN='left'/>divide among the stockholders the moneys<BR ALIGN='left'/>and property that shall remain, in<BR ALIGN='left'/>proportion to the stock of each<BR ALIGN='left'/>stockholder paid up * * *.&quot; Other<BR ALIGN='left'/>provisions authorize the trustees to sue<BR ALIGN='left'/>&quot;by the name of the trustees of such<BR ALIGN='left'/>corporation, describing it by its<BR ALIGN='left'/>corporate name&quot;, and provide that no<BR ALIGN='left'/>suit against a corporation shall abate<BR ALIGN='left'/>in consequence of such dissolution.</TD></TR>
+</TABLE>
+>]
+	tJ9QCmGea4 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In Moss v. Kansas City Life Ins. Co., 8<BR ALIGN='left'/>Cir., 96 F.2d 108, 114, this court said:<BR ALIGN='left'/>&quot;When a corporation is dissolved, it is,<BR ALIGN='left'/>absent statutory exceptions, for all<BR ALIGN='left'/>purposes dead as a legal entity or<BR ALIGN='left'/>personality.&quot;</TD></TR>
+</TABLE>
+>]
+	aItcjobFXW [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">No statutory exceptions in Nebraska<BR ALIGN='left'/>giving to a dissolved corporation<BR ALIGN='left'/>authority to be a &quot;party&quot; to a<BR ALIGN='left'/>&quot;reorganization&quot; within the meaning of §<BR ALIGN='left'/>112(g) (2) of the Act have been called<BR ALIGN='left'/>to our attention, and we find none.</TD></TR>
+</TABLE>
+>]
+	"qSNks-fvD2" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The plan to organize petitioner to take<BR ALIGN='left'/>over the assets of Motor Works in<BR ALIGN='left'/>exchange for stock was not conceived, as<BR ALIGN='left'/>the Board found, until after both of<BR ALIGN='left'/>these important events had occurred.</TD></TR>
+</TABLE>
+>]
+	PfHWqayZQP [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The facts found by the Board, and<BR ALIGN='left'/>supported by abundant evidence, are that<BR ALIGN='left'/>Motor Works was in financial difficulty<BR ALIGN='left'/>in 1931. Ammon having acquired a<BR ALIGN='left'/>controlling interest in its stock, in<BR ALIGN='left'/>December, 1932, proposed a plan of<BR ALIGN='left'/>merger of Motor Works, Easy<BR ALIGN='left'/>Manufacturing Co., and the McGrew<BR ALIGN='left'/>Machine Co. The Easy Manufacturing Co.<BR ALIGN='left'/>was a partnership consisting of Ammon<BR ALIGN='left'/>and his brother. The proposal was<BR ALIGN='left'/>rejected and on February 25, 1933,<BR ALIGN='left'/>notice was sent to the stockholders of<BR ALIGN='left'/>Motor Works calling a special meeting<BR ALIGN='left'/>for March 6, 1933, &quot;for the purpose of<BR ALIGN='left'/>either: Reorganizing and raising among<BR ALIGN='left'/>the stockholders at least $65,000.00 or<BR ALIGN='left'/>dissolving and liquidating the<BR ALIGN='left'/>corporation.&quot;</TD></TR>
+</TABLE>
+>]
+	YtoLgvY3gC [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;Therefore, Be It Resolved by these<BR ALIGN='left'/>stockholders here assembled that the<BR ALIGN='left'/>corporation be dissolved; that the<BR ALIGN='left'/>directors be instructed to sell the<BR ALIGN='left'/>assets of the corporation of whatsoever<BR ALIGN='left'/>nature, wind up the affairs of the<BR ALIGN='left'/>corporation and distribute the remaining<BR ALIGN='left'/>assets to the stockholders as provided<BR ALIGN='left'/>by the articles of incorporation and the<BR ALIGN='left'/>by-laws, and as provided by the laws of<BR ALIGN='left'/>the State of Nebraska.\n\n981*981 &quot;Be it<BR ALIGN='left'/>further resolved that the officers of<BR ALIGN='left'/>the Company file with the Secretary of<BR ALIGN='left'/>State a report of said dissolution as<BR ALIGN='left'/>required by law.&quot;</TD></TR>
+</TABLE>
+>]
+	vrot41Gyjp [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">All these transactions demonstrate the<BR ALIGN='left'/>soundness of the Board&#x27;s conclusion. The<BR ALIGN='left'/>dissolution of Motor Works was not<BR ALIGN='left'/>intended to be a step in a<BR ALIGN='left'/>reorganization; it was intended to be a<BR ALIGN='left'/>dissolution of its corporate powers and<BR ALIGN='left'/>a statutory liquidation</TD></TR>
+</TABLE>
+>]
+	"9zbTFGnJ0l" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">which &quot;is the antithesis of<BR ALIGN='left'/>reorganization.&quot; Mascot Stove Co. v.<BR ALIGN='left'/>Commissioner, 6 Cir., 120 F.2d 153, 156,<BR ALIGN='left'/>certiorari denied 315 U.S. 802, 62 S.Ct.<BR ALIGN='left'/>630, 86 L.Ed. ___.</TD></TR>
+</TABLE>
+>]
+	Yk0jTx262R [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;no more than intermediate procedural<BR ALIGN='left'/>devices utilized to enable the new<BR ALIGN='left'/>corporation [petitioner] to acquire all<BR ALIGN='left'/>the assets of the old one [Motor Works]<BR ALIGN='left'/>pursuant to a single reorganization<BR ALIGN='left'/>plan.&quot; Helvering v. Alabama Asphaltic<BR ALIGN='left'/>Limestone Co., 315 U.S. 179, 185, 62<BR ALIGN='left'/>S.Ct. 540, 86 L.Ed. 775.</TD></TR>
+</TABLE>
+>]
+	"8RyN0IqfSw" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It is equally impossible to bring the<BR ALIGN='left'/>transaction within the meaning of §<BR ALIGN='left'/>112(g) (1) (C) or (E).</TD></TR>
+</TABLE>
+>]
+	rp_SdDijku [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Clause C covers transfers &quot;by a<BR ALIGN='left'/>corporation&quot; of all or a part of its<BR ALIGN='left'/>assets &quot;to another corporation&quot;, and<BR ALIGN='left'/>clause E covers a &quot;mere change in<BR ALIGN='left'/>identity, form, or place of<BR ALIGN='left'/>organization, however effected.&quot;</TD></TR>
+</TABLE>
+>]
+	bQbi2vlduz [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Motor Works was not the &quot;transferor&quot; of<BR ALIGN='left'/>the personal property which is the basis<BR ALIGN='left'/>of the controversy in this case. In<BR ALIGN='left'/>addition to being dead and incapable of<BR ALIGN='left'/>such a corporate act, Motor Works was<BR ALIGN='left'/>not even the owner of the property;<BR ALIGN='left'/>Ammon was the owner. He had the right to<BR ALIGN='left'/>dispose of it as he chose after<BR ALIGN='left'/>acquiring title at the sheriff&#x27;s sale.</TD></TR>
+</TABLE>
+>]
+	wpPPIzfFoV [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Affirmed.</TD></TR>
+</TABLE>
+>]
+	tJ9QCmGea4 -> kuj_wECuZI
+	aItcjobFXW -> tJ9QCmGea4
+	"qSNks-fvD2" -> Yk0jTx262R
+	PfHWqayZQP -> "qSNks-fvD2"
+	YtoLgvY3gC -> "qSNks-fvD2"
+	vrot41Gyjp -> "qSNks-fvD2"
+	"9zbTFGnJ0l" -> vrot41Gyjp
+	bQbi2vlduz -> rp_SdDijku
+	rp_SdDijku -> "8RyN0IqfSw"
+	kuj_wECuZI -> wpPPIzfFoV
+	Yk0jTx262R -> wpPPIzfFoV
+	"8RyN0IqfSw" -> wpPPIzfFoV
+}

@@ -1,0 +1,221 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	"Y1bPSBiRP-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(1) whether the Tax Court correctly<BR ALIGN='left'/>categorized their transactions as a<BR ALIGN='left'/>liquidation to which Section 332 and<BR ALIGN='left'/>334(b)(2) applied, thus denying the<BR ALIGN='left'/>corporation an opportunity to carry back<BR ALIGN='left'/>post-acquisition net operating losses to<BR ALIGN='left'/>offset pre-acquisition income</TD></TR>
+</TABLE>
+>]
+	mDHyw__h4Q [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(2) whether the Tax Court correctly held<BR ALIGN='left'/>that the taxpayers failed to meet the<BR ALIGN='left'/>requirements for a 368(a)(1)<BR ALIGN='left'/>reorganization</TD></TR>
+</TABLE>
+>]
+	UHcXtNYhEb [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(3) whether the Tax Court correctly held<BR ALIGN='left'/>that they did not meet the requirements<BR ALIGN='left'/>of Section 351 for tax-free<BR ALIGN='left'/>contributions.</TD></TR>
+</TABLE>
+>]
+	EdukYDf7PY [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The material facts in this case are not<BR ALIGN='left'/>in dispute and have been stipulated by<BR ALIGN='left'/>the parties.\n\nThe Cannonsburg Skiing<BR ALIGN='left'/>Corporation (Old Cannonsburg) was formed<BR ALIGN='left'/>in 1965. Its sole business was the<BR ALIGN='left'/>operation of a full-service ski<BR ALIGN='left'/>facility, located outside Grand Rapids,<BR ALIGN='left'/>Michigan. Russell and Mary Ann Russell,<BR ALIGN='left'/>husband and wife, resided in Grand<BR ALIGN='left'/>Rapids, Michigan, at the time they filed<BR ALIGN='left'/>their petition. Russell was a<BR ALIGN='left'/>shareholder of Old Cannonsburg from 1967<BR ALIGN='left'/>until October 24, 1978, on which date he<BR ALIGN='left'/>surrendered his 1,857 shares of Old<BR ALIGN='left'/>Cannonsburg stock for 3,233.2 shares of<BR ALIGN='left'/>Brown-Schaefer stock. As of October,<BR ALIGN='left'/>1977, Old Cannonsburg had 215,000 shares<BR ALIGN='left'/>of authorized, common voting stock with<BR ALIGN='left'/>a par value of one dollar per share. The<BR ALIGN='left'/>outstanding stock was owned as<BR ALIGN='left'/>follows:\n\nShareholder Number of Shares<BR ALIGN='left'/>Percent Interest\n\nC. William Goff<BR ALIGN='left'/>103,800 87.85\nJohn D. Bunbury 3,750<BR ALIGN='left'/>3.17\nJohn Schermerhorn 3,750 3.17\nOld<BR ALIGN='left'/>Kent Bank as Trustee\nfor Rosemary E.<BR ALIGN='left'/>Thomas 5,000 4.24\nWalter J. Russell<BR ALIGN='left'/>1,857 1.57\n_______ ______\nTotal<BR ALIGN='left'/>118,157 100.00\nOn October 21, 1977, the<BR ALIGN='left'/>owners of 98% of the Old Cannonsburg<BR ALIGN='left'/>stock (the Goff Group), excluding Walter<BR ALIGN='left'/>Russell, agreed to sell their shares to<BR ALIGN='left'/>Paul W. Brown, Prentiss M. Brown, Jr.,<BR ALIGN='left'/>and Roy A. Schaefer (the Brown Group).<BR ALIGN='left'/>This agreement contemplated that the<BR ALIGN='left'/>Brown Group would form a corporation,<BR ALIGN='left'/>100% owned by them, to which all the<BR ALIGN='left'/>rights and obligations of the stock<BR ALIGN='left'/>purchase agreement would be<BR ALIGN='left'/>assigned.\n\nOn February 6, 1978, the<BR ALIGN='left'/>Brown Group formed Brown-Schaefer<BR ALIGN='left'/>Corporation under the laws of the state<BR ALIGN='left'/>of Michigan. The corporation&#x27;s stock was<BR ALIGN='left'/>owned one-third each by the three<BR ALIGN='left'/>principals. Its only assets were funds<BR ALIGN='left'/>provided by the Brown Group to be used<BR ALIGN='left'/>as a down payment for the Old<BR ALIGN='left'/>Cannonsburg stock. Pursuant to the<BR ALIGN='left'/>October 21, 1977 Agreement, they<BR ALIGN='left'/>assigned their rights and interests<BR ALIGN='left'/>under the Agreement to their newly<BR ALIGN='left'/>formed and wholly owned<BR ALIGN='left'/>corporation.\n\nOn May 5, 1978, Brown-<BR ALIGN='left'/>Schaefer purchased approximately 98% of<BR ALIGN='left'/>Old Cannonsburg&#x27;s outstanding shares and<BR ALIGN='left'/>the Brown Group became the sole members<BR ALIGN='left'/>of Old Cannonsburg&#x27;s board of directors.<BR ALIGN='left'/>From the date of closing until October<BR ALIGN='left'/>31, 1978, Old Cannonsburg was operated<BR ALIGN='left'/>as a subsidiary of Brown-Schaefer. The<BR ALIGN='left'/>remaining 2% of Old Cannonsburg was<BR ALIGN='left'/>owned by Russell.\n\nAt the time Brown-<BR ALIGN='left'/>Schaefer purchased its 98% interest,<BR ALIGN='left'/>Russell was secretary and attorney for<BR ALIGN='left'/>Old Cannonsburg as well as a member of<BR ALIGN='left'/>the board of directors. Russell,<BR ALIGN='left'/>however, was not actively involved in<BR ALIGN='left'/>the management of Old Cannonsburg other<BR ALIGN='left'/>than in his professional capacity as<BR ALIGN='left'/>attorney-advisor.\n\nDuring the<BR ALIGN='left'/>negotiations that preceded the October<BR ALIGN='left'/>21, 1977 Agreement, the Brown Group<BR ALIGN='left'/>attempted to purchase Russell&#x27;s 2%<BR ALIGN='left'/>interest in Old Cannonsburg. 351*351<BR ALIGN='left'/>This offer to purchase was renewed at<BR ALIGN='left'/>the time the 98% stock purchase was<BR ALIGN='left'/>consummated. Because he desired to<BR ALIGN='left'/>retain an equity interest in Old<BR ALIGN='left'/>Cannonsburg as an investment, however,<BR ALIGN='left'/>Russell declined the offer on both<BR ALIGN='left'/>occasions.\n\nOn October 23, 1978, the<BR ALIGN='left'/>board of directors of Old Cannonsburg<BR ALIGN='left'/>adopted unanimously a plan of<BR ALIGN='left'/>reorganization. Pursuant to this plan,<BR ALIGN='left'/>Russell was advised by letter that<BR ALIGN='left'/>Brown-Schaefer desired to acquire his<BR ALIGN='left'/>shares in exchange for its shares. In<BR ALIGN='left'/>part, the letter read as<BR ALIGN='left'/>follows:\n\n[R]ealizing that you have no<BR ALIGN='left'/>desire to terminate your interest in<BR ALIGN='left'/>ownership of the business operated by<BR ALIGN='left'/>Cannonsburg Skiing Corporation, we<BR ALIGN='left'/>hereby offer to trade you shares of<BR ALIGN='left'/>Brown-Schaefer Corporation for your<BR ALIGN='left'/>Cannonsburg Skiing Corporation common<BR ALIGN='left'/>stock.\n....\nFailure to accept the<BR ALIGN='left'/>offer will, of course, leave Brown-<BR ALIGN='left'/>Schaefer Corporation free to accomplish<BR ALIGN='left'/>its purpose through other means.\nOn<BR ALIGN='left'/>October 24, 1978, Russell accepted<BR ALIGN='left'/>Brown-Schaefer&#x27;s offer and surrendered<BR ALIGN='left'/>his 1,857 shares of Old Cannonsburg<BR ALIGN='left'/>stock for 3,233.2 shares (approximately<BR ALIGN='left'/>7%) of Brown-Schaefer&#x27;s outstanding<BR ALIGN='left'/>common stock. As a result, Old<BR ALIGN='left'/>Cannonsburg became a wholly-owned<BR ALIGN='left'/>subsidiary of Brown-Schaefer on October<BR ALIGN='left'/>24, 1978.\n\nOn the same day, a special<BR ALIGN='left'/>meeting of the board of directors of<BR ALIGN='left'/>Brown-Schaefer adopted a Plan of Merger<BR ALIGN='left'/>of Old Cannonsburg into Brown-Schaefer.<BR ALIGN='left'/>Effective October 31, 1978, Old<BR ALIGN='left'/>Cannonsburg was liquidated and merged<BR ALIGN='left'/>into Brown-Schaefer, and Brown-Schaefer<BR ALIGN='left'/>was renamed Cannonsburg Skiing<BR ALIGN='left'/>Corporation (New Cannonsburg).<BR ALIGN='left'/>Thereafter, New Cannonsburg continued to<BR ALIGN='left'/>operate the same business at the same<BR ALIGN='left'/>location as had been operated by Old<BR ALIGN='left'/>Cannonsburg.\n\nAt the time of the<BR ALIGN='left'/>merger, Old Cannonsburg had a basis of<BR ALIGN='left'/>$1,295,150 in its fixed assets.<BR ALIGN='left'/>Immediately after the liquidation and<BR ALIGN='left'/>merger, New Cannonsburg reported a<BR ALIGN='left'/>stepped-up cost basis of<BR ALIGN='left'/>$3,587,201.\n\nOld Cannonsburg filed its<BR ALIGN='left'/>final, amended income tax return for the<BR ALIGN='left'/>short tax year from May 31, 1978 through<BR ALIGN='left'/>October 31, 1978. For the 2% stock<BR ALIGN='left'/>interest received from Russell, the<BR ALIGN='left'/>return did not reflect any realized<BR ALIGN='left'/>gain, but treated the stock exchange as<BR ALIGN='left'/>a reorganization under section 368(a)(1)<BR ALIGN='left'/>under which no gain would be realized<BR ALIGN='left'/>and no recapture reported. New<BR ALIGN='left'/>Cannonsburg also attempted to carry back<BR ALIGN='left'/>net operating losses incurred during its<BR ALIGN='left'/>first year of operation to offset Old<BR ALIGN='left'/>Cannonsburg&#x27;s net operating income for<BR ALIGN='left'/>the years at issue.\n\nRussell&#x27;s<BR ALIGN='left'/>individual income tax return for 1978<BR ALIGN='left'/>reported no gain on the exchange of Old<BR ALIGN='left'/>Cannonsburg stock for Brown-Schaefer<BR ALIGN='left'/>stock. Russell maintains that the<BR ALIGN='left'/>exchange was a reorganization, and, as<BR ALIGN='left'/>such, no gain had to be reported.</TD></TR>
+</TABLE>
+>]
+	NiGTOu5OaF [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">On December 15, 1982, the Commissioner<BR ALIGN='left'/>sent New Cannonsburg a notice of<BR ALIGN='left'/>liability and sent Russell a statutory<BR ALIGN='left'/>notice of deficiency. Russell and New<BR ALIGN='left'/>Cannonsburg challenged these notices in<BR ALIGN='left'/>Tax Court. Based on the stipulated<BR ALIGN='left'/>facts, however, the Tax Court upheld all<BR ALIGN='left'/>of the Commissioner&#x27;s deficiency<BR ALIGN='left'/>determinations. The plaintiffs now<BR ALIGN='left'/>appeal that decision, raising the three<BR ALIGN='left'/>issues noted at the outset of this<BR ALIGN='left'/>opinion.</TD></TR>
+</TABLE>
+>]
+	"D50de9Rd-7" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">For the reasons set out below, we affirm<BR ALIGN='left'/>the Tax Court&#x27;s decision.</TD></TR>
+</TABLE>
+>]
+	mrAovKMoXj [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 381(b)(3) of the Internal<BR ALIGN='left'/>Revenue Code provides that a transferee<BR ALIGN='left'/>corporation may not carry back a net<BR ALIGN='left'/>operating loss generated in the taxable<BR ALIGN='left'/>year after the transfer to a taxable<BR ALIGN='left'/>year of the transferor &quot;except in the<BR ALIGN='left'/>case of an acquisition in connection<BR ALIGN='left'/>with a reorganization described in<BR ALIGN='left'/>subparagraph (F) of Section 368(a)(1).&quot;</TD></TR>
+</TABLE>
+>]
+	"Y717BGsJ6-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Before any reorganization can be found<BR ALIGN='left'/>to have occurred, however, the<BR ALIGN='left'/>&quot;continuity of interest&quot; doctrine must<BR ALIGN='left'/>be satisfied. Without a continuity of<BR ALIGN='left'/>proprietary interest, there can be no<BR ALIGN='left'/>tax-free reorganization. This doctrine,<BR ALIGN='left'/>which has its origins in Cortland<BR ALIGN='left'/>Specialty Co. v. Commissioner, 60 F.2d<BR ALIGN='left'/>937 (2d Cir.1932), cert. denied, 288<BR ALIGN='left'/>U.S. 599, 53 S.Ct. 316, 77 L.Ed. 975<BR ALIGN='left'/>(1933), seeks to distinguish tax-free<BR ALIGN='left'/>reorganizations where there is a<BR ALIGN='left'/>&quot;continuity of interest on the part of<BR ALIGN='left'/>the transferor or its shareholders in<BR ALIGN='left'/>the properties transferred&quot; from &quot;the<BR ALIGN='left'/>mere purchase by one corporation of the<BR ALIGN='left'/>properties of another corporation.&quot; See<BR ALIGN='left'/>Sections 1.368-2(a), Treasury<BR ALIGN='left'/>Regulations on Income Tax (1954 Code)<BR ALIGN='left'/>(26 C.F.R.).</TD></TR>
+</TABLE>
+>]
+	JEZ75Qqbei [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the transactions here, Russell was<BR ALIGN='left'/>the only shareholder in Old Cannonsburg<BR ALIGN='left'/>to maintain any interest in New<BR ALIGN='left'/>Cannonsburg, and that interest was a<BR ALIGN='left'/>bare 7%.</TD></TR>
+</TABLE>
+>]
+	"6UV1eo_RYI" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It should be noted that during 1977 and<BR ALIGN='left'/>1978, the years in question here, the<BR ALIGN='left'/>merger of a wholly-owned subsidiary into<BR ALIGN='left'/>its parent, which satisfied the<BR ALIGN='left'/>requirements of a liquidation under<BR ALIGN='left'/>Section 332 and to which Section<BR ALIGN='left'/>334(b)(2) does not apply, also qualified<BR ALIGN='left'/>as an F Reorganization for purposes of<BR ALIGN='left'/>Section 381(b)(3). Performance Systems,<BR ALIGN='left'/>Inc. v. United States, 382 352*352<BR ALIGN='left'/>F.Supp. 525 (M.D.Tenn.1973), aff&#x27;d per<BR ALIGN='left'/>curiam, 501 F.2d 1338 (6th Cir.1974).</TD></TR>
+</TABLE>
+>]
+	jIC6xpLL1R [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Here, however, the requirements of a<BR ALIGN='left'/>334(b)(2) liquidation were clearly met:<BR ALIGN='left'/>Brown-Schaefer acquired the stock of Old<BR ALIGN='left'/>Cannonsburg by purchase, which was a<BR ALIGN='left'/>taxable event to the Goff shareholders,<BR ALIGN='left'/>the plan of liquidation was adopted<BR ALIGN='left'/>within two years of the purchase, and<BR ALIGN='left'/>New Cannonsburg received all the Old<BR ALIGN='left'/>Cannonsburg property in one<BR ALIGN='left'/>distribution. See Kansas Sand and<BR ALIGN='left'/>Concrete, Inc. v. Commissioner, 462 F.2d<BR ALIGN='left'/>805 (10th Cir.1972). In fact, it is only<BR ALIGN='left'/>because it met the requirements of<BR ALIGN='left'/>section 334(b)(2) that New Cannonsburg<BR ALIGN='left'/>was able to step up the basis of the<BR ALIGN='left'/>assets as it did.</TD></TR>
+</TABLE>
+>]
+	Hja459cy99 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">To prevent easy evasions of the<BR ALIGN='left'/>continuity of interest requirements,<BR ALIGN='left'/>courts have developed the &quot;step<BR ALIGN='left'/>transaction&quot; doctrine.</TD></TR>
+</TABLE>
+>]
+	NRWQh5GdjO [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Just last year, this Court adopted the<BR ALIGN='left'/>&quot;end result&quot; test, holding that:<BR ALIGN='left'/>&quot;purportedly separate transactions will<BR ALIGN='left'/>be amalgamated into a single transaction<BR ALIGN='left'/>when it appears that they were really<BR ALIGN='left'/>component parts of a single transaction<BR ALIGN='left'/>intended from the outset to be taken for<BR ALIGN='left'/>the purpose of reaching the ultimate<BR ALIGN='left'/>result.&quot; Brown v. United States, 782<BR ALIGN='left'/>F.2d 559 (6th Cir.1986), remanding 600<BR ALIGN='left'/>F.Supp. 47 (W.D.Ky.1984).</TD></TR>
+</TABLE>
+>]
+	"Z5ox_3T-tV" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Using this doctrine, the Tax Court found<BR ALIGN='left'/>that the purchase of 98% of Old<BR ALIGN='left'/>Cannonsburg stock by the Brown Group,<BR ALIGN='left'/>the exchange of Russell&#x27;s shares for<BR ALIGN='left'/>Brown-Schaefer stock, and the merger of<BR ALIGN='left'/>Old Cannonsburg into Brown-Schaefer<BR ALIGN='left'/>should be treated as one transaction.<BR ALIGN='left'/>Because this determination concerns the<BR ALIGN='left'/>taxpayers&#x27; intent and is a question of<BR ALIGN='left'/>fact, it will not be reversed unless it<BR ALIGN='left'/>is &quot;clearly erroneous.&quot; See Anderson v.<BR ALIGN='left'/>City of Bessemer City N.C., 470 U.S.<BR ALIGN='left'/>564, 105 S.Ct. 1504, 84 L.Ed.2d 518<BR ALIGN='left'/>(1985); Rabidue v. Osceola Refining Co.,<BR ALIGN='left'/>805 F.2d 611 (6th Cir.1986).</TD></TR>
+</TABLE>
+>]
+	V0qTMtP0Th [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We are convinced, however, that the Tax<BR ALIGN='left'/>Court&#x27;s opinion is amply supported by<BR ALIGN='left'/>the evidence.</TD></TR>
+</TABLE>
+>]
+	mZucJyDHoc [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">As the Tax Court noted, it is clear that<BR ALIGN='left'/>the intent of the Brown Group, from the<BR ALIGN='left'/>time it purchased 98% of the stock of<BR ALIGN='left'/>Old Cannonsburg, was to merge Old<BR ALIGN='left'/>Cannonsburg&#x27;s assets into Brown-Schaefer<BR ALIGN='left'/>with a stepped up basis.</TD></TR>
+</TABLE>
+>]
+	EJP9Q9pCm7 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We reject taxpayer&#x27;s argument that there<BR ALIGN='left'/>was no intent to accomplish the merger<BR ALIGN='left'/>at the time the stock purchase agreement<BR ALIGN='left'/>was executed. Taxpayers urge us to focus<BR ALIGN='left'/>on the almost complete identity of<BR ALIGN='left'/>shareholders immediately before and<BR ALIGN='left'/>after the consummation of the merger as<BR ALIGN='left'/>evidence that the continuity of interest<BR ALIGN='left'/>doctrine has been met. To do this,<BR ALIGN='left'/>however, would require us to ignore the<BR ALIGN='left'/>fact that the subject of the entire<BR ALIGN='left'/>transaction, Old Cannonsburg&#x27;s assets,<BR ALIGN='left'/>were once owned by a corporation whose<BR ALIGN='left'/>shareholders have now been all but<BR ALIGN='left'/>eliminated from ownership of those<BR ALIGN='left'/>assets in New Cannonsburg.</TD></TR>
+</TABLE>
+>]
+	"7jKRsOnbL1" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Finally, Russell argues that under<BR ALIGN='left'/>Section 351(a), his transfer of Old<BR ALIGN='left'/>Cannonsburg stock for Brown-Schaefer<BR ALIGN='left'/>stock should qualify for nonrecognition<BR ALIGN='left'/>treatment.</TD></TR>
+</TABLE>
+>]
+	"4EWPTRQuhk" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 351(a) affords nonrecognition of<BR ALIGN='left'/>gain only when a person or group of<BR ALIGN='left'/>persons who have contributed property to<BR ALIGN='left'/>a corporation solely for stock in the<BR ALIGN='left'/>transferee corporation are &quot;immediately<BR ALIGN='left'/>after the exchange ... in control (as<BR ALIGN='left'/>defined in Section 368(c)) of the<BR ALIGN='left'/>corporation.&quot;</TD></TR>
+</TABLE>
+>]
+	D8zSvzNdXd [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 368(c), which defines &quot;control,&quot;<BR ALIGN='left'/>provides that at least 80% of the voting<BR ALIGN='left'/>power in the transferee corporation must<BR ALIGN='left'/>be possessed in order for &quot;control&quot; to<BR ALIGN='left'/>exist. See generally Brams v.<BR ALIGN='left'/>Commissioner, 734 F.2d 290, 292-293 (6th<BR ALIGN='left'/>Cir.1984); Six Seam Co., Inc. v. United<BR ALIGN='left'/>States, 524 F.2d 347, 355-356 (6th<BR ALIGN='left'/>Cir.1975).</TD></TR>
+</TABLE>
+>]
+	IJ5t01gyQk [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 351 does not, therefore, permit<BR ALIGN='left'/>the nonrecognition of Russell&#x27;s gain. We<BR ALIGN='left'/>agree with the Tax Court and the<BR ALIGN='left'/>Commissioner that Russell&#x27;s exchange of<BR ALIGN='left'/>Old Cannonsburg stock for Brown-Schaefer<BR ALIGN='left'/>stock cannot be amalgamated with the<BR ALIGN='left'/>Brown Group&#x27;s contribution of cash for<BR ALIGN='left'/>Brown-Schaefer stock. In order to make<BR ALIGN='left'/>such an amalgamation, we would have to<BR ALIGN='left'/>find clearly erroneous the Tax Court&#x27;s<BR ALIGN='left'/>finding that it was not the intention of<BR ALIGN='left'/>the Brown Group, at the time the<BR ALIGN='left'/>transaction was entered into, to include<BR ALIGN='left'/>Russell as a shareholder of Brown-<BR ALIGN='left'/>Schaefer. But, as the Tax Court<BR ALIGN='left'/>observed, the Brown Group&#x27;s repeated<BR ALIGN='left'/>efforts to purchase Russell&#x27;s stock<BR ALIGN='left'/>shows the lack of intent to include<BR ALIGN='left'/>Russell.</TD></TR>
+</TABLE>
+>]
+	GSHNvPrW0f [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We believe the Tax Court&#x27;s finding to be<BR ALIGN='left'/>sufficiently grounded in the evidence.<BR ALIGN='left'/>Accordingly, we affirm the Tax Court&#x27;s<BR ALIGN='left'/>decision. Russell must report his<BR ALIGN='left'/>realized gain on the exchange.</TD></TR>
+</TABLE>
+>]
+	"8Lhbdte4rU" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We are convinced that the Tax Court<BR ALIGN='left'/>properly applied these statutory<BR ALIGN='left'/>requirements when it held that Russell<BR ALIGN='left'/>did not meet the control test.</TD></TR>
+</TABLE>
+>]
+	"_-LlF5Phb3" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We agree with the Tax Court that the<BR ALIGN='left'/>integration of the various steps taken<BR ALIGN='left'/>by Russell and the Brown Group, which<BR ALIGN='left'/>results in a 98% shift in ownership,<BR ALIGN='left'/>clearly violates the identity of<BR ALIGN='left'/>shareholders and their proprietary<BR ALIGN='left'/>interests as required for an F<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	"mM6-AGHEri" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Because the requirements for an F<BR ALIGN='left'/>reorganization have not been met, the<BR ALIGN='left'/>exception found in Section 381(b) is not<BR ALIGN='left'/>applicable. Thus, New Cannonsburg may<BR ALIGN='left'/>not carry back its losses.</TD></TR>
+</TABLE>
+>]
+	wR71cveYOy [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">New Cannonsburg and Russell argue that<BR ALIGN='left'/>if the step transaction does indeed<BR ALIGN='left'/>apply, then we should find that the<BR ALIGN='left'/>requirements for a Section 368(a)(1)(B)<BR ALIGN='left'/>reorganization have been met.</TD></TR>
+</TABLE>
+>]
+	umySDA2RnC [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We do not agree.</TD></TR>
+</TABLE>
+>]
+	"b7-9Tuivbb" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 368(a)(1)(B) defines such a<BR ALIGN='left'/>reorganization as follows:\n\nThe<BR ALIGN='left'/>acquisition by one corporation, in<BR ALIGN='left'/>exchange solely for all or part of its<BR ALIGN='left'/>voting stock (or in exchange solely for<BR ALIGN='left'/>all or part of the voting stock of a<BR ALIGN='left'/>corporation which is in control of the<BR ALIGN='left'/>acquiring corporation), of the stock of<BR ALIGN='left'/>another corporation, if, immediately<BR ALIGN='left'/>after the acquisition, the acquiring<BR ALIGN='left'/>corporation has control of such other<BR ALIGN='left'/>corporation.</TD></TR>
+</TABLE>
+>]
+	"9kBjUeBWUF" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">As we stated earlier, however, we do not<BR ALIGN='left'/>believe that the shareholders of the<BR ALIGN='left'/>acquired corporation (Old Cannonsburg)<BR ALIGN='left'/>maintained a substantial proprietary<BR ALIGN='left'/>stake in the ongoing business enterprise<BR ALIGN='left'/>(New Cannonsburg). Before the<BR ALIGN='left'/>transaction, the owners of the assets<BR ALIGN='left'/>were the Goff Group, with 98% of Old<BR ALIGN='left'/>Cannonsburg&#x27;s stock, and Russell, with<BR ALIGN='left'/>2%. After the transaction, the only<BR ALIGN='left'/>original shareholder with an interest in<BR ALIGN='left'/>the assets was Russell, who now held a<BR ALIGN='left'/>7% interest in New Cannonsburg.</TD></TR>
+</TABLE>
+>]
+	"-xOzKpyM9K" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In addition to failing to meet the<BR ALIGN='left'/>continuity of interest doctrine, Russell<BR ALIGN='left'/>failed to meet the requirements of<BR ALIGN='left'/>Section 354(a)(1) which permits<BR ALIGN='left'/>nonrecognition of gain upon the exchange<BR ALIGN='left'/>of stock. Section 354(a)(1) provides<BR ALIGN='left'/>that a shareholder who exchanges his<BR ALIGN='left'/>stock in one corporation that is a party<BR ALIGN='left'/>to a reorganization for the stock of<BR ALIGN='left'/>another corporation which is also a<BR ALIGN='left'/>party to the reorganization shall<BR ALIGN='left'/>recognize no gain, if the exchange is<BR ALIGN='left'/>pursuant to a plan of reorganization. As<BR ALIGN='left'/>we have said, we believe there was no<BR ALIGN='left'/>reorganization and, furthermore, we find<BR ALIGN='left'/>insufficient evidence that the exchange<BR ALIGN='left'/>was accomplished pursuant to a &quot;plan of<BR ALIGN='left'/>reorganization.&quot; Russell&#x27;s exchange of<BR ALIGN='left'/>stock was merely the last step in<BR ALIGN='left'/>acquiring 100% of the Old Cannonsburg<BR ALIGN='left'/>stock before it could be liquidated into<BR ALIGN='left'/>Brown-Schaefer.</TD></TR>
+</TABLE>
+>]
+	eYIXsOyERS [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Because the requirements for a tax-free<BR ALIGN='left'/>reorganization pursuant to Section<BR ALIGN='left'/>368(a)(1) were not met, Brown-Schaefer<BR ALIGN='left'/>took a cost, rather than a carryover,<BR ALIGN='left'/>basis in the stock purchased from<BR ALIGN='left'/>Russell. As a result, there was<BR ALIGN='left'/>increased depreciation and investment<BR ALIGN='left'/>credit recapture. Furthermore, Russell<BR ALIGN='left'/>must report the gain realized upon the<BR ALIGN='left'/>sale of his stock.</TD></TR>
+</TABLE>
+>]
+	EdukYDf7PY -> NiGTOu5OaF
+	NiGTOu5OaF -> "Y1bPSBiRP-"
+	NiGTOu5OaF -> mDHyw__h4Q
+	NiGTOu5OaF -> UHcXtNYhEb
+	mrAovKMoXj -> "6UV1eo_RYI"
+	"6UV1eo_RYI" -> jIC6xpLL1R
+	"Y1bPSBiRP-" -> mrAovKMoXj
+	"Z5ox_3T-tV" -> mZucJyDHoc
+	NRWQh5GdjO -> "Z5ox_3T-tV"
+	Hja459cy99 -> NRWQh5GdjO
+	"Y717BGsJ6-" -> JEZ75Qqbei
+	JEZ75Qqbei -> Hja459cy99
+	mZucJyDHoc -> EJP9Q9pCm7
+	EJP9Q9pCm7 -> V0qTMtP0Th
+	UHcXtNYhEb -> "4EWPTRQuhk"
+	"4EWPTRQuhk" -> D8zSvzNdXd
+	D8zSvzNdXd -> "7jKRsOnbL1"
+	"7jKRsOnbL1" -> IJ5t01gyQk
+	IJ5t01gyQk -> "8Lhbdte4rU"
+	"8Lhbdte4rU" -> GSHNvPrW0f
+	"_-LlF5Phb3" -> "mM6-AGHEri"
+	mDHyw__h4Q -> wR71cveYOy
+	wR71cveYOy -> "b7-9Tuivbb"
+	"b7-9Tuivbb" -> "9kBjUeBWUF"
+	"9kBjUeBWUF" -> "-xOzKpyM9K"
+	"-xOzKpyM9K" -> eYIXsOyERS
+	eYIXsOyERS -> "D50de9Rd-7"
+	V0qTMtP0Th -> "D50de9Rd-7"
+	"mM6-AGHEri" -> "D50de9Rd-7"
+}

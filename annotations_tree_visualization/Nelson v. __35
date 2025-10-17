@@ -1,0 +1,80 @@
+// Tree from JSON
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	"acWK_J1Y-O" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 203(b)(3) reads:\n\n&quot;No gain or<BR ALIGN='left'/>loss shall be recognized if a<BR ALIGN='left'/>corporation a party to a reorganization<BR ALIGN='left'/>exchanges property, in pursuance of the<BR ALIGN='left'/>plan of reorganization, solely for stock<BR ALIGN='left'/>or securities in another corporation a<BR ALIGN='left'/>party to the reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	tlmZxEBz0m [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Plaintiff sues to recover additional<BR ALIGN='left'/>income taxes assessed against him by the<BR ALIGN='left'/>Commissioner of Internal Revenue. He<BR ALIGN='left'/>alleges that the Commissioner used the<BR ALIGN='left'/>wrong basis for the determination of<BR ALIGN='left'/>gain derived by him from the disposition<BR ALIGN='left'/>of 1,324 shares of the capital stock of<BR ALIGN='left'/>the United Carbon Company.</TD></TR>
+</TABLE>
+>]
+	U0mn76bnCW [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="purple" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Plaintiff had acquired these shares as a<BR ALIGN='left'/>result of the consolidation of a number<BR ALIGN='left'/>of different corporation and a<BR ALIGN='left'/>partnership. The Commissioner was of the<BR ALIGN='left'/>opinion that the consolidation of these<BR ALIGN='left'/>companies was a reorganization as that<BR ALIGN='left'/>term is defined by section 203(h)(1)(A)<BR ALIGN='left'/>of the Revenue Act of 1926, 44 Stat. 9,<BR ALIGN='left'/>14, 26 U.S.C.A.Int.Rev. Acts, page 150,<BR ALIGN='left'/>and that the taxpayer had received this<BR ALIGN='left'/>stock pursuant to the plan of<BR ALIGN='left'/>reorganization. It followed therefrom<BR ALIGN='left'/>that the receipt of this stock by the<BR ALIGN='left'/>taxpayer was tax-free, and that, in<BR ALIGN='left'/>order to determine the gain or loss from<BR ALIGN='left'/>a subsequent disposition of it, the<BR ALIGN='left'/>proper basis was the original cost of an<BR ALIGN='left'/>aliquot part of his stock in the Cosmos<BR ALIGN='left'/>Carbon Company and the Natural Gas<BR ALIGN='left'/>Products Company, whose assets had been<BR ALIGN='left'/>transferred to the United Carbon Company<BR ALIGN='left'/>in return in part for its stock.\n\nThe<BR ALIGN='left'/>taxpayer contends that he did not<BR ALIGN='left'/>receive this stock pursuant to a plan of<BR ALIGN='left'/>reorganization and that, therefore, he<BR ALIGN='left'/>is taxable on the difference between the<BR ALIGN='left'/>sale price of the stock and its value at<BR ALIGN='left'/>the time he received it.</TD></TR>
+</TABLE>
+>]
+	YaoNMZ4teM [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 203(e) makes the provisions of<BR ALIGN='left'/>section 203(b)(3) applicable if the<BR ALIGN='left'/>corporation receiving money or other<BR ALIGN='left'/>property in addition to stock<BR ALIGN='left'/>&quot;distributes it in pursuance of the plan<BR ALIGN='left'/>of reorganization.&quot; Section 203(h)(1)(A)<BR ALIGN='left'/>defines a reorganization as &quot;merger or<BR ALIGN='left'/>consolidation (including the acquisition<BR ALIGN='left'/>by one corporation of * * *<BR ALIGN='left'/>substantially all the properties of<BR ALIGN='left'/>another corporation),&quot; and section<BR ALIGN='left'/>203(c) provides that a stockholder of a<BR ALIGN='left'/>transferor corporation receiving stock<BR ALIGN='left'/>of the transferee corporation pursuant<BR ALIGN='left'/>to the plan of reorganization, realizes<BR ALIGN='left'/>no gain or loss on the transaction.</TD></TR>
+</TABLE>
+>]
+	cIAqUP2dlL [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Under these sections we are of opinion<BR ALIGN='left'/>that plaintiff realized no gain or loss<BR ALIGN='left'/>on the stock of the United Carbon<BR ALIGN='left'/>Company received by him as a result of<BR ALIGN='left'/>the liquidation of the Cosmos Carbon<BR ALIGN='left'/>Company and the Natural Gas Products<BR ALIGN='left'/>Company.</TD></TR>
+</TABLE>
+>]
+	MJ4eFFvjjh [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">These proposals were accepted by some 12<BR ALIGN='left'/>companies and were carried out by them<BR ALIGN='left'/>as of February 14, 1925. The Cosmos<BR ALIGN='left'/>Carbon Company transferred to the United<BR ALIGN='left'/>Carbon Company inventories of a value of<BR ALIGN='left'/>$277,855.33, for which it was paid in<BR ALIGN='left'/>cash, and it transferred physical and<BR ALIGN='left'/>depletable properties of a value of<BR ALIGN='left'/>$1,988,310.06, for which it received<BR ALIGN='left'/>9,240 shares of preferred stock and<BR ALIGN='left'/>36,960 shares of common stock. The cash<BR ALIGN='left'/>and notes and bills and accounts<BR ALIGN='left'/>receivable retained by the Cosmos<BR ALIGN='left'/>Company had a value of $208,094.83, and<BR ALIGN='left'/>it also retained 1,160 shares of stock<BR ALIGN='left'/>in the Natural Gas Products Company. The<BR ALIGN='left'/>property transferred by Cosmos was 91.6<BR ALIGN='left'/>percent of all of its assets.</TD></TR>
+</TABLE>
+>]
+	vvbvhuTGZR [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Natural Gas Products Company<BR ALIGN='left'/>transferred to the United Carbon Company<BR ALIGN='left'/>inventories for which it was paid<BR ALIGN='left'/>$122,450.32 in cash, and it transferred<BR ALIGN='left'/>physical and depletable properties<BR ALIGN='left'/>appraised at $529,169.23, for which it<BR ALIGN='left'/>received 2,645 shares of preferred<BR ALIGN='left'/>stock, and 10,580 shares of common stock<BR ALIGN='left'/>of the United Carbon Company. It<BR ALIGN='left'/>retained cash and notes and bills and<BR ALIGN='left'/>accounts receivable of the value of<BR ALIGN='left'/>$29,176.49. The property it transferred<BR ALIGN='left'/>was 95.7 percent of all of its assets.</TD></TR>
+</TABLE>
+>]
+	"R8WopUEQt-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We are of the opinion that both the<BR ALIGN='left'/>Cosmos Carbon Company and the Natural<BR ALIGN='left'/>Gas Products Company transferred to the<BR ALIGN='left'/>United Carbon Company &quot;substantially<BR ALIGN='left'/>all&quot; its assets. In the one case 91.6<BR ALIGN='left'/>per cent of its assets were transferred,<BR ALIGN='left'/>and in the other 95.7 per cent. The<BR ALIGN='left'/>transferor companies remained liable for<BR ALIGN='left'/>their debts and, of course, used the<BR ALIGN='left'/>assets retained to discharge them, and,<BR ALIGN='left'/>hence, in determining whether<BR ALIGN='left'/>substantially all its assets were<BR ALIGN='left'/>transferred, the amount of the retained<BR ALIGN='left'/>assets should be offset by the amount of<BR ALIGN='left'/>the liabilities. Taking this into<BR ALIGN='left'/>consideration, there would seem to be no<BR ALIGN='left'/>doubt that &quot;substantially all&quot; of its<BR ALIGN='left'/>assets were transferred. If so, the<BR ALIGN='left'/>facts of the case clearly make the<BR ALIGN='left'/>transaction a reorganization as that<BR ALIGN='left'/>term is defined in the Act.</TD></TR>
+</TABLE>
+>]
+	"2jJDYdxMFp" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Since we are of the opinion that both<BR ALIGN='left'/>the Cosmos Carbon Company and the<BR ALIGN='left'/>Natural Gas Products Company were<BR ALIGN='left'/>parties to the reorganization and<BR ALIGN='left'/>exchanged property for money and stock<BR ALIGN='left'/>&quot;in another corporation a party to the<BR ALIGN='left'/>reorganization,&quot; then no gain nor loss<BR ALIGN='left'/>is to be recognized, if the Cosmos<BR ALIGN='left'/>Carbon Company and the Natural Gas<BR ALIGN='left'/>Products Company distributed the money<BR ALIGN='left'/>received &quot;in pursuance of the plan of<BR ALIGN='left'/>reorganization.&quot; Sec. 203(e) (1). It was<BR ALIGN='left'/>in fact distributed and we are of<BR ALIGN='left'/>opinion that it was distributed in<BR ALIGN='left'/>pursuance of the plan of reorganization.</TD></TR>
+</TABLE>
+>]
+	oBBghvJFQK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="green" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;If there is distributed, in pursuance<BR ALIGN='left'/>of a plan of reorganization, to a<BR ALIGN='left'/>shareholder in a corporation a party to<BR ALIGN='left'/>the reorganization, stock or securities<BR ALIGN='left'/>* * * in another corporation a party to<BR ALIGN='left'/>the reorganization, without the<BR ALIGN='left'/>surrender by such shareholder of stock<BR ALIGN='left'/>or securities in such a corporation, no<BR ALIGN='left'/>gain to the distributee from the receipt<BR ALIGN='left'/>of such stock or securities shall be<BR ALIGN='left'/>recognized.&quot;</TD></TR>
+</TABLE>
+>]
+	mDn0XvTEV4 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">it is reasonably inferable from all the<BR ALIGN='left'/>facts and circumstances that this was a<BR ALIGN='left'/>part of the plan of reorganization. The<BR ALIGN='left'/>declared purpose, as shown by the<BR ALIGN='left'/>findings, was the unification of the<BR ALIGN='left'/>properties of the various corporations<BR ALIGN='left'/>into a single ownership and the<BR ALIGN='left'/>elimination of competition. In<BR ALIGN='left'/>conformity with this purpose, all of the<BR ALIGN='left'/>transferor corporations denuded<BR ALIGN='left'/>themselves of all of their assets,<BR ALIGN='left'/>except as noted, and, hence, were<BR ALIGN='left'/>incapable of continuing operations. It<BR ALIGN='left'/>is not reasonable to suppose that it was<BR ALIGN='left'/>intended that, after they had converted<BR ALIGN='left'/>their remaining assets into cash and had<BR ALIGN='left'/>discharged their liabilities, they<BR ALIGN='left'/>should remain in existence merely as<BR ALIGN='left'/>shells. Plaintiff offered no proof to<BR ALIGN='left'/>rebut this inference. We have,<BR ALIGN='left'/>accordingly, found as a fact that it was<BR ALIGN='left'/>a part of the plan of reorganization<BR ALIGN='left'/>that the transferor companies should<BR ALIGN='left'/>distribute to their stockholders not<BR ALIGN='left'/>only the cash, but also the stock<BR ALIGN='left'/>received from the United Carbon Company.</TD></TR>
+</TABLE>
+>]
+	YaoNMZ4teM -> "acWK_J1Y-O"
+	"acWK_J1Y-O" -> cIAqUP2dlL
+	vvbvhuTGZR -> "R8WopUEQt-"
+	MJ4eFFvjjh -> "R8WopUEQt-"
+	"2jJDYdxMFp" -> cIAqUP2dlL
+	oBBghvJFQK -> "2jJDYdxMFp"
+	mDn0XvTEV4 -> "2jJDYdxMFp"
+	"R8WopUEQt-" -> YaoNMZ4teM
+}
