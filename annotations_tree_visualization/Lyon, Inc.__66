@@ -6,7 +6,7 @@ digraph {
 	"405pO_VHxs" [label=<
 <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
   <TR><TD BGCOLOR="yellow" WIDTH="150"><B>Procedural History</B></TD></TR>
-  <TR><TD ALIGN="left" WIDTH="150">The Board of Tax Appeals upheld the<BR ALIGN='left'/>respondent.</TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Deficiencies were determined in income<BR ALIGN='left'/>taxes for the years 1934 to 1937,<BR ALIGN='left'/>inclusive, by rejecting the taxpayer&#x27;s<BR ALIGN='left'/>deductions for depreciation on the fair<BR ALIGN='left'/>value basis, and recomputing its taxes<BR ALIGN='left'/>by an allowance for depreciation on the<BR ALIGN='left'/>cost basis. The Board of Tax Appeals<BR ALIGN='left'/>upheld the respondent.</TD></TR>
 </TABLE>
 >]
 	"tB-mhgkfuv" [label=<
@@ -36,7 +36,7 @@ digraph {
 	a2hh_ulxaW [label=<
 <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
   <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
-  <TR><TD ALIGN="left" WIDTH="150">It will be observed that under § 113(a)<BR ALIGN='left'/>(7), a transfer by a corporation in<BR ALIGN='left'/>connection with a reorganization leaves<BR ALIGN='left'/>the basis the same as in the hands of<BR ALIGN='left'/>the transferrer only if immediately<BR ALIGN='left'/>after the transfer an interest or<BR ALIGN='left'/>control in the property of 80% remains<BR ALIGN='left'/>in the same persons, or any of them. It<BR ALIGN='left'/>was for this reason that the temporary<BR ALIGN='left'/>corporation exchanged its assets for<BR ALIGN='left'/>stock which constituted but 79.27% of<BR ALIGN='left'/>the petitioner&#x27;s capitalization. The<BR ALIGN='left'/>remaining stock of the taxpayer was<BR ALIGN='left'/>acquired directly from the taxpayer by<BR ALIGN='left'/>Mrs. Lyon in exchange for some stock<BR ALIGN='left'/>that she held in Lyon &amp; Wilson, Inc.,<BR ALIGN='left'/>and additional stock in that company<BR ALIGN='left'/>which Lyon, at the time, gave her as a<BR ALIGN='left'/>gift, for the purpose of making the<BR ALIGN='left'/>exchange. Since the interests of Mrs.<BR ALIGN='left'/>Lyon and the temporary corporation in<BR ALIGN='left'/>the property transferred were thought to<BR ALIGN='left'/>be substantially disproportionate to the<BR ALIGN='left'/>amounts of stock respectively received<BR ALIGN='left'/>by them it was believed that the<BR ALIGN='left'/>taxpayer would not be required to use<BR ALIGN='left'/>the transferrer&#x27;s basis but would be<BR ALIGN='left'/>permitted to use as a basis its own cost<BR ALIGN='left'/>in pursuance of the provisions of §§<BR ALIGN='left'/>112(b) (5) and 113(a) (8).</TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It will be observed that under § 113(a)<BR ALIGN='left'/>(7), a transfer by a corporation in<BR ALIGN='left'/>connection with a reorganization leaves<BR ALIGN='left'/>the basis the same as in the hands of<BR ALIGN='left'/>the transferrer only if immediately<BR ALIGN='left'/>after the transfer an interest or<BR ALIGN='left'/>control in the property of 80% remains<BR ALIGN='left'/>in the same persons, or any of them. It<BR ALIGN='left'/>was for this reason that the temporary<BR ALIGN='left'/>corporation exchanged its assets for<BR ALIGN='left'/>stock which constituted but 79.27% of<BR ALIGN='left'/>the petitioner&#x27;s capitalization.</TD></TR>
 </TABLE>
 >]
 	vTgWrmBLFn [label=<
@@ -63,18 +63,32 @@ digraph {
   <TR><TD ALIGN="left" WIDTH="150">Having concluded that notwithstanding<BR ALIGN='left'/>the taxpayer&#x27;s reliance upon the<BR ALIGN='left'/>decision in Gregory v. Helvering, supra,<BR ALIGN='left'/>there was a reorganization, the Board&#x27;s<BR ALIGN='left'/>decision sustaining the Commissioner in<BR ALIGN='left'/>limiting the depreciation base to Lyon&#x27;s<BR ALIGN='left'/>cost, must be upheld, unless there is<BR ALIGN='left'/>persuasiveness in the taxpayer&#x27;s<BR ALIGN='left'/>concluding argument.</TD></TR>
 </TABLE>
 >]
-	KI2Qbix9Ug [label=<
+	SdX3jifrCT [label=<
 <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
-  <TR><TD BGCOLOR="red" WIDTH="150"><B>Conclusion</B></TD></TR>
-  <TR><TD ALIGN="left" WIDTH="150">The decision of the Board of Tax Appeals<BR ALIGN='left'/>is affirmed.</TD></TR>
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The formation of the two corporations<BR ALIGN='left'/>and the several transfers, were steps in<BR ALIGN='left'/>pursuance of a preconceived plan and<BR ALIGN='left'/>were approved by appropriate resolutions<BR ALIGN='left'/>of the directors of the two companies.</TD></TR>
 </TABLE>
 >]
-	NWvAGMcUEK -> b2a8PF1mDY
-	a2hh_ulxaW -> rTpwIAHYxX
-	g6R9aKz7mA -> vTgWrmBLFn
-	b2a8PF1mDY -> nbHYSFiiqR
-	rTpwIAHYxX -> nbHYSFiiqR
-	vTgWrmBLFn -> nbHYSFiiqR
-	qktmQtkskg -> nbHYSFiiqR
-	nbHYSFiiqR -> KI2Qbix9Ug
+	iMoPeOPevl [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The remaining stock of the taxpayer was<BR ALIGN='left'/>acquired directly from the taxpayer by<BR ALIGN='left'/>Mrs. Lyon in exchange for some stock<BR ALIGN='left'/>that she held in Lyon &amp; Wilson, Inc.,<BR ALIGN='left'/>and additional stock in that company<BR ALIGN='left'/>which Lyon, at the time, gave her as a<BR ALIGN='left'/>gift, for the purpose of making the<BR ALIGN='left'/>exchange. Since the interests of Mrs.<BR ALIGN='left'/>Lyon and the temporary corporation in<BR ALIGN='left'/>the property transferred were thought to<BR ALIGN='left'/>be substantially disproportionate to the<BR ALIGN='left'/>amounts of stock respectively received<BR ALIGN='left'/>by them it was believed that the<BR ALIGN='left'/>taxpayer would not be required to use<BR ALIGN='left'/>the transferrer&#x27;s basis but would be<BR ALIGN='left'/>permitted to use as a basis its own cost<BR ALIGN='left'/>in pursuance of the provisions of §§<BR ALIGN='left'/>112(b) (5) and 113(a) (8).</TD></TR>
+</TABLE>
+>]
+	_OpGS2qzp3 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="lightblue" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Assuming Lyon&#x27;s temporary corporation to<BR ALIGN='left'/>have been but a conduit for the passing<BR ALIGN='left'/>of stock from Lyon to the taxpayer, the<BR ALIGN='left'/>resultant was a corporate entity<BR ALIGN='left'/>existing and functioning as a business<BR ALIGN='left'/>institution. That which gives character<BR ALIGN='left'/>to a reorganization, certainly in a<BR ALIGN='left'/>popular sense and, we think, likewise in<BR ALIGN='left'/>the statutory sense, is the entity or<BR ALIGN='left'/>activity which is brought into being by<BR ALIGN='left'/>the reorganization plan. It is the<BR ALIGN='left'/>nature of its formation and control that<BR ALIGN='left'/>determines the incidence of the tax, and<BR ALIGN='left'/>the basis for recognition of gain, loss<BR ALIGN='left'/>and depreciation.</TD></TR>
+</TABLE>
+>]
+	NWvAGMcUEK -> SdX3jifrCT
+	b2a8PF1mDY -> SdX3jifrCT
+	vTgWrmBLFn -> g6R9aKz7mA
+	_OpGS2qzp3 -> g6R9aKz7mA
+	rTpwIAHYxX -> iMoPeOPevl
+	a2hh_ulxaW -> iMoPeOPevl
+	qktmQtkskg -> iMoPeOPevl
+	g6R9aKz7mA -> nbHYSFiiqR
+	iMoPeOPevl -> nbHYSFiiqR
+	SdX3jifrCT -> nbHYSFiiqR
 }

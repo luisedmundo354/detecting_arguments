@@ -28,6 +28,19 @@ if TYPE_CHECKING:  # pragma: no cover
 DEFAULT_EMBEDDINGS: Sequence[str] = ("tfidf", "sbert", "legal-bert", "modern-bert")
 
 
+def _merge_analysis_and_conclusion_labels(df: pd.DataFrame) -> pd.DataFrame:
+    """Return a copy where any Conclusion labels are remapped to Analysis."""
+
+    def _normalize_label(value: object) -> object:
+        if isinstance(value, str) and value.strip().lower() == "conclusion":
+            return "Analysis"
+        return value
+
+    updated = df.copy()
+    updated["label"] = updated["label"].apply(_normalize_label)
+    return updated
+
+
 def run_linear_svc_classification(
     annotation_dir: Path | str,
     *,
@@ -44,6 +57,7 @@ def run_linear_svc_classification(
     use_modern_bert: bool = False,
     test_mode: bool = False,
     gpt5_checkpoint_path: Optional[Path | str] = None,
+    combine_analysis_conclusion: bool = False,
 ) -> Dict[str, Dict[str, object]]:
     """Execute stratified k-fold evaluation with a Linear SVC back-end.
 
@@ -69,6 +83,9 @@ def run_linear_svc_classification(
         embedding along with baseline summaries.
     include_baselines:
         If ``True``, compute and display random and majority-class baselines.
+    combine_analysis_conclusion:
+        When ``True`` treat Conclusion spans as Analysis for training, evaluation,
+        and downstream GPT-5 prompting.
     use_modern_bert:
         Toggle Modern-BERT embeddings. When ``False`` the embedding is skipped
         without attempting to reach SageMaker.
@@ -87,6 +104,8 @@ def run_linear_svc_classification(
         verbose = True
 
     df = load_annotation_spans(annotation_dir)
+    if combine_analysis_conclusion:
+        df = _merge_analysis_and_conclusion_labels(df)
     df = assign_stratified_folds(df, n_splits=n_splits, random_state=random_state)
 
     labels_sorted = sorted(df["label"].unique())
@@ -196,6 +215,7 @@ def run_linear_svc_classification(
             config=gpt5_config,
             test_mode=test_mode,
             checkpoint_path=gpt5_checkpoint_path,
+            combine_analysis_conclusion=combine_analysis_conclusion,
         )
         gpt_pred_frame = gpt5_results["predictions"][["span_id", "prediction_gpt5"]]
         predictions_frame = predictions_frame.merge(
