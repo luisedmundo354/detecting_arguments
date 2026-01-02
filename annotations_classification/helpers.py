@@ -84,6 +84,19 @@ def load_annotation_spans(annotation_dir: Path | str) -> pd.DataFrame:
     return df
 
 
+def filter_implicit_conclusions(df: pd.DataFrame) -> pd.DataFrame:
+    """Drop spans whose text is only an implicit intermediate conclusion code."""
+
+    if df.empty:
+        return df.copy()
+
+    text_series = df["text"].astype(str).str.strip().str.lower()
+    mask = text_series.str.startswith("implicit intermediate conclusion")
+    filtered = df.loc[~mask].copy()
+    filtered.reset_index(drop=True, inplace=True)
+    return filtered
+
+
 def assign_stratified_folds(
     df: pd.DataFrame,
     *,

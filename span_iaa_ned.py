@@ -1,119 +1,106 @@
-# span_iaa_ned.py
-"""
-Fast inter-annotator agreement (IAA) for span tasks using [0,1]-normalized
-edit distances (NED). Designed to plug into the folder-based script:
-
-    f1_by_cat = iaa_ned.compute_iaa(all_annotations, categories)
-
-Inputs:
-    annotations: {annotator_id: {category: [span_text, ...]}, ...}
-    categories : list[str]
-
-Returns:
-    {category: F1}   # mean of pairwise F1s across annotator pairs
-
-Only normalized-in-[0,1] distances are used, so precision/recall/F1 remain valid.
-
-Requires:
-    pip install numpy scipy abydos
-"""
+"""Span-level IAA using pairwise soft-F1 with normalized edit distance."""
 from __future__ import annotations
 
-from typing import Dict, List, Callable, Tuple
+from typing import Callable, Dict, List, Tuple
 import itertools
 import numpy as np
 from scipy.optimize import linear_sum_assignment
 from tqdm import tqdm
 
-# Normalized edit distances from Abydos
+# Distance functions that return values in [0, 1].
 from abydos.distance import YujianBo, HigueraMico
 
 
+_YUJIANBO_DISTANCE = YujianBo()
+_HIGUERAMICO_DISTANCE = HigueraMico()
 
-_YB = YujianBo()
-_HM = HigueraMico()
+def _yujianbo_distance(span_text_a: str, span_text_b: str) -> float:
+    """Distance in [0, 1] between two span strings."""
 
-def _yujianbo_nld(a: str, b: str) -> float:
-    # Metric in [0,1] as per Yujian & Bo
-    return _YB.dist(a, b)
+    return _YUJIANBO_DISTANCE.dist(span_text_a, span_text_b)
 
-def _higueramico_nld(a: str, b: str) -> float:
-    # Contextual normalized edit distance, also normalized in [0,1] in Abydos
-    return _HM.dist(a, b)
 
-# Registry of supported metrics (all normalized)
-_METRICS: Dict[str, Callable[[str, str], float]] = {
-    "yujianbo": _yujianbo_nld,
-    "higueramico": _higueramico_nld,
+def _higueramico_distance(span_text_a: str, span_text_b: str) -> float:
+    """Distance in [0, 1] between two span strings."""
+
+    return _HIGUERAMICO_DISTANCE.dist(span_text_a, span_text_b)
+
+# Supported distance function lookup.
+_DISTANCE_FN_BY_NAME: Dict[str, Callable[[str, str], float]] = {
+    "yujianbo": _yujianbo_distance,
+    "higueramico": _higueramico_distance,
 }
 
 
-
 def _similarity_matrix(
-        spans_a: List[str],
-        spans_b: List[str],
-        metric: Callable[[str, str], float],
-        min_sim: float = 0.0,
+    span_texts_a: List[str],
+    span_texts_b: List[str],
+    distance_fn: Callable[[str, str], float],
+    min_similarity: float = 0.0,
 ) -> np.ndarray:
-    """
-    Build similarity matrix S where S[i, j] = 1 - NED(a_i, b_j).
-    Entries below min_sim are clipped to 0 (acts as 'forbidden' when padded).
-    """
-    n, m = len(spans_a), len(spans_b)
-    if n == 0 or m == 0:
-        return np.zeros((n, m), dtype=float)
+    """Return similarity scores for every (span_a, span_b) pair."""
 
-    S = np.empty((n, m), dtype=float)
-    for i, sa in enumerate(spans_a):
-        for j, sb in enumerate(spans_b):
-            s = 1.0 - float(metric(sa, sb))
-            S[i, j] = s if s >= min_sim else 0.0
-    return S
+    span_text_count_a = len(span_texts_a)
+    span_text_count_b = len(span_texts_b)
+    if span_text_count_a == 0 or span_text_count_b == 0:
+        return np.zeros((span_text_count_a, span_text_count_b), dtype=float)
+
+    similarity_matrix = np.empty((span_text_count_a, span_text_count_b), dtype=float)
+    for span_index_a, span_text_a in enumerate(span_texts_a):
+        for span_index_b, span_text_b in enumerate(span_texts_b):
+            distance = float(distance_fn(span_text_a, span_text_b))
+            similarity = 1.0 - distance
+            similarity_matrix[span_index_a, span_index_b] = (
+                similarity if similarity >= min_similarity else 0.0
+            )
+    return similarity_matrix
 
 
-def _soft_tp_from_matching(S: np.ndarray) -> float:
-    """
-    Compute soft true positives as the sum of matched similarities.
+def _soft_tp_from_matching(similarity_matrix: np.ndarray) -> float:
+    """Return soft TP as the sum of similarities for the best 1-1 matches."""
 
-    We pad to a square matrix with zeros so the Hungarian algorithm
-    can 'leave spans unmatched' by pairing them with a zero column/row.
-    """
-    n, m = S.shape
-    if n == 0 and m == 0:
+    span_text_count_a, span_text_count_b = similarity_matrix.shape
+    if span_text_count_a == 0 and span_text_count_b == 0:
         return 0.0
-    N = max(n, m)
-    Ssq = np.zeros((N, N), dtype=float)
-    Ssq[:n, :m] = S
-    # Hungarian expects a cost matrix; maximize S by minimizing -S
-    row_idx, col_idx = linear_sum_assignment(-Ssq)
-    tp_soft = float(Ssq[row_idx, col_idx].sum())
-    return tp_soft
+
+    padded_size = max(span_text_count_a, span_text_count_b)
+    padded_similarity_matrix = np.zeros((padded_size, padded_size), dtype=float)
+    padded_similarity_matrix[:span_text_count_a, :span_text_count_b] = similarity_matrix
+
+    # Indices of best 1-1 matches (includes padded rows/cols -> unmatched spans).
+    matched_row_indices, matched_col_indices = linear_sum_assignment(-padded_similarity_matrix)
+    soft_tp_sum = float(padded_similarity_matrix[matched_row_indices, matched_col_indices].sum())
+    return soft_tp_sum
 
 
 def _pairwise_prf1(
-        spans_a: List[str],
-        spans_b: List[str],
-        metric: Callable[[str, str], float],
-        min_sim: float = 0.0,
+    span_texts_a: List[str],
+    span_texts_b: List[str],
+    distance_fn: Callable[[str, str], float],
+    min_similarity: float = 0.0,
 ) -> Tuple[float, float, float]:
-    """
-    Precision, recall, F1 for a single annotator pair within one category,
-    using 'soft' true positives (sum of matched similarities).
-    """
-    n, m = len(spans_a), len(spans_b)
+    """Return precision, recall, F1 for one annotator pair and one category."""
 
-    # Trivial perfect agreement if both empty
-    if n == 0 and m == 0:
+    span_text_count_a = len(span_texts_a)
+    span_text_count_b = len(span_texts_b)
+
+    # Both annotators have no spans for this category.
+    if span_text_count_a == 0 and span_text_count_b == 0:
         return 1.0, 1.0, 1.0
-    # If exactly one is empty, there can be no matches
-    if n == 0 or m == 0:
+    # Only one annotator has spans for this category.
+    if span_text_count_a == 0 or span_text_count_b == 0:
         return 0.0, 0.0, 0.0
 
-    S = _similarity_matrix(spans_a, spans_b, metric, min_sim=min_sim)
-    tp_soft = _soft_tp_from_matching(S)
+    similarity_matrix = _similarity_matrix(
+        span_texts_a,
+        span_texts_b,
+        distance_fn,
+        min_similarity=min_similarity,
+    )
+    soft_tp_sum = _soft_tp_from_matching(similarity_matrix)
 
-    precision = tp_soft / n
-    recall = tp_soft / m
+    precision = soft_tp_sum / span_text_count_a
+    recall = soft_tp_sum / span_text_count_b
     if precision + recall == 0:
         f1 = 0.0
     else:
@@ -121,59 +108,65 @@ def _pairwise_prf1(
     return precision, recall, f1
 
 
-
 def compute_iaa(
-        annotations: Dict[str, Dict[str, List[str]]],
-        categories: List[str],
-        *,
-        metric: str = "yujianbo",
-        min_sim: float = 0.0,
+    annotations: Dict[str, Dict[str, List[str]]],
+    categories: List[str],
+    *,
+    metric: str = "yujianbo",
+    min_sim: float = 0.0,
 ) -> Dict[str, float]:
-    """
-    Compute mean pairwise F1 for each category across all unordered
-    annotator pairs. Returns {category: F1}.
+    """Return mean pairwise F1 per category across annotator pairs."""
 
-    Args:
-        annotations: {annotator: {category: [span_text, ...]}}
-        categories : list of categories to score
-        metric     : one of {"yujianbo", "higueramico"} (all in [0,1])
-        min_sim    : optional similarity threshold in [0,1].
-                     Pairs below this are treated like 'no match'.
+    distance_name = metric
+    if distance_name not in _DISTANCE_FN_BY_NAME:
+        raise ValueError(
+            f"Unsupported metric '{distance_name}'. Choose from {sorted(_DISTANCE_FN_BY_NAME.keys())}"
+        )
+    distance_fn = _DISTANCE_FN_BY_NAME[distance_name]
 
-    Notes:
-        - This is a *mean over annotator pairs* (macro over pairs).
-        - Soft TP = sum of matched similarities from Hungarian alignment.
-    """
-    if metric not in _METRICS:
-        raise ValueError(f"Unsupported metric '{metric}'. "
-                         f"Choose from {sorted(_METRICS.keys())}")
-    dist = _METRICS[metric]
+    annotator_ids = list(annotations)
+    annotator_id_pairs = list(itertools.combinations(annotator_ids, 2))
 
-    ann_ids = list(annotations)
-    pairs = list(itertools.combinations(ann_ids, 2))
+    pairwise_f1_values_by_category_name: Dict[str, List[float]] = {
+        category_name: [] for category_name in categories
+    }
 
-    f1_by_cat: Dict[str, List[float]] = {c: [] for c in categories}
+    for annotator_id_a, annotator_id_b in tqdm(
+        annotator_id_pairs,
+        desc="Annotator pairs",
+    ):
+        spans_by_category_a = annotations[annotator_id_a]
+        spans_by_category_b = annotations[annotator_id_b]
+        for category_name in categories:
+            span_texts_a = spans_by_category_a.get(category_name, []) or []
+            span_texts_b = spans_by_category_b.get(category_name, []) or []
+            _, _, f1 = _pairwise_prf1(
+                span_texts_a,
+                span_texts_b,
+                distance_fn,
+                min_similarity=min_sim,
+            )
+            pairwise_f1_values_by_category_name[category_name].append(f1)
 
-    for a1, a2 in tqdm(pairs, desc="Pairs processing progress"):
-        ann1, ann2 = annotations[a1], annotations[a2]
-        for cat in categories:
-            spans_a = ann1.get(cat, []) or []
-            spans_b = ann2.get(cat, []) or []
-            _, _, f1 = _pairwise_prf1(spans_a, spans_b, dist, min_sim=min_sim)
-            f1_by_cat[cat].append(f1)
-
-    # Mean over annotator pairs; if no pairs, return 0.0
+    # Mean across annotator pairs (0.0 when there are no pairs).
     return {
-        cat: (float(np.mean(vals)) if vals else 0.0)
-        for cat, vals in f1_by_cat.items()
+        category_name: (float(np.mean(pairwise_f1_values)) if pairwise_f1_values else 0.0)
+        for category_name, pairwise_f1_values in pairwise_f1_values_by_category_name.items()
     }
 
 if __name__ == "__main__":
-    import json, sys, pathlib
+    import json
+    import pathlib
+    import sys
+
     if len(sys.argv) != 2:
         print(f"Usage: python {pathlib.Path(__file__).name} annotations.json")
         sys.exit(1)
-    data = json.loads(pathlib.Path(sys.argv[1]).read_text(encoding="utf-8"))
-    cats = sorted({c for ann in data.values() for c in ann})
-    print("Categories:", cats)
-    print(json.dumps(compute_iaa(data, cats), indent=2))
+    annotations_by_annotator_id = json.loads(
+        pathlib.Path(sys.argv[1]).read_text(encoding="utf-8")
+    )
+    category_names = sorted(
+        {category_name for ann in annotations_by_annotator_id.values() for category_name in ann}
+    )
+    print("Categories:", category_names)
+    print(json.dumps(compute_iaa(annotations_by_annotator_id, category_names), indent=2))

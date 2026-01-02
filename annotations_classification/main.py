@@ -17,6 +17,7 @@ from .helpers import (
     assign_stratified_folds,
     build_tfidf_vectorizer,
     encode_sentences,
+    filter_implicit_conclusions as filter_implicit_conclusions_df,
     load_annotation_spans,
 )
 from .gpt5_classifier import run_gpt5_classification
@@ -58,6 +59,7 @@ def run_linear_svc_classification(
     test_mode: bool = False,
     gpt5_checkpoint_path: Optional[Path | str] = None,
     combine_analysis_conclusion: bool = False,
+    filter_implicit_conclusions: bool = False,
 ) -> Dict[str, Dict[str, object]]:
     """Execute stratified k-fold evaluation with a Linear SVC back-end.
 
@@ -86,6 +88,9 @@ def run_linear_svc_classification(
     combine_analysis_conclusion:
         When ``True`` treat Conclusion spans as Analysis for training, evaluation,
         and downstream GPT-5 prompting.
+    filter_implicit_conclusions:
+        When ``True`` drop spans whose text corresponds to implicit intermediate
+        conclusion placeholders before training.
     use_modern_bert:
         Toggle Modern-BERT embeddings. When ``False`` the embedding is skipped
         without attempting to reach SageMaker.
@@ -104,6 +109,8 @@ def run_linear_svc_classification(
         verbose = True
 
     df = load_annotation_spans(annotation_dir)
+    if filter_implicit_conclusions:
+        df = filter_implicit_conclusions_df(df)
     if combine_analysis_conclusion:
         df = _merge_analysis_and_conclusion_labels(df)
     df = assign_stratified_folds(df, n_splits=n_splits, random_state=random_state)
