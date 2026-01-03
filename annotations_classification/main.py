@@ -223,6 +223,7 @@ def run_linear_svc_classification(
             test_mode=test_mode,
             checkpoint_path=gpt5_checkpoint_path,
             combine_analysis_conclusion=combine_analysis_conclusion,
+            filter_implicit_conclusions=filter_implicit_conclusions,
         )
         gpt_pred_frame = gpt5_results["predictions"][["span_id", "prediction_gpt5"]]
         predictions_frame = predictions_frame.merge(

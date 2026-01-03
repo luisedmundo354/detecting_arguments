@@ -84,6 +84,42 @@ def load_annotation_spans(annotation_dir: Path | str) -> pd.DataFrame:
     return df
 
 
+def load_annotation_contents(annotation_dir: Path | str) -> Dict[object, str]:
+    """Return a mapping of ``document_id`` (``ref_id``) to the raw ``case_content`` text.
+
+    The function expects Label Studio JSON exports where each file contains a
+    single task. If multiple exports share the same ``ref_id``, the longest
+    non-empty ``case_content`` is retained.
+    """
+
+    annotation_path = Path(annotation_dir)
+    if not annotation_path.exists():
+        raise FileNotFoundError(f"Annotation directory not found: {annotation_path}")
+
+    contents: Dict[object, str] = {}
+    json_files = sorted(annotation_path.glob("*.json"), key=lambda p: p.stem)
+    if not json_files:
+        raise FileNotFoundError(f"No JSON annotation files found in {annotation_path}")
+
+    for json_file in json_files:
+        with json_file.open("r", encoding="utf8") as handle:
+            payload = json.load(handle)
+
+        task = payload.get("task", {})
+        data = task.get("data", {})
+        document_id = data.get("ref_id")
+        case_content = data.get("case_content")
+
+        if document_id is None or not isinstance(case_content, str) or not case_content:
+            continue
+
+        existing = contents.get(document_id)
+        if existing is None or len(case_content) > len(existing):
+            contents[document_id] = case_content
+
+    return contents
+
+
 def filter_implicit_conclusions(df: pd.DataFrame) -> pd.DataFrame:
     """Drop spans whose text is only an implicit intermediate conclusion code."""
 

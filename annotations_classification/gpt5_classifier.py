@@ -12,7 +12,11 @@ from openai import OpenAI
 from sklearn.metrics import classification_report
 from tqdm import tqdm
 
-from .helpers import load_annotation_spans
+from .helpers import (
+    filter_implicit_conclusions as filter_implicit_conclusions_df,
+    load_annotation_contents,
+    load_annotation_spans,
+)
 
 _DEFAULT_ALLOWED_LABELS: Sequence[str] = (
     "Analysis",
@@ -25,10 +29,10 @@ _DEFAULT_ALLOWED_LABELS: Sequence[str] = (
 
 @dataclass
 class GPT5Config:
-    model: str = "gpt-5.5-mini"
+    model: str = "gpt-5-mini"
     temperature: float = 1
-    max_output_tokens: int = 1024
-    max_context_chars: int = 3500
+    max_output_tokens: int = 100000
+    max_context_chars: int = 250000
     progress: bool = True
     test_mode: bool = False
     test_limit: int = 10
@@ -57,23 +61,99 @@ def _parse_label(text: str, allowed_labels: Sequence[str]) -> Optional[str]:
     return None
 
 
-_SYSTEM_PROMPT = "You are a precise legal text classifier that must choose exactly one label."
+_SYSTEM_PROMPT = (
+    "You are a precise legal passage classifier for U.S. judicial opinions. "
+    "Choose exactly ONE label from the allowed set and output ONLY one line in the format "
+    "Class:<label>. No extra words, no punctuation, no explanation."
+)
 
 _GUIDELINES_CORE = (
-    "- Background Facts: one continuous block (often long); may include IRS administrative actions (audits, assessments), and attributions like 'The Tax Court found...'; must not overlap with other spans; never connect with relations/arrows.\n"
-    "- Procedural History: one continuous block; ONLY court procedure (complaints, motions, judgments, appeals, remands, cert petitions/grants). IRS administrative steps belong in Background Facts. Suing in court for a refund is Procedural History; paying IRS/requesting refund/administrative denial are Background Facts. May include recap of lower court’s reasoning. For Supreme Court, include cert petition/grant. Never connect with relations/arrows.\n"
-    "- Non-overlap: Background Facts and Procedural History never overlap with each other or with Rule/Analysis/Conclusion.\n"
-    "- Ignore early summaries: If the opening 1–3 paragraphs briefly summarize facts/procedure/law/holding and the same material appears later in detail, do NOT annotate those early summaries.\n"
-    "- Rule: include legal principles AND their citations (cases, statutes, secondary sources) at the end of the Rule span.\n"
-    "- CRAC handling: In a classic CRAC paragraph, initial Conclusion (C) is NOT annotated; Rule (R) is Rule; Analysis (A) is Analysis; the final C is often a second Analysis or a second Rule. Draw arrows/relations from the Rule and first Analysis to that second Analysis. If the conclusion appears only at the start (CRA), label that starting C as Analysis and point R and A back to it.\n"
-    "- IRAC/CRAC exclusions: The 'I' in IRAC and the initial 'C' in CRAC are not annotated.\n"
-    "- Unannotated exceptions: Court observations (historical/contextual remarks), pure party-argument recitals before evaluation (these are the 'I'), and statements of what the court is not deciding.\n"
-    "- Distinguishing precedent: Put precedent’s facts/holding in Rule; explain why it doesn’t apply in Analysis; the resulting non-application conclusion is a second Analysis that points to the surviving Analysis/Conclusion.\n"
+    "Annotation scheme (match human annotators): spans are labeled by FUNCTIONAL ROLE in a "
+    "chain of syllogisms (polysyllogistic IRAC). Rules and Analyses are argument nodes; "
+    "Background Facts and Procedural History are contextual blocks and are not part of the reasoning chain.\n\n"
+    "LABEL DEFINITIONS (use these meanings):\n"
+    "- Background Facts: narrative context about what happened outside the courtroom (events, transactions, parties, dates). "
+    "Includes IRS/agency administrative steps (audits, assessments, refund claims/denials). "
+    "These spans inform the reader but do not themselves apply a rule or draw an inference toward the holding.\n"
+    "- Procedural History: court/litigation process and posture (complaints, motions, hearings, judgments, appeals, remands, "
+    "petitions for certiorari/grants). Focus is the procedural timeline in court. "
+    "IRS administrative steps are NOT procedural history.\n"
+    "- Rule: a generally applicable premise used to justify an inference—statutes, regulations, precedent holdings, tests, "
+    "definitions, and other reusable generalizations (including implicit/brute premises that license an inference). "
+    "Summaries of precedent (facts/holdings) used as authority count as Rule. Citations often appear but are not required.\n"
+    "- Analysis: case-specific reasoning that applies/interprets a Rule using this case’s facts/record; evaluates evidence; "
+    "accepts/rejects/distinguishes arguments; draws causal/logical inferences. "
+    "IMPORTANT: intermediate/local conclusions in a reasoning chain are labeled Analysis (even if phrased 'we conclude...' "
+    "or 'therefore...') when they support a later step.\n\n"
+    "TIE-BREAKERS:\n"
+    "1) Court procedure => Procedural History. IRS/admin steps => Background Facts.\n"
+    "2) Stating a legal standard / definition / precedent holding => Rule. Applying or distinguishing it here => Analysis.\n"
+    "3) If both appear, choose the dominant function: 'state the law/test' => Rule; 'apply to facts / infer' => Analysis.\n"
 )
 _CONCLUSION_GUIDELINE = (
-    "- Conclusions: At least one Conclusion per case. If only the disposition is stated (e.g., 'Judgment affirmed', 'Summary judgment granted'), annotate that as Conclusion. Multiple issues can yield multiple Conclusions.\n"
+    "CONCLUSION (only when this label exists in the allowed set):\n"
+    "- Conclusion: ONLY the terminal outcome of an argument tree / issue—i.e., the court’s ultimate holding or disposition "
+    "(e.g., 'judgment affirmed/reversed', 'summary judgment granted', 'the deduction is allowed/denied'). "
+    "Do NOT use Conclusion for intermediate steps that can function as premises for later reasoning; those are Analysis (or Rule).\n"
 )
 
+
+
+def _normalize_ws(text: str) -> str:
+    """Collapse whitespace to improve passage matching and make excerpts stable."""
+
+    return " ".join((text or "").split())
+
+
+def _build_case_context(case_text: str, passage: str, max_chars: int) -> str:
+    """
+    Build a length-capped case excerpt that helps with:
+      - local classification (window around passage)
+      - detecting terminal dispositions (end excerpt)
+      - procedural posture (begin excerpt)
+    """
+
+    case_norm = _normalize_ws(case_text)
+    passage_norm = _normalize_ws(passage)
+    if not case_norm:
+        return ""
+    if len(case_norm) <= max_chars:
+        return case_norm
+
+    # Allocate fixed budgets so we always include end-of-case signals.
+    head_len = max(300, int(max_chars * 0.22))
+    tail_len = max(300, int(max_chars * 0.22))
+    local_len = max(300, max_chars - head_len - tail_len - 200)  # ~200 chars for headers
+
+    head = case_norm[:head_len]
+    tail = case_norm[-tail_len:]
+
+    idx = case_norm.find(passage_norm)
+    if idx == -1 and passage_norm:
+        # Try a smaller anchor (first ~20 tokens) if the full passage doesn't match exactly.
+        anchor = " ".join(passage_norm.split()[:20])
+        idx = case_norm.find(anchor) if anchor else -1
+
+    if idx != -1:
+        half = local_len // 2
+        start = max(0, idx - half)
+        end = min(len(case_norm), idx + len(passage_norm) + half)
+        local = case_norm[start:end]
+    else:
+        # Fallback: mid excerpt
+        mid_start = max(0, (len(case_norm) // 2) - (local_len // 2))
+        local = case_norm[mid_start : mid_start + local_len]
+
+    excerpt = (
+        "NOTE: Case text is excerpted due to length.\n"
+        "=== BEGINNING OF CASE (excerpt) ===\n"
+        f"{head}\n\n"
+        "=== LOCAL CONTEXT (excerpt) ===\n"
+        f"{local}\n\n"
+        "=== END OF CASE (excerpt) ===\n"
+        f"{tail}\n"
+    )
+    return excerpt[:max_chars]
 
 
 def _build_context(texts: Iterable[str], max_chars: int) -> str:
@@ -123,13 +203,33 @@ def _render_prompt(
     if include_conclusion_guidance:
         guidelines += _CONCLUSION_GUIDELINE
     label_options = _format_label_options(list(allowed_labels))
-    prompt_header = (
-        "Classify the target passage into one of the following labels and following the following guidelines: "
-        f"{label_options}. Respond with a single line in the exact format Class:[label].\n\n"
-        "Additional Annotation Guidelines:\n"
-        f"{guidelines}\n"
+    has_conclusion = any(lbl.lower() == "conclusion" for lbl in allowed_labels)
+    conclusion_fallback = ""
+    if not has_conclusion:
+        conclusion_fallback = (
+            "IMPORTANT: 'Conclusion' is NOT an available label in this run. "
+            "If the passage states the final outcome/disposition, label it as Analysis.\n\n"
+        )
+
+    prompt = (
+        "TASK\n"
+        "You will be given (1) case text (context) and (2) one TARGET PASSAGE from that case.\n"
+        f"Choose exactly ONE label from: {label_options}\n\n"
+        "OUTPUT FORMAT (STRICT)\n"
+        "Return exactly ONE line:\n"
+        "Class:<label>\n"
+        "Do not output anything else.\n\n"
+        f"{conclusion_fallback}"
+        "GUIDELINES (match the human annotators)\n"
+        f"{guidelines}\n\n"
+        "<<<CASE_TEXT>>>\n"
+        f"{context}\n"
+        "<<<END_CASE_TEXT>>>\n\n"
+        "<<<TARGET_PASSAGE>>>\n"
+        f"{passage}\n"
+        "<<<END_TARGET_PASSAGE>>>\n"
     )
-    return prompt_header + f"Context:\n{context}\n\nPassage:\n{passage}\n"
+    return prompt
 
 
 def _resolve_checkpoint_path(
@@ -155,6 +255,7 @@ def run_gpt5_classification(
     test_mode: bool = False,
     checkpoint_path: Optional[Path | str] = None,
     combine_analysis_conclusion: bool = False,
+    filter_implicit_conclusions: bool = False,
 ) -> dict:
     cfg = config or GPT5Config()
     if test_mode:
@@ -162,6 +263,9 @@ def run_gpt5_classification(
         cfg.progress = True
 
     df = load_annotation_spans(annotation_dir)
+    if filter_implicit_conclusions:
+        df = filter_implicit_conclusions_df(df)
+    contents_by_doc = load_annotation_contents(annotation_dir)
     if combine_analysis_conclusion:
         df = df.copy()
         df["label"] = df["label"].apply(_merge_conclusion_into_analysis)
@@ -230,8 +334,11 @@ def run_gpt5_classification(
             text = df.at[row_index, "text"]
             doc = df.at[row_index, "document_id"]
             entries = doc_entries.get(doc, [])
-            other_texts = (t for j, t in entries if j != row_index)
-            context = _build_context(other_texts, cfg.max_context_chars)
+            case_text = contents_by_doc.get(doc, "") if contents_by_doc else ""
+            context = _build_case_context(case_text, text, cfg.max_context_chars)
+            if not context:
+                other_texts = (t for j, t in entries if j != row_index)
+                context = _build_context(other_texts, cfg.max_context_chars)
             prompt = _render_prompt(
                 context=context or "No additional context.",
                 passage=text,
@@ -243,8 +350,9 @@ def run_gpt5_classification(
 
             response = client.responses.create(
                 model=cfg.model,
+                instructions=_SYSTEM_PROMPT,
                 input=prompt,
-                reasoning={"effort": "low"},
+                reasoning={"effort": "high"},
                 temperature=cfg.temperature,
                 max_output_tokens=cfg.max_output_tokens,
             )
