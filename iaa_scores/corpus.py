@@ -31,8 +31,14 @@ def build_corpus(root: Path, min_annotators: int) -> CorpusData:
     for path in files:
         record = load_annotation_payload(path)
         if record.ref_id is None:
-            continue
-        doc_spans.setdefault(record.ref_id, {})[record.annotator] = record.spans
+            raise ValueError(f"Missing task.data.ref_id in {path}")
+        if not record.annotator:
+            raise ValueError(f"Missing completed_by.email in {path}")
+        if record.annotator in doc_spans.setdefault(record.ref_id, {}):
+            raise ValueError(
+                f"Duplicate annotator '{record.annotator}' for ref_id {record.ref_id}"
+            )
+        doc_spans[record.ref_id][record.annotator] = record.spans
         doc_offsets.setdefault(record.ref_id, {})[record.annotator] = record.offsets
         doc_files.setdefault(record.ref_id, []).append(path)
         if record.document_length is not None:

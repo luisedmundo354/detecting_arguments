@@ -1,0 +1,88 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	RJadVb1aVo [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The district court held that there was<BR ALIGN='left'/>no reorganization, and the government<BR ALIGN='left'/>appealed.</TD></TR>
+</TABLE>
+>]
+	"4L3o-yMZ_u" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the charter of the old company was<BR ALIGN='left'/>surrendered and the corporation was<BR ALIGN='left'/>dissolved before the new corporation<BR ALIGN='left'/>received the assets through transfer by<BR ALIGN='left'/>the trustees. Manifestly, there could be<BR ALIGN='left'/>no transfer by the old corporation of<BR ALIGN='left'/>its 233*233 assets to the new<BR ALIGN='left'/>corporation which, in the strict<BR ALIGN='left'/>language of the statute, is required in<BR ALIGN='left'/>order to constitute a reorganization.<BR ALIGN='left'/>Nor was there an exchange of property by<BR ALIGN='left'/>the old corporation to the new<BR ALIGN='left'/>corporation for the latter&#x27;s stock, nor<BR ALIGN='left'/>were there any agreements between the<BR ALIGN='left'/>old and new corporations, or exchanges<BR ALIGN='left'/>between them, pursuant to a plan of<BR ALIGN='left'/>reorganization, all of which are<BR ALIGN='left'/>necessary to reorganizations under<BR ALIGN='left'/>section 112(g)(1).</TD></TR>
+</TABLE>
+>]
+	QtfciyqwaF [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">There was no right on the part of the<BR ALIGN='left'/>dissolved corporation to enforce any<BR ALIGN='left'/>agreement as to what was to take place<BR ALIGN='left'/>subsequent to its dissolution. It had no<BR ALIGN='left'/>rights or obligations, as far as any<BR ALIGN='left'/>plan to form a new corporation was<BR ALIGN='left'/>concerned, or to see that the trustees<BR ALIGN='left'/>for the former stockholders entered into<BR ALIGN='left'/>such a plan or transferred the assets to<BR ALIGN='left'/>a new corporation. The former<BR ALIGN='left'/>stockholders at the time of the<BR ALIGN='left'/>liquidation of the old corporation were<BR ALIGN='left'/>the absolute owners of the corporate<BR ALIGN='left'/>assets. They were under no contractual<BR ALIGN='left'/>obligations to form a new corporation or<BR ALIGN='left'/>to transfer their assets to a new<BR ALIGN='left'/>corporation in return for stock therein.<BR ALIGN='left'/>They could have sold the assets to an<BR ALIGN='left'/>outside real estate corporation or an<BR ALIGN='left'/>individual, and in such a case, there<BR ALIGN='left'/>could have been no claim that any<BR ALIGN='left'/>reorganization had resulted from the<BR ALIGN='left'/>transactions. The former stockholders of<BR ALIGN='left'/>the old corporation had not bound<BR ALIGN='left'/>themselves to carry out any plan of<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	BpVtVXn3bm [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;The plan of reorganization must be<BR ALIGN='left'/>adopted by each of the corporations<BR ALIGN='left'/>parties thereto; and the adoption must<BR ALIGN='left'/>be shown by the acts of its duly<BR ALIGN='left'/>constituted responsible officers, and<BR ALIGN='left'/>appear upon the official records of the<BR ALIGN='left'/>corporation.&quot; Treasury Reg. 103, Section<BR ALIGN='left'/>19.112(g)-6, Title 26 Code of Federal<BR ALIGN='left'/>Regulations, 29.112(g)-6.</TD></TR>
+</TABLE>
+>]
+	SdX6867Tsd [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">reorganization,&quot; is to be strictly<BR ALIGN='left'/>limited to the specific transaction set<BR ALIGN='left'/>forth in section 112(g)(1); that the<BR ALIGN='left'/>term, &quot;a party to a reorganization&quot;,<BR ALIGN='left'/>includes, in addition to a corporation<BR ALIGN='left'/>which performs the specific act<BR ALIGN='left'/>constituting the reorganization, as<BR ALIGN='left'/>described and defined in section<BR ALIGN='left'/>112(g)(1), only a corporation specified<BR ALIGN='left'/>in section 112(g)(2); that the term,<BR ALIGN='left'/>&quot;plan of reorganization,&quot; has reference<BR ALIGN='left'/>to a consummated transaction<BR ALIGN='left'/>specifically defined as a reorganization<BR ALIGN='left'/>under section 112(g)(1), and that the<BR ALIGN='left'/>term is not to be construed as<BR ALIGN='left'/>broadening the definition of<BR ALIGN='left'/>reorganization as set forth in that<BR ALIGN='left'/>section; and, as heretofore mentioned,<BR ALIGN='left'/>that the plan of reorganization must be<BR ALIGN='left'/>adopted by each of the corporations<BR ALIGN='left'/>parties thereto. Title 26, Code of<BR ALIGN='left'/>Federal Regulations, 29.112(g)-1 to<BR ALIGN='left'/>(g)-6, inclusive</TD></TR>
+</TABLE>
+>]
+	Vh5rDSFJWf [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We do not find, in what is here claimed<BR ALIGN='left'/>by the government to constitute a &quot;plan<BR ALIGN='left'/>of reorganization,&quot; and a<BR ALIGN='left'/>&quot;reorganization,&quot; any such transactions,<BR ALIGN='left'/>so precisely specified, so strictly<BR ALIGN='left'/>limited to the language of the statute,<BR ALIGN='left'/>and providing for such express adoption<BR ALIGN='left'/>by the corporations, as are required by<BR ALIGN='left'/>the regulations governing<BR ALIGN='left'/>reorganizations under the taxing<BR ALIGN='left'/>statute. We are of the opinion that the<BR ALIGN='left'/>transactions in question did not<BR ALIGN='left'/>constitute a reorganization</TD></TR>
+</TABLE>
+>]
+	FDUTEqjyHY [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The facts are as follows: The Arcade<BR ALIGN='left'/>Company, organized in 1902, long prior<BR ALIGN='left'/>to the enactment of the Federal Income<BR ALIGN='left'/>Tax Amendment, employed, in 1943, a tax<BR ALIGN='left'/>accountant and attorneys to work out a<BR ALIGN='left'/>plan to minimize federal taxes and<BR ALIGN='left'/>provide for a larger share of the<BR ALIGN='left'/>company&#x27;s earnings for its stockholders.<BR ALIGN='left'/>As a result, on September 22, 1943, the<BR ALIGN='left'/>stockholders of the company, by<BR ALIGN='left'/>resolution, voted to surrender its<BR ALIGN='left'/>charter and dissolve the corporation on<BR ALIGN='left'/>September 30, 1943; and the corporation<BR ALIGN='left'/>was, accordingly, dissolved. The<BR ALIGN='left'/>resolution further provided for two<BR ALIGN='left'/>trustees in whom the assets of the<BR ALIGN='left'/>dissolved corporation should be vested<BR ALIGN='left'/>for disposition to the stockholders, or<BR ALIGN='left'/>in such manner as they should direct.<BR ALIGN='left'/>The former stockholders gave directions<BR ALIGN='left'/>in writing to the trustees that the<BR ALIGN='left'/>assets be transferred to a new<BR ALIGN='left'/>corporation, to be thereafter organized,<BR ALIGN='left'/>in return for its newly issued stock.<BR ALIGN='left'/>Subsequently, the assets were<BR ALIGN='left'/>transferred to a new corporation, Arcade<BR ALIGN='left'/>Company, Inc., by the trustees, and in<BR ALIGN='left'/>payment for the assets, the new company,<BR ALIGN='left'/>delivered to the trustees for the<BR ALIGN='left'/>stockholders shares of its stock for the<BR ALIGN='left'/>assets of the old company. Thereafter,<BR ALIGN='left'/>the trustees transferred the shares of<BR ALIGN='left'/>stock to the beneficiaries of the trusts<BR ALIGN='left'/>for which they were acting — the persons<BR ALIGN='left'/>who had been stockholders in the old<BR ALIGN='left'/>company — in the same proportion as in<BR ALIGN='left'/>the old company.\n\nThe tax incident<BR ALIGN='left'/>that gives rise to this controversy<BR ALIGN='left'/>relates to the claim of a deduction for<BR ALIGN='left'/>ordinary business expense. The Arcade<BR ALIGN='left'/>Company claimed that the expense of the<BR ALIGN='left'/>tax accountant and attorneys whom it<BR ALIGN='left'/>employed to work out the plan to provide<BR ALIGN='left'/>a larger share of the company&#x27;s earnings<BR ALIGN='left'/>232*232 for its stockholders was an<BR ALIGN='left'/>ordinary and necessary expense in<BR ALIGN='left'/>carrying out its business. The<BR ALIGN='left'/>Commissioner determined that such<BR ALIGN='left'/>expense was a capital expenditure rather<BR ALIGN='left'/>than a current expense, and that it was<BR ALIGN='left'/>not deductible. The district court,<BR ALIGN='left'/>however, determined that it was<BR ALIGN='left'/>deductible as a necessary business<BR ALIGN='left'/>expense.\n\nIn contending that the<BR ALIGN='left'/>transaction in question constituted a<BR ALIGN='left'/>reorganization, the government relies<BR ALIGN='left'/>upon the definition of a reorganization<BR ALIGN='left'/>as set forth in Title 26 U.S.C.A. §<BR ALIGN='left'/>112(g)(1). Appellee contends that there<BR ALIGN='left'/>was no continuity between the old<BR ALIGN='left'/>corporation and the new corporation, and<BR ALIGN='left'/>that, under the relevant provisions of<BR ALIGN='left'/>the statute, there was no<BR ALIGN='left'/>reorganization; that the costs and<BR ALIGN='left'/>expenses of counsel and auditors in<BR ALIGN='left'/>preparing the plan were necessary<BR ALIGN='left'/>business expenses of the old<BR ALIGN='left'/>corporation, and, therefore, properly<BR ALIGN='left'/>deductible; and that the judgment of the<BR ALIGN='left'/>district court should be affirmed.</TD></TR>
+</TABLE>
+>]
+	mbEa5XhZe0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It is our conclusion that there was no<BR ALIGN='left'/>transfer by the old corporation of its<BR ALIGN='left'/>assets to the new corporation, within<BR ALIGN='left'/>the meaning of section 112(g)(1); that<BR ALIGN='left'/>neither the old nor the new corporation<BR ALIGN='left'/>was a &quot;party to a reorganization&quot;, as<BR ALIGN='left'/>set forth in section 112(g)(2); and that<BR ALIGN='left'/>the transactions out of which this<BR ALIGN='left'/>controversy arose did not constitute a<BR ALIGN='left'/>reorganization within the intendment of<BR ALIGN='left'/>the Internal Revenue Code.\n\nHaving<BR ALIGN='left'/>held against appellant upon the question<BR ALIGN='left'/>of reorganization, and having concluded<BR ALIGN='left'/>that the transactions in question<BR ALIGN='left'/>amounted to liquidation of the old<BR ALIGN='left'/>corporation, we are of the opinion that<BR ALIGN='left'/>the services of the tax accountant and<BR ALIGN='left'/>attorneys, here 236*236 in question,<BR ALIGN='left'/>were rendered to the old corporation;<BR ALIGN='left'/>that the expenses incurred therefor were<BR ALIGN='left'/>for the benefit of the old corporation;<BR ALIGN='left'/>and, since they constituted ordinary and<BR ALIGN='left'/>necessary expense in carrying on its<BR ALIGN='left'/>business, they were properly deductible.</TD></TR>
+</TABLE>
+>]
+	"Wog-KoDgzZ" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Title 26 U.S.C.A. § 112(g)(1), defines a<BR ALIGN='left'/>reorganization, as follows:\n\n&quot;(D) a<BR ALIGN='left'/>transfer by a corporation of all or a<BR ALIGN='left'/>part of its assets to another<BR ALIGN='left'/>corporation if immediately after the<BR ALIGN='left'/>transfer the transferor or its<BR ALIGN='left'/>shareholders or both are in control of<BR ALIGN='left'/>the corporation to which the assets are<BR ALIGN='left'/>transferred&quot;.\nTitle 26 U.S.C.A. §<BR ALIGN='left'/>112(g)(2), provides:\n\n&quot;The term `a<BR ALIGN='left'/>party to a reorganization&#x27; includes a<BR ALIGN='left'/>corporation resulting from a<BR ALIGN='left'/>reorganization and includes both<BR ALIGN='left'/>corporations in the case of a<BR ALIGN='left'/>reorganization resulting from the<BR ALIGN='left'/>acquisition by one corporation of stock<BR ALIGN='left'/>or properties of another.&quot;\nTitle 26<BR ALIGN='left'/>U.S.C.A. § 112(b)(4), provides:\n\n&quot;No<BR ALIGN='left'/>gain or loss shall be recognized if a<BR ALIGN='left'/>corporation a party to a reorganization<BR ALIGN='left'/>exchanges property, in pursuance of the<BR ALIGN='left'/>plan of reorganization, solely for stock<BR ALIGN='left'/>or securities in another corporation a<BR ALIGN='left'/>party to the reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	bq2ulQ8lJJ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">An exchange of property for stock in<BR ALIGN='left'/>which gain or loss is not recognized<BR ALIGN='left'/>under the Internal Revenue Act must<BR ALIGN='left'/>satisfy the following requirements: (1)<BR ALIGN='left'/>there must be a reorganization, as that<BR ALIGN='left'/>term is defined in the statute; (2) the<BR ALIGN='left'/>corporation must transfer &quot;property;&quot;<BR ALIGN='left'/>(3) such property must be exchanged for<BR ALIGN='left'/>stock or stock and securities, except<BR ALIGN='left'/>that an assumption of liabilities or the<BR ALIGN='left'/>taking subject to liabilities for the<BR ALIGN='left'/>transferee corporation may also be a<BR ALIGN='left'/>part of the consideration; (4) the<BR ALIGN='left'/>exchange must be made in pursuance of<BR ALIGN='left'/>the plan of reorganization; (5) both the<BR ALIGN='left'/>transferor and the corporation, the<BR ALIGN='left'/>stock or securities of which are<BR ALIGN='left'/>received, must be a party to the<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	fsO5_ZdyGC [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">When the old corporation was dissolved<BR ALIGN='left'/>and the assets were transferred to its<BR ALIGN='left'/>former stockholders, there was a break<BR ALIGN='left'/>in the continuity of ownership, for, as<BR ALIGN='left'/>a general rule, a corporation and its<BR ALIGN='left'/>stockholders are deemed separate<BR ALIGN='left'/>entities; and this is true in respect to<BR ALIGN='left'/>tax problems</TD></TR>
+</TABLE>
+>]
+	"0zT_jvQbws" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">But in the instant case, there was no<BR ALIGN='left'/>plan of reorganization adopted by the<BR ALIGN='left'/>old company; and each stockholder, prior<BR ALIGN='left'/>to the dissolution of the old<BR ALIGN='left'/>corporation, received notice of the<BR ALIGN='left'/>special meeting to consider acting upon<BR ALIGN='left'/>arrangements to distribute the property<BR ALIGN='left'/>of the company pro rata among the<BR ALIGN='left'/>shareholders or to convey the property<BR ALIGN='left'/>to a trustee for their benefit. After<BR ALIGN='left'/>the meeting, the former stockholders<BR ALIGN='left'/>were notified in writing that provision<BR ALIGN='left'/>had been made for the transfer of the<BR ALIGN='left'/>assets to the trustees, and a suggested<BR ALIGN='left'/>letter was submitted that stockholders<BR ALIGN='left'/>could direct to the trustees. This<BR ALIGN='left'/>proposed letter set forth how much stock<BR ALIGN='left'/>had been owned by the stockholder, and<BR ALIGN='left'/>directed the trustees to ascertain when<BR ALIGN='left'/>and if a new corporation had been<BR ALIGN='left'/>organized to do business similar to that<BR ALIGN='left'/>of the old company. The proposed letter<BR ALIGN='left'/>further authorized the trustees to<BR ALIGN='left'/>transfer all of the assets of the old<BR ALIGN='left'/>corporation to such a new corporation<BR ALIGN='left'/>under certain conditions. It can hardly<BR ALIGN='left'/>be concluded that the stockholders did<BR ALIGN='left'/>not have the right, after the assets of<BR ALIGN='left'/>the old company had been transferred to<BR ALIGN='left'/>them or their trustees, to exercise,<BR ALIGN='left'/>each for himself, an independent choice<BR ALIGN='left'/>as to whether or not he would, or would<BR ALIGN='left'/>not go into the new corporation.</TD></TR>
+</TABLE>
+>]
+	bq2ulQ8lJJ -> "Wog-KoDgzZ"
+	bq2ulQ8lJJ -> "4L3o-yMZ_u"
+	fsO5_ZdyGC -> BpVtVXn3bm
+	fsO5_ZdyGC -> QtfciyqwaF
+	Vh5rDSFJWf -> SdX6867Tsd
+	Vh5rDSFJWf -> fsO5_ZdyGC
+	mbEa5XhZe0 -> Vh5rDSFJWf
+	mbEa5XhZe0 -> "0zT_jvQbws"
+	mbEa5XhZe0 -> bq2ulQ8lJJ
+}

@@ -1,0 +1,124 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	GU32ho5fin [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">On August 28th, 1968, the parties<BR ALIGN='left'/>submitted this action to the court for<BR ALIGN='left'/>determination upon a stipulation of<BR ALIGN='left'/>facts which included the following in<BR ALIGN='left'/>relevant part:\n\nChem-Atom Associates,<BR ALIGN='left'/>of Princeton, New Jersey, Inc.<BR ALIGN='left'/>(hereinafter Chem-Atom) was a holding<BR ALIGN='left'/>company which owned, among other stock,<BR ALIGN='left'/>eighty per cent (80%) of the stock of<BR ALIGN='left'/>Aero Chem Research Laboratories, Inc.<BR ALIGN='left'/>(hereinafter Aero Chem). Prior to<BR ALIGN='left'/>September, 1960, the issued common stock<BR ALIGN='left'/>of Chem-Atom was owned as<BR ALIGN='left'/>follows:\n\nNumber of\nNames<BR ALIGN='left'/>Shares\n\nJOHN B. FENN 6,459\nSEYMOUR M.<BR ALIGN='left'/>BOGDONOFF 4,841\nHARTWELL F. CALCOTE<BR ALIGN='left'/>1,412\n______\nTotal 12,712\nPrior to<BR ALIGN='left'/>August, 1960, the issued and outstanding<BR ALIGN='left'/>common stock of Aero Chem was owned as<BR ALIGN='left'/>follows:\n\nNumber of\nNames<BR ALIGN='left'/>Shares\n\nCHEM-ATOM 480\nHARTWELL F.<BR ALIGN='left'/>CALCOTE 60\nG. R. BENT, II 30\nJOHN B.<BR ALIGN='left'/>FENN 15\nSEYMOUR M. BOGDONOFF<BR ALIGN='left'/>15\n___\nTotal 600\nIn an effort to<BR ALIGN='left'/>acquire additional capital, as well as<BR ALIGN='left'/>access to the knowledge and personnel<BR ALIGN='left'/>which a large firm could provide, Chem-<BR ALIGN='left'/>Atom and Aero Chem, in 1960, entered<BR ALIGN='left'/>into negotiations with Pfaudler<BR ALIGN='left'/>Permutit, Inc. (hereinafter Pfaudler), a<BR ALIGN='left'/>corporation which manufactured glass-<BR ALIGN='left'/>lined equipment of various types.<BR ALIGN='left'/>Pfaudler was interested in acquiring the<BR ALIGN='left'/>Chem-Atom stock, and also desired to<BR ALIGN='left'/>make Aero Chem a wholly-owned subsidiary<BR ALIGN='left'/>of Chem-Atom. In furtherance of these<BR ALIGN='left'/>goals, an agreement dated July 21st,<BR ALIGN='left'/>1960, was executed which provided that<BR ALIGN='left'/>Chem-Atom would acquire the remaining<BR ALIGN='left'/>twenty per cent (20%) interest in Aero<BR ALIGN='left'/>Chem which belonged to Messrs. Calcote,<BR ALIGN='left'/>Bent, Fenn and Bogdonoff, in exchange<BR ALIGN='left'/>for 26.48 shares of Chem-Atom stock for<BR ALIGN='left'/>each share of Aero Chem. (See<BR ALIGN='left'/>Stipulation, Exhibit A.) After this<BR ALIGN='left'/>exchange was consummated, all of the<BR ALIGN='left'/>stock of Aero Chem was owned by Chem-<BR ALIGN='left'/>Atom, with the stock of the latter held<BR ALIGN='left'/>as follows:\n\nNumber of\nNames<BR ALIGN='left'/>Shares\n\nJOHN B. FENN 6,856\nSEYMOUR M.<BR ALIGN='left'/>BOGDONOFF 5,238\nHARTWELL F. CALCOTE<BR ALIGN='left'/>3,001\nG. R. BENT 795\n______\nTotal<BR ALIGN='left'/>15,890\nThereafter, by agreement dated<BR ALIGN='left'/>September 23rd, 1960 (Stipulation,<BR ALIGN='left'/>Exhibit B) Pfaudler acquired all of the<BR ALIGN='left'/>stock of Chem-Atom in exchange for its<BR ALIGN='left'/>own common stock. Pursuant to said<BR ALIGN='left'/>agreement, plaintiff gave up his 3,001<BR ALIGN='left'/>shares of Chem-Atom and received 2,311<BR ALIGN='left'/>shares of Pfaudler in 1960, and 2,802<BR ALIGN='left'/>shares of the stock of Pfaudler&#x27;s<BR ALIGN='left'/>successor corporation (Ritter Permutit<BR ALIGN='left'/>Corp.) in 1965.\n\nOn August 16th, 1960,<BR ALIGN='left'/>a ruling was requested by Chem-Atom and<BR ALIGN='left'/>its stockholders as to the federal<BR ALIGN='left'/>income tax consequences of the<BR ALIGN='left'/>aforementioned transactions. In his<BR ALIGN='left'/>ruling dated November 29th, 1960<BR ALIGN='left'/>(Stipulation, Exhibit C), the<BR ALIGN='left'/>Commissioner of Internal Revenue<BR ALIGN='left'/>determined that the Chem-Atom—Aero Chem<BR ALIGN='left'/>exchange did not qualify as a<BR ALIGN='left'/>reorganization under § 368(a) (1) (B)<BR ALIGN='left'/>(also referred to herein as a &quot;Type B<BR ALIGN='left'/>reorganization&quot;) of the Internal Revenue<BR ALIGN='left'/>Code of 1954. In reaching this<BR ALIGN='left'/>conclusion, the Commissioner noted (at<BR ALIGN='left'/>p. 4):\n\n&quot;* * * Thus a distinct<BR ALIGN='left'/>corporate entity (Pfaudler) will be<BR ALIGN='left'/>interposed between the transferors, who<BR ALIGN='left'/>will become 365*365 Pfaudler<BR ALIGN='left'/>shareholders, and their interest in the<BR ALIGN='left'/>Aero Chem stock which will be owned by<BR ALIGN='left'/>Chem-Atom, as a subsidiary of Pfaudler.<BR ALIGN='left'/>Stockholders who are indirectly<BR ALIGN='left'/>interested in transferred assets through<BR ALIGN='left'/>ownership of stock of a corporation<BR ALIGN='left'/>(Pfaudler) among whose assets is stock<BR ALIGN='left'/>of a corporation (Chem-Atom) which owns<BR ALIGN='left'/>the transferred assets, do not have a<BR ALIGN='left'/>continued substantial interest in the<BR ALIGN='left'/>transferee.&quot;\nAt the same time, it was<BR ALIGN='left'/>the Commissioner&#x27;s conclusion that the<BR ALIGN='left'/>acquisition by Pfaudler of the Chem-Atom<BR ALIGN='left'/>stock did constitute a reorganization<BR ALIGN='left'/>within § 368 (a) (1) (B), and thus no<BR ALIGN='left'/>gain or loss would be recognized.\n\nOn<BR ALIGN='left'/>their income tax return for the year<BR ALIGN='left'/>1960, plaintiffs reported a capital gain<BR ALIGN='left'/>from the exchange of the Aero-Chem<BR ALIGN='left'/>—Chem-Atom stock and paid a tax of<BR ALIGN='left'/>$12,133.16. Thereafter, on their 1965<BR ALIGN='left'/>return, plaintiffs reported a gain from<BR ALIGN='left'/>the additional distribution of Pfaudler<BR ALIGN='left'/>stock and paid a tax of $11,244.67.</TD></TR>
+</TABLE>
+>]
+	sLvH4I6mKB [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">After claims for refunds were denied by<BR ALIGN='left'/>the Commissioner of the Internal Revenue<BR ALIGN='left'/>Service, plaintiffs brought this action<BR ALIGN='left'/>for refund.</TD></TR>
+</TABLE>
+>]
+	YZmxr4jBQk [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The sole question before the court is<BR ALIGN='left'/>whether the transfer of the Aero Chem<BR ALIGN='left'/>stock by plaintiffs was a nontaxable<BR ALIGN='left'/>reorganization pursuant to § 368(a) (1)<BR ALIGN='left'/>(B).</TD></TR>
+</TABLE>
+>]
+	"0JHWCL5XyN" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">§ 354(a) (1) of the Internal Revenue<BR ALIGN='left'/>Code of 1954 provides as follows:\n\n&quot;In<BR ALIGN='left'/>general.—No gain or loss shall be<BR ALIGN='left'/>recognized if stock or securities in a<BR ALIGN='left'/>corporation a party to a reorganization<BR ALIGN='left'/>are, in pursuance of the plan of<BR ALIGN='left'/>reorganization, exchanged solely for<BR ALIGN='left'/>stock or securities in such corporation<BR ALIGN='left'/>or in another corporation a party to the<BR ALIGN='left'/>reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	"BNHxlHdp-s" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;SEC. 368. Definitions Relating to<BR ALIGN='left'/>Corporate Reorganizations.\n(a)<BR ALIGN='left'/>Reorganization.—\n(1) In general.—For<BR ALIGN='left'/>purposes of parts I and II and this<BR ALIGN='left'/>part, the term `reorganization&#x27;<BR ALIGN='left'/>means—\n* * * * * *\n(B) the acquisition<BR ALIGN='left'/>by one corporation, in exchange solely<BR ALIGN='left'/>for all or a part of its voting stock,<BR ALIGN='left'/>of stock of another corporation if,<BR ALIGN='left'/>immediately after the acquisition, the<BR ALIGN='left'/>acquiring corporation has control of<BR ALIGN='left'/>such other corporation (whether or not<BR ALIGN='left'/>such acquiring corporation had control<BR ALIGN='left'/>immediately before the acquisition),\n*<BR ALIGN='left'/>* * * * *\n(b) Party to a<BR ALIGN='left'/>reorganization.— For purposes of this<BR ALIGN='left'/>part, the term `a party to a<BR ALIGN='left'/>reorganization&#x27; includes —\n(1) a<BR ALIGN='left'/>corporation resulting from a<BR ALIGN='left'/>reorganization, and\n(2) both<BR ALIGN='left'/>corporations, in the case of a<BR ALIGN='left'/>reorganization resulting from the<BR ALIGN='left'/>acquisition by one corporation of stock<BR ALIGN='left'/>or properties of another.&quot;</TD></TR>
+</TABLE>
+>]
+	iegl2qHAnE [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the subsidiary corporation could acquire<BR ALIGN='left'/>the assets of another corporation in<BR ALIGN='left'/>exchange for its parent corporation&#x27;s<BR ALIGN='left'/>stock</TD></TR>
+</TABLE>
+>]
+	uyoD6obuxv [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Since Congress has considered the<BR ALIGN='left'/>`continuity of interest&#x27; rule satisfied<BR ALIGN='left'/>in the case of asset acquisitions, there<BR ALIGN='left'/>seems to be no reason for not applying<BR ALIGN='left'/>the same rule to stock acquisitions,<BR ALIGN='left'/>since there is little in substance to<BR ALIGN='left'/>distinguish an asset acquisition from a<BR ALIGN='left'/>stock acquisition.</TD></TR>
+</TABLE>
+>]
+	R2Ehk2YUBg [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Thus, the 1954 Code permits tax-free<BR ALIGN='left'/>reorganizations in the case of the<BR ALIGN='left'/>exchange of the parent&#x27;s stock for the<BR ALIGN='left'/>assets of a corporation acquired by the<BR ALIGN='left'/>subsidiary.</TD></TR>
+</TABLE>
+>]
+	"1tT8aR44ez" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Thus, viewing this two-step exchange as<BR ALIGN='left'/>a single transaction, the mechanics of<BR ALIGN='left'/>the exchange consisted of the<BR ALIGN='left'/>acquisition of the stock of a third<BR ALIGN='left'/>corporation (Aero Chem) by a subsidiary<BR ALIGN='left'/>(Chem-Atom) in exchange for the stock of<BR ALIGN='left'/>the parent (Pfaudler).</TD></TR>
+</TABLE>
+>]
+	emx2MANyKl [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This is precisely the factual pattern<BR ALIGN='left'/>found in Groman.</TD></TR>
+</TABLE>
+>]
+	"KbtrmFcF-w" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[TpqXkDbjDk]</TD></TR>
+</TABLE>
+>]
+	diuYXTziAA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Supreme Court in Groman v. Helvering<BR ALIGN='left'/>(302 U.S. 82 [58 S.Ct. 108, 82 L.Ed.<BR ALIGN='left'/>63]) and Helvering v. Bashford (302 U.S.<BR ALIGN='left'/>454 [58 S.Ct. 307, 82 L.Ed. 367]), found<BR ALIGN='left'/>that exchanges in which the parent<BR ALIGN='left'/>corporation transferred stock while its<BR ALIGN='left'/>subsidiary corporation received stock or<BR ALIGN='left'/>the assets of another corporation did<BR ALIGN='left'/>not qualify as tax-free reorganizations<BR ALIGN='left'/>because the required `continuity of<BR ALIGN='left'/>interest&#x27; was lacking.</TD></TR>
+</TABLE>
+>]
+	Eh8o535ubE [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">does not warrant a departure from the<BR ALIGN='left'/>result in Groman</TD></TR>
+</TABLE>
+>]
+	ooLN3g5K4i [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[fw1yqRrveb]</TD></TR>
+</TABLE>
+>]
+	h7aw8ZAMma [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Here, the exchange of the twenty per<BR ALIGN='left'/>cent (20%) interest in Aero Chem was<BR ALIGN='left'/>conducted in two steps: first, a twenty<BR ALIGN='left'/>per cent (20%) interest in Aero Chem was<BR ALIGN='left'/>exchanged for Chem-Atom stock; and,<BR ALIGN='left'/>second, the Chem-Atom stock was<BR ALIGN='left'/>exchanged for Pfaudler stock.</TD></TR>
+</TABLE>
+>]
+	"ENq9-QCWLD" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">For these reasons, this court concludes<BR ALIGN='left'/>that the transfers in question failed to<BR ALIGN='left'/>qualify as a tax-free reorganization<BR ALIGN='left'/>under § 354 of the Internal Revenue<BR ALIGN='left'/>Code. We need not, accordingly, pass on<BR ALIGN='left'/>the additional grounds raised herein.</TD></TR>
+</TABLE>
+>]
+	"5GRWaHguaB" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Accordingly, this court holds that when<BR ALIGN='left'/>the plaintiff-shareholders of Aero Chem<BR ALIGN='left'/>surrendered their stock in that<BR ALIGN='left'/>corporation, receiving, in effect, the<BR ALIGN='left'/>stock of Pfaudler, they did not retain a<BR ALIGN='left'/>continuing interest in the Aero Chem<BR ALIGN='left'/>assets, but obtained, instead, an<BR ALIGN='left'/>interest in a corporation which enjoyed<BR ALIGN='left'/>a separate and independent existence.[2]</TD></TR>
+</TABLE>
+>]
+	emx2MANyKl -> "KbtrmFcF-w"
+	emx2MANyKl -> "1tT8aR44ez"
+	"BNHxlHdp-s" -> "0JHWCL5XyN"
+	"BNHxlHdp-s" -> YZmxr4jBQk
+	R2Ehk2YUBg -> iegl2qHAnE
+	uyoD6obuxv -> R2Ehk2YUBg
+	iegl2qHAnE -> diuYXTziAA
+	Eh8o535ubE -> uyoD6obuxv
+	Eh8o535ubE -> ooLN3g5K4i
+	ooLN3g5K4i -> h7aw8ZAMma
+	"5GRWaHguaB" -> R2Ehk2YUBg
+	emx2MANyKl -> "ENq9-QCWLD"
+	"ENq9-QCWLD" -> "5GRWaHguaB"
+	"ENq9-QCWLD" -> ooLN3g5K4i
+	"ENq9-QCWLD" -> "BNHxlHdp-s"
+}

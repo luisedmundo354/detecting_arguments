@@ -1,0 +1,205 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	"9JrOmOmdQj" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Facts and Issues\n\nThe issues<BR ALIGN='left'/>before us concern the 1969 income tax<BR ALIGN='left'/>liability of Olivier Company, Inc.<BR ALIGN='left'/>(Olivier) and its shareholders for<BR ALIGN='left'/>certain 1969 transactions accomplished<BR ALIGN='left'/>in the process of (a) a plan of complete<BR ALIGN='left'/>liquidation adopted by Olivier and (b) a<BR ALIGN='left'/>plan of reorganization between Olivier<BR ALIGN='left'/>and U. S. Industries (USI), another<BR ALIGN='left'/>corporation. The plans are dated<BR ALIGN='left'/>respectively November 1 and November 4,<BR ALIGN='left'/>1968. At the time of these transactions<BR ALIGN='left'/>and Olivier&#x27;s liquidation, two-thirds of<BR ALIGN='left'/>Olivier&#x27;s stock was owned by Plantation<BR ALIGN='left'/>Patterns, Inc. (Plantation) and the<BR ALIGN='left'/>remaining one-third by William D.<BR ALIGN='left'/>Sellers, Jr.\n\nIn executing these<BR ALIGN='left'/>plans, three basic transactions<BR ALIGN='left'/>occurred:\n\n1. Pursuant to the plan of<BR ALIGN='left'/>reorganization, Olivier transferred its<BR ALIGN='left'/>only asset (stock in a third<BR ALIGN='left'/>corporation) to USI in exchange for<BR ALIGN='left'/>142,494 shares of USI stock. This<BR ALIGN='left'/>exchange is conceded to be a tax-free<BR ALIGN='left'/>step, under section 361(a), in a<BR ALIGN='left'/>statutorily-recognized &quot;C&quot;<BR ALIGN='left'/>reorganization pursuant to section<BR ALIGN='left'/>368(a)(1)(C),[1] whereby one corporation<BR ALIGN='left'/>1058*1058 acquires substantially all of<BR ALIGN='left'/>the property of another corporation in<BR ALIGN='left'/>exchange solely for the acquiring<BR ALIGN='left'/>corporation&#x27;s voting stock.\n\n2.<BR ALIGN='left'/>Pursuant to its plan of liquidation,<BR ALIGN='left'/>Olivier then sold 34,000 shares of USI<BR ALIGN='left'/>stock, approximately 25% of the shares<BR ALIGN='left'/>received in the above exchange, for<BR ALIGN='left'/>slightly over one million dollars. The<BR ALIGN='left'/>total gain realized on the sale of this<BR ALIGN='left'/>stock was $691,330.50.[2] (Gain is the<BR ALIGN='left'/>difference between the amount received<BR ALIGN='left'/>by the corporation and the corporation&#x27;s<BR ALIGN='left'/>basis in the asset(s) sold, and the<BR ALIGN='left'/>basis essentially represents the<BR ALIGN='left'/>original cost of the asset(s) to the<BR ALIGN='left'/>corporation. See note 1, supra.) The<BR ALIGN='left'/>chief issue of this appeal (see part I,<BR ALIGN='left'/>infra) is whether Olivier was liable for<BR ALIGN='left'/>tax on this gain, as the government<BR ALIGN='left'/>contends, or whether instead the gain<BR ALIGN='left'/>was the tax-free result of a sale of<BR ALIGN='left'/>property by a corporation in the process<BR ALIGN='left'/>of a plan of complete liquidation under<BR ALIGN='left'/>section 337.\n\n3. Pursuant to its plans<BR ALIGN='left'/>of both liquidation and reorganization,<BR ALIGN='left'/>Olivier then distributed all of its<BR ALIGN='left'/>assets to its shareholders, Plantation<BR ALIGN='left'/>and Sellers, in proportion to their<BR ALIGN='left'/>stock ownership in Olivier (Plantation,<BR ALIGN='left'/>2/3 ; Sellers, 1/3 ). After Olivier&#x27;s<BR ALIGN='left'/>payment of its liabilities (see note 2,<BR ALIGN='left'/>supra), these assets consisted of<BR ALIGN='left'/>slightly less than one hundred thousand<BR ALIGN='left'/>dollars in cash and 108,314 shares of<BR ALIGN='left'/>USI stock, which had a fair market value<BR ALIGN='left'/>slightly in excess of one million, one<BR ALIGN='left'/>hundred thousand dollars.[3] As a result<BR ALIGN='left'/>of this distribution, Plantation owned<BR ALIGN='left'/>four-tenths of one percent (.4%) of the<BR ALIGN='left'/>outstanding USI stock, while Sellers<BR ALIGN='left'/>owned two-tenths of one percent (.2%).<BR ALIGN='left'/>The subsidiary issues of this litigation<BR ALIGN='left'/>concern the income tax liability of<BR ALIGN='left'/>Plantation and Sellers at the<BR ALIGN='left'/>shareholder level for this distribution<BR ALIGN='left'/>of stock and cash. (See parts II and<BR ALIGN='left'/>III, infra.)</TD></TR>
+</TABLE>
+>]
+	CUV7sxkmo8 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The present taxpayer&#x27;s suit is brought<BR ALIGN='left'/>by General Housewares Corp., as<BR ALIGN='left'/>successor in interest to Plantation by<BR ALIGN='left'/>merger, to recover 1969 income taxes<BR ALIGN='left'/>allegedly erroneously assessed and<BR ALIGN='left'/>collected against Plantation as<BR ALIGN='left'/>transferee of Olivier.[4] The companion<BR ALIGN='left'/>suit, Sellers v. United States, in which<BR ALIGN='left'/>the appeal is also being decided today,<BR ALIGN='left'/>was brought by Sellers and his wife to<BR ALIGN='left'/>recover 1969 income taxes erroneously<BR ALIGN='left'/>collected against them on several<BR ALIGN='left'/>grounds.[5] In this opinion, we will<BR ALIGN='left'/>1059*1059 discuss the issues common to<BR ALIGN='left'/>both suits,[6] which were decided in<BR ALIGN='left'/>favor of the taxpayers by the district<BR ALIGN='left'/>court in consolidated proceedings.[</TD></TR>
+</TABLE>
+>]
+	ke1UkZpwUP [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 337 essentially provides that no<BR ALIGN='left'/>gain or loss to a corporation is<BR ALIGN='left'/>recognized on the sale or exchange of<BR ALIGN='left'/>assets by it during a 12-month period<BR ALIGN='left'/>following its adoption of a plan of<BR ALIGN='left'/>complete liquidation, if at the end of<BR ALIGN='left'/>such 12-month period all of its assets<BR ALIGN='left'/>have been distributed in complete<BR ALIGN='left'/>liquidation.[</TD></TR>
+</TABLE>
+>]
+	"8mOyKNZJO8" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The government concedes that, according<BR ALIGN='left'/>to its literal terms, section 337<BR ALIGN='left'/>applies to the sale of the USI stock by<BR ALIGN='left'/>Olivier during its complete liquidation<BR ALIGN='left'/>within 12 months, pursuant to its plan.<BR ALIGN='left'/>The taxpayer does not dispute that<BR ALIGN='left'/>except for this provision&#x27;s application<BR ALIGN='left'/>to a sale made by a corporation during<BR ALIGN='left'/>the process of a complete liquidation,<BR ALIGN='left'/>no provision of the I.R.C. would exempt<BR ALIGN='left'/>from taxation the gain thus realized by<BR ALIGN='left'/>Olivier.</TD></TR>
+</TABLE>
+>]
+	"4FtbtW2Uus" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The reorganization and liquidation<BR ALIGN='left'/>provisions provide differing tax<BR ALIGN='left'/>advantages to the taxpayer, based upon<BR ALIGN='left'/>the provisions&#x27; functional differences.<BR ALIGN='left'/>For instance, liquidating distributions<BR ALIGN='left'/>to shareholders of corporations are<BR ALIGN='left'/>treated as payments in exchange for the<BR ALIGN='left'/>stock, section 331, and thus ordinarily<BR ALIGN='left'/>produce an immediately recognized gain<BR ALIGN='left'/>or loss,</TD></TR>
+</TABLE>
+>]
+	L5jdNEdn_X [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In finding that the liquidation and<BR ALIGN='left'/>reorganization provisions were mutually<BR ALIGN='left'/>inconsistent and that therefore sections<BR ALIGN='left'/>337 (liquidation) and 368(a)(1)(C)<BR ALIGN='left'/>(reorganization) could not concurrently<BR ALIGN='left'/>apply to a reorganization similar to the<BR ALIGN='left'/>present, FEC Liquidating Corporation<BR ALIGN='left'/>essentially held that the &quot;continuity of<BR ALIGN='left'/>interest&quot; requisite for a tax-free<BR ALIGN='left'/>reorganization excluded a &quot;complete<BR ALIGN='left'/>liquidation,&quot; 1061*1061 which for tax<BR ALIGN='left'/>purposes requires the planned<BR ALIGN='left'/>disassociation of the shareholders from<BR ALIGN='left'/>the business if the enterprise<BR ALIGN='left'/>continues.</TD></TR>
+</TABLE>
+>]
+	GXj1LDWGkW [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the instant case, the district court<BR ALIGN='left'/>did not find FEC persuasive. In its<BR ALIGN='left'/>scholarly and well-reasoned opinion, the<BR ALIGN='left'/>trial court extensively analyzed the<BR ALIGN='left'/>case law.[10] After considering the<BR ALIGN='left'/>legislative intent reflected by section<BR ALIGN='left'/>337, it concluded that section 337<BR ALIGN='left'/>applied under present circumstances and<BR ALIGN='left'/>that the decisions relied upon by FEC<BR ALIGN='left'/>Liquidating Corporation (and by the<BR ALIGN='left'/>government now) concerned functionally<BR ALIGN='left'/>distinguishable situations.</TD></TR>
+</TABLE>
+>]
+	pruT5qyERj [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We agree with the district court&#x27;s<BR ALIGN='left'/>analysis and its conclusions. Without<BR ALIGN='left'/>repeating the district court&#x27;s detailed<BR ALIGN='left'/>examination of the authorities relied<BR ALIGN='left'/>upon, we likewise conclude that the<BR ALIGN='left'/>liquidation and reorganization<BR ALIGN='left'/>provisions are not mutually exclusive.</TD></TR>
+</TABLE>
+>]
+	aEG8PSHvUN [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the Olivier-USI plan met the<BR ALIGN='left'/>requirements of a statutorily-recognized<BR ALIGN='left'/>&quot;C&quot; reorganization pursuant to section<BR ALIGN='left'/>368(a)(1)(C), and the favorable<BR ALIGN='left'/>reorganization tax-consequences were<BR ALIGN='left'/>thus available. In addition, the Olivier<BR ALIGN='left'/>sale of USI stock during Olivier&#x27;s plan<BR ALIGN='left'/>of liquidation literally met the<BR ALIGN='left'/>requirements of section 337; therefore,<BR ALIGN='left'/>no taxable corporate gain is recognized<BR ALIGN='left'/>if that section applies.</TD></TR>
+</TABLE>
+>]
+	wfP9K3wvKv [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Further, no reorganization or<BR ALIGN='left'/>liquidation provision of the I.R.C.<BR ALIGN='left'/>conflicts with the application of<BR ALIGN='left'/>section 337 to the sale during Olivier&#x27;s<BR ALIGN='left'/>liquidation.</TD></TR>
+</TABLE>
+>]
+	L5yWuLpxd0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The government&#x27;s argument is primarily<BR ALIGN='left'/>based, as was the decision in FEC<BR ALIGN='left'/>Liquidating Corporation, upon<BR ALIGN='left'/>expressions and holdings in several<BR ALIGN='left'/>judicial decisions, none directly<BR ALIGN='left'/>involving the issue before us.[12] These<BR ALIGN='left'/>decisions 1062*1062 have denied<BR ALIGN='left'/>liquidation treatment to the<BR ALIGN='left'/>distribution of assets to shareholders<BR ALIGN='left'/>who liquidate their corporations shortly<BR ALIGN='left'/>before reincorporating the operating<BR ALIGN='left'/>assets in a separate corporation in<BR ALIGN='left'/>which they own a substantial interest,<BR ALIGN='left'/>usually in a liquidation made as an<BR ALIGN='left'/>integral part of a corporate<BR ALIGN='left'/>reorganization with reorganization tax<BR ALIGN='left'/>advantages likewise applicable. In these<BR ALIGN='left'/>instances, a &quot;continuity of interest&quot; by<BR ALIGN='left'/>the former shareholders in the new<BR ALIGN='left'/>corporate enterprise has been held to<BR ALIGN='left'/>defeat concurrent application of<BR ALIGN='left'/>taxpayer-favoring liquidating<BR ALIGN='left'/>provisions.</TD></TR>
+</TABLE>
+>]
+	UysdS827fX [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the present case, however, the<BR ALIGN='left'/>taxpayers&#x27; former 100% stock ownership<BR ALIGN='left'/>of Olivier was transformed by the &quot;C&quot;<BR ALIGN='left'/>reorganization into a 0.6% interest in<BR ALIGN='left'/>the outstanding shares of USI, and<BR ALIGN='left'/>Olivier itself was completely liquidated<BR ALIGN='left'/>as a corporate entity. The sale of<BR ALIGN='left'/>assets to third persons during the plan<BR ALIGN='left'/>of liquidation was primarily for the<BR ALIGN='left'/>purpose of satisfying Olivier&#x27;s<BR ALIGN='left'/>corporate liabilities prior to its<BR ALIGN='left'/>complete liquidation; it qualifies for<BR ALIGN='left'/>nonrecognition treatment under the<BR ALIGN='left'/>literal terms of section 337 in<BR ALIGN='left'/>accordance with the apparent<BR ALIGN='left'/>Congressional intent. Unlike the<BR ALIGN='left'/>decisions relied upon by the government,<BR ALIGN='left'/>the liquidation in this case was not<BR ALIGN='left'/>utilized in connection with a mere<BR ALIGN='left'/>shifting of corporate charters in order<BR ALIGN='left'/>to avoid taxes otherwise due</TD></TR>
+</TABLE>
+>]
+	z0Crw8lfOK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Olivier is entitled to section 337 non-<BR ALIGN='left'/>recognition treatment as well as to<BR ALIGN='left'/>application of the reorganization<BR ALIGN='left'/>provisions, because both apply to it<BR ALIGN='left'/>under the express terms of the I.R.C.<BR ALIGN='left'/>provisions enacted by Congress and both<BR ALIGN='left'/>may apply without detriment to any tax<BR ALIGN='left'/>policy or provision enunciated by the<BR ALIGN='left'/>I.R.C. as a whole.</TD></TR>
+</TABLE>
+>]
+	eFSQ_v5a1R [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[oL6BW-I8ir]</TD></TR>
+</TABLE>
+>]
+	YUsFtBqGyQ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The I.R.C. itself recognizes that<BR ALIGN='left'/>liquidation and reorganization<BR ALIGN='left'/>provisions may concurrently apply\n\nWe<BR ALIGN='left'/>have thus found no jurisprudential basis<BR ALIGN='left'/>for the government&#x27;s contention that<BR ALIGN='left'/>taxpayer-favoring reorganization and<BR ALIGN='left'/>liquidation provisions may never<BR ALIGN='left'/>concurrently apply to a liquidation<BR ALIGN='left'/>occurring as part of a &quot;C&quot;<BR ALIGN='left'/>reorganization. We are reinforced in our<BR ALIGN='left'/>conclusion by the circumstance that the<BR ALIGN='left'/>I.R.C. itself recognizes that a<BR ALIGN='left'/>liquidation tax advantage may be<BR ALIGN='left'/>accorded a corporation that liquidates<BR ALIGN='left'/>pursuant to a reorganization.</TD></TR>
+</TABLE>
+>]
+	KjOvIVfVO2 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In affirming the district court&#x27;s<BR ALIGN='left'/>holding to this effect, we thus conclude<BR ALIGN='left'/>that section 337, precluding recognition<BR ALIGN='left'/>of gain or loss at the corporate level<BR ALIGN='left'/>from sales of assets during an<BR ALIGN='left'/>I.R.C.-recognized liquidation, may apply<BR ALIGN='left'/>as to sales made to third persons by a<BR ALIGN='left'/>corporation pursuant to plans of both<BR ALIGN='left'/>liquidation and I.R.C.-recognized &quot;C&quot;<BR ALIGN='left'/>reorganization under section<BR ALIGN='left'/>368(a)(1)(C).</TD></TR>
+</TABLE>
+>]
+	"5QevUu7Pis" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the liquidation rule provided by section<BR ALIGN='left'/>331(a)(1): &quot;Amounts [received] in<BR ALIGN='left'/>complete liquidation of a corporation<BR ALIGN='left'/>shall be treated as . . . full payment .<BR ALIGN='left'/>. . for the stock.&quot; Thus, there would be<BR ALIGN='left'/>immediate recognition and taxation, at<BR ALIGN='left'/>long-term capital gain rates, of the<BR ALIGN='left'/>gain &quot;realized&quot; by the taxpayers,[</TD></TR>
+</TABLE>
+>]
+	qWL5wevcmI [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We thus affirm the district court&#x27;s<BR ALIGN='left'/>holding that the Olivier shareholders<BR ALIGN='left'/>are entitled not to recognize their gain<BR ALIGN='left'/>from the distribution of the USI stock<BR ALIGN='left'/>in exchange for their Olivier stock<BR ALIGN='left'/>pursuant to Olivier&#x27;s plan of &quot;C&quot;<BR ALIGN='left'/>reorganization under section<BR ALIGN='left'/>368(a)(1)(C).</TD></TR>
+</TABLE>
+>]
+	WFz7tdLNnj [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This provision says nothing about the<BR ALIGN='left'/>recognition of gain upon the liquidation<BR ALIGN='left'/>of a corporation. It simply states that<BR ALIGN='left'/>the liquidating distribution shall be<BR ALIGN='left'/>treated as payment in exchange for the<BR ALIGN='left'/>stock. The legislative creation of an<BR ALIGN='left'/>&quot;exchange&quot; has great bearing in the<BR ALIGN='left'/>determination of the character of any<BR ALIGN='left'/>gain or loss which is recognized since<BR ALIGN='left'/>it fulfills one of the requirements for<BR ALIGN='left'/>long term capital gain characterization<BR ALIGN='left'/>(Section 1222(3)), however, the<BR ALIGN='left'/>recognition of gain or loss is 1065*1065<BR ALIGN='left'/>provided for elsewhere in the Code.</TD></TR>
+</TABLE>
+>]
+	mHknhScxBS [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The district court correctly decided the<BR ALIGN='left'/>issues addressed in parts I and II of<BR ALIGN='left'/>this opinion. Although a subsequent<BR ALIGN='left'/>decision by this court eroded the basis<BR ALIGN='left'/>for the trial court&#x27;s conclusion as to<BR ALIGN='left'/>the issue addressed in part III, with<BR ALIGN='left'/>regard to the present taxpayer, the net<BR ALIGN='left'/>amount of the refund awarded is not<BR ALIGN='left'/>changed. AFFIRMED.</TD></TR>
+</TABLE>
+>]
+	BGdwFqhLyd [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[1zHCm1BnSf]</TD></TR>
+</TABLE>
+>]
+	"3bnknPliB-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[81et6JSLzU]</TD></TR>
+</TABLE>
+>]
+	VCcpWudkac [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">we noted that the shareholder tax<BR ALIGN='left'/>consequences as to the USI stock<BR ALIGN='left'/>received are governed by section 354<BR ALIGN='left'/>(reorganization) rather than section 331<BR ALIGN='left'/>(liquidation). For similar reasons, as<BR ALIGN='left'/>to the cash boot the shareholders&#x27; tax<BR ALIGN='left'/>liability is governed by section 356 of<BR ALIGN='left'/>the reorganization provisions rather<BR ALIGN='left'/>than section 331 of the liquidation<BR ALIGN='left'/>provisions.\n\nWith regard to property<BR ALIGN='left'/>distributed to shareholders pursuant to<BR ALIGN='left'/>a plan of reorganization, section<BR ALIGN='left'/>356[19] essentially provides 1066*1066<BR ALIGN='left'/>that the gain will be recognized at the<BR ALIGN='left'/>time of distribution,[20] unless it &quot;has<BR ALIGN='left'/>the effect of the distribution of a<BR ALIGN='left'/>dividend&quot;—in which event it is in<BR ALIGN='left'/>general subject to tax upon receipt at<BR ALIGN='left'/>ordinary tax rates.</TD></TR>
+</TABLE>
+>]
+	nt7qdQQW4r [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Subsequent to the district court<BR ALIGN='left'/>decision, however, this court<BR ALIGN='left'/>distinguished the Wright case. In<BR ALIGN='left'/>Shimberg v. United States, 577 F.2d 283<BR ALIGN='left'/>(5th Cir. 1978), we held that Wright&#x27;s<BR ALIGN='left'/>&quot;meaningful reduction&quot; test should not<BR ALIGN='left'/>apply where, as here, the &quot;boot&quot; paid<BR ALIGN='left'/>would have been taxed as a dividend if<BR ALIGN='left'/>made prior to the reorganization.</TD></TR>
+</TABLE>
+>]
+	"4gUPptNVdR" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the case of the present plaintiff<BR ALIGN='left'/>taxpayer, Plantation,[21] the government<BR ALIGN='left'/>concedes that no additional tax is due<BR ALIGN='left'/>because of a deduction to which<BR ALIGN='left'/>Plantation would have been entitled had<BR ALIGN='left'/>the cash distribution been treated as<BR ALIGN='left'/>dividend income.[</TD></TR>
+</TABLE>
+>]
+	xMhhwK1Zh3 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Since at the time of this distribution<BR ALIGN='left'/>Olivier&#x27;s accumulated earnings and<BR ALIGN='left'/>profits exceeded the cash distributed to<BR ALIGN='left'/>Olivier&#x27;s stockholders, under Shimberg<BR ALIGN='left'/>the cash &quot;boot&quot; so distributed to them<BR ALIGN='left'/>had &quot;the effect of the distribution of a<BR ALIGN='left'/>dividend,&quot; section 356(a)(2) (see also<BR ALIGN='left'/>section 316(a)), and was thus includable<BR ALIGN='left'/>in gross income, section 301(c).</TD></TR>
+</TABLE>
+>]
+	JAzkm_dzHo [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[7tch_VZuyS]</TD></TR>
+</TABLE>
+>]
+	dl9xgn4YVv [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[-lxnVzvtIz]</TD></TR>
+</TABLE>
+>]
+	FkB5Xa1rIA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">we hold the boot to be taxable as<BR ALIGN='left'/>dividend income, reversing the district<BR ALIGN='left'/>court. The government appeals from a<BR ALIGN='left'/>judgment in favor of the taxpayer.<BR ALIGN='left'/>Except for the minor modification noted<BR ALIGN='left'/>(which does not affect the present<BR ALIGN='left'/>refund herein awarded by the trial<BR ALIGN='left'/>court),</TD></TR>
+</TABLE>
+>]
+	pruT5qyERj -> L5jdNEdn_X
+	pruT5qyERj -> GXj1LDWGkW
+	"4FtbtW2Uus" -> ke1UkZpwUP
+	"4FtbtW2Uus" -> "8mOyKNZJO8"
+	UysdS827fX -> L5yWuLpxd0
+	UysdS827fX -> "4FtbtW2Uus"
+	UysdS827fX -> aEG8PSHvUN
+	UysdS827fX -> pruT5qyERj
+	z0Crw8lfOK -> eFSQ_v5a1R
+	z0Crw8lfOK -> UysdS827fX
+	KjOvIVfVO2 -> z0Crw8lfOK
+	KjOvIVfVO2 -> YUsFtBqGyQ
+	qWL5wevcmI -> WFz7tdLNnj
+	qWL5wevcmI -> "5QevUu7Pis"
+	VCcpWudkac -> nt7qdQQW4r
+	VCcpWudkac -> xMhhwK1Zh3
+	"4gUPptNVdR" -> JAzkm_dzHo
+	"4gUPptNVdR" -> VCcpWudkac
+	mHknhScxBS -> "4gUPptNVdR"
+	mHknhScxBS -> dl9xgn4YVv
+	mHknhScxBS -> qWL5wevcmI
+	mHknhScxBS -> BGdwFqhLyd
+	mHknhScxBS -> KjOvIVfVO2
+	mHknhScxBS -> "3bnknPliB-"
+}

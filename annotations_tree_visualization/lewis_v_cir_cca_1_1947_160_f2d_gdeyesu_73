@@ -1,0 +1,94 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	yoboBG7Mw2 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">But the Supreme Court in the Gregory<BR ALIGN='left'/>case, where the transferee corporation<BR ALIGN='left'/>was merely used as a conduit for the<BR ALIGN='left'/>distribution of a dividend to the<BR ALIGN='left'/>shareholder, has said that in addition<BR ALIGN='left'/>to compliance with the literal terms of<BR ALIGN='left'/>the statutory definition there must be a<BR ALIGN='left'/>&quot;business purpose&quot; i. e., it is<BR ALIGN='left'/>necessary that there be &quot;a transfer made<BR ALIGN='left'/>`in pursuance of a plan of<BR ALIGN='left'/>reorganization&#x27; § 112(g) of corporate<BR ALIGN='left'/>business; and not a transfer of assets<BR ALIGN='left'/>by one corporation to another in<BR ALIGN='left'/>pursuance of a plan having no relation<BR ALIGN='left'/>to the business of either * * *&quot;.</TD></TR>
+</TABLE>
+>]
+	otg8z8mkvS [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Ordinarily as in the Gregory case the<BR ALIGN='left'/>use of the transferee company to avoid<BR ALIGN='left'/>taxes and its immediate dissolution are<BR ALIGN='left'/>sufficient to indicate that the<BR ALIGN='left'/>transaction was not &quot;required by<BR ALIGN='left'/>business exigencies&quot;, was not a<BR ALIGN='left'/>&quot;necessary incident of the [conduct of<BR ALIGN='left'/>the] enterprise&quot; and was not undertaken<BR ALIGN='left'/>for &quot;reasons germane to the continuance<BR ALIGN='left'/>of the business&quot;. But immediate<BR ALIGN='left'/>dissolution of the transferee<BR ALIGN='left'/>corporation does not necessarily<BR ALIGN='left'/>indicate a Gregory situation if there<BR ALIGN='left'/>were business reasons for its creation.<BR ALIGN='left'/>Lea v. Commissioner, 2 Cir., 1938, 96<BR ALIGN='left'/>F.2d 55. Usually, however, the<BR ALIGN='left'/>continuance of the business in the hands<BR ALIGN='left'/>of the transferee (or by a reorganized<BR ALIGN='left'/>company in the case of a<BR ALIGN='left'/>recapitalization) is deemed sufficient<BR ALIGN='left'/>indication of the required &quot;business<BR ALIGN='left'/>purpose&quot; and the Treasury Regulations<BR ALIGN='left'/>quoted above list this as a requirement<BR ALIGN='left'/>for the statutory reorganization.</TD></TR>
+</TABLE>
+>]
+	dfeFvIoYy0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">On the other hand, the court in the<BR ALIGN='left'/>Electrical case applied the Gregory<BR ALIGN='left'/>doctrine where the existence of the<BR ALIGN='left'/>transferor was ephemeral despite<BR ALIGN='left'/>continuation of the business by the<BR ALIGN='left'/>transferee. But the immediate<BR ALIGN='left'/>liquidation and dissolution of the<BR ALIGN='left'/>transferor is frequently part of the<BR ALIGN='left'/>plan of reorganization and does not<BR ALIGN='left'/>prevent the reorganization from being<BR ALIGN='left'/>within the statute if the transaction<BR ALIGN='left'/>conforms to the statutory definition and<BR ALIGN='left'/>&quot;business purpose&quot; is found. See<BR ALIGN='left'/>Commissioner v. Whitaker, 1 Cir., 1938,<BR ALIGN='left'/>101 F.2d 640; Helvering v. Schoellkopf,<BR ALIGN='left'/>2 Cir., 1938, 100 F.2d 415; Gross v.<BR ALIGN='left'/>Commissioner, 5 Cir., 1937, 88 F.2d 567.<BR ALIGN='left'/>It can therefore be readily observed<BR ALIGN='left'/>that the &quot;business purpose&quot; requirement<BR ALIGN='left'/>is not necessarily satisfied by a<BR ALIGN='left'/>finding that the purpose of the exchange<BR ALIGN='left'/>was the continuation of the business in<BR ALIGN='left'/>the hands of the transferee since every<BR ALIGN='left'/>decision depends on the particular facts<BR ALIGN='left'/>in each case.</TD></TR>
+</TABLE>
+>]
+	"-U_0cIUPWe" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Here then the Tax Court&#x27;s finding of<BR ALIGN='left'/>fact that the purposes of the transfer<BR ALIGN='left'/>were to continue the business under the<BR ALIGN='left'/>new company and to liquidate and<BR ALIGN='left'/>dissolve the old company cannot be<BR ALIGN='left'/>treated as necessarily indicating<BR ALIGN='left'/>absence or presence of &quot;business<BR ALIGN='left'/>purpose&quot;. Moreover, we have difficulty<BR ALIGN='left'/>in finding the &quot;business exigencies&quot; or<BR ALIGN='left'/>&quot;reasons germane to the continuance of<BR ALIGN='left'/>the business&quot; which necessitated this<BR ALIGN='left'/>transaction. The only result of this<BR ALIGN='left'/>&quot;reorganization&quot; obvious to us seems to<BR ALIGN='left'/>have been to place the old company in a<BR ALIGN='left'/>position to effect a complete<BR ALIGN='left'/>liquidation.</TD></TR>
+</TABLE>
+>]
+	HgJ5Ohv2mE [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the ultimate result seems to have been<BR ALIGN='left'/>merely the partial liquidation of the<BR ALIGN='left'/>old company. The Tax Court in its<BR ALIGN='left'/>opinion and the Commissioner in his<BR ALIGN='left'/>brief concede that the effect of these<BR ALIGN='left'/>transactions was a partial liquidation.<BR ALIGN='left'/>Since the gain under a partial<BR ALIGN='left'/>liquidation would be treated under the<BR ALIGN='left'/>then existing provisions of the Internal<BR ALIGN='left'/>Revenue Code as a short term capital<BR ALIGN='left'/>gain, the taxpayer of course seeks to<BR ALIGN='left'/>avoid this result. If the avoidance of<BR ALIGN='left'/>the tax consequences of a partial<BR ALIGN='left'/>liquidation was the sole consideration<BR ALIGN='left'/>for the &quot;reorganization&quot; we are unable<BR ALIGN='left'/>to discern how the Gregory requirement<BR ALIGN='left'/>has been satisfied and especially is<BR ALIGN='left'/>this true if shareholder business<BR ALIGN='left'/>purposes are considered as not<BR ALIGN='left'/>satisfying the &quot;business purpose&quot;<BR ALIGN='left'/>requirement.</TD></TR>
+</TABLE>
+>]
+	"Kp-7amcTTt" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Petitioners seek review of the decision<BR ALIGN='left'/>of the Tax Court redetermining a<BR ALIGN='left'/>deficiency in income taxes for the<BR ALIGN='left'/>calendar year 1941.</TD></TR>
+</TABLE>
+>]
+	"ZxAM_y-Hwa" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Petitioners are the surviving trustees<BR ALIGN='left'/>under the will of John B. Lewis who died<BR ALIGN='left'/>December 29, 1930. On January 9, 1931<BR ALIGN='left'/>John D. Lewis, Inc., a Rhode Island<BR ALIGN='left'/>corporation, was organized to take over<BR ALIGN='left'/>the sole proprietorship business<BR ALIGN='left'/>operated by John B. Lewis prior to his<BR ALIGN='left'/>death. Petitioners, as trustees,<BR ALIGN='left'/>acquired all the issued and outstanding<BR ALIGN='left'/>stock of the corporation consisting of<BR ALIGN='left'/>4,000 shares of common stock having a<BR ALIGN='left'/>basis of $435,000. At the beginning of<BR ALIGN='left'/>1941, the tax year in question, the<BR ALIGN='left'/>corporation was engaged in three<BR ALIGN='left'/>different lines of business, the<BR ALIGN='left'/>manufacture of synthetic resins, the<BR ALIGN='left'/>manufacture of chemicals for the textile<BR ALIGN='left'/>industry and the distribution of<BR ALIGN='left'/>chemicals. On June 30, 1941 the<BR ALIGN='left'/>corporate name was changed to John D.<BR ALIGN='left'/>Lewis Company. In July of the same year<BR ALIGN='left'/>two branches of the business, the<BR ALIGN='left'/>synthetic resin business and the<BR ALIGN='left'/>chemical distribution business, were<BR ALIGN='left'/>sold for a consideration in the<BR ALIGN='left'/>aggregate of approximately $325,000 in<BR ALIGN='left'/>cash and marketable securities. The<BR ALIGN='left'/>corporation continued to operate the<BR ALIGN='left'/>remaining line of business.\n\nOn<BR ALIGN='left'/>December 27, 1941, the board of<BR ALIGN='left'/>directors of John D. Lewis Company<BR ALIGN='left'/>(hereinafter called the old company)<BR ALIGN='left'/>voted to transfer to John D. Lewis<BR ALIGN='left'/>Company (hereinafter called the new<BR ALIGN='left'/>company), a corporation to be organized,<BR ALIGN='left'/>all the assets of the old company other<BR ALIGN='left'/>than (1) securities and (2) cash in<BR ALIGN='left'/>excess of $90,000, i. e. essentially the<BR ALIGN='left'/>assets pertaining to the remaining line<BR ALIGN='left'/>of business were to be transferred to<BR ALIGN='left'/>the new company. The stockholders,<BR ALIGN='left'/>petitioners herein, on the same day,<BR ALIGN='left'/>ratified the action of the directors and<BR ALIGN='left'/>also voted to change the name of the old<BR ALIGN='left'/>company to Traverse Street Corporation.<BR ALIGN='left'/>The change of name was accomplished on<BR ALIGN='left'/>December 29, 1941.\n\nThe new company<BR ALIGN='left'/>was incorporated on December 29, 1941<BR ALIGN='left'/>with an authorized capital of 500 shares<BR ALIGN='left'/>of no par common stock. Both the old<BR ALIGN='left'/>company and the new company were Rhode<BR ALIGN='left'/>Island corporations. At 11:00 a. m. on<BR ALIGN='left'/>the same day the assets of the remaining<BR ALIGN='left'/>line of business of the old company<BR ALIGN='left'/>referred to in the previous resolutions<BR ALIGN='left'/>amounting to approximately $156,000 were<BR ALIGN='left'/>transferred to the new company and the<BR ALIGN='left'/>old company received in exchange all the<BR ALIGN='left'/>stock of the new company. At 11:30 a. m.<BR ALIGN='left'/>on the same day, after the exchange had<BR ALIGN='left'/>been effected, the directors of the old<BR ALIGN='left'/>company voted to liquidate that company<BR ALIGN='left'/>by distributing all the remaining assets<BR ALIGN='left'/>including the stock of the new company<BR ALIGN='left'/>to the shareholders of the old company<BR ALIGN='left'/>in cancellation and redemption of the<BR ALIGN='left'/>outstanding 4,000 shares of common stock<BR ALIGN='left'/>of the old company. Immediately<BR ALIGN='left'/>thereafter the stockholders of the old<BR ALIGN='left'/>company ratified this action of the<BR ALIGN='left'/>directors. Thereupon, the following<BR ALIGN='left'/>assets, at the fair market value<BR ALIGN='left'/>indicated, were distributed to the<BR ALIGN='left'/>petitioners, the sole stockholders of<BR ALIGN='left'/>the old company, in complete<BR ALIGN='left'/>cancellation and redemption 841*841 of<BR ALIGN='left'/>all the issued and outstanding stock of<BR ALIGN='left'/>that company:\n\nCash $166,375.74\nStock<BR ALIGN='left'/>of John D. Lewis Company\n(the new<BR ALIGN='left'/>company) 156,598.61\nOther stocks and<BR ALIGN='left'/>bonds 177,496.15\nNotes<BR ALIGN='left'/>636.80\n___________\nTotal<BR ALIGN='left'/>$501,107.30\nThe Tax Court found that<BR ALIGN='left'/>the gain realized by the petitioners on<BR ALIGN='left'/>this transaction was $66,107.30 and<BR ALIGN='left'/>petitioners do not now dispute this<BR ALIGN='left'/>amount. The earnings or profits of the<BR ALIGN='left'/>old company accumulated since 1931<BR ALIGN='left'/>exceeded on December 29, 1941 the amount<BR ALIGN='left'/>of gain realized.\n\nPetitioners on<BR ALIGN='left'/>their income tax return reported the<BR ALIGN='left'/>gain as a gain realized upon complete<BR ALIGN='left'/>liquidation of a corporation under<BR ALIGN='left'/>Internal Revenue Code § 115(c)[1] and<BR ALIGN='left'/>taxable as a long term capital gain<BR ALIGN='left'/>under Internal Revenue Code § 117, 26<BR ALIGN='left'/>U.S.C.A. Int.Rev.Code, § 117. The<BR ALIGN='left'/>Commissioner assessed a deficiency since<BR ALIGN='left'/>he determined that the liquidating<BR ALIGN='left'/>transfer by the old company constituted<BR ALIGN='left'/>an exchange pursuant to a plan of<BR ALIGN='left'/>reorganization of the old company within<BR ALIGN='left'/>the meaning of Internal Revenue Code §<BR ALIGN='left'/>112(b) (3)[2] and that the gain was<BR ALIGN='left'/>therefore taxable in full as the<BR ALIGN='left'/>distribution of a taxable dividend under<BR ALIGN='left'/>Internal Revenue Code § 112(c) (1) and<BR ALIGN='left'/>(2).[</TD></TR>
+</TABLE>
+>]
+	iIMKhVOrrn [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We conclude that there was a plan of<BR ALIGN='left'/>reorganization within the meaning of the<BR ALIGN='left'/>statute, and that the distribution to<BR ALIGN='left'/>petitioners in liquidation of the old<BR ALIGN='left'/>company was but one step in the<BR ALIGN='left'/>integrated transaction</TD></TR>
+</TABLE>
+>]
+	t1XOYP7O_7 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">There can be no doubt that the<BR ALIGN='left'/>transaction between the old and new<BR ALIGN='left'/>companies is literally within the<BR ALIGN='left'/>definition of &quot;reorganization&quot; of<BR ALIGN='left'/>Internal Revenue Code § 112(g) (1) (D).</TD></TR>
+</TABLE>
+>]
+	"_1ZCs3-u6k" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[7plW8-zdJ6]</TD></TR>
+</TABLE>
+>]
+	MZvO5mnlk9 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">None of the usual examples of &quot;business<BR ALIGN='left'/>purpose&quot; seem to be here present; e. g.<BR ALIGN='left'/>modification of the corporate structure,<BR ALIGN='left'/>Helvering v. Winston Bros. Co., supra;<BR ALIGN='left'/>the addition of new business enterprises<BR ALIGN='left'/>or the severance of part of the old,<BR ALIGN='left'/>Gross v. Commissioner, supra</TD></TR>
+</TABLE>
+>]
+	OZZrptVy8O [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">112(g)-2 says: &quot;* * *. Moreover, the<BR ALIGN='left'/>transaction or series of transactions,<BR ALIGN='left'/>embraced in a plan of reorganization<BR ALIGN='left'/>must not only come within the specific<BR ALIGN='left'/>language of section 112(g) (1), but the<BR ALIGN='left'/>readjustments involved in the exchanges<BR ALIGN='left'/>effected in the consummation thereof<BR ALIGN='left'/>must be undertaken for reasons germane<BR ALIGN='left'/>to the continuance of the business of a<BR ALIGN='left'/>corporation a party to the<BR ALIGN='left'/>reorganization</TD></TR>
+</TABLE>
+>]
+	i3RO0XNfFM [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Tax Court sustained the<BR ALIGN='left'/>Commissioner. It found that the transfer<BR ALIGN='left'/>by the 842*842 old company of part of<BR ALIGN='left'/>its assets to the new company in<BR ALIGN='left'/>exchange for all the stock of the new<BR ALIGN='left'/>company was a reorganization literally<BR ALIGN='left'/>within the definition of Internal<BR ALIGN='left'/>Revenue Code § 112(g) (1) (D).[4] The<BR ALIGN='left'/>Tax Court then applied §§ 112(b) (3) and<BR ALIGN='left'/>112(c) (1) and (2), holding that the<BR ALIGN='left'/>distribution had the &quot;effect of the<BR ALIGN='left'/>distribution of a taxable dividend&quot;<BR ALIGN='left'/>under the authority of Commissioner v.<BR ALIGN='left'/>Estate of Bedford, 1945, 325 U.S. 283,<BR ALIGN='left'/>65 S.Ct. 1157, 89 L.Ed. 1611.</TD></TR>
+</TABLE>
+>]
+	otg8z8mkvS -> yoboBG7Mw2
+	otg8z8mkvS -> t1XOYP7O_7
+	HgJ5Ohv2mE -> "-U_0cIUPWe"
+	HgJ5Ohv2mE -> dfeFvIoYy0
+	dfeFvIoYy0 -> otg8z8mkvS
+	dfeFvIoYy0 -> "_1ZCs3-u6k"
+	iIMKhVOrrn -> HgJ5Ohv2mE
+	iIMKhVOrrn -> MZvO5mnlk9
+	iIMKhVOrrn -> OZZrptVy8O
+}

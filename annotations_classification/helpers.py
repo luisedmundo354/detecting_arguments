@@ -201,7 +201,7 @@ def encode_sentences(
 
     key = model_key.lower()
     if key == "modern-bert":
-        from .modern_bert_sagemaker import get_default_client
+        from modern_bert_sagemaker import get_default_client
 
         client = get_default_client()
         return client.embeddings(texts, batch_size=batch_size, normalize=normalize)

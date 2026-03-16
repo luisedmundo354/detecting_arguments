@@ -1,0 +1,263 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	JaWFgLCFYS [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Plaintiff had acquired these shares as a<BR ALIGN='left'/>result of the consolidation of a number<BR ALIGN='left'/>of different corporation and a<BR ALIGN='left'/>partnership. The Commissioner was of the<BR ALIGN='left'/>opinion that the consolidation of these<BR ALIGN='left'/>companies was a reorganization as that<BR ALIGN='left'/>term is defined by section 203(h)(1)(A)<BR ALIGN='left'/>of the Revenue Act of 1926, 44 Stat. 9,<BR ALIGN='left'/>14, 26 U.S.C.A.Int.Rev. Acts, page 150,<BR ALIGN='left'/>and that the taxpayer had received this<BR ALIGN='left'/>stock pursuant to the plan of<BR ALIGN='left'/>reorganization. It followed therefrom<BR ALIGN='left'/>that the receipt of this stock by the<BR ALIGN='left'/>taxpayer was tax-free, and that, in<BR ALIGN='left'/>order to determine the gain or loss from<BR ALIGN='left'/>a subsequent disposition of it, the<BR ALIGN='left'/>proper basis was the original cost of an<BR ALIGN='left'/>aliquot part of his stock in the Cosmos<BR ALIGN='left'/>Carbon Company and the Natural Gas<BR ALIGN='left'/>Products Company, whose assets had been<BR ALIGN='left'/>transferred to the United Carbon Company<BR ALIGN='left'/>in return in part for its stock.</TD></TR>
+</TABLE>
+>]
+	xHHz5JQXDr [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The taxpayer contends that he did not<BR ALIGN='left'/>receive this stock pursuant to a plan of<BR ALIGN='left'/>reorganization and that, therefore, he<BR ALIGN='left'/>is taxable on the difference between the<BR ALIGN='left'/>sale price of the stock and its value at<BR ALIGN='left'/>the time he received it.</TD></TR>
+</TABLE>
+>]
+	"Nnm9wUfp-S" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 203(b)(4) provides:\n\n&quot;No gain<BR ALIGN='left'/>or loss shall be recognized if property<BR ALIGN='left'/>is transferred to a corporation by one<BR ALIGN='left'/>or more persons solely in exchange for<BR ALIGN='left'/>stock or securities in such corporation,<BR ALIGN='left'/>and immediately after the exchange such<BR ALIGN='left'/>person or persons are in control of the<BR ALIGN='left'/>corporation; but in the case of an<BR ALIGN='left'/>exchange by two or more persons this<BR ALIGN='left'/>paragraph shall apply only if the amount<BR ALIGN='left'/>of the stock and securities received by<BR ALIGN='left'/>each is substantially in proportion to<BR ALIGN='left'/>his interest in the property prior to<BR ALIGN='left'/>the exchange.&quot;</TD></TR>
+</TABLE>
+>]
+	nX0n4IwoPj [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We are of opinion that the facts of this<BR ALIGN='left'/>case do bring it within the provisions<BR ALIGN='left'/>of section 203(b)(3), taken in<BR ALIGN='left'/>conjunction with sections 203(e) and<BR ALIGN='left'/>203(c) and 203 (h) (1) (A).</TD></TR>
+</TABLE>
+>]
+	hYzdcmCqm3 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 203(e) makes the provisions of<BR ALIGN='left'/>section 203(b)(3) applicable if the<BR ALIGN='left'/>corporation receiving money or other<BR ALIGN='left'/>property in addition to stock<BR ALIGN='left'/>&quot;distributes it in pursuance of the plan<BR ALIGN='left'/>of reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	"5D-WAUdT6H" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 203(h)(1)(A) defines a<BR ALIGN='left'/>reorganization as &quot;merger or<BR ALIGN='left'/>consolidation (including the acquisition<BR ALIGN='left'/>by one corporation of * * *<BR ALIGN='left'/>substantially all the properties of<BR ALIGN='left'/>another corporation),&quot;</TD></TR>
+</TABLE>
+>]
+	"47cosJbP5I" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">section 203(c) provides that a<BR ALIGN='left'/>stockholder of a transferor corporation<BR ALIGN='left'/>receiving stock of the transferee<BR ALIGN='left'/>corporation pursuant to the plan of<BR ALIGN='left'/>reorganization, realizes no gain or loss<BR ALIGN='left'/>on the transaction.</TD></TR>
+</TABLE>
+>]
+	"_-OAt8--lL" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Under these sections we are of opinion<BR ALIGN='left'/>that plaintiff realized no gain or loss<BR ALIGN='left'/>on the stock of the United Carbon<BR ALIGN='left'/>Company received by him as a result of<BR ALIGN='left'/>the liquidation of the Cosmos Carbon<BR ALIGN='left'/>Company and the Natural Gas Products<BR ALIGN='left'/>Company.</TD></TR>
+</TABLE>
+>]
+	XSFUHsHW6N [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We do think it can be doubted that this<BR ALIGN='left'/>transaction was a reorganization as<BR ALIGN='left'/>defined in section 203(h) (1) (A).</TD></TR>
+</TABLE>
+>]
+	nfv7KQnNW8 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We are of the opinion that both the<BR ALIGN='left'/>Cosmos Carbon Company and the Natural<BR ALIGN='left'/>Gas Products Company transferred to the<BR ALIGN='left'/>United Carbon Company &quot;substantially<BR ALIGN='left'/>all&quot; its assets.</TD></TR>
+</TABLE>
+>]
+	"PF-XR6E4CN" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the one case 91.6 per cent of its<BR ALIGN='left'/>assets were transferred</TD></TR>
+</TABLE>
+>]
+	"-l3WAb_fu2" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">in the other 95.7 per cent</TD></TR>
+</TABLE>
+>]
+	APL0Ojq1X3 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">. The transferor companies remained<BR ALIGN='left'/>liable for their debts and, of course,<BR ALIGN='left'/>used the assets retained to discharge<BR ALIGN='left'/>them, and, hence, in determining whether<BR ALIGN='left'/>substantially all its assets were<BR ALIGN='left'/>transferred, the amount of the retained<BR ALIGN='left'/>assets should be offset by the amount of<BR ALIGN='left'/>the liabilities.</TD></TR>
+</TABLE>
+>]
+	"-VwL2l59fq" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Taking this into consideration, there<BR ALIGN='left'/>would seem to be no doubt that<BR ALIGN='left'/>&quot;substantially all&quot; of its assets were<BR ALIGN='left'/>transferred. If so, the facts of the<BR ALIGN='left'/>case clearly make the transaction a<BR ALIGN='left'/>reorganization as that term is defined<BR ALIGN='left'/>in the Act.</TD></TR>
+</TABLE>
+>]
+	"5oR3NBJU5M" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[n-2EU0Ca-c]</TD></TR>
+</TABLE>
+>]
+	iveakt6ng4 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It was in fact distributed and we are of<BR ALIGN='left'/>opinion that it was distributed in<BR ALIGN='left'/>pursuance of the plan of reorganization.</TD></TR>
+</TABLE>
+>]
+	r0nFrdvuCV [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Since we are of the opinion that both<BR ALIGN='left'/>the Cosmos Carbon Company and the<BR ALIGN='left'/>Natural Gas Products Company were<BR ALIGN='left'/>parties to the reorganization and<BR ALIGN='left'/>exchanged property for money and stock<BR ALIGN='left'/>&quot;in another corporation a party to the<BR ALIGN='left'/>reorganization,&quot; then no gain nor loss<BR ALIGN='left'/>is to be recognized, if the Cosmos<BR ALIGN='left'/>Carbon Company and the Natural Gas<BR ALIGN='left'/>Products Company distributed the money<BR ALIGN='left'/>received &quot;in pursuance of the plan of<BR ALIGN='left'/>reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	"CNv-ZWJ1Qa" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[1EohrihBuQ]</TD></TR>
+</TABLE>
+>]
+	"0MseWeX2Z0" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">it is reasonably inferable from all the<BR ALIGN='left'/>facts and circumstances that this was a<BR ALIGN='left'/>part of the plan of reorganization.</TD></TR>
+</TABLE>
+>]
+	"6Qeli9BlOT" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">all of the transferor corporations<BR ALIGN='left'/>denuded themselves of all of their<BR ALIGN='left'/>assets, except as noted, and, hence,<BR ALIGN='left'/>were incapable of continuing operations.</TD></TR>
+</TABLE>
+>]
+	iCG6MA10tR [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The declared purpose, as shown by the<BR ALIGN='left'/>findings, was the unification of the<BR ALIGN='left'/>properties of the various corporations<BR ALIGN='left'/>into a single ownership and the<BR ALIGN='left'/>elimination of competition.</TD></TR>
+</TABLE>
+>]
+	gqYsSO0rcj [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We have, accordingly, found as a fact<BR ALIGN='left'/>that it was a part of the plan of<BR ALIGN='left'/>reorganization that the transferor<BR ALIGN='left'/>companies should distribute to their<BR ALIGN='left'/>stockholders not only the cash, but also<BR ALIGN='left'/>the stock received from the United<BR ALIGN='left'/>Carbon Company.</TD></TR>
+</TABLE>
+>]
+	JFdpTYKzuA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It is not reasonable to suppose that it<BR ALIGN='left'/>was intended that, after they had<BR ALIGN='left'/>converted their remaining assets into<BR ALIGN='left'/>cash and had discharged their<BR ALIGN='left'/>liabilities, they should remain in<BR ALIGN='left'/>existence merely as shells.</TD></TR>
+</TABLE>
+>]
+	dFFLxJav0Y [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[PdFoUngiiP]</TD></TR>
+</TABLE>
+>]
+	LzPUIC8YNt [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the case clearly comes within the<BR ALIGN='left'/>provisions of section 203(b) (3) and<BR ALIGN='left'/>203(e) (1).</TD></TR>
+</TABLE>
+>]
+	qiENpEYVhP [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">then this taxpayer received his stock as<BR ALIGN='left'/>the result of a tax-free transaction<BR ALIGN='left'/>under the terms of section 203(c),</TD></TR>
+</TABLE>
+>]
+	T5OoHhTeyw [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">If there is distributed, in pursuance of<BR ALIGN='left'/>a plan of reorganization, to a<BR ALIGN='left'/>shareholder in a corporation a party to<BR ALIGN='left'/>the reorganization, stock or securities<BR ALIGN='left'/>* * * in another corporation a party to<BR ALIGN='left'/>the reorganization, without the<BR ALIGN='left'/>surrender by such shareholder of stock<BR ALIGN='left'/>or securities in such a corporation, no<BR ALIGN='left'/>gain to the distributee from the receipt<BR ALIGN='left'/>of such stock or securities shall be<BR ALIGN='left'/>recognized.&quot;</TD></TR>
+</TABLE>
+>]
+	"M-Abanaudk" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Nor do we think that it is material that<BR ALIGN='left'/>these companies sold and bought again<BR ALIGN='left'/>some of the stock of the United Carbon<BR ALIGN='left'/>Company prior to the time that they were<BR ALIGN='left'/>finally dissolved.</TD></TR>
+</TABLE>
+>]
+	sMARR_760S [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the remaining stock was distributed<BR ALIGN='left'/>pursuant to the plan of reorganization,<BR ALIGN='left'/>and this is the controlling fact.</TD></TR>
+</TABLE>
+>]
+	ofsrp2ZMXU [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[ktcG5Ps_vy]</TD></TR>
+</TABLE>
+>]
+	xcji1zHaQ6 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It is true that the Natural Gas Products<BR ALIGN='left'/>Company was not dissolved until June 24,<BR ALIGN='left'/>1926, and that final distribution to its<BR ALIGN='left'/>shareholders was not made until December<BR ALIGN='left'/>15, 1927</TD></TR>
+</TABLE>
+>]
+	RkFUn4Yc9F [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the Cosmos Carbon Company was not<BR ALIGN='left'/>dissolved until August 2, 1927, and that<BR ALIGN='left'/>final distribution to its shareholders<BR ALIGN='left'/>was not made until August 31, 1928</TD></TR>
+</TABLE>
+>]
+	"7zBwrTXP7E" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">we think this interval of time does not<BR ALIGN='left'/>affect the taxability of the<BR ALIGN='left'/>transaction.</TD></TR>
+</TABLE>
+>]
+	NnF86bwgJg [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[hG4SrR6yZz]</TD></TR>
+</TABLE>
+>]
+	xAF_M7Opin [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The essential thing is that the<BR ALIGN='left'/>distribution was made pursuant to the<BR ALIGN='left'/>plan of reorganization, even though some<BR ALIGN='left'/>time was necessary in order to finally<BR ALIGN='left'/>effectuate the plan.</TD></TR>
+</TABLE>
+>]
+	"5IIACbZsqy" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>25:Analysis</TD></TR>
+</TABLE>
+>]
+	sVQx33AFWk [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[P0wt7PorsQ]</TD></TR>
+</TABLE>
+>]
+	sVQx33AFWk -> nX0n4IwoPj
+	"_-OAt8--lL" -> sVQx33AFWk
+	"5oR3NBJU5M" -> XSFUHsHW6N
+	XSFUHsHW6N -> nfv7KQnNW8
+	APL0Ojq1X3 -> "PF-XR6E4CN"
+	APL0Ojq1X3 -> "-l3WAb_fu2"
+	"-VwL2l59fq" -> APL0Ojq1X3
+	"5oR3NBJU5M" -> "-VwL2l59fq"
+	"5D-WAUdT6H" -> "5oR3NBJU5M"
+	nX0n4IwoPj -> hYzdcmCqm3
+	nX0n4IwoPj -> "5D-WAUdT6H"
+	nX0n4IwoPj -> "47cosJbP5I"
+	iveakt6ng4 -> r0nFrdvuCV
+	"CNv-ZWJ1Qa" -> iveakt6ng4
+	hYzdcmCqm3 -> "CNv-ZWJ1Qa"
+	"6Qeli9BlOT" -> iCG6MA10tR
+	"0MseWeX2Z0" -> "6Qeli9BlOT"
+	"0MseWeX2Z0" -> gqYsSO0rcj
+	"0MseWeX2Z0" -> JFdpTYKzuA
+	"CNv-ZWJ1Qa" -> "0MseWeX2Z0"
+	hYzdcmCqm3 -> dFFLxJav0Y
+	dFFLxJav0Y -> LzPUIC8YNt
+	qiENpEYVhP -> T5OoHhTeyw
+	qiENpEYVhP -> LzPUIC8YNt
+	"47cosJbP5I" -> T5OoHhTeyw
+	sMARR_760S -> "M-Abanaudk"
+	ofsrp2ZMXU -> sMARR_760S
+	"7zBwrTXP7E" -> xcji1zHaQ6
+	"7zBwrTXP7E" -> RkFUn4Yc9F
+	xAF_M7Opin -> "7zBwrTXP7E"
+	NnF86bwgJg -> xAF_M7Opin
+	T5OoHhTeyw -> NnF86bwgJg
+	dFFLxJav0Y -> JFdpTYKzuA
+	"47cosJbP5I" -> qiENpEYVhP
+}

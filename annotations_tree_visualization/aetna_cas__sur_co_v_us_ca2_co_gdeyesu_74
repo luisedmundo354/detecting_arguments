@@ -1,0 +1,149 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	Ijb8cuH_Sv [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The corporate taxpayer, The Aetna<BR ALIGN='left'/>Casualty and Surety Company, appeals<BR ALIGN='left'/>from a judgment entered December 10,<BR ALIGN='left'/>1975 in the District of Connecticut, M.<BR ALIGN='left'/>Joseph Blumenfeld, District Judge, 403<BR ALIGN='left'/>F.Supp. 498, granting the government&#x27;s<BR ALIGN='left'/>motion for summary judgment[1] and<BR ALIGN='left'/>dismissing the complaint in a tax refund<BR ALIGN='left'/>action brought by the taxpayer to<BR ALIGN='left'/>recover federal corporate income taxes<BR ALIGN='left'/>and interest for the taxable year 1963<BR ALIGN='left'/>in amount of $4,467,630.59 claimed to<BR ALIGN='left'/>have been erroneously assessed and<BR ALIGN='left'/>collected.</TD></TR>
+</TABLE>
+>]
+	mcoc08SDGt [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Following the disallowance of New<BR ALIGN='left'/>Aetna&#x27;s refund claim, the instant action<BR ALIGN='left'/>was commenced on August 14, 1973 in the<BR ALIGN='left'/>District of Connecticut. Jurisdiction<BR ALIGN='left'/>was invoked under 28 U.S.C. § 1346(a)<BR ALIGN='left'/>(1970). Both sides moved for summary<BR ALIGN='left'/>judgment. The court, having found after<BR ALIGN='left'/>a hearing that there was no dispute as<BR ALIGN='left'/>to the material facts, filed an opinion<BR ALIGN='left'/>on October 15, 1975, 403 F.Supp. 498,<BR ALIGN='left'/>granting the government&#x27;s motion for<BR ALIGN='left'/>summary judgment and denying the<BR ALIGN='left'/>taxpayer&#x27;s motion for summary judgment.<BR ALIGN='left'/>From the judgment entered December 10,<BR ALIGN='left'/>1975 dismissing the complaint, the<BR ALIGN='left'/>instant appeal has been taken.</TD></TR>
+</TABLE>
+>]
+	wJVM38yXDG [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In view of the district court&#x27;s clear,<BR ALIGN='left'/>comprehensive and detailed statement of<BR ALIGN='left'/>the facts, 403 F.Supp. at 500-04, it is<BR ALIGN='left'/>sufficient for our purpose to summarize<BR ALIGN='left'/>only the essential facts believed<BR ALIGN='left'/>necessary to an understanding of our<BR ALIGN='left'/>rulings on the questions presented.[4]<BR ALIGN='left'/>The facts are not in dispute.\n\n(A)<BR ALIGN='left'/>Prior Proceedings\n\nAetna Life<BR ALIGN='left'/>Insurance Company (Aetna Life) is a<BR ALIGN='left'/>Connecticut corporation which writes and<BR ALIGN='left'/>sells life, accident and health<BR ALIGN='left'/>insurance. Prior to December 29, 1964<BR ALIGN='left'/>Aetna Life held 61.61% of the<BR ALIGN='left'/>outstanding voting common stock of The<BR ALIGN='left'/>Aetna Casualty and Surety Company (Old<BR ALIGN='left'/>Aetna), a Connecticut corporation which<BR ALIGN='left'/>wrote and sold liability, fire, theft,<BR ALIGN='left'/>property damage and surety insurance. In<BR ALIGN='left'/>November or December 1964 Aetna Life<BR ALIGN='left'/>organized Farmington Valley Insurance<BR ALIGN='left'/>Company (Farmington Valley), a<BR ALIGN='left'/>Connecticut corporation which was a<BR ALIGN='left'/>wholly owned shell subsidiary with no<BR ALIGN='left'/>business or assets of its own, for the<BR ALIGN='left'/>sole purpose of acquiring the business<BR ALIGN='left'/>and assets of Old Aetna. On December 29,<BR ALIGN='left'/>1964 Old Aetna was merged into<BR ALIGN='left'/>Farmington Valley in a complex, three-<BR ALIGN='left'/>party reorganization described more<BR ALIGN='left'/>fully below. As a result of this merger<BR ALIGN='left'/>and the related stock transfers,<BR ALIGN='left'/>minority shareholders of Old Aetna<BR ALIGN='left'/>received shares of Aetna Life in return<BR ALIGN='left'/>for their Old Aetna shares and the<BR ALIGN='left'/>shares of Farmington Valley were placed<BR ALIGN='left'/>in trust for the shareholders of Aetna<BR ALIGN='left'/>Life. The name of Farmington Valley<BR ALIGN='left'/>later was changed to The Aetna Casualty<BR ALIGN='left'/>and Surety Company (New Aetna),<BR ALIGN='left'/>plaintiff herein.\n\nPursuant to the<BR ALIGN='left'/>loss carryback provisions of the Code,<BR ALIGN='left'/>New Aetna sought to carry 816*816 back<BR ALIGN='left'/>its net operating losses for the taxable<BR ALIGN='left'/>period December 30 through 31, 1964 and<BR ALIGN='left'/>the calendar year 1965 against the net<BR ALIGN='left'/>income of Old Aetna for the calendar<BR ALIGN='left'/>year 1963 and the period January 1<BR ALIGN='left'/>through December 29, 1964.[5]\n\nThe IRS<BR ALIGN='left'/>allowed New Aetna to carry back the<BR ALIGN='left'/>$7,213,547 net operating loss allocated<BR ALIGN='left'/>to the period prior to the December 29,<BR ALIGN='left'/>1964 reorganization, see note 5, supra,<BR ALIGN='left'/>to offset a part of Old Aetna&#x27;s 1963<BR ALIGN='left'/>taxable income; but no part of New<BR ALIGN='left'/>Aetna&#x27;s net operating losses for the<BR ALIGN='left'/>periods subsequent to December 29, 1964<BR ALIGN='left'/>was allowed as a carryback to offset Old<BR ALIGN='left'/>Aetna&#x27;s other 1963 taxable income.\n\nAs<BR ALIGN='left'/>a result of the disallowance of the<BR ALIGN='left'/>latter New Aetna paid federal income<BR ALIGN='left'/>taxes for the calendar year 1963 in<BR ALIGN='left'/>amount of $4,071,655.21, plus deficiency<BR ALIGN='left'/>interest of $395,975.38. New Aetna filed<BR ALIGN='left'/>a timely claim for refund to recover the<BR ALIGN='left'/>sum of these two amounts ($4,467,630.59)<BR ALIGN='left'/>plus statutory interest.</TD></TR>
+</TABLE>
+>]
+	"4mg8uIIL35" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(B) December 29, 1964 Merger\n\nIn order<BR ALIGN='left'/>better to focus on the corporate<BR ALIGN='left'/>reorganization of December 29, 1964<BR ALIGN='left'/>which is at the core of this case, it is<BR ALIGN='left'/>necessary to back up a bit and review<BR ALIGN='left'/>certain events which led to that<BR ALIGN='left'/>reorganization.\n\nAs a result of the<BR ALIGN='left'/>Life Insurance Company Income Tax Act of<BR ALIGN='left'/>1959, Pub.L. No. 86-69, § 2(a), 73 Stat.<BR ALIGN='left'/>112, the federal income tax liability of<BR ALIGN='left'/>insurance companies such as Aetna Life<BR ALIGN='left'/>depended in part on the value of the<BR ALIGN='left'/>assets held by the company. The greater<BR ALIGN='left'/>the value of the company&#x27;s assets, the<BR ALIGN='left'/>greater the portion of its income which<BR ALIGN='left'/>was subject to tax. See §§ 802(a)(1) and<BR ALIGN='left'/>(b), 804(a)(1), 805(a)(1), (b)(2)(B),<BR ALIGN='left'/>and (b)(4). Understandably, Aetna Life<BR ALIGN='left'/>wished to remove its 61.61% ownership of<BR ALIGN='left'/>Old Aetna from its tax base.\n\nAetna<BR ALIGN='left'/>Life also wished to achieve an identity<BR ALIGN='left'/>of ownership between the shareholders of<BR ALIGN='left'/>Aetna Life and those of Old Aetna.<BR ALIGN='left'/>Although the officers and directors of<BR ALIGN='left'/>the two companies had been identical for<BR ALIGN='left'/>several years prior to the<BR ALIGN='left'/>reorganization, they had fiduciary<BR ALIGN='left'/>duties to different groups of<BR ALIGN='left'/>shareholders because of Aetna Life&#x27;s<BR ALIGN='left'/>61.61% stock interest in Old Aetna. This<BR ALIGN='left'/>prevented the two companies from further<BR ALIGN='left'/>integrating their operations, from<BR ALIGN='left'/>selling insurance together, and from<BR ALIGN='left'/>taking other business steps which might<BR ALIGN='left'/>have achieved operational economies. The<BR ALIGN='left'/>diverse stock ownership of the two<BR ALIGN='left'/>companies also required elaborate cost<BR ALIGN='left'/>allocation accounting procedures.\n\nThe<BR ALIGN='left'/>obvious way for Aetna Life to remove Old<BR ALIGN='left'/>Aetna from its tax base would 817*817<BR ALIGN='left'/>have been for Aetna Life to distribute<BR ALIGN='left'/>its Old Aetna stock to the Aetna Life<BR ALIGN='left'/>shareholders. This would have resulted<BR ALIGN='left'/>in taxable income to Aetna Life under §<BR ALIGN='left'/>802(b)(3) which makes certain portions<BR ALIGN='left'/>of distributions to shareholders taxable<BR ALIGN='left'/>to the life insurance company. See §§<BR ALIGN='left'/>815(a)(1) and (b)(3).\n\nAetna Life<BR ALIGN='left'/>therefore sought to persuade Congress to<BR ALIGN='left'/>amend these provisions of the Code. In<BR ALIGN='left'/>1964 Congress enacted the Act of<BR ALIGN='left'/>September 2, 1964, Pub.L. No. 88-571, §<BR ALIGN='left'/>4(a)(2), 78 Stat. 859, which added,<BR ALIGN='left'/>inter alia, what is now § 815(f)(3)(B)<BR ALIGN='left'/>of the Code.[6] This provided two<BR ALIGN='left'/>avenues by which Aetna Life could<BR ALIGN='left'/>distribute its Old Aetna stock without<BR ALIGN='left'/>incurring tax liability to itself. §<BR ALIGN='left'/>815(f)(3)(B)(i) excluded from the<BR ALIGN='left'/>definition of taxable distributions<BR ALIGN='left'/>certain distributions of the stock of an<BR ALIGN='left'/>80% controlled corporation which is an<BR ALIGN='left'/>insurance company if the distributing<BR ALIGN='left'/>corporation obtained such control<BR ALIGN='left'/>pursuant to a § 368(a)(1)(B)<BR ALIGN='left'/>reorganization (stock for stock<BR ALIGN='left'/>exchange) and if the distributing<BR ALIGN='left'/>corporation at all times owned more than<BR ALIGN='left'/>50% of the controlled corporation. §<BR ALIGN='left'/>815(f)(3)(B)(ii) excluded from the<BR ALIGN='left'/>definition of taxable distributions<BR ALIGN='left'/>certain distributions of the stock of a<BR ALIGN='left'/>100% controlled insurance corporation<BR ALIGN='left'/>provided (i) that control was obtained<BR ALIGN='left'/>in exchange for the distributing<BR ALIGN='left'/>corporation&#x27;s own stock; (ii) that the<BR ALIGN='left'/>controlled corporation immediately<BR ALIGN='left'/>exchanged the distributing corporation&#x27;s<BR ALIGN='left'/>stock to a third corporation in a §<BR ALIGN='left'/>368(a)(1)(A) reorganization (statutory<BR ALIGN='left'/>merger or consolidation) or a §<BR ALIGN='left'/>368(a)(1)(C) reorganization (exchange of<BR ALIGN='left'/>stock for assets); and (iii) that the<BR ALIGN='left'/>distributing corporation had owned at<BR ALIGN='left'/>least 50% of the third corporation&#x27;s<BR ALIGN='left'/>voting stock.\n\nIn order to bring<BR ALIGN='left'/>itself within the provisions of the new<BR ALIGN='left'/>law and thus avoid incurring tax<BR ALIGN='left'/>liability to itself as a result of<BR ALIGN='left'/>distributing its Old Aetna stock to its<BR ALIGN='left'/>shareholders, Aetna Life devised a plan<BR ALIGN='left'/>substantially as follows:\n\nAetna Life<BR ALIGN='left'/>would organize Farmington Valley as a<BR ALIGN='left'/>wholly owned shell subsidiary with no<BR ALIGN='left'/>business of its own. Aetna Life would<BR ALIGN='left'/>issue 13,300,000 shares of its voting<BR ALIGN='left'/>common stock and exchange them for all<BR ALIGN='left'/>1,000 shares of Farmington Valley. Then,<BR ALIGN='left'/>pursuant to a reorganization plan to be<BR ALIGN='left'/>approved by the shareholders of<BR ALIGN='left'/>Farmington Valley and Old Aetna,<BR ALIGN='left'/>Farmington Valley would exchange its<BR ALIGN='left'/>Aetna Life stock for the voting common<BR ALIGN='left'/>stock held by Old Aetna shareholders in<BR ALIGN='left'/>the ratio of 1.9 shares of Aetna Life<BR ALIGN='left'/>stock for each share of Old Aetna stock.<BR ALIGN='left'/>Aetna Life would retire the Aetna Life<BR ALIGN='left'/>stock which it received in return for<BR ALIGN='left'/>its 61.61% stock interest in Old Aetna.<BR ALIGN='left'/>Farmington Valley would cancel its newly<BR ALIGN='left'/>acquired Old Aetna stock. Then by<BR ALIGN='left'/>operation 818*818 of Connecticut&#x27;s<BR ALIGN='left'/>merger law Farmington Valley would<BR ALIGN='left'/>succeed to all of the assets and<BR ALIGN='left'/>liabilities of Old Aetna. Farmington<BR ALIGN='left'/>Valley would change its name to The<BR ALIGN='left'/>Aetna Casualty and Surety Company (New<BR ALIGN='left'/>Aetna). Under that name New Aetna would<BR ALIGN='left'/>carry on the business of Old Aetna.<BR ALIGN='left'/>Aetna Life would distribute the 1,000<BR ALIGN='left'/>shares of Farmington Valley (now New<BR ALIGN='left'/>Aetna) by putting them into a trust for<BR ALIGN='left'/>the benefit of the Aetna Life<BR ALIGN='left'/>shareholders. Evidence of a proportional<BR ALIGN='left'/>beneficial interest in the trust would<BR ALIGN='left'/>be stapled to each Aetna Life share so<BR ALIGN='left'/>that both the Aetna Life shares and its<BR ALIGN='left'/>proportional beneficial interest of New<BR ALIGN='left'/>Aetna shares in the trust would always<BR ALIGN='left'/>be held by the same owner.\n\nOn October<BR ALIGN='left'/>21, 1964 the Connecticut Insurance<BR ALIGN='left'/>Commissioner approved the plan.\n\nOn<BR ALIGN='left'/>October 23, 1964 the IRS issued a number<BR ALIGN='left'/>of rulings which had been requested by<BR ALIGN='left'/>Aetna Life with respect to the plan,<BR ALIGN='left'/>including the following: that the merger<BR ALIGN='left'/>of Old Aetna into Farmington Valley and<BR ALIGN='left'/>the transfer of Aetna Life stock held by<BR ALIGN='left'/>Farmington Valley to Old Aetna&#x27;s<BR ALIGN='left'/>shareholders would constitute a §<BR ALIGN='left'/>368(a)(1)(C) reorganization; and that<BR ALIGN='left'/>the transfer by Aetna Life of its New<BR ALIGN='left'/>Aetna stock to a trustee for the benefit<BR ALIGN='left'/>of Aetna Life shareholders would be non-<BR ALIGN='left'/>taxable to Aetna Life and its<BR ALIGN='left'/>shareholders under §§ 355 and 311.\n\nOn<BR ALIGN='left'/>November 24, 1964 the shareholders of<BR ALIGN='left'/>Aetna Life and Old Aetna approved the<BR ALIGN='left'/>plan. The reorganization was carried out<BR ALIGN='left'/>on December 29, 1964.</TD></TR>
+</TABLE>
+>]
+	XVTj_hAXOF [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">§ 172 provides generally that a<BR ALIGN='left'/>corporation may carry back its net<BR ALIGN='left'/>operating losses against the three<BR ALIGN='left'/>preceding years&#x27; income and that it may<BR ALIGN='left'/>carry over such losses to five<BR ALIGN='left'/>succeeding years until they are<BR ALIGN='left'/>exhausted.[8] In allowing corporations<BR ALIGN='left'/>to spread losses over a nine year<BR ALIGN='left'/>period, § 172 is intended to equalize<BR ALIGN='left'/>the tax treatment of a corporation whose<BR ALIGN='left'/>income may fluctuate from year to year<BR ALIGN='left'/>with that of other corporations whose<BR ALIGN='left'/>incomes may be relatively constant.</TD></TR>
+</TABLE>
+>]
+	Ur1My0l21T [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">§ 381(b)(3) provides that — except for<BR ALIGN='left'/>reorganizations under § 368(a)(1)(F) (&quot;a<BR ALIGN='left'/>mere change in identity, form or place<BR ALIGN='left'/>of organization, however effected&quot;) —<BR ALIGN='left'/>the acquiring corporation &quot;in a<BR ALIGN='left'/>distribution or transfer described in<BR ALIGN='left'/>subsection (a)&quot; may not carry back its<BR ALIGN='left'/>losses against the pre-acquisition<BR ALIGN='left'/>income of the acquired corporation.</TD></TR>
+</TABLE>
+>]
+	"45moklItV8" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">§ 381(b)(3) does not prevent the<BR ALIGN='left'/>acquiring corporation from carrying back<BR ALIGN='left'/>its losses against its own pre-<BR ALIGN='left'/>reorganization income, even if those<BR ALIGN='left'/>losses resulted from the operations of<BR ALIGN='left'/>the non-surviving corporation. The<BR ALIGN='left'/>purpose of § 381(b)(3) was to provide a<BR ALIGN='left'/>hard and fast rule that the acquiring<BR ALIGN='left'/>corporation may not carry back losses to<BR ALIGN='left'/>the pre-reorganization tax years of the<BR ALIGN='left'/>transferor corporation — unless the<BR ALIGN='left'/>acquisition qualifies as a §<BR ALIGN='left'/>368(a)(1)(F) reorganization. § 381(b)(3)<BR ALIGN='left'/>avoids the need for divisional<BR ALIGN='left'/>accounting and prevents the manipulation<BR ALIGN='left'/>that would result if the acquiring<BR ALIGN='left'/>corporation were allowed to apportion<BR ALIGN='left'/>current losses between the operations<BR ALIGN='left'/>acquired from each of the predecessor<BR ALIGN='left'/>corporations.</TD></TR>
+</TABLE>
+>]
+	"0Jh6Nv3KX2" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Unlike the other subsections of §<BR ALIGN='left'/>368(a)(1) which contain definitions of<BR ALIGN='left'/>various types of reorganizations, §<BR ALIGN='left'/>368(a)(1)(F) on its face says very<BR ALIGN='left'/>little. What may be &quot;a mere change in<BR ALIGN='left'/>identity [or] form&quot; for one purpose may<BR ALIGN='left'/>not be for another purpose.</TD></TR>
+</TABLE>
+>]
+	"w21-rGBAh8" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">At least one other Circuit which has<BR ALIGN='left'/>dealt with this provision of the Code,<BR ALIGN='left'/>in the context of interpreting the<BR ALIGN='left'/>provisions relating to tax-exempt<BR ALIGN='left'/>transactions, or determining whether<BR ALIGN='left'/>certain corporate transactions<BR ALIGN='left'/>constitute liquidations or<BR ALIGN='left'/>reorganizations, has assumed that a<BR ALIGN='left'/>transaction deemed an (F) reorganization<BR ALIGN='left'/>for those purposes must also be an (F)<BR ALIGN='left'/>reorganization for purposes of § 381.</TD></TR>
+</TABLE>
+>]
+	WhLIGMK9PA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">With the addition of § 381 and the<BR ALIGN='left'/>significance of § 368(a)(1)(F) to the<BR ALIGN='left'/>operation of the carryback and<BR ALIGN='left'/>accounting provisions of § 381,[10] it<BR ALIGN='left'/>became more important to delineate the<BR ALIGN='left'/>boundaries between a § 368(a)(1)(F)<BR ALIGN='left'/>reorganization and other types of<BR ALIGN='left'/>reorganizations than previously had been<BR ALIGN='left'/>the case. Reef Corp. v. Commissioner,<BR ALIGN='left'/>368 F.2d 125, 136 (5 Cir. 1966), cert.<BR ALIGN='left'/>denied, 386 U.S. 1018 (1967).</TD></TR>
+</TABLE>
+>]
+	RHJEGmc6Gl [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Aetna Life owned 61.61% of Old Aetna.<BR ALIGN='left'/>Aetna Life organized New Aetna (then<BR ALIGN='left'/>Farmington Valley) as a 100% owned<BR ALIGN='left'/>subsidiary solely to acquire Old Aetna.<BR ALIGN='left'/>New Aetna had no business or assets of<BR ALIGN='left'/>its own. New Aetna acquired Old Aetna&#x27;s<BR ALIGN='left'/>assets on December 29, 1964. As an<BR ALIGN='left'/>incident of the reorganization, the<BR ALIGN='left'/>38.39% minority shareholders of Old<BR ALIGN='left'/>Aetna exchanged their Old Aetna stock<BR ALIGN='left'/>for Aetna Life stock. These minority<BR ALIGN='left'/>shareholders retained a reduced<BR ALIGN='left'/>proprietary interest in the business of<BR ALIGN='left'/>the subsidiary upon the distribution by<BR ALIGN='left'/>Aetna Life of the New Aetna stock which<BR ALIGN='left'/>was placed in a trust for the benefit of<BR ALIGN='left'/>Aetna Life shareholders.</TD></TR>
+</TABLE>
+>]
+	NEPc0gUQFf [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">reorganizations under § 368(a)(1)(A)-(E)<BR ALIGN='left'/>may qualify also under § 368(a)(1)(F);<BR ALIGN='left'/>and it is well settled that many (F)<BR ALIGN='left'/>reorganizations do fit within the types<BR ALIGN='left'/>of reorganizations defined by the other<BR ALIGN='left'/>subsections of § 368(a)(1). Gordon v.<BR ALIGN='left'/>Commissioner, supra, 424 F.2d at 384</TD></TR>
+</TABLE>
+>]
+	l2S0FfKz_s [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Absent the shift in the proprietary<BR ALIGN='left'/>interests of the minority shareholders<BR ALIGN='left'/>of Old Aetna, there would be no basis<BR ALIGN='left'/>for contending that the merger of Old<BR ALIGN='left'/>Aetna into a shell corporation, which<BR ALIGN='left'/>had no business or assets of its own,<BR ALIGN='left'/>did not qualify as a § 368(a)(1)(F)<BR ALIGN='left'/>reorganization. The government has<BR ALIGN='left'/>acknowledged in the past that such a<BR ALIGN='left'/>reorganization is &quot;a mere change in<BR ALIGN='left'/>identity [or] form&quot; for purposes of §§<BR ALIGN='left'/>368(a)(1)(F) and 381(b)(3).</TD></TR>
+</TABLE>
+>]
+	RwZ1LQnElT [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We conclude that the reorganization of<BR ALIGN='left'/>Old Aetna into New Aetna was a §<BR ALIGN='left'/>368(a)(1)(F) reorganization and that New<BR ALIGN='left'/>Aetna is entitled to carryback its post-<BR ALIGN='left'/>reorganization losses against the pre-<BR ALIGN='left'/>organization income of Old Aetna<BR ALIGN='left'/>pursuant to §§ 172 and<BR ALIGN='left'/>381(b)(3).\n\nReversed and remanded with<BR ALIGN='left'/>directions to enter judgment for the<BR ALIGN='left'/>taxpayer.</TD></TR>
+</TABLE>
+>]
+	"Z8Am-3CK8a" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Since New Aetna was merely a corporate<BR ALIGN='left'/>shell with no business of its own, none<BR ALIGN='left'/>of the accounting problems which<BR ALIGN='left'/>motivated § 381(b)(3) is present<BR ALIGN='left'/>here.[14] Indeed, since New Aetna had no<BR ALIGN='left'/>pre-reorganization tax history of its<BR ALIGN='left'/>own, application here of the carryback<BR ALIGN='left'/>prohibition contained in § 381(b)(3)<BR ALIGN='left'/>would prevent New Aetna from obtaining<BR ALIGN='left'/>any carryback of its current losses,<BR ALIGN='left'/>even though § 381(b)(3) does not prevent<BR ALIGN='left'/>acquiring corporations in other types of<BR ALIGN='left'/>reorganizations from carrying back<BR ALIGN='left'/>losses to their own pre-reorganization<BR ALIGN='left'/>tax years.</TD></TR>
+</TABLE>
+>]
+	__rRd0XGJl [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We do not believe that the mere fact<BR ALIGN='left'/>that a redemption has occurred should<BR ALIGN='left'/>lead to so Draconian a result,<BR ALIGN='left'/>particularly since § 172 manifests a<BR ALIGN='left'/>legislative policy in favor of<BR ALIGN='left'/>carrybacks which ordinarily would not be<BR ALIGN='left'/>affected by a simple redemption.</TD></TR>
+</TABLE>
+>]
+	ejEBtm2N26 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Here, unlike Southwest Consolidated,<BR ALIGN='left'/>there was merely a shift in the<BR ALIGN='left'/>proprietary interest of the minority<BR ALIGN='left'/>shareholders of Old Aetna. The<BR ALIGN='left'/>transaction here involved cannot be<BR ALIGN='left'/>described accurately as a &quot;sale&quot; of one<BR ALIGN='left'/>corporation&#x27;s assets to another<BR ALIGN='left'/>corporation.</TD></TR>
+</TABLE>
+>]
+	c_pCXSpUkn [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We agree with the Fifth Circuit that the<BR ALIGN='left'/>instant reorganization might begin to<BR ALIGN='left'/>look more like a &quot;sale&quot; — or at least<BR ALIGN='left'/>might look less like a § 368(a)(1)(F)<BR ALIGN='left'/>reorganization and a redemption — &quot;if<BR ALIGN='left'/>the change in proprietary interests were<BR ALIGN='left'/>to new persons and less than 50% of the<BR ALIGN='left'/>former stockholders&#x27; interest in the old<BR ALIGN='left'/>corporation remained in the new<BR ALIGN='left'/>corporation.&quot; Reef Corp. v.<BR ALIGN='left'/>Commissioner, supra, 368 F.2d at 137.<BR ALIGN='left'/>But that is not the situation here.[</TD></TR>
+</TABLE>
+>]
+	ivKfsJRDJG [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Helvering v. Southwest Consolidated<BR ALIGN='left'/>Corp., 315 U.S. 194, 202-03 (1942),<BR ALIGN='left'/>where the Supreme Court stated that &quot;a<BR ALIGN='left'/>transaction which shifts the ownership<BR ALIGN='left'/>of the proprietary interest in a<BR ALIGN='left'/>corporation is hardly `a mere change in<BR ALIGN='left'/>identity, form, or place of<BR ALIGN='left'/>organization&#x27; . . . .&quot; There the assets<BR ALIGN='left'/>of an insolvent corporation were<BR ALIGN='left'/>transferred to a new corporation which<BR ALIGN='left'/>was owned and controlled by the old<BR ALIGN='left'/>corporation&#x27;s creditors. The<BR ALIGN='left'/>shareholders of the old corporation<BR ALIGN='left'/>received only a small minority interest<BR ALIGN='left'/>in the new corporation. In determining<BR ALIGN='left'/>whether there had been a &quot;sale&quot; of the<BR ALIGN='left'/>old corporation&#x27;s assets to the new<BR ALIGN='left'/>corporation, or merely a reorganization,<BR ALIGN='left'/>the Court dealt in one sentence with<BR ALIGN='left'/>what is now § 368(a)(1)(F).</TD></TR>
+</TABLE>
+>]
+	Qr7SXXANIp [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We need not rule upon Aetna&#x27;s claim that<BR ALIGN='left'/>its merger with Old Aetna was a<BR ALIGN='left'/>reorganization under § 368(a)(1)(B) even<BR ALIGN='left'/>if it also was covered by §<BR ALIGN='left'/>368(a)(1)(C), since under the<BR ALIGN='left'/>circumstances of this case § 381(b)(3)<BR ALIGN='left'/>does not bar the loss carryback. While<BR ALIGN='left'/>the transactions did involve the type of<BR ALIGN='left'/>stock-for-stock exchange contemplated by<BR ALIGN='left'/>§ 368(a)(1)(B), they also involved<BR ALIGN='left'/>acquisition of Old Aetna&#x27;s assets by New<BR ALIGN='left'/>Aetna.</TD></TR>
+</TABLE>
+>]
+	VH9FfTh4cg [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[6pqaebxoxK]</TD></TR>
+</TABLE>
+>]
+	"w21-rGBAh8" -> "0Jh6Nv3KX2"
+	"w21-rGBAh8" -> WhLIGMK9PA
+	l2S0FfKz_s -> NEPc0gUQFf
+	l2S0FfKz_s -> RHJEGmc6Gl
+	"45moklItV8" -> XVTj_hAXOF
+	"45moklItV8" -> Ur1My0l21T
+	__rRd0XGJl -> "Z8Am-3CK8a"
+	__rRd0XGJl -> "45moklItV8"
+	c_pCXSpUkn -> ejEBtm2N26
+	c_pCXSpUkn -> l2S0FfKz_s
+	RwZ1LQnElT -> c_pCXSpUkn
+	RwZ1LQnElT -> __rRd0XGJl
+	RwZ1LQnElT -> "w21-rGBAh8"
+	c_pCXSpUkn -> ivKfsJRDJG
+	l2S0FfKz_s -> Qr7SXXANIp
+	"45moklItV8" -> VH9FfTh4cg
+}

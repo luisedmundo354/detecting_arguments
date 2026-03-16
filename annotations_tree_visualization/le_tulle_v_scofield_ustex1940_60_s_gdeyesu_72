@@ -1,0 +1,92 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	"ZCW0rX-Lo3" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 112 (i) provides, so far as<BR ALIGN='left'/>material:\n\n&quot;(1) The term<BR ALIGN='left'/>`reorganization&#x27; means (A) a merger or<BR ALIGN='left'/>consolidation (including the acquisition<BR ALIGN='left'/>by one corporation of at least a<BR ALIGN='left'/>majority of the voting stock and at<BR ALIGN='left'/>least a majority of the total number of<BR ALIGN='left'/>shares of all other 420*420 classes of<BR ALIGN='left'/>stock of another corporation, or<BR ALIGN='left'/>substantially all the properties of<BR ALIGN='left'/>another corporation) . . .&quot;</TD></TR>
+</TABLE>
+>]
+	"5gb7VFgqe1" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">As the court below properly stated, the<BR ALIGN='left'/>section is not to be read literally, as<BR ALIGN='left'/>denominating the transfer of all the<BR ALIGN='left'/>assets of one company for what amounts<BR ALIGN='left'/>to a cash consideration given by the<BR ALIGN='left'/>other a reorganization. We have held<BR ALIGN='left'/>that where the consideration consists of<BR ALIGN='left'/>cash and short term notes the transfer<BR ALIGN='left'/>does not amount to a reorganization<BR ALIGN='left'/>within the true meaning of the statute,<BR ALIGN='left'/>but is a sale upon which gain or loss<BR ALIGN='left'/>must be reckoned.[3] We have said that<BR ALIGN='left'/>the statute was not satisfied unless the<BR ALIGN='left'/>transferor retained a substantial stake<BR ALIGN='left'/>in the enterprise and such a stake was<BR ALIGN='left'/>thought to be retained where a large<BR ALIGN='left'/>proportion of the consideration was in<BR ALIGN='left'/>common stock of the transferee,[4] or<BR ALIGN='left'/>where the transferor took cash and the<BR ALIGN='left'/>entire issue of preferred stock of the<BR ALIGN='left'/>transferee corporation.[5] And, where<BR ALIGN='left'/>the consideration is represented by a<BR ALIGN='left'/>substantial proportion of stock, and the<BR ALIGN='left'/>balance in bonds, the total<BR ALIGN='left'/>consideration received is exempt from<BR ALIGN='left'/>tax under § 112 (b) (4) and 112 (g).[6]</TD></TR>
+</TABLE>
+>]
+	g_vbVVZYDU [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We are of opinion that the term of the<BR ALIGN='left'/>obligations is not material. Where the<BR ALIGN='left'/>consideration is wholly in the 421*421<BR ALIGN='left'/>transferee&#x27;s bonds, or part cash and<BR ALIGN='left'/>part such bonds, we think it cannot be<BR ALIGN='left'/>said that the transferor retains any<BR ALIGN='left'/>proprietary interest in the enterprise.</TD></TR>
+</TABLE>
+>]
+	"4l-g6klucW" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We conclude that the Circuit Court of<BR ALIGN='left'/>Appeals was in error in holding that, as<BR ALIGN='left'/>respects any of the property transferred<BR ALIGN='left'/>to the Water Company, the transaction<BR ALIGN='left'/>was other than a sale or exchange upon<BR ALIGN='left'/>which gain or loss must be reckoned in<BR ALIGN='left'/>accordance with the provisions of the<BR ALIGN='left'/>revenue act dealing with the recognition<BR ALIGN='left'/>of gain or loss upon a sale or exchange.</TD></TR>
+</TABLE>
+>]
+	gjo6csvuCW [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We took this case because the petition<BR ALIGN='left'/>for certiorari alleged that the Circuit<BR ALIGN='left'/>Court of Appeals had based its decision<BR ALIGN='left'/>on a point not presented or argued by<BR ALIGN='left'/>the litigants, which the petitioner had<BR ALIGN='left'/>never had an opportunity to meet by the<BR ALIGN='left'/>production of evidence.</TD></TR>
+</TABLE>
+>]
+	L7UfKsdT34 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The respondent appealed, asserting error<BR ALIGN='left'/>on the part of the District Court in<BR ALIGN='left'/>matters not now material and also<BR ALIGN='left'/>assigning as error the court&#x27;s holding<BR ALIGN='left'/>that the transaction constituted a<BR ALIGN='left'/>nontaxable reorganization.</TD></TR>
+</TABLE>
+>]
+	mnmcbH_H0t [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Gulf Coast Irrigation Company was<BR ALIGN='left'/>the owner of irrigation properties.<BR ALIGN='left'/>Petitioner was its sole stockholder. He<BR ALIGN='left'/>personally owned certain lands and other<BR ALIGN='left'/>irrigation properties. November 4, 1931,<BR ALIGN='left'/>the Irrigation Company, the Gulf Coast<BR ALIGN='left'/>Water Company, and the petitioner,<BR ALIGN='left'/>entered into an agreement which recited<BR ALIGN='left'/>that the petitioner owned all of the<BR ALIGN='left'/>stock of the Irrigation Company;<BR ALIGN='left'/>described the company&#x27;s properties, and<BR ALIGN='left'/>stated that, prior to conveyance to be<BR ALIGN='left'/>made pursuant to the contract, the<BR ALIGN='left'/>Irrigation Company would be the owner of<BR ALIGN='left'/>certain other lands and irrigation<BR ALIGN='left'/>properties. These other lands and<BR ALIGN='left'/>properties were those which the<BR ALIGN='left'/>petitioner individually owned. The<BR ALIGN='left'/>contract called for a conveyance of all<BR ALIGN='left'/>the properties owned, and to be owned,<BR ALIGN='left'/>by the Irrigation Company for $50,000 in<BR ALIGN='left'/>cash and $750,000 in bonds of the Water<BR ALIGN='left'/>Company, payable serially over the<BR ALIGN='left'/>period January 1, 1933, to January 1,<BR ALIGN='left'/>1944. The petitioner joined in this<BR ALIGN='left'/>agreement as a guarantor of the title of<BR ALIGN='left'/>the Irrigation Company and for the<BR ALIGN='left'/>purpose of covenanting that he would not<BR ALIGN='left'/>personally enter into the irrigation<BR ALIGN='left'/>business within a fixed area during a<BR ALIGN='left'/>specified period after the execution of<BR ALIGN='left'/>the contract. Three days later, at a<BR ALIGN='left'/>special meeting of stockholders of the<BR ALIGN='left'/>Irrigation Company, the proposed<BR ALIGN='left'/>reorganization was approved, the minutes<BR ALIGN='left'/>stating that the taxpayer, &quot;desiring<BR ALIGN='left'/>also to reorganize his interest in the<BR ALIGN='left'/>properties,&quot; had consented to be a party<BR ALIGN='left'/>to the reorganization. The capital stock<BR ALIGN='left'/>of the Irrigation Company was 417*417<BR ALIGN='left'/>increased and thereupon the taxpayer<BR ALIGN='left'/>subscribed for the new stock and paid<BR ALIGN='left'/>for it by conveyance of his individual<BR ALIGN='left'/>properties.\n\nThe contract between the<BR ALIGN='left'/>two corporations was carried out<BR ALIGN='left'/>November 18, with the result that the<BR ALIGN='left'/>Water Company became owner of all the<BR ALIGN='left'/>properties then owned by the Irrigation<BR ALIGN='left'/>Company including the property<BR ALIGN='left'/>theretofore owned by the petitioner<BR ALIGN='left'/>individually. Subsequently all of its<BR ALIGN='left'/>assets, including the bonds received<BR ALIGN='left'/>from the Water Company, were distributed<BR ALIGN='left'/>to the petitioner. The company was then<BR ALIGN='left'/>dissolved. The petitioner and his wife<BR ALIGN='left'/>filed a tax return as members of a<BR ALIGN='left'/>community in which they reported no gain<BR ALIGN='left'/>as a result of the receipt of the<BR ALIGN='left'/>liquidating dividend from the Irrigation<BR ALIGN='left'/>Company. The latter reported no gain for<BR ALIGN='left'/>the taxable year in virtue of its<BR ALIGN='left'/>receipt of bonds and cash from the Water<BR ALIGN='left'/>Company. The Commissioner of Internal<BR ALIGN='left'/>Revenue assessed additional taxes<BR ALIGN='left'/>against the community, as individual<BR ALIGN='left'/>taxpayers, by reason of the receipt of<BR ALIGN='left'/>the liquidating dividend, and against<BR ALIGN='left'/>the petitioner as transferee of the<BR ALIGN='left'/>Irrigation Company&#x27;s assets in virtue of<BR ALIGN='left'/>the gain realized by the company on the<BR ALIGN='left'/>sale of its property. The tax was paid<BR ALIGN='left'/>and claims for refund were filed.<BR ALIGN='left'/>Petitioner&#x27;s wife having died he brought<BR ALIGN='left'/>suit individually and as her executor<BR ALIGN='left'/>and representative in the community<BR ALIGN='left'/>property against the respondent to<BR ALIGN='left'/>recover the amount of the additional<BR ALIGN='left'/>taxes so assessed. He alleged that the<BR ALIGN='left'/>transaction constituted a tax-exempt<BR ALIGN='left'/>reorganization as defined by the Revenue<BR ALIGN='left'/>Act.[1] The respondent traversed the<BR ALIGN='left'/>allegations of the complaints and the<BR ALIGN='left'/>causes were consolidated and tried by<BR ALIGN='left'/>the District Court without a jury. The<BR ALIGN='left'/>respondent&#x27;s contention that the<BR ALIGN='left'/>transaction amounted merely to a sale of<BR ALIGN='left'/>assets by the petitioner and the<BR ALIGN='left'/>Irrigation Company and did not fall<BR ALIGN='left'/>within the statutory 418*418 definition<BR ALIGN='left'/>of a tax-free reorganization was<BR ALIGN='left'/>overruled by the District Court and<BR ALIGN='left'/>judgment was entered for the petitioner.</TD></TR>
+</TABLE>
+>]
+	"-pM0RtzFq3" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Circuit Court of Appeals concluded<BR ALIGN='left'/>that, as the Water Company acquired<BR ALIGN='left'/>substantially all the properties of the<BR ALIGN='left'/>Irrigation Company, there was a merger<BR ALIGN='left'/>of the latter within the literal<BR ALIGN='left'/>language of the statute, but held that,<BR ALIGN='left'/>in the light of the construction this<BR ALIGN='left'/>Court has put upon the statute, the<BR ALIGN='left'/>transaction would not be a<BR ALIGN='left'/>reorganization unless the transferor<BR ALIGN='left'/>retained a definite and substantial<BR ALIGN='left'/>interest in the affairs of the<BR ALIGN='left'/>transferee. It thought this requirement<BR ALIGN='left'/>was satisfied by the taking of the bonds<BR ALIGN='left'/>of the Water Company, and, therefore,<BR ALIGN='left'/>agreed with the District Court that a<BR ALIGN='left'/>reorganization had been consummated. It<BR ALIGN='left'/>added, however, &quot;We find a reason for<BR ALIGN='left'/>reversing the judgment which has not<BR ALIGN='left'/>been argued.&quot; Adverting to the fact that<BR ALIGN='left'/>the transfer of the petitioner&#x27;s<BR ALIGN='left'/>individual properties to the Irrigation<BR ALIGN='left'/>Company was for the purpose of including<BR ALIGN='left'/>them in the latter&#x27;s assets to be<BR ALIGN='left'/>transferred in the proposed<BR ALIGN='left'/>reorganization, the court said the<BR ALIGN='left'/>statute did not extend to the<BR ALIGN='left'/>reorganization of an individual&#x27;s<BR ALIGN='left'/>business or affairs, and the transaction<BR ALIGN='left'/>was a reorganization within the meaning<BR ALIGN='left'/>of the Revenue Act as respects the<BR ALIGN='left'/>corporation&#x27;s assets owned on November<BR ALIGN='left'/>4, 1931, but not as respects the<BR ALIGN='left'/>petitioner&#x27;s individual properties<BR ALIGN='left'/>included in the sale. It concluded:<BR ALIGN='left'/>&quot;Only so much of the consideration as<BR ALIGN='left'/>represents the price of the properties<BR ALIGN='left'/>and business of the Irrigation Company<BR ALIGN='left'/>is entitled to be protected from<BR ALIGN='left'/>taxation as arising from a<BR ALIGN='left'/>reorganization. It does not appear what<BR ALIGN='left'/>the proper apportionment is. The burden<BR ALIGN='left'/>was upon LeTulle to show not only that<BR ALIGN='left'/>he had been illegally taxed, but how<BR ALIGN='left'/>much 419*419 of what was collected from<BR ALIGN='left'/>him was illegal. The latter he did not<BR ALIGN='left'/>do. The evidence does not support the<BR ALIGN='left'/>judgment for the full amount paid by<BR ALIGN='left'/>him. It is accordingly reversed, that<BR ALIGN='left'/>further proceedings may be had<BR ALIGN='left'/>consistent herewith.&quot;[2]</TD></TR>
+</TABLE>
+>]
+	okU0Cjvzaz [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The petitioner sought certiorari<BR ALIGN='left'/>asserting that the Circuit Court of<BR ALIGN='left'/>Appeals had departed from the usual and<BR ALIGN='left'/>accepted course of judicial proceedings<BR ALIGN='left'/>by deciding the cause upon a ground not<BR ALIGN='left'/>presented or argued and hence had<BR ALIGN='left'/>deprived the petitioner of his day in<BR ALIGN='left'/>court. The respondent, though he had<BR ALIGN='left'/>contended below that the transaction in<BR ALIGN='left'/>question did not amount to a tax-free<BR ALIGN='left'/>statutory reorganization, did not file a<BR ALIGN='left'/>cross petition asking for a review of<BR ALIGN='left'/>that part of the judgment exempting from<BR ALIGN='left'/>taxation gain to the Irrigation Company<BR ALIGN='left'/>arising from the transfer of its assets<BR ALIGN='left'/>owned by it on and prior to November 4,<BR ALIGN='left'/>1931, and the part of the liquidating<BR ALIGN='left'/>dividend attributable thereto.</TD></TR>
+</TABLE>
+>]
+	"0Hre-ncpTb" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[WaT9BpAX7K]</TD></TR>
+</TABLE>
+>]
+	eYTeRQQHo6 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In applying our decision in the Pinellas<BR ALIGN='left'/>case, supra, the courts have generally<BR ALIGN='left'/>held that receipt of long term bonds as<BR ALIGN='left'/>distinguished from short term notes<BR ALIGN='left'/>constitutes the retention of an interest<BR ALIGN='left'/>in the purchasing corporation.</TD></TR>
+</TABLE>
+>]
+	P_lzjkwQ6f [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">On the contrary, he becomes a creditor<BR ALIGN='left'/>of the transferee; and we do not think<BR ALIGN='left'/>that the fact referred to by the Circuit<BR ALIGN='left'/>Court of Appeals, that the bonds were<BR ALIGN='left'/>secured solely by the assets transferred<BR ALIGN='left'/>and that, upon default, the bondholder<BR ALIGN='left'/>would retake only the property sold,<BR ALIGN='left'/>changes his status from that of a<BR ALIGN='left'/>creditor to one having a proprietary<BR ALIGN='left'/>stake, within the purview of the<BR ALIGN='left'/>statute.</TD></TR>
+</TABLE>
+>]
+	XUcwEQrjyT [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">since we are of opinion that the<BR ALIGN='left'/>transaction did not amount to a<BR ALIGN='left'/>reorganization and that, therefore, the<BR ALIGN='left'/>petitioner cannot complain, as the<BR ALIGN='left'/>judgment must be affirmed on the ground<BR ALIGN='left'/>that no tax-free reorganization was<BR ALIGN='left'/>effected within the meaning of the<BR ALIGN='left'/>statute</TD></TR>
+</TABLE>
+>]
+	g_vbVVZYDU -> P_lzjkwQ6f
+	g_vbVVZYDU -> eYTeRQQHo6
+	"5gb7VFgqe1" -> "ZCW0rX-Lo3"
+	"5gb7VFgqe1" -> "0Hre-ncpTb"
+	"4l-g6klucW" -> g_vbVVZYDU
+	"4l-g6klucW" -> "5gb7VFgqe1"
+	"4l-g6klucW" -> XUcwEQrjyT
+}

@@ -1,0 +1,144 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	OumXDO0XIM [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Respondent determined the following<BR ALIGN='left'/>deficiencies in petitioner&#x27;s income<BR ALIGN='left'/>tax:\n\nDocket No. Year Deficiency\n\n|<BR ALIGN='left'/>1963 $34,432.35\n625-69<BR ALIGN='left'/>---------------------------- &lt; 1964<BR ALIGN='left'/>27,767.95\n| 1965 51,224.41\n5680-71<BR ALIGN='left'/>--------------------------- | 1966<BR ALIGN='left'/>75,530.40\n&lt;\n| 1967 33,333.28\nBecause<BR ALIGN='left'/>of concessions made by the parties, the<BR ALIGN='left'/>issues that remain to be decided<BR ALIGN='left'/>are:\n\n(1) Whether the basis of the<BR ALIGN='left'/>assets that petitioner acquired from<BR ALIGN='left'/>another corporation in 1962 is their<BR ALIGN='left'/>cost to petitioner, or whether it is the<BR ALIGN='left'/>same basis as those assets had in the<BR ALIGN='left'/>hands of the other<BR ALIGN='left'/>corporation;[1]\n\n(2) Whether a net<BR ALIGN='left'/>operating loss incurred by petitioner<BR ALIGN='left'/>after it acquired those assets must<BR ALIGN='left'/>first be carried back to prior taxable<BR ALIGN='left'/>years of that other corporation before<BR ALIGN='left'/>it may be carried over to petitioner&#x27;s<BR ALIGN='left'/>subsequent taxable years.\n\nThe<BR ALIGN='left'/>resolution of these issues will depend<BR ALIGN='left'/>upon the characterization of the<BR ALIGN='left'/>transaction whereby petitioner acquired<BR ALIGN='left'/>all of the assets of that other<BR ALIGN='left'/>corporation.\n\nFINDINGS OF FACT\n\nSome<BR ALIGN='left'/>of the facts have been stipulated. The<BR ALIGN='left'/>stipulation of facts and attached<BR ALIGN='left'/>exhibits are incorporated herein by this<BR ALIGN='left'/>reference.\n\nPetitioner is a<BR ALIGN='left'/>corporation whose principal office was<BR ALIGN='left'/>in Massapequa, N.Y., at the time it<BR ALIGN='left'/>filed its petitions in this case. It<BR ALIGN='left'/>filed its Federal income tax returns for<BR ALIGN='left'/>1963 through 1967 with the district<BR ALIGN='left'/>director of internal revenue, Brooklyn,<BR ALIGN='left'/>New York. When the events involved<BR ALIGN='left'/>170*170 in this case took place,<BR ALIGN='left'/>petitioner&#x27;s name was Nassau Utilities<BR ALIGN='left'/>Fuel Corp.[2] Petitioner will hereafter<BR ALIGN='left'/>sometimes be referred to as New Nassau,<BR ALIGN='left'/>to distinguish it from the corporation<BR ALIGN='left'/>mentioned in the next<BR ALIGN='left'/>paragraph.\n\nNassau Utilities Fuel<BR ALIGN='left'/>Corp., which will be referred to as Old<BR ALIGN='left'/>Nassau, was a corporation organized in<BR ALIGN='left'/>1929 under the laws of the State of New<BR ALIGN='left'/>York and had its principal place of<BR ALIGN='left'/>business in Roslyn, N.Y. Old Nassau was<BR ALIGN='left'/>engaged in the business of selling fuel<BR ALIGN='left'/>oil at both wholesale and retail. It<BR ALIGN='left'/>conducted this business using water<BR ALIGN='left'/>terminal facilities and storage tanks on<BR ALIGN='left'/>property it owned and leased on the<BR ALIGN='left'/>north shore of Long Island, New York<BR ALIGN='left'/>(hereinafter referred to as the Roslyn<BR ALIGN='left'/>terminal).\n\nReliance Fuel Oil Corp.<BR ALIGN='left'/>(Reliance) is a corporation organized<BR ALIGN='left'/>under the laws of the State of New York<BR ALIGN='left'/>with its principal place of business in<BR ALIGN='left'/>Massapequa, N.Y. It was engaged in the<BR ALIGN='left'/>business of selling fuel oil at retail<BR ALIGN='left'/>from an inland terminal. Because it<BR ALIGN='left'/>lacked a water terminal and adequate<BR ALIGN='left'/>storage tanks, it was compelled to buy<BR ALIGN='left'/>oil from a wholesaler at prices higher<BR ALIGN='left'/>than it would have had to pay if it had<BR ALIGN='left'/>had a water terminal with storage<BR ALIGN='left'/>facilities which would have enabled it<BR ALIGN='left'/>to buy greater amounts of oil direct<BR ALIGN='left'/>from the major oil companies. Reliance&#x27;s<BR ALIGN='left'/>lack of water terminal and storage<BR ALIGN='left'/>facilities also resulted in its being<BR ALIGN='left'/>unable to exchange oil with other<BR ALIGN='left'/>retailers on Long Island in the course<BR ALIGN='left'/>of making deliveries to customers<BR ALIGN='left'/>located in different parts of the Island<BR ALIGN='left'/>and to accomplish deliveries only at an<BR ALIGN='left'/>increased cost through the use of<BR ALIGN='left'/>trucks.\n\nAs its sales increased, it<BR ALIGN='left'/>became increasingly apparent to Reliance<BR ALIGN='left'/>that it would have to acquire a water<BR ALIGN='left'/>terminal somewhere on Long Island in<BR ALIGN='left'/>order to maintain or improve the<BR ALIGN='left'/>profitability of its business. Reliance<BR ALIGN='left'/>had been seeking to purchase such a<BR ALIGN='left'/>water terminal for a number of<BR ALIGN='left'/>years.\n\nIn 1961, Reliance contacted<BR ALIGN='left'/>Old Nassau to ascertain whether the<BR ALIGN='left'/>Roslyn terminal might be purchased.<BR ALIGN='left'/>Reliance was not interested in acquiring<BR ALIGN='left'/>the business of Old Nassau, which it did<BR ALIGN='left'/>not consider sufficiently profitable,<BR ALIGN='left'/>but only the assets of Old Nassau,<BR ALIGN='left'/>particularly the Roslyn terminal. By<BR ALIGN='left'/>August of that year, Reliance and Old<BR ALIGN='left'/>Nassau had formulated the draft of an<BR ALIGN='left'/>agreement for the sale to Reliance for<BR ALIGN='left'/>cash and notes of all of Old Nassau&#x27;s<BR ALIGN='left'/>assets, which were to be transferred to<BR ALIGN='left'/>a new corporation organized and owned by<BR ALIGN='left'/>Reliance.\n\nBefore this proposed<BR ALIGN='left'/>agreement for the sale of assets could<BR ALIGN='left'/>be executed, however, Old Nassau<BR ALIGN='left'/>informed Reliance that it would be<BR ALIGN='left'/>unable to sell its assets because of<BR ALIGN='left'/>opposition expected from its minority<BR ALIGN='left'/>shareholders. 171*171 Instead, a group<BR ALIGN='left'/>of Old Nassau&#x27;s controlling shareholders<BR ALIGN='left'/>(hereinafter referred to collectively as<BR ALIGN='left'/>the sellers), who together owned 84.8<BR ALIGN='left'/>percent of the corporation&#x27;s common<BR ALIGN='left'/>stock, offered to sell their stock to<BR ALIGN='left'/>Reliance.[3]\n\nReliance consulted its<BR ALIGN='left'/>attorney and accountant regarding this<BR ALIGN='left'/>offer. Reliance was willing to purchase<BR ALIGN='left'/>the stock only if the assets of Old<BR ALIGN='left'/>Nassau could be transferred thereafter<BR ALIGN='left'/>to a new corporation and take a stepped-<BR ALIGN='left'/>up basis equal to the cost of the stock<BR ALIGN='left'/>purchased. Reliance did not want to<BR ALIGN='left'/>integrate the less profitable business<BR ALIGN='left'/>of Old Nassau with its own business.<BR ALIGN='left'/>Reliance&#x27;s attorney and accountant<BR ALIGN='left'/>advised that these objectives could be<BR ALIGN='left'/>achieved through the proposed purchase<BR ALIGN='left'/>of the stock of Old Nassau rather than<BR ALIGN='left'/>the direct purchase of Old Nassau&#x27;s<BR ALIGN='left'/>assets, as originally intended.\n\nOn<BR ALIGN='left'/>September 14, 1961, Reliance purchased<BR ALIGN='left'/>for cash and its notes 7,825 shares, or<BR ALIGN='left'/>84.8 percent, of the common stock of Old<BR ALIGN='left'/>Nassau. The notes were due in 28<BR ALIGN='left'/>quarterly installments and were secured<BR ALIGN='left'/>by a pledge of the purchased stock to<BR ALIGN='left'/>the sellers. The agreement between<BR ALIGN='left'/>Reliance and the sellers allowed<BR ALIGN='left'/>Reliance to vote the pledged stock so<BR ALIGN='left'/>long as the notes were not in default.<BR ALIGN='left'/>The agreement further provided that<BR ALIGN='left'/>—\n\nReliance may vote to liquidate and<BR ALIGN='left'/>dissolve [Old] Nassau only on condition<BR ALIGN='left'/>that:\n\n(a) All of the assets, except<BR ALIGN='left'/>such sums of money required to purchase<BR ALIGN='left'/>the interest of the minority<BR ALIGN='left'/>stockholders in and to the stock held by<BR ALIGN='left'/>them in [Old] Nassau, shall forthwith be<BR ALIGN='left'/>transferred to a newly formed<BR ALIGN='left'/>corporation (hereinafter called<BR ALIGN='left'/>&quot;CORPORATION&quot;), all of whose issued and<BR ALIGN='left'/>authorized shares of capital stock shall<BR ALIGN='left'/>be issued and registered in<BR ALIGN='left'/>Reliance.\n\n(b) All of such shares of<BR ALIGN='left'/>stock in the Corporation shall forthwith<BR ALIGN='left'/>be pledged with [the sellers] in lieu<BR ALIGN='left'/>and in place of the stock of [Old]<BR ALIGN='left'/>Nassau pledged hereunder as though the<BR ALIGN='left'/>stock of the Corporation was originally<BR ALIGN='left'/>pledged and the said shares of stock in<BR ALIGN='left'/>the Corporation shall be subject to each<BR ALIGN='left'/>and every provision of this<BR ALIGN='left'/>agreement.\n\nReliance then proceeded to<BR ALIGN='left'/>follow the steps advised by its attorney<BR ALIGN='left'/>and accountant to buy out the minority<BR ALIGN='left'/>shareholders of Old Nassau and obtain a<BR ALIGN='left'/>stepped-up basis for Old Nassau&#x27;s assets<BR ALIGN='left'/>in the hands of a new corporation.<BR ALIGN='left'/>First, Reliance attempted to contact all<BR ALIGN='left'/>the other shareholders of Old Nassau and<BR ALIGN='left'/>purchase their stock for cash. By May of<BR ALIGN='left'/>1962, however, Reliance had succeeded by<BR ALIGN='left'/>this effort in purchasing only a small<BR ALIGN='left'/>number of additional shares of Old<BR ALIGN='left'/>Nassau&#x27;s stock.\n\n172*172 On May 31,<BR ALIGN='left'/>1962, Reliance addressed to all the<BR ALIGN='left'/>shareholders of Old Nassau an offer to<BR ALIGN='left'/>purchase all of Old Nassau&#x27;s assets. The<BR ALIGN='left'/>terms of the offer were as<BR ALIGN='left'/>follows:\n\n(1) Old Nassau would change<BR ALIGN='left'/>its name so as to make it available to a<BR ALIGN='left'/>new corporation.\n\n(2) Reliance would<BR ALIGN='left'/>then organize a new corporation under<BR ALIGN='left'/>the laws of the State of New York<BR ALIGN='left'/>bearing the name Nassau Utilities Fuel<BR ALIGN='left'/>Corp. (New Nassau).\n\n(3) Old Nassau<BR ALIGN='left'/>would then sell, assign, and transfer<BR ALIGN='left'/>all its assets to New Nassau subject to<BR ALIGN='left'/>all the liabilities of Old Nassau, which<BR ALIGN='left'/>New Nassau would assume. In<BR ALIGN='left'/>consideration therefor, New Nassau<BR ALIGN='left'/>would, at the option of each shareholder<BR ALIGN='left'/>of Old Nassau, either pay $40 for each<BR ALIGN='left'/>share of Old Nassau common stock or<BR ALIGN='left'/>exchange 1 share of New Nassau common<BR ALIGN='left'/>for every 3 shares of Old Nassau<BR ALIGN='left'/>common.\n\nOn June 1, 1962, a special<BR ALIGN='left'/>meeting of the board of directors of Old<BR ALIGN='left'/>Nassau was held to consider the above<BR ALIGN='left'/>offer. The board resolved that the offer<BR ALIGN='left'/>be accepted, that the corporation adopt<BR ALIGN='left'/>a new name in place of the name Nassau<BR ALIGN='left'/>Utilities Fuel Corp., that the assets<BR ALIGN='left'/>subject to the liabilities of the<BR ALIGN='left'/>corporation be sold and transferred to<BR ALIGN='left'/>Reliance,[4] and that Old Nassau be<BR ALIGN='left'/>dissolved.\n\nOn June 22, 1962, a<BR ALIGN='left'/>special meeting of the shareholders of<BR ALIGN='left'/>Old Nassau was held. The holders of<BR ALIGN='left'/>7,884 shares of common stock voted to<BR ALIGN='left'/>approve the board&#x27;s resolutions. The<BR ALIGN='left'/>holders of 424 shares voted against the<BR ALIGN='left'/>resolutions and thereafter commenced an<BR ALIGN='left'/>action against Old Nassau in the<BR ALIGN='left'/>appropriate State court for the<BR ALIGN='left'/>appraisal and payment of the fair market<BR ALIGN='left'/>value of their shares.\n\nOn July 3,<BR ALIGN='left'/>1962, Old Nassau adopted a new name in<BR ALIGN='left'/>place of the name Nassau Utilities Fuel<BR ALIGN='left'/>Corp., a new corporation (New Nassau)<BR ALIGN='left'/>bearing the name Nassau Utilities Fuel<BR ALIGN='left'/>Corp. was organized under the laws of<BR ALIGN='left'/>the State of New York, and Old Nassau<BR ALIGN='left'/>sold and transferred all its assets<BR ALIGN='left'/>subject to its liabilities to New<BR ALIGN='left'/>Nassau. On July 23, 1962, Old Nassau<BR ALIGN='left'/>notified the Internal Revenue Service of<BR ALIGN='left'/>its plan of dissolution. Old Nassau was<BR ALIGN='left'/>dissolved on November 8, 1962.\n\nIn<BR ALIGN='left'/>consideration for the assets of Old<BR ALIGN='left'/>Nassau, and pursuant to the agreement of<BR ALIGN='left'/>sale, New Nassau exchanged 1 share of<BR ALIGN='left'/>its common stock for every 3 shares of<BR ALIGN='left'/>Old Nassau common held by Reliance. No<BR ALIGN='left'/>shareholders of Old Nassau other than<BR ALIGN='left'/>Reliance accepted the offer to exchange<BR ALIGN='left'/>stock of Old Nassau for stock of New<BR ALIGN='left'/>Nassau, and no stock of New Nassau was<BR ALIGN='left'/>issued to anyone other than<BR ALIGN='left'/>Reliance.\n\nBetween September 14, 1961,<BR ALIGN='left'/>and July 3, 1962, Reliance purchased for<BR ALIGN='left'/>cash from the other shareholders of Old<BR ALIGN='left'/>Nassau 411.75 shares of 173*173 Old<BR ALIGN='left'/>Nassau common. From July 3, 1962 to<BR ALIGN='left'/>1966, New Nassau made cash payments in<BR ALIGN='left'/>varying amounts to the holders of 739<BR ALIGN='left'/>additional shares of Old Nassau common<BR ALIGN='left'/>stock.[5] These payments were apparently<BR ALIGN='left'/>made as a result of litigation<BR ALIGN='left'/>instituted by some of the minority<BR ALIGN='left'/>shareholders to enforce their right to<BR ALIGN='left'/>claim payment other than in accordance<BR ALIGN='left'/>with the agreement between Old Nassau<BR ALIGN='left'/>and New Nassau.[6]\n\nAfter its<BR ALIGN='left'/>organization and the acquisition of all<BR ALIGN='left'/>the assets of Old Nassau, New Nassau<BR ALIGN='left'/>carried on business at the same location<BR ALIGN='left'/>and with the same employees as those of<BR ALIGN='left'/>Old Nassau. It engaged in the business<BR ALIGN='left'/>of selling fuel oil to retail customers,<BR ALIGN='left'/>as Old Nassau had done in the past, but<BR ALIGN='left'/>did not make wholesale sales to<BR ALIGN='left'/>distributors, as Old Nassau had<BR ALIGN='left'/>previously done. New Nassau also leased<BR ALIGN='left'/>certain facilities at the Roslyn<BR ALIGN='left'/>terminal to Reliance, and it bought all<BR ALIGN='left'/>its supplies of oil from<BR ALIGN='left'/>Reliance.\n\nDuring its first 6 months<BR ALIGN='left'/>of operation, New Nassau incurred a net<BR ALIGN='left'/>operating loss, as was reflected in the<BR ALIGN='left'/>Federal income tax return it filed for<BR ALIGN='left'/>the period July 1, 1962, to December 31,<BR ALIGN='left'/>1962.\n\nReliance&#x27;s purpose in<BR ALIGN='left'/>purchasing the stock of Old Nassau was<BR ALIGN='left'/>to acquire the underlying assets of that<BR ALIGN='left'/>corporation through the vehicle of New<BR ALIGN='left'/>Nassau. The organization of New Nassau,<BR ALIGN='left'/>the transfer of all the assets of Old<BR ALIGN='left'/>Nassau to New Nassau, and the<BR ALIGN='left'/>accompanying transfer to Reliance of the<BR ALIGN='left'/>stock of New Nassau in exchange for the<BR ALIGN='left'/>stock of Old Nassau and the payments by<BR ALIGN='left'/>New Nassau to minority shareholders of<BR ALIGN='left'/>Old Nassau were each steps in a single<BR ALIGN='left'/>plan to accomplish that purpose.</TD></TR>
+</TABLE>
+>]
+	jB9ZEvOenN [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Held, N is entitled to a stepped-up<BR ALIGN='left'/>basis in the assets it acquired from O.<BR ALIGN='left'/>Held, further, N is not required to<BR ALIGN='left'/>carry back a net operating loss it<BR ALIGN='left'/>incurred after it acquired O&#x27;s assets to<BR ALIGN='left'/>prior taxable years of O before it may<BR ALIGN='left'/>carry over such loss to its own<BR ALIGN='left'/>subsequent taxable years.</TD></TR>
+</TABLE>
+>]
+	HLXYhKzskX [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The first question raised by this series<BR ALIGN='left'/>of transactions is the basis to New<BR ALIGN='left'/>Nassau of the assets it acquired from<BR ALIGN='left'/>Old Nassau.</TD></TR>
+</TABLE>
+>]
+	"5QnaG0OdWD" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We deal first with petitioner&#x27;s argument<BR ALIGN='left'/>that it is entitled under section 334(b)<BR ALIGN='left'/>(2) to a cost-of-stock basis in the<BR ALIGN='left'/>assets it acquired from Old Nassau.</TD></TR>
+</TABLE>
+>]
+	SZwJZunYHT [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 334(b) (2) is applicable only to<BR ALIGN='left'/>liquidations within the meaning of<BR ALIGN='left'/>section 332(b).</TD></TR>
+</TABLE>
+>]
+	"oXMUC1-L5a" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the transaction whereby New Nassau<BR ALIGN='left'/>acquired all the assets of Old Nassau<BR ALIGN='left'/>does not fit within the precise terms of<BR ALIGN='left'/>section 332(b). New Nassau did not<BR ALIGN='left'/>satisfy the stock ownership requirement<BR ALIGN='left'/>of section 332(b) and therefore could<BR ALIGN='left'/>not be a &quot;distributee&quot; within the<BR ALIGN='left'/>meaning of section 334(b) (2).</TD></TR>
+</TABLE>
+>]
+	bvJ6Ord31X [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Insofar as section 334(b) (2) is<BR ALIGN='left'/>concerned, we are unwilling to ignore<BR ALIGN='left'/>the form of the transaction deliberately<BR ALIGN='left'/>chosen by the participants in preference<BR ALIGN='left'/>to the above form suggested by<BR ALIGN='left'/>petitioner or other possible forms that<BR ALIGN='left'/>come to mind.</TD></TR>
+</TABLE>
+>]
+	yHrA5ACdWg [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It appears that the transaction between<BR ALIGN='left'/>Old Nassau and New Nassau took the form<BR ALIGN='left'/>it did in order to avoid any<BR ALIGN='left'/>distributions in liquidation to the<BR ALIGN='left'/>minority shareholders of Old Nassau<BR ALIGN='left'/>176*176 and, perhaps, circumvent their<BR ALIGN='left'/>potential rights of appraisal.[</TD></TR>
+</TABLE>
+>]
+	"6fWu3LXKJg" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 332(b), the statutory threshold<BR ALIGN='left'/>to section 334(b)(2), has been construed<BR ALIGN='left'/>to require strict compliance with its<BR ALIGN='left'/>formal requirements.</TD></TR>
+</TABLE>
+>]
+	"3yQM2RMq_s" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Under the circumstances of this case, we<BR ALIGN='left'/>see no reason why we should adopt a<BR ALIGN='left'/>different approach.[</TD></TR>
+</TABLE>
+>]
+	_QhLOpSW4r [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Having concluded that the assets and<BR ALIGN='left'/>liabilities of Old Nassau were acquired<BR ALIGN='left'/>by New Nassau other than by way of a<BR ALIGN='left'/>reorganization or a liquidation of Old<BR ALIGN='left'/>Nassau, it remains for us to determine<BR ALIGN='left'/>how that acquisition should be<BR ALIGN='left'/>characterized. Under all the<BR ALIGN='left'/>circumstances, we conclude that such<BR ALIGN='left'/>acquisition was by way of purchase with<BR ALIGN='left'/>an accompanying step up in basis to<BR ALIGN='left'/>petitioner and we so hold.</TD></TR>
+</TABLE>
+>]
+	"c-2K8nUW6d" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Since there was no (D) or (F)<BR ALIGN='left'/>reorganization, there can be no<BR ALIGN='left'/>carryover of Old Nassau&#x27;s basis under<BR ALIGN='left'/>section 362(b). Likewise, in the absence<BR ALIGN='left'/>of an (F) reorganization, the carryback<BR ALIGN='left'/>of petitioner&#x27;s net operating loss to<BR ALIGN='left'/>the prior taxable years of Old Nassau is<BR ALIGN='left'/>not permitted. Sec. 381(b) (3).</TD></TR>
+</TABLE>
+>]
+	p8DEYZWcfZ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">section 334(b) (2),[</TD></TR>
+</TABLE>
+>]
+	hQxDCtDmKW [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">For the purpose of determining<BR ALIGN='left'/>petitioner&#x27;s basis in the assets<BR ALIGN='left'/>acquired from Old Nassau, it is<BR ALIGN='left'/>immaterial whether the transaction<BR ALIGN='left'/>herein qualifies as a reorganization<BR ALIGN='left'/>under clause (D) or clause (F) of<BR ALIGN='left'/>section 368(a) (1).</TD></TR>
+</TABLE>
+>]
+	HSbqhtU00F [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">clause (D), which requires that after<BR ALIGN='left'/>the consummation of that type of<BR ALIGN='left'/>reorganization the transferor or one or<BR ALIGN='left'/>more of its shareholders be &quot;in control<BR ALIGN='left'/>of&quot; the transferee in accordance with<BR ALIGN='left'/>the provisions of section 368(c).[</TD></TR>
+</TABLE>
+>]
+	n3Drvy1_15 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The determination of whether the<BR ALIGN='left'/>requisite control existed herein depends<BR ALIGN='left'/>upon a decision as to the proper points<BR ALIGN='left'/>in time for making the determination.</TD></TR>
+</TABLE>
+>]
+	"qIUv_hv-Mt" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The record herein clearly reveals that<BR ALIGN='left'/>each step that was taken by Reliance and<BR ALIGN='left'/>New Nassau was an integral part of a<BR ALIGN='left'/>plan whereby the assets of Old Nassau<BR ALIGN='left'/>would be acquired by a new corporation<BR ALIGN='left'/>in which Reliance would control more<BR ALIGN='left'/>than 80 percent of the issued and<BR ALIGN='left'/>outstanding stock and the shareholders<BR ALIGN='left'/>of Old Nassau would at most have no more<BR ALIGN='left'/>than approximately a 15-percent interest<BR ALIGN='left'/>in such stock.</TD></TR>
+</TABLE>
+>]
+	Lp7UuERilK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The fact that for valid business reasons<BR ALIGN='left'/>there was a delay of several months<BR ALIGN='left'/>before New Nassau came into existence<BR ALIGN='left'/>and completed the acquisition does not<BR ALIGN='left'/>militate against such conclusion</TD></TR>
+</TABLE>
+>]
+	Xilx9RRbGp [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">we hold that a comparison of the stock<BR ALIGN='left'/>ownership of Old Nassau immediately<BR ALIGN='left'/>prior to the inception of the series of<BR ALIGN='left'/>transactions involved herein with the<BR ALIGN='left'/>situation which obtained immediately<BR ALIGN='left'/>after the transfer by Old Nassau of its<BR ALIGN='left'/>assets and liabilities to New Nassau<BR ALIGN='left'/>clearly reveals that the control<BR ALIGN='left'/>requirements of a (D) reorganization<BR ALIGN='left'/>were not satisfied.</TD></TR>
+</TABLE>
+>]
+	"HgIprcc-zK" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the Kimbell-Diamond 175*175 doctrine,[9]<BR ALIGN='left'/>or the broader principle sometimes<BR ALIGN='left'/>referred to as the &quot;integrated<BR ALIGN='left'/>transaction&quot; doctrine.[</TD></TR>
+</TABLE>
+>]
+	SZwJZunYHT -> "5QnaG0OdWD"
+	"oXMUC1-L5a" -> SZwJZunYHT
+	bvJ6Ord31X -> "oXMUC1-L5a"
+	bvJ6Ord31X -> yHrA5ACdWg
+	"6fWu3LXKJg" -> bvJ6Ord31X
+	"3yQM2RMq_s" -> "6fWu3LXKJg"
+	p8DEYZWcfZ -> HLXYhKzskX
+	HSbqhtU00F -> n3Drvy1_15
+	HSbqhtU00F -> hQxDCtDmKW
+	"qIUv_hv-Mt" -> HSbqhtU00F
+	Lp7UuERilK -> "qIUv_hv-Mt"
+	Xilx9RRbGp -> Lp7UuERilK
+	"HgIprcc-zK" -> HLXYhKzskX
+	hQxDCtDmKW -> "HgIprcc-zK"
+	"c-2K8nUW6d" -> Xilx9RRbGp
+	_QhLOpSW4r -> "c-2K8nUW6d"
+	_QhLOpSW4r -> "6fWu3LXKJg"
+}

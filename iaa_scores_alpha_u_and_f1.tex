@@ -1,0 +1,95 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{enumitem}
+
+\title{Summary: Unitizing Krippendorff $\alpha_u$ (character continuum) in \texttt{iaa\_scores}}
+\date{}
+
+\begin{document}
+\maketitle
+\vspace{-1.2em}
+
+\noindent This note summarizes how this repository computes Krippendorff's unitizing $\alpha_u$
+on a character-offset continuum. It focuses on the implemented procedure in
+\texttt{iaa\_scores/alpha.py} (\texttt{compute\_alpha\_u\_per\_doc}, \texttt{compute\_alpha\_u\_overall}).
+
+\section*{Extracted data and notation}
+\begin{itemize}[leftmargin=*,nosep]
+  \item Let $d$ be a document (identified by \texttt{ref\_id}) and $a\in\mathcal{A}_d$ annotators for $d$.
+  \item Let $\mathcal{C}$ be the set of label categories observed in the corpus.
+  \item For an annotator $a$ and category $c$, the loader extracts offset intervals
+  \[
+    I_{a,c}(d)=\{(s,e)\}
+  \]
+  from Label Studio \texttt{result} items of type \texttt{"labels"} (requiring valid integer offsets and $s<e$;
+  see \texttt{iaa\_scores/loaders.py}).
+  \item When available, the continuum length is taken as the document text length
+  $L_d = |\texttt{task.data.case\_content}|$.
+\end{itemize}
+
+\section*{Continuum length and per-category segmentation}
+For each document, the continuum length used by $\alpha_u$ is
+\[
+L \;=\; \max\Big(L_d,\ \max\{e : (s,e)\in I_{a,c'}(d)\text{ for some }a\in\mathcal{A}_d,\ c'\in\mathcal{C}\}\Big),
+\]
+so $L$ is at least the largest annotated end offset, but can extend to the end of the document text.
+
+Fix a category $c$. For each annotator $a$, the interval list $I_{a,c}(d)$ is merged into disjoint
+intervals (union of overlapping or touching spans; \texttt{iaa\_scores/alpha.py:\_merge\_intervals}).
+Define the boundary set
+\[
+B \;=\; \{0,L\}\cup\{s,e : (s,e)\in I_{a,c}(d)\text{ for some }a\}
+\quad\text{(\texttt{iaa\_scores/alpha.py:\_boundaries}).}
+\]
+Let $0=b_0<b_1<\cdots<b_K=L$ be the sorted boundaries; define segments $t_k=[b_k,b_{k+1})$ with length
+$\ell_k=b_{k+1}-b_k$. For each annotator $a$, define a binary coverage indicator on segments:
+\[
+x_a(k)\;=\;\mathbf{1}\big[\exists(s,e)\in I_{a,c}(d)\text{ such that } s\le b_k < e\big]
+\quad\text{(\texttt{iaa\_scores/alpha.py:\_covers}).}
+\]
+Thus, for a fixed category $c$, each character-offset segment is treated as either
+``inside a $c$ span'' ($1$) or ``not-$c$'' ($0$). Repeated text is irrelevant: units are defined
+by offset position, so the same phrase appearing in two different places is two different units.
+
+\section*{Coincidence matrix (length-weighted)}
+For each unordered annotator pair $(a_i,a_j)$ with $i<j$, the code accumulates segment lengths into
+$O\in\mathbb{R}^{2\times 2}$ as:
+\[
+O_{x_{a_i}(k),\,x_{a_j}(k)} \;\leftarrow\; O_{x_{a_i}(k),\,x_{a_j}(k)} + \ell_k,
+\qquad
+O_{x_{a_j}(k),\,x_{a_i}(k)} \;\leftarrow\; O_{x_{a_j}(k),\,x_{a_i}(k)} + \ell_k,
+\]
+but only if \texttt{include\_background} is true or $x_{a_i}(k)=1$ or $x_{a_j}(k)=1$
+(\texttt{iaa\_scores/alpha.py:\_coincidence\_lengths\_binary}).
+Intuitively:
+\begin{itemize}[leftmargin=*,nosep]
+  \item $O_{1,1}$ is the total length where both annotators label $c$,
+  \item $O_{1,0}$ and $O_{0,1}$ are the total length where exactly one annotator labels $c$,
+  \item $O_{0,0}$ is the total length where neither annotator labels $c$ (only counted when \texttt{include\_background=true}).
+\end{itemize}
+
+\section*{From coincidence matrix to $\alpha_u$ (repo formula)}
+Given $O$, define $n=\sum_{p,q\in\{0,1\}}O_{pq}$ and row marginals $m_p=\sum_{q}O_{pq}$
+(\texttt{iaa\_scores/alpha.py:\_alpha\_from\_coincidence}). The code computes an ``expected'' matrix $E$ via
+\[
+E_{pp}=\frac{m_p(m_p-1)}{\max(n-1,1)},\qquad
+E_{pq}=\frac{m_pm_q}{\max(n-1,1)} \ (p\ne q)
+\quad\text{(\texttt{iaa\_scores/alpha.py:\_alpha\_from\_coincidence}).}
+\]
+With nominal binary distance $\delta(p,q)=\mathbf{1}[p\ne q]$, it sets
+\[
+D_o=\sum_{p\ne q} O_{pq},\qquad D_e=\sum_{p\ne q} E_{pq}
+\quad\text{(\texttt{iaa\_scores/alpha.py:\_alpha\_from\_coincidence}),}
+\]
+and returns $\alpha_u=1-D_o/D_e$, but returns $1.0$ if $n=0$ or $D_e=0$
+(\texttt{iaa\_scores/alpha.py:\_alpha\_from\_coincidence}).
+
+\section*{\texttt{include\_background} (recommended)}
+For per-category binary unitizing, ``background'' corresponds to the value $0$ (not-$c$), which includes
+both unlabeled text and text labeled with other categories.
+Setting \texttt{include\_background=true} counts $(0,0)$ segment agreements and therefore measures agreement
+about where category $c$ is \emph{absent} as well as present. This is preferred when annotators are expected
+to agree not only on the positive spans, but also on leaving other regions unlabeled (or labeled differently).
+
+\end{document}

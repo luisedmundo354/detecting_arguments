@@ -1,0 +1,115 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	"5_XYth22Oc" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We find that each owner of a proprietary<BR ALIGN='left'/>interest in Parma acquired a proprietary<BR ALIGN='left'/>interest in West Side. Each such<BR ALIGN='left'/>shareholder acquired an interest in the<BR ALIGN='left'/>affairs of West Side which is definite<BR ALIGN='left'/>and material and it represented a<BR ALIGN='left'/>substantial part of the value of the<BR ALIGN='left'/>stock that was given up. That the<BR ALIGN='left'/>interest received need not be identical<BR ALIGN='left'/>to that given in exchange is made clear<BR ALIGN='left'/>by the language previously quoted from<BR ALIGN='left'/>Helvering v. Minnesota Tea Co., supra:<BR ALIGN='left'/>&quot;True it is that the relationship of the<BR ALIGN='left'/>taxpayer to the assets conveyed was<BR ALIGN='left'/>substantially changed, but this is not<BR ALIGN='left'/>inhibited by the statute.&quot;</TD></TR>
+</TABLE>
+>]
+	"6vAwYi47_U" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This income tax refund case was decided<BR ALIGN='left'/>in favor of the plaintiff West Side<BR ALIGN='left'/>Federal Savings and Loan Association of<BR ALIGN='left'/>Fairview Park (West Side) on cross-<BR ALIGN='left'/>motions for summary judgment. There is<BR ALIGN='left'/>no actual dispute in the facts, though<BR ALIGN='left'/>the parties each emphasized different<BR ALIGN='left'/>facts in their presentations to the<BR ALIGN='left'/>court. The issue is whether a statutory<BR ALIGN='left'/>merger of an Ohio state-chartered<BR ALIGN='left'/>savings and loan association, with a<BR ALIGN='left'/>limited amount of par value capital<BR ALIGN='left'/>stock outstanding in addition to savings<BR ALIGN='left'/>accounts, into a mutually owned federal<BR ALIGN='left'/>savings and loan association whose<BR ALIGN='left'/>capital consists solely of savings<BR ALIGN='left'/>accounts, constituted a tax-free<BR ALIGN='left'/>reorganization within the meaning of §<BR ALIGN='left'/>368(a)(1)(A) of the Internal Revenue<BR ALIGN='left'/>Code of 1954. The district court held<BR ALIGN='left'/>that a tax-free reorganization was<BR ALIGN='left'/>effected</TD></TR>
+</TABLE>
+>]
+	ZntxsK2L0I [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The following facts are taken from the<BR ALIGN='left'/>briefs of the appellant:\n\nTaxpayer<BR ALIGN='left'/>(West Side) is a federal savings and<BR ALIGN='left'/>loan association, chartered by the<BR ALIGN='left'/>Federal Home Loan Bank Board under<BR ALIGN='left'/>Section 5 of the Home Owners&#x27; Loan Act<BR ALIGN='left'/>of 1933, as amended. Its current charter<BR ALIGN='left'/>(Charter K, Rev.) was issued by the<BR ALIGN='left'/>Board on February 27, 1956.\nUnder<BR ALIGN='left'/>Charter K, taxpayer may raise its<BR ALIGN='left'/>capital by accepting payments on an<BR ALIGN='left'/>unlimited number of savings accounts. It<BR ALIGN='left'/>may not, however, issue capital stock.<BR ALIGN='left'/>All holders of savings accounts, and all<BR ALIGN='left'/>borrowers of funds from taxpayer, are<BR ALIGN='left'/>members and are entitled to vote on<BR ALIGN='left'/>questions requiring the action of<BR ALIGN='left'/>association members. A savings account<BR ALIGN='left'/>holder is entitled to one vote for every<BR ALIGN='left'/>$100 in his account, but may not cast<BR ALIGN='left'/>more than 50 votes, in any event.<BR ALIGN='left'/>Savings account holders are entitled to<BR ALIGN='left'/>be paid the face value of their accounts<BR ALIGN='left'/>within 30 days after a request has been<BR ALIGN='left'/>filed with the association.\nParma<BR ALIGN='left'/>Savings Company was a corporation<BR ALIGN='left'/>organized and existing under the laws of<BR ALIGN='left'/>the State of Ohio, with a limited amount<BR ALIGN='left'/>of $200 par value capital stock<BR ALIGN='left'/>authorized, issued, and outstanding, in<BR ALIGN='left'/>addition to savings accounts. The<BR ALIGN='left'/>permanent capital stock of Parma could<BR ALIGN='left'/>not be redeemed until all other<BR ALIGN='left'/>liabilities of the company were fully<BR ALIGN='left'/>liquidated upon final dissolution of the<BR ALIGN='left'/>company.\nOn April 12, 1967, taxpayer<BR ALIGN='left'/>and Parma entered into an agreement<BR ALIGN='left'/>labelled &quot;Agreement and Plan of Merger,&quot;<BR ALIGN='left'/>wherein a plan for the contemplated<BR ALIGN='left'/>merger of Parma into taxpayer was set<BR ALIGN='left'/>out. Under the plan, taxpayer was to<BR ALIGN='left'/>acquire all of the assets and succeed to<BR ALIGN='left'/>all of the liabilities of Parma. In<BR ALIGN='left'/>addition, each holder of a savings<BR ALIGN='left'/>account in Parma was to receive a<BR ALIGN='left'/>savings account in taxpayer of equal<BR ALIGN='left'/>withdrawal value. Each outstanding share<BR ALIGN='left'/>of Parma capital stock, with a par value<BR ALIGN='left'/>of $200, was to be converted into a<BR ALIGN='left'/>savings account in taxpayer with a<BR ALIGN='left'/>withdrawal value of $2,500. After<BR ALIGN='left'/>adoption by Parma&#x27;s board of directors<BR ALIGN='left'/>and stockholders and by taxpayer&#x27;s board<BR ALIGN='left'/>of directors, and approval by the<BR ALIGN='left'/>Federal Home Loan Bank Board and the<BR ALIGN='left'/>Superintendent of Building and Loan<BR ALIGN='left'/>Associations of Ohio, the plan was<BR ALIGN='left'/>effectuated on September 30, 1967.</TD></TR>
+</TABLE>
+>]
+	"5goPGhd3aJ" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Although the Internal Revenue Service<BR ALIGN='left'/>recognized the transaction between West<BR ALIGN='left'/>Side and Parma to be a statutory merger<BR ALIGN='left'/>within the literal language of §<BR ALIGN='left'/>368(a)(1)(A), it concluded that the<BR ALIGN='left'/>additional requirement of a &quot;continuity<BR ALIGN='left'/>of proprietary interest&quot; was not met.<BR ALIGN='left'/>This determination was based on the<BR ALIGN='left'/>government&#x27;s position that when the<BR ALIGN='left'/>Parma shareholders exchanged their $200<BR ALIGN='left'/>par value stock for savings accounts in<BR ALIGN='left'/>West Side at the rate of $2,500<BR ALIGN='left'/>withdrawal value for each share of stock<BR ALIGN='left'/>given up they converted their equity<BR ALIGN='left'/>interest in Parma into cash or its<BR ALIGN='left'/>equivalent. A deficiency for the year<BR ALIGN='left'/>1967 was asserted against West Side as<BR ALIGN='left'/>transferee of Parma since Parma would<BR ALIGN='left'/>have been required to restore to income<BR ALIGN='left'/>in the year of the merger its bad debt<BR ALIGN='left'/>reserve and excess investment credits if<BR ALIGN='left'/>the merger were not properly treated as<BR ALIGN='left'/>a tax-free reorganization. The tax was<BR ALIGN='left'/>paid, a claim for refund filed and not<BR ALIGN='left'/>allowed, and this suit followed.</TD></TR>
+</TABLE>
+>]
+	iE6XPG0kgc [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The &quot;continuity of proprietary interest&quot;<BR ALIGN='left'/>requirement for treatment of an<BR ALIGN='left'/>otherwise valid statutory merger or<BR ALIGN='left'/>consolidation under § 368(a)(1)(A) is a<BR ALIGN='left'/>judicially created standard which is now<BR ALIGN='left'/>promulgated in Treasury Regulations §<BR ALIGN='left'/>1.368-1(b).</TD></TR>
+</TABLE>
+>]
+	H5HchNmKTi [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">to be within the exemption the seller<BR ALIGN='left'/>must acquire an interest in the affairs<BR ALIGN='left'/>of the purchasing company more definite<BR ALIGN='left'/>than that incident to ownership of its<BR ALIGN='left'/>short-term purchase-money notes.&quot;</TD></TR>
+</TABLE>
+>]
+	"1WMye3Miy9" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">gives the widest room for all kinds of<BR ALIGN='left'/>changes in corporate structure, but does<BR ALIGN='left'/>not abandon the primary requisite that<BR ALIGN='left'/>there must be some continuity of<BR ALIGN='left'/>interest on the part of the transferor<BR ALIGN='left'/>corporation or its stockholders in order<BR ALIGN='left'/>to secure exemption.</TD></TR>
+</TABLE>
+>]
+	jXB_mQj0XQ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;merger and consolidation&quot; as used in<BR ALIGN='left'/>the Act have a broader meaning than that<BR ALIGN='left'/>ordinarily given to them and that<BR ALIGN='left'/>transactions which might not<BR ALIGN='left'/>traditionally be classified as mergers<BR ALIGN='left'/>or consolidations may qualify under the<BR ALIGN='left'/>Act.</TD></TR>
+</TABLE>
+>]
+	c79DKmhH3C [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">that tax-free reorganization treatment<BR ALIGN='left'/>under § 368 does not automatically<BR ALIGN='left'/>follow from the fact that a true<BR ALIGN='left'/>statutory merger or consolidation is<BR ALIGN='left'/>effected under applicable state or<BR ALIGN='left'/>federal law. The additional requirement<BR ALIGN='left'/>is a &quot;continuity of interest on the part<BR ALIGN='left'/>of the transferor corporation or its<BR ALIGN='left'/>stockholders.&quot; The sellers must acquire<BR ALIGN='left'/>&quot;a definite and substantial interest in<BR ALIGN='left'/>the affairs of the purchasing<BR ALIGN='left'/>corporation&quot; and the interest which they<BR ALIGN='left'/>acquire must represent a substantial<BR ALIGN='left'/>part of the value of the thing<BR ALIGN='left'/>transferred. Nevertheless, there is no<BR ALIGN='left'/>requirement that the relationship of the<BR ALIGN='left'/>transferor or its shareholders to the<BR ALIGN='left'/>assets transferred remain substantially<BR ALIGN='left'/>unchanged. The interest which the<BR ALIGN='left'/>transferor or its shareholders acquire<BR ALIGN='left'/>must be at least in substantial part a<BR ALIGN='left'/>proprietary or equity interest and where<BR ALIGN='left'/>only cash or debt obligations of the<BR ALIGN='left'/>transferee are received there is no<BR ALIGN='left'/>qualifying reorganization.</TD></TR>
+</TABLE>
+>]
+	"9ucLPji-Bf" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">must be viewed in light of the facts of<BR ALIGN='left'/>each case</TD></TR>
+</TABLE>
+>]
+	_GgUNiXYWK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In Rev.Rul. 69-3, 69-1 C.B. 103, it was<BR ALIGN='left'/>held that acquisition of all of the<BR ALIGN='left'/>assets of one federally chartered mutual<BR ALIGN='left'/>savings and loan association by another<BR ALIGN='left'/>similar association, when accomplished<BR ALIGN='left'/>as a statutory merger qualifies as a<BR ALIGN='left'/>tax-free reorganization.</TD></TR>
+</TABLE>
+>]
+	b0PXcGb7sX [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Rev.Rul. 69-6, 69-1 C.B. 104, a merger<BR ALIGN='left'/>substantially like the one involved in<BR ALIGN='left'/>this case where a state-chartered<BR ALIGN='left'/>association with capital stock was<BR ALIGN='left'/>merged into a federal mutual savings and<BR ALIGN='left'/>loan was held not to constitute a<BR ALIGN='left'/>reorganization within the provisions of<BR ALIGN='left'/>§ 368</TD></TR>
+</TABLE>
+>]
+	pvA7WJtnsV [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Rev.Rul. 69-646, 69-2 C.B. 54 the merger<BR ALIGN='left'/>of a savings and loan association having<BR ALIGN='left'/>only savings shares into one having<BR ALIGN='left'/>savings shares and guaranty shares was<BR ALIGN='left'/>held to qualify as a tax-free<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	DasK1mgJQW [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[SEjf3No0Vy]</TD></TR>
+</TABLE>
+>]
+	LHNr2PjFM1 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The fact that the investment certificate<BR ALIGN='left'/>holders of one of the acquired<BR ALIGN='left'/>associations had no voting rights was<BR ALIGN='left'/>held to be immaterial in reliance upon<BR ALIGN='left'/>Nelson Co. v. Helvering, supra. The<BR ALIGN='left'/>court specifically refused to adopt the<BR ALIGN='left'/>argument of the government, made also in<BR ALIGN='left'/>this case, that since a depositor in a<BR ALIGN='left'/>savings and loan association is a<BR ALIGN='left'/>creditor for some purposes he must be<BR ALIGN='left'/>considered a creditor of the association<BR ALIGN='left'/>for all purposes.</TD></TR>
+</TABLE>
+>]
+	oXjWv3vIMV [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[YDy46IApWa]</TD></TR>
+</TABLE>
+>]
+	H5HchNmKTi -> jXB_mQj0XQ
+	"1WMye3Miy9" -> iE6XPG0kgc
+	"1WMye3Miy9" -> jXB_mQj0XQ
+	c79DKmhH3C -> "1WMye3Miy9"
+	c79DKmhH3C -> "9ucLPji-Bf"
+	DasK1mgJQW -> _GgUNiXYWK
+	DasK1mgJQW -> b0PXcGb7sX
+	DasK1mgJQW -> pvA7WJtnsV
+	DasK1mgJQW -> c79DKmhH3C
+	LHNr2PjFM1 -> oXjWv3vIMV
+	LHNr2PjFM1 -> DasK1mgJQW
+	"5_XYth22Oc" -> LHNr2PjFM1
+}

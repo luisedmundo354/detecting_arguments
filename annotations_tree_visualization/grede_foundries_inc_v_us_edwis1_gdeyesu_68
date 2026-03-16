@@ -1,0 +1,81 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	xUYcuFbrds [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The court finds that the acquisition of<BR ALIGN='left'/>the assets of Liberty was not &quot;in<BR ALIGN='left'/>exchange solely for voting stock&quot; of<BR ALIGN='left'/>plaintiff, and therefore the transaction<BR ALIGN='left'/>does not qualify as a &quot;reorganization&quot;<BR ALIGN='left'/>within the meaning of § 368(a) (1) (C).</TD></TR>
+</TABLE>
+>]
+	NzvpI4Uv5X [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The crucial element of a nontaxable<BR ALIGN='left'/>&quot;(C)&quot; type reorganization is that the<BR ALIGN='left'/>acquisition of the assets of Liberty<BR ALIGN='left'/>must have been in exchange solely for<BR ALIGN='left'/>plaintiff&#x27;s voting stock. The Supreme<BR ALIGN='left'/>Court has stated that this requirement<BR ALIGN='left'/>&quot;* * * leaves no leeway. Voting stock<BR ALIGN='left'/>plus some other consideration does not<BR ALIGN='left'/>meet the statutory requirement.&quot;<BR ALIGN='left'/>Helvering v. Southwest Consolidated<BR ALIGN='left'/>Corp., 315 U.S. 194, 198, 62 S.Ct. 546,<BR ALIGN='left'/>550, 86 L.Ed. 789 (1942).</TD></TR>
+</TABLE>
+>]
+	H5tvWJZTPQ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Defendant&#x27;s attack on the transaction<BR ALIGN='left'/>here involved is based on the fact that<BR ALIGN='left'/>plaintiff, in acquiring the assets of<BR ALIGN='left'/>Liberty, exchanged not only its own<BR ALIGN='left'/>voting stock but also its 175 shares of<BR ALIGN='left'/>Liberty stock. It is not disputed that<BR ALIGN='left'/>the first step of the plan, i. e., the<BR ALIGN='left'/>transfer to plaintiff of Liberty&#x27;s<BR ALIGN='left'/>assets in exchange for 5,000 shares of<BR ALIGN='left'/>plaintiff&#x27;s stock, would be squarely<BR ALIGN='left'/>within § 368 (a) (1) (C) if it had ended<BR ALIGN='left'/>there. The difficulty is that the second<BR ALIGN='left'/>step of the plan required Liberty to<BR ALIGN='left'/>liquidate, with 265*265 Liberty&#x27;s<BR ALIGN='left'/>shareholders (including plaintiff)<BR ALIGN='left'/>exchanging Liberty stock for plaintiff&#x27;s<BR ALIGN='left'/>stock. Each step is part of one<BR ALIGN='left'/>integrated plan, and for federal income<BR ALIGN='left'/>tax purposes the court must consider<BR ALIGN='left'/>only the end result, not its component<BR ALIGN='left'/>parts.</TD></TR>
+</TABLE>
+>]
+	QSl9b3zbiG [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Substantially the same argument was<BR ALIGN='left'/>presented in the Bausch &amp; Lomb case as<BR ALIGN='left'/>plaintiff presents in this action; i.<BR ALIGN='left'/>e., that each step in the plan had a<BR ALIGN='left'/>separate and distinct business purpose.<BR ALIGN='left'/>Assuming this to be true, this fact<BR ALIGN='left'/>alone does not serve to render the<BR ALIGN='left'/>transaction nontaxable. The<BR ALIGN='left'/>specifications of the reorganization<BR ALIGN='left'/>provisions of the code are precise and<BR ALIGN='left'/>must be strictly complied with in order<BR ALIGN='left'/>to entitle the taxpayer to the benefit<BR ALIGN='left'/>of tax-free treatment thereunder.</TD></TR>
+</TABLE>
+>]
+	Oh7q_qTl9M [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">For reasons of its own it chose not to<BR ALIGN='left'/>do so.&quot;\n\nPlaintiff&#x27;s board of<BR ALIGN='left'/>directors had considered a merger under<BR ALIGN='left'/>the laws of the State of Wisconsin as a<BR ALIGN='left'/>means of accomplishing its objectives,<BR ALIGN='left'/>which merger could have resulted in a<BR ALIGN='left'/>tax-free reorganization as a &quot;statutory<BR ALIGN='left'/>merger&quot; under § 368(a) (1) (A), but it<BR ALIGN='left'/>was determined that the merger procedure<BR ALIGN='left'/>would be too lengthy. The board was<BR ALIGN='left'/>advised by its counsel that the plan<BR ALIGN='left'/>which was adopted here would be the<BR ALIGN='left'/>simplest and most practical way to<BR ALIGN='left'/>accomplish its purpose. Having chosen<BR ALIGN='left'/>this method, plaintiff must bear the tax<BR ALIGN='left'/>consequences resulting therefrom.</TD></TR>
+</TABLE>
+>]
+	_2Fd0pptuK [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This is an action for the recovery of<BR ALIGN='left'/>federal income taxes alleged to have<BR ALIGN='left'/>been erroneously collected from<BR ALIGN='left'/>plaintiff for its fiscal year ending<BR ALIGN='left'/>October 31, 1955. The court has<BR ALIGN='left'/>jurisdiction under § 1346, Title 28<BR ALIGN='left'/>U.S.C.A. The issue for decision by the<BR ALIGN='left'/>court is whether plaintiff must<BR ALIGN='left'/>recognize a taxable gain as a result of<BR ALIGN='left'/>a &quot;plan of reorganization&quot; carried out<BR ALIGN='left'/>on October 31, 1955, between plaintiff<BR ALIGN='left'/>and Liberty Foundry<BR ALIGN='left'/>Corporation.\n\nPlaintiff, Grede<BR ALIGN='left'/>Foundries, Inc., is a Wisconsin<BR ALIGN='left'/>corporation engaged in the foundry<BR ALIGN='left'/>business. Liberty Foundry Corporation<BR ALIGN='left'/>(hereinafter referred to as &quot;Liberty&quot;)<BR ALIGN='left'/>was formerly a Wisconsin corporation<BR ALIGN='left'/>engaged in the business of fabricating<BR ALIGN='left'/>and selling ductile iron. As of October<BR ALIGN='left'/>31, 1955, plaintiff owned 70 per cent,<BR ALIGN='left'/>or 175 shares, of the total of 250<BR ALIGN='left'/>issued and outstanding shares of<BR ALIGN='left'/>Liberty. The remaining 75 shares were<BR ALIGN='left'/>owned by 264*264 certain officers of<BR ALIGN='left'/>plaintiff and by members of the Grede<BR ALIGN='left'/>family.\n\nIn order to achieve certain<BR ALIGN='left'/>operating economies as well as to avoid<BR ALIGN='left'/>a &quot;conflict of interest&quot; among those<BR ALIGN='left'/>minority shareholders of Liberty who<BR ALIGN='left'/>were officers of plaintiff, the &quot;plan of<BR ALIGN='left'/>reorganization&quot; was adopted by<BR ALIGN='left'/>plaintiff&#x27;s board of directors on<BR ALIGN='left'/>October 18, 1955. Under the plan,<BR ALIGN='left'/>plaintiff issued 5,000 shares of its<BR ALIGN='left'/>Class A common stock to Liberty in<BR ALIGN='left'/>exchange for all of Liberty&#x27;s assets,<BR ALIGN='left'/>subject to liabilities. Upon receipt of<BR ALIGN='left'/>the 5,000 shares of plaintiff&#x27;s stock,<BR ALIGN='left'/>Liberty distributed them pro rata to its<BR ALIGN='left'/>shareholders who then surrendered their<BR ALIGN='left'/>Liberty shares to Liberty. Plaintiff<BR ALIGN='left'/>therefore received back 3,500 of its own<BR ALIGN='left'/>shares in exchange for its 175 Liberty<BR ALIGN='left'/>shares. All Liberty shares were then<BR ALIGN='left'/>cancelled, and Liberty was dissolved.<BR ALIGN='left'/>The plan was adopted by the board of<BR ALIGN='left'/>directors and all shareholders of<BR ALIGN='left'/>Liberty at a meeting held on October 31,<BR ALIGN='left'/>1955, the day on which the plan was<BR ALIGN='left'/>carried out.</TD></TR>
+</TABLE>
+>]
+	aYsznn5W8Y [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Commissioner of Internal Revenue<BR ALIGN='left'/>determined that plaintiff realized a<BR ALIGN='left'/>gain as a result of the acquisition of<BR ALIGN='left'/>Liberty&#x27;s assets, taxable under § 331(a)<BR ALIGN='left'/>(1)[1] of the Internal Revenue Code of<BR ALIGN='left'/>1954, 26 U.S.C.A. § 331(a) (1).<BR ALIGN='left'/>Plaintiff paid the tax thereon and filed<BR ALIGN='left'/>its claim for refund, alleging that the<BR ALIGN='left'/>transaction was a nontaxable<BR ALIGN='left'/>&quot;reorganization&quot; under § 368(a) (1) (C)</TD></TR>
+</TABLE>
+>]
+	"8JKTXsnWco" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;§ 368. Definitions relating to<BR ALIGN='left'/>corporate reorganizations\n&quot;(a)<BR ALIGN='left'/>Reorganization.—\n&quot;(1) In general.—For<BR ALIGN='left'/>purposes of parts I and II and this<BR ALIGN='left'/>part, the term `reorganization&#x27;<BR ALIGN='left'/>means—\n* * * * * *\n&quot;(C) the<BR ALIGN='left'/>acquisition by one corporation, in<BR ALIGN='left'/>exchange solely for all or a part of its<BR ALIGN='left'/>voting stock (or in exchange solely for<BR ALIGN='left'/>all or a part of the voting stock of a<BR ALIGN='left'/>corporation which is in control of the<BR ALIGN='left'/>acquiring corporation), of substantially<BR ALIGN='left'/>all of the properties of another<BR ALIGN='left'/>corporation, but in determining whether<BR ALIGN='left'/>the exchange is solely for stock the<BR ALIGN='left'/>assumption by the acquiring corporation<BR ALIGN='left'/>of a liability of the other, or the fact<BR ALIGN='left'/>that property acquired is subject to a<BR ALIGN='left'/>liability, shall be disregarded;&quot;</TD></TR>
+</TABLE>
+>]
+	q23yXumkar [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A substantially identical plan was held<BR ALIGN='left'/>not to meet the requirements of a<BR ALIGN='left'/>nontaxable reorganization in Bausch &amp;<BR ALIGN='left'/>Lomb Optical Company v. Commissioner of<BR ALIGN='left'/>Internal Revenue, 267 F.2d 75 (2d Cir.<BR ALIGN='left'/>1959), cert. denied 361 U.S. 835, 80<BR ALIGN='left'/>S.Ct. 88, 4 L.Ed.2d 76. Although the<BR ALIGN='left'/>case was decided under the predecessor<BR ALIGN='left'/>of § 368 (a) (1) (C) (i. e., § 112(g)<BR ALIGN='left'/>(1) (C) of the Internal Revenue Code of<BR ALIGN='left'/>1939, 26 U.S.C.A. § 112(g) (1) (C)),[3]<BR ALIGN='left'/>that statute is identical in all<BR ALIGN='left'/>material respects.</TD></TR>
+</TABLE>
+>]
+	oqvwYhQHGR [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Plaintiff has not met its burden of<BR ALIGN='left'/>proof that it is entitled to a refund of<BR ALIGN='left'/>federal income taxes for the fiscal year<BR ALIGN='left'/>ended October 31, 1955.</TD></TR>
+</TABLE>
+>]
+	yzX8GNsJcR [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">If the transaction qualified as a<BR ALIGN='left'/>&quot;reorganization&quot; under this section, no<BR ALIGN='left'/>gain or loss is recognized pursuant to §<BR ALIGN='left'/>361 (a)[2] of the Internal Revenue Code<BR ALIGN='left'/>of 1954, 26 U.S.C.A. § 361(a).</TD></TR>
+</TABLE>
+>]
+	xUYcuFbrds -> NzvpI4Uv5X
+	xUYcuFbrds -> H5tvWJZTPQ
+	H5tvWJZTPQ -> "8JKTXsnWco"
+	H5tvWJZTPQ -> q23yXumkar
+	H5tvWJZTPQ -> QSl9b3zbiG
+	oqvwYhQHGR -> Oh7q_qTl9M
+	oqvwYhQHGR -> xUYcuFbrds
+	oqvwYhQHGR -> yzX8GNsJcR
+}

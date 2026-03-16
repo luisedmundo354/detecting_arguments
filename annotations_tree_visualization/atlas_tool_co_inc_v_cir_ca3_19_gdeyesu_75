@@ -1,0 +1,146 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	"sbA4qBpzr-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This case presents cross-appeals from<BR ALIGN='left'/>decisions of the United States Tax Court<BR ALIGN='left'/>upholding, in consolidated cases, a<BR ALIGN='left'/>deficiency in federal income tax<BR ALIGN='left'/>asserted for the taxable year 1970<BR ALIGN='left'/>against Stephan and Mildred Schaffan, a<BR ALIGN='left'/>deficiency in accumulated earnings tax<BR ALIGN='left'/>against Atlas Tool Co., Inc. (Atlas) for<BR ALIGN='left'/>the fiscal years ending June 30, 1969<BR ALIGN='left'/>and 1970, and transferee liability of<BR ALIGN='left'/>Atlas for conceded deficiencies in<BR ALIGN='left'/>accumulated earnings taxes of Fletcher<BR ALIGN='left'/>Plastics, Inc. (Fletcher) for the fiscal<BR ALIGN='left'/>years ending November 30, 1968, 1969 and<BR ALIGN='left'/>1970</TD></TR>
+</TABLE>
+>]
+	a6B2rBREOA [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Stephan Schaffan is the sole stockholder<BR ALIGN='left'/>of Atlas, a New Jersey corporation still<BR ALIGN='left'/>in existence, and of Fletcher, also a<BR ALIGN='left'/>New Jersey corporation, which was<BR ALIGN='left'/>dissolved in 1970. The deficiency<BR ALIGN='left'/>assessed against the Schaffans involves<BR ALIGN='left'/>the tax treatment of over $400,000 in<BR ALIGN='left'/>cash distributed to Schaffan upon the<BR ALIGN='left'/>dissolution of Fletcher.</TD></TR>
+</TABLE>
+>]
+	"wimtg8c-gE" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Schaffans reported this distribution<BR ALIGN='left'/>as a long-term capital gain but the<BR ALIGN='left'/>Commissioner of Internal Revenue and the<BR ALIGN='left'/>Tax Court treated it as a dividend,<BR ALIGN='left'/>taxable as ordinary income. The<BR ALIGN='left'/>individual taxpayers contend that the<BR ALIGN='left'/>distribution from Fletcher qualified for<BR ALIGN='left'/>capital gains treatment, while the<BR ALIGN='left'/>Commissioner urges that the Tax Court<BR ALIGN='left'/>erred in calculating the amount of the<BR ALIGN='left'/>dividend, and that a higher tax is due.<BR ALIGN='left'/>Atlas contends that the Tax Court erred<BR ALIGN='left'/>in upholding the accumulated earnings<BR ALIGN='left'/>tax assessed against it, and in imposing<BR ALIGN='left'/>transferee liability on it for<BR ALIGN='left'/>Fletcher&#x27;s tax obligations.</TD></TR>
+</TABLE>
+>]
+	N965mu6Io1 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">I. The Schaffan&#x27;s Individual Tax<BR ALIGN='left'/>Liability\n\nIn October 1970, Schaffan<BR ALIGN='left'/>owned all the stock of Atlas and of<BR ALIGN='left'/>Fletcher. Atlas was then engaged in the<BR ALIGN='left'/>business of designing and selling<BR ALIGN='left'/>products for the hobby industry,<BR ALIGN='left'/>principally model railroads. Prior to<BR ALIGN='left'/>1960, Atlas also manufactured such<BR ALIGN='left'/>products. In 1960, Fletcher was<BR ALIGN='left'/>incorporated, acquired Atlas&#x27; plastic<BR ALIGN='left'/>molding machines, and thereafter,<BR ALIGN='left'/>conducted the manufacturing operations<BR ALIGN='left'/>previously conducted by Atlas. Fletcher<BR ALIGN='left'/>occupied one floor of a building, the<BR ALIGN='left'/>balance of which was occupied by Atlas.<BR ALIGN='left'/>Atlas was virtually the only customer of<BR ALIGN='left'/>Fletcher.\n\nDuring the 1960&#x27;s, Atlas<BR ALIGN='left'/>continually increased its purchase of<BR ALIGN='left'/>foreign manufactured components, which<BR ALIGN='left'/>were cheaper than those domestically<BR ALIGN='left'/>manufactured. Eventually, Schaffan<BR ALIGN='left'/>decided that the manufacturing<BR ALIGN='left'/>operations being performed by Fletcher<BR ALIGN='left'/>were no longer essential since the same<BR ALIGN='left'/>quality components could be acquired at<BR ALIGN='left'/>a lower cost from foreign sources.<BR ALIGN='left'/>Accordingly, in October 1970, at the<BR ALIGN='left'/>directors&#x27; and stockholders&#x27; meetings,<BR ALIGN='left'/>it was voted that Fletcher liquidate in<BR ALIGN='left'/>the manner permitted by section 337, 26<BR ALIGN='left'/>U.S.C. § 337 (1976).\n\nOn November 5,<BR ALIGN='left'/>1970, Fletcher transferred to Atlas all<BR ALIGN='left'/>its machinery and equipment for an<BR ALIGN='left'/>appraised price of $100,250, and all its<BR ALIGN='left'/>inventory for its $14,600 cost.<BR ALIGN='left'/>Fletcher&#x27;s only accounts receivable were<BR ALIGN='left'/>from Atlas, and these were paid in full.<BR ALIGN='left'/>On November 19, 1970, Schaffan received<BR ALIGN='left'/>from Fletcher a cash distribution of<BR ALIGN='left'/>$482,246.82 which represented all of its<BR ALIGN='left'/>remaining assets. Fletcher filed an<BR ALIGN='left'/>appropriate Form 966 with the District<BR ALIGN='left'/>Director of its intended section 337<BR ALIGN='left'/>liquidation, and filed final federal and<BR ALIGN='left'/>state tax returns for the fiscal year<BR ALIGN='left'/>ending November 30, 1970. Fletcher was<BR ALIGN='left'/>formally dissolved in June<BR ALIGN='left'/>1971.\n\n864*864 The machinery and<BR ALIGN='left'/>equipment transferred to Atlas remained<BR ALIGN='left'/>in place in the building otherwise<BR ALIGN='left'/>occupied by Atlas. Fletcher&#x27;s former<BR ALIGN='left'/>employees were employed by Atlas,<BR ALIGN='left'/>initially in its packing and shipping<BR ALIGN='left'/>departments. The machinery and<BR ALIGN='left'/>equipment, left in place, was idle for a<BR ALIGN='left'/>time. However, by December 1970, Atlas<BR ALIGN='left'/>began experiencing delivery and quality<BR ALIGN='left'/>difficulties with its foreign suppliers,<BR ALIGN='left'/>and to keep its inventory adequate, it<BR ALIGN='left'/>soon started operating some of the<BR ALIGN='left'/>Fletcher machines. By the end of 1971,<BR ALIGN='left'/>all the machinery and equipment acquired<BR ALIGN='left'/>from Fletcher were in operation.\n\nOn<BR ALIGN='left'/>the Schaffan&#x27;s 1970 federal income tax<BR ALIGN='left'/>return they reported $400,000 as a<BR ALIGN='left'/>distribution from Fletcher in complete<BR ALIGN='left'/>liquidation under section 331, which<BR ALIGN='left'/>provides that &quot;[a]mounts distributed in<BR ALIGN='left'/>complete liquidation of a corporation<BR ALIGN='left'/>shall be treated as in full payment in<BR ALIGN='left'/>exchange for stock.&quot; 26 U.S.C. § 331<BR ALIGN='left'/>(1976). They claimed an adjusted basis<BR ALIGN='left'/>of $10,000 for the Fletcher stock, and<BR ALIGN='left'/>paid tax on a long-term capital gain of<BR ALIGN='left'/>$390,000</TD></TR>
+</TABLE>
+>]
+	gNw28sa7E0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the notice of deficiency, the<BR ALIGN='left'/>Commissioner asserted that the amount<BR ALIGN='left'/>distributed to Schaffan was actually<BR ALIGN='left'/>$482,246.82 (an amount not contested by<BR ALIGN='left'/>the taxpayer) and that the transaction<BR ALIGN='left'/>was not a section 331-337 liquidation,<BR ALIGN='left'/>but a reorganization within the meaning<BR ALIGN='left'/>of 26 U.S.C. § 368(a)(1)(D).</TD></TR>
+</TABLE>
+>]
+	"5V4OkI8vAu" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 368(a)(1)(D) provides that:\n\na<BR ALIGN='left'/>transfer by a corporation of all or a<BR ALIGN='left'/>part of its assets to another<BR ALIGN='left'/>corporation [is a reorganization] if<BR ALIGN='left'/>immediately after the transfer the<BR ALIGN='left'/>transferor, or one or more of its<BR ALIGN='left'/>shareholders (including persons who were<BR ALIGN='left'/>shareholders immediately before the<BR ALIGN='left'/>transfer), or any combination thereof,<BR ALIGN='left'/>is in control of the corporation to<BR ALIGN='left'/>which the assets are transferred; but<BR ALIGN='left'/>only if, in pursuance of the plan, stock<BR ALIGN='left'/>or securities of the corporation to<BR ALIGN='left'/>which the assets are transferred are<BR ALIGN='left'/>distributed in a transaction which<BR ALIGN='left'/>qualifies under section 354, 355, or 356</TD></TR>
+</TABLE>
+>]
+	rmVDqfGaWL [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Tax Court held that the transaction<BR ALIGN='left'/>was a D reorganization, and therefore<BR ALIGN='left'/>section 356(a)(2) applied, but that the<BR ALIGN='left'/>dividend treatment was authorized only<BR ALIGN='left'/>to the extent of earnings and profits of<BR ALIGN='left'/>Fletcher. It computed those earnings and<BR ALIGN='left'/>profits as $440,342.56, and determined<BR ALIGN='left'/>that the difference between that sum and<BR ALIGN='left'/>$472,246.82 was taxable as a long-term<BR ALIGN='left'/>capital gain. The Schaffans contend that<BR ALIGN='left'/>the entire $472,262.82 was a long-term<BR ALIGN='left'/>capital gain. The Commissioner contends<BR ALIGN='left'/>it was all a section 356(a)(2) dividend.</TD></TR>
+</TABLE>
+>]
+	P7U24elpXy [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Clearly there was, as that section<BR ALIGN='left'/>requires, a transfer by Fletcher of all<BR ALIGN='left'/>or part of its assets — in this case all<BR ALIGN='left'/>its machinery, equipment and inventory<BR ALIGN='left'/>were transferred to another corporation,<BR ALIGN='left'/>Atlas. In addition, Schaffan, the sole<BR ALIGN='left'/>stockholder of Fletcher, was in control<BR ALIGN='left'/>of Atlas &quot;immediately after&quot; the<BR ALIGN='left'/>transfer.</TD></TR>
+</TABLE>
+>]
+	Cp7MTLdsxe [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">No stock or securities of Atlas were<BR ALIGN='left'/>distributed to Schaffan. But despite the<BR ALIGN='left'/>language in section 368(a)(1)(D) to that<BR ALIGN='left'/>effect, it has been held that a<BR ALIGN='left'/>distribution is not necessary where the<BR ALIGN='left'/>ownership of the transferor and<BR ALIGN='left'/>transferee is identical because such a<BR ALIGN='left'/>distribution would be a mere formality</TD></TR>
+</TABLE>
+>]
+	TCPPKberAj [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 354, however, is applicable to<BR ALIGN='left'/>the facts in this case. It provides for<BR ALIGN='left'/>the nonrecognition of gain or loss on an<BR ALIGN='left'/>exchange of stock or securities solely<BR ALIGN='left'/>for stock or securities. Where there is<BR ALIGN='left'/>complete identity of ownership, section<BR ALIGN='left'/>354, like section 368(a)(1)(D), has been<BR ALIGN='left'/>construed not to require the meaningless<BR ALIGN='left'/>formality of such an exchange.[4]<BR ALIGN='left'/>However, section 354(a):\n\nshall not<BR ALIGN='left'/>apply to an exchange in pursuance of a<BR ALIGN='left'/>plan of reorganization within the<BR ALIGN='left'/>meaning of section 368(a)(1)(D), unless<BR ALIGN='left'/>—\n(A) the corporation to [Atlas] which<BR ALIGN='left'/>the [Fletcher] assets are transferred<BR ALIGN='left'/>acquires substantially all of the assets<BR ALIGN='left'/>of the transferor of such assets ....</TD></TR>
+</TABLE>
+>]
+	xkibSysFa2 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A distribution pursuant to section<BR ALIGN='left'/>368(a)(1)(D) must also qualify under<BR ALIGN='left'/>section 354 or section 355 in order for<BR ALIGN='left'/>section 356 to be applicable.</TD></TR>
+</TABLE>
+>]
+	"0FJErZViCW" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In light of the facts that all of<BR ALIGN='left'/>Fletcher&#x27;s assets except cash and<BR ALIGN='left'/>accounts receivable went to Atlas, that<BR ALIGN='left'/>Atlas had hired all of Fletcher&#x27;s<BR ALIGN='left'/>employees, that the operating assets<BR ALIGN='left'/>never changed location, and were<BR ALIGN='left'/>utilized within four 866*866 months to<BR ALIGN='left'/>manufacture the same products, we<BR ALIGN='left'/>conclude that the &quot;substantially all&quot;<BR ALIGN='left'/>assets requirement of section<BR ALIGN='left'/>354(b)(1)(A) was satisfied.</TD></TR>
+</TABLE>
+>]
+	dba9IJdpkQ [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 354(b)(1)(B) requires, as well,<BR ALIGN='left'/>that the distribution of securities in a<BR ALIGN='left'/>D reorganization be &quot;in pursuance of a<BR ALIGN='left'/>plan of reorganization.&quot; The transfer<BR ALIGN='left'/>was certainly a part of an overall plan.<BR ALIGN='left'/>The controlling shareholder chose to<BR ALIGN='left'/>call the transaction a plan of<BR ALIGN='left'/>liquidation. If what resulted was a plan<BR ALIGN='left'/>of reorganization, the chosen label is<BR ALIGN='left'/>not dispositive.[</TD></TR>
+</TABLE>
+>]
+	pixO317IQ9 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We conclude, as did the Tax Court, that<BR ALIGN='left'/>the transaction which resulted in<BR ALIGN='left'/>Fletcher&#x27;s distribution of $482,246.82<BR ALIGN='left'/>to Schaffan met all the statutory<BR ALIGN='left'/>requisites of a D reorganization.</TD></TR>
+</TABLE>
+>]
+	BUMiqr2Cge [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 356(a)(2) provides that money<BR ALIGN='left'/>distributed to stockholders in a<BR ALIGN='left'/>reorganization shall, to the extent of<BR ALIGN='left'/>the stockholders&#x27; gain, be treated as a<BR ALIGN='left'/>dividend out of earnings and profits of<BR ALIGN='left'/>&quot;the corporation.&quot; 26 U.S.C. § 356(a)(2)<BR ALIGN='left'/>(1976).</TD></TR>
+</TABLE>
+>]
+	Tw7wXA1GI1 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">But if the transaction was a<BR ALIGN='left'/>reorganization, the distribution by<BR ALIGN='left'/>Fletcher to Schaffan would be covered by<BR ALIGN='left'/>the &quot;boot&quot; provision of section 356, 26<BR ALIGN='left'/>U.S.C. § 356 (1976), and thus be treated<BR ALIGN='left'/>as ordinary income rather than as a<BR ALIGN='left'/>capital gain pursuant to section 331, 26<BR ALIGN='left'/>U.S.C. § 331(a) (1976).</TD></TR>
+</TABLE>
+>]
+	qy85J9alvC [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Thus we hold that the Tax Court did not<BR ALIGN='left'/>err in holding that under New Jersey<BR ALIGN='left'/>law, Atlas was liable for Fletcher&#x27;s tax<BR ALIGN='left'/>obligations, and that those obligations<BR ALIGN='left'/>could be collected pursuant to section<BR ALIGN='left'/>6901(a)(1)(A).[26]\n\n\nImplicit<BR ALIGN='left'/>Intermediate Conclusion<BR ALIGN='left'/>[OVYe8jBi82]\nIV. Conclusion\n\nThe<BR ALIGN='left'/>decision of the Tax Court will be<BR ALIGN='left'/>affirmed in all respects</TD></TR>
+</TABLE>
+>]
+	eC386mjMck [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Normally, a corporation that purchases<BR ALIGN='left'/>all of the assets of another corporation<BR ALIGN='left'/>is not liable for the debts of the<BR ALIGN='left'/>transferor.[23] However, the New Jersey<BR ALIGN='left'/>courts have formulated exceptions to the<BR ALIGN='left'/>rule in the context of personal<BR ALIGN='left'/>injury/products liability and minority<BR ALIGN='left'/>appraisal suits. The leading New Jersey<BR ALIGN='left'/>case is McKee v. Harris-Seybold Co., 109<BR ALIGN='left'/>N.J.Super. 555, 264 A.2d 98<BR ALIGN='left'/>(Super.Ct.Law Div. 1970), aff&#x27;d per<BR ALIGN='left'/>curiam, 118 N.J.Super. 480, 288 A.2d 585<BR ALIGN='left'/>(Super.Ct.App.Div. 1972). The McKee<BR ALIGN='left'/>court noted five exceptions, two of<BR ALIGN='left'/>which are relevant here: (1) &quot;the<BR ALIGN='left'/>transaction amounts to a consolidation<BR ALIGN='left'/>or merger of the seller and purchaser;<BR ALIGN='left'/>(2) the purchasing corporation is merely<BR ALIGN='left'/>a continuation of the selling<BR ALIGN='left'/>corporation.&quot; 109 N.J.Super. at 561, 264<BR ALIGN='left'/>A.2d at 101.</TD></TR>
+</TABLE>
+>]
+	cH7Gc2LA3i [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Although, there was no stock transfer<BR ALIGN='left'/>here, and only cash was involved, there<BR ALIGN='left'/>was clearly a continuation of<BR ALIGN='left'/>stockholder interest.</TD></TR>
+</TABLE>
+>]
+	BaqDnG3Hcn [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Moreover, it was not unreasonable for<BR ALIGN='left'/>the Tax Court to find adequate<BR ALIGN='left'/>continuity of the business activity by<BR ALIGN='left'/>Atlas for the reasons it found such<BR ALIGN='left'/>continuity under section 368, 26 U.S.C.<BR ALIGN='left'/>§ 368 (1976). Atlas purchased all the<BR ALIGN='left'/>operating machinery and inventory,<BR ALIGN='left'/>utilized the machinery for the same<BR ALIGN='left'/>purposes, retained it in the same<BR ALIGN='left'/>location, retained the same employees,<BR ALIGN='left'/>and the transferor company was<BR ALIGN='left'/>liquidated almost immediately.</TD></TR>
+</TABLE>
+>]
+	tNI10oVx12 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[dS0nMeDj_i]</TD></TR>
+</TABLE>
+>]
+	"0FJErZViCW" -> TCPPKberAj
+	"0FJErZViCW" -> xkibSysFa2
+	"0FJErZViCW" -> dba9IJdpkQ
+	pixO317IQ9 -> "0FJErZViCW"
+	P7U24elpXy -> Cp7MTLdsxe
+	P7U24elpXy -> "5V4OkI8vAu"
+	"0FJErZViCW" -> P7U24elpXy
+	pixO317IQ9 -> P7U24elpXy
+	cH7Gc2LA3i -> BaqDnG3Hcn
+	cH7Gc2LA3i -> eC386mjMck
+	qy85J9alvC -> tNI10oVx12
+	qy85J9alvC -> cH7Gc2LA3i
+	qy85J9alvC -> pixO317IQ9
+}

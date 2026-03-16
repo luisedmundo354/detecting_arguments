@@ -1,0 +1,136 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	rfzbgjf4xE [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">From judgments of the Tax Court adverse<BR ALIGN='left'/>to petitioner on each of the assessed<BR ALIGN='left'/>deficiencies, Bonnie H. Stauffer,<BR ALIGN='left'/>Executrix of the Estate of Bernard H.<BR ALIGN='left'/>Stauffer, appeals. Our jurisdiction to<BR ALIGN='left'/>review the judgment of the Tax Court<BR ALIGN='left'/>rests on 26 U.S.C. § 7482.</TD></TR>
+</TABLE>
+>]
+	"03RACyoN0m" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The facts were stipulated in the Tax<BR ALIGN='left'/>Court. At all times relevant to the<BR ALIGN='left'/>proceedings below, Bernard H. Stauffer<BR ALIGN='left'/>was the sole owner of three<BR ALIGN='left'/>corporations, Stauffer Reducing Inc., of<BR ALIGN='left'/>California (Stauffer California),<BR ALIGN='left'/>Stauffer Reducing, Inc., an Illinois<BR ALIGN='left'/>corporation (Stauffer Illinois), and<BR ALIGN='left'/>Stauffer Reducing, Inc., of New York<BR ALIGN='left'/>(Stauffer New York). Each of the three<BR ALIGN='left'/>companies was engaged in the business of<BR ALIGN='left'/>selling and promoting mechanical weight<BR ALIGN='left'/>and posture control devices which were<BR ALIGN='left'/>manufactured by the California and<BR ALIGN='left'/>Illinois corporations. The officers and<BR ALIGN='left'/>directors of each of the companies were<BR ALIGN='left'/>the same, board meetings of each of the<BR ALIGN='left'/>three companies were always held at the<BR ALIGN='left'/>home office of Stauffer California in<BR ALIGN='left'/>Los Angeles, and the books of the three<BR ALIGN='left'/>corporations were kept in Los Angeles.<BR ALIGN='left'/>Each corporation filed a separate income<BR ALIGN='left'/>tax return.\n\nIn 1958 Mr. Stauffer<BR ALIGN='left'/>decided to relocate the Stauffer<BR ALIGN='left'/>operations in New Mexico, and in pursuit<BR ALIGN='left'/>of this end a shell corporation,<BR ALIGN='left'/>Stauffer Laboratories, Inc., of New<BR ALIGN='left'/>Mexico (Stauffer New Mexico) was<BR ALIGN='left'/>incorporated in 1959. A formal merger<BR ALIGN='left'/>agreement was approved by Mr. Stauffer<BR ALIGN='left'/>in his capacity as sole stockholder of<BR ALIGN='left'/>each of the four corporations, whereby<BR ALIGN='left'/>the California, Illinois and New York<BR ALIGN='left'/>corporations were to merge into Stauffer<BR ALIGN='left'/>New Mexico. By the terms of the<BR ALIGN='left'/>agreement, the stated capital, paid-in<BR ALIGN='left'/>surplus and retained earnings of<BR ALIGN='left'/>Stauffer New Mexico were to equal the<BR ALIGN='left'/>sums of the respective items of the<BR ALIGN='left'/>three transferor corporations; all<BR ALIGN='left'/>property of whatever kind owned by the<BR ALIGN='left'/>three constituent corporations was to be<BR ALIGN='left'/>vested in the New Mexico concern; and<BR ALIGN='left'/>the liabilities and obligations of each<BR ALIGN='left'/>of the three transferring corporations<BR ALIGN='left'/>were to become the responsibilities of<BR ALIGN='left'/>Stauffer New Mexico. On the effective<BR ALIGN='left'/>date of the merger the separate<BR ALIGN='left'/>existences of each of the three<BR ALIGN='left'/>constituent corporations were to cease.<BR ALIGN='left'/>On October 1, 1959, the merger was<BR ALIGN='left'/>consummated by the filing of the merger<BR ALIGN='left'/>agreement with the secretaries of state<BR ALIGN='left'/>in each of the four respective<BR ALIGN='left'/>states.\n\nPrior to the consummation of<BR ALIGN='left'/>the merger, Mr. Stauffer sought and<BR ALIGN='left'/>obtained from the Internal Revenue<BR ALIGN='left'/>Service a ruling that the contemplated<BR ALIGN='left'/>venture constituted a &quot;statutory merger&quot;<BR ALIGN='left'/>within the terms of § 368(a) (1) (A). In<BR ALIGN='left'/>accordance with this ruling, it was<BR ALIGN='left'/>required 614*614 that each of the<BR ALIGN='left'/>transferor corporations file a closing<BR ALIGN='left'/>income tax return as of the last day of<BR ALIGN='left'/>its existence, September 30, 1959. §<BR ALIGN='left'/>381(b) (1). As the three corporations<BR ALIGN='left'/>reported their income on the fiscal year<BR ALIGN='left'/>basis, February 1, to January 31, their<BR ALIGN='left'/>respective closing tax returns were to<BR ALIGN='left'/>have reflected their income over the<BR ALIGN='left'/>eight month period, February 1, 1959, to<BR ALIGN='left'/>September 30, 1959. On December 15,<BR ALIGN='left'/>1959, requests on behalf of each of the<BR ALIGN='left'/>transferor corporations were filed for<BR ALIGN='left'/>an extension of time within which to<BR ALIGN='left'/>file their closing returns. Along with<BR ALIGN='left'/>these requests were tendered the amounts<BR ALIGN='left'/>of $300,000 in the name of Stauffer<BR ALIGN='left'/>California, $200,000 in the name of<BR ALIGN='left'/>Stauffer Illinois, and $7,500 in the<BR ALIGN='left'/>name of Stauffer New York. The three<BR ALIGN='left'/>corporations never filed separate<BR ALIGN='left'/>returns. At the close of its fiscal<BR ALIGN='left'/>year, January 31, 1960, Stauffer New<BR ALIGN='left'/>Mexico filed a single tax return<BR ALIGN='left'/>reporting the income of the California,<BR ALIGN='left'/>Illinois and New York corporations from<BR ALIGN='left'/>February 1, 1959, to September 30, 1959,<BR ALIGN='left'/>as well as reporting its income from the<BR ALIGN='left'/>date of the merger, October 1, 1959, to<BR ALIGN='left'/>January 31, 1960. Accompanying the tax<BR ALIGN='left'/>return was the following explanation of<BR ALIGN='left'/>the single return in lieu of the three<BR ALIGN='left'/>returns due on behalf of the<BR ALIGN='left'/>transferring corporations as of<BR ALIGN='left'/>September 30, 1959:\n\n&quot;Taxpayer<BR ALIGN='left'/>[Stauffer New Mexico] has been advised<BR ALIGN='left'/>by counsel that inasmuch as the<BR ALIGN='left'/>reincorporation of [the] California,<BR ALIGN='left'/>Illinois, and New York [corporation] in<BR ALIGN='left'/>the State of New Mexico involved no<BR ALIGN='left'/>change in the existing stockholders or<BR ALIGN='left'/>change in the assets of the corporations<BR ALIGN='left'/>involved, but was intended to effectuate<BR ALIGN='left'/>relocation of the corporate domiciles in<BR ALIGN='left'/>the State of New Mexico, the<BR ALIGN='left'/>reorganization is within the scope of<BR ALIGN='left'/>section 368(a) (1) (F) and section<BR ALIGN='left'/>381(b); that under the authority of<BR ALIGN='left'/>Rev.Rul. 57-276 (1957-1 C.B. 126), a<BR ALIGN='left'/>single return must therefore be filed by<BR ALIGN='left'/>Stauffer Laboratories, Inc., for the<BR ALIGN='left'/>fiscal year commencing February 1, 1959,<BR ALIGN='left'/>and ending January 31, 1960, claiming<BR ALIGN='left'/>only a single surtax exemption, and<BR ALIGN='left'/>combining the operations of all the<BR ALIGN='left'/>corporations for the entire fiscal year,<BR ALIGN='left'/>and that separate closing returns for<BR ALIGN='left'/>[the] New York, Illinois, and California<BR ALIGN='left'/>[corporations] should not be<BR ALIGN='left'/>filed.&quot;\nThe Commissioner contested<BR ALIGN='left'/>neither Stauffer New Mexico&#x27;s<BR ALIGN='left'/>characterization of the merger as an &quot;F&quot;<BR ALIGN='left'/>reorganization nor the filing of the<BR ALIGN='left'/>single tax return. The computed tax was<BR ALIGN='left'/>$356,701, and applying the previous sums<BR ALIGN='left'/>tendered in the names of Stauffer<BR ALIGN='left'/>California, Stauffer Illinois, and<BR ALIGN='left'/>Stauffer New York, Stauffer New Mexico<BR ALIGN='left'/>claimed, and was paid a refund.\n\nThe<BR ALIGN='left'/>contemplated relocation in New Mexico of<BR ALIGN='left'/>the physical assets of the Stauffer<BR ALIGN='left'/>enterprises did not take place. The<BR ALIGN='left'/>business was operated precisely as it<BR ALIGN='left'/>had been previously. There was no change<BR ALIGN='left'/>in officers, directors or shareholders.<BR ALIGN='left'/>Beginning in the latter part of 1959,<BR ALIGN='left'/>publicity unfavorable to the mechanized<BR ALIGN='left'/>weight control industry began to take<BR ALIGN='left'/>its toll of Stauffer&#x27;s sales volume.<BR ALIGN='left'/>Increased competition in the industry<BR ALIGN='left'/>caused further decreases in Stauffer&#x27;s<BR ALIGN='left'/>share of the market. In its tax return<BR ALIGN='left'/>for the fiscal year ended January 31,<BR ALIGN='left'/>1961, Stauffer New Mexico reported a net<BR ALIGN='left'/>operating loss of $3,366,052. On April<BR ALIGN='left'/>10, 1961, the corporation filed an<BR ALIGN='left'/>Application for Tentative Carryback<BR ALIGN='left'/>Adjustment, requesting a refund of<BR ALIGN='left'/>$1,481,653 paid in taxes by Stauffer<BR ALIGN='left'/>California for the year ended January<BR ALIGN='left'/>31, 1958, and of $263,194 of the taxes<BR ALIGN='left'/>paid by that same company for the year<BR ALIGN='left'/>ended January 31, 1959. The application<BR ALIGN='left'/>stated that Stauffer New Mexico was &quot;a<BR ALIGN='left'/>continuing corporation pursuant to a<BR ALIGN='left'/>reorganization under IRC Section 368(a)<BR ALIGN='left'/>(1) (F).&quot; The carryback adjustment<BR ALIGN='left'/>(known as the &quot;quickie&quot; refund)<BR ALIGN='left'/>authorizes the secretary or his delegate<BR ALIGN='left'/>to make such a refund to the taxpayer<BR ALIGN='left'/>within 90 days of his application<BR ALIGN='left'/>therefor. 26 U.S.C. § 6411. The<BR ALIGN='left'/>application was approved and the<BR ALIGN='left'/>adjustment paid, with interest.<BR ALIGN='left'/>Following the close of the fiscal year<BR ALIGN='left'/>on January 31, 1961, Stauffer New Mexico<BR ALIGN='left'/>was dissolved. The business was carried<BR ALIGN='left'/>on by Mr. Stauffer as a sole<BR ALIGN='left'/>proprietorship. 615*615 Consequently,<BR ALIGN='left'/>although the &quot;quickie&quot; refund was paid<BR ALIGN='left'/>by checks drawn to Stauffer New Mexico,<BR ALIGN='left'/>the checks were negotiated by Mr.<BR ALIGN='left'/>Stauffer, as trustee in dissolution and<BR ALIGN='left'/>former sole stockholder of the dissolved<BR ALIGN='left'/>corporation.\n\nIn June, 1963, the<BR ALIGN='left'/>Commissioner assessed deficiencies<BR ALIGN='left'/>against Stauffer New York in the amount<BR ALIGN='left'/>of $6,943.95 for the period February 1,<BR ALIGN='left'/>1959, to September 30, 1959, against<BR ALIGN='left'/>Stauffer Illinois in the amount of<BR ALIGN='left'/>$340,822.82 for the same period, and<BR ALIGN='left'/>against Stauffer California in the<BR ALIGN='left'/>amount of $412,021.19 for the same<BR ALIGN='left'/>period. In addition, the income tax of<BR ALIGN='left'/>Stauffer California for the years ended<BR ALIGN='left'/>January 31, 1958, and January 31, 1959,<BR ALIGN='left'/>were determined to be deficient in<BR ALIGN='left'/>amounts equal to the loss carryback<BR ALIGN='left'/>refund adjustments paid to Stauffer New<BR ALIGN='left'/>Mexico, $1,481,653 and $213,472,<BR ALIGN='left'/>respectively. Liability for the<BR ALIGN='left'/>deficiencies was attributed to<BR ALIGN='left'/>petitioner as the transferee of the<BR ALIGN='left'/>assets of Stauffer New Mexico which in<BR ALIGN='left'/>turn was transferee of the assets of<BR ALIGN='left'/>each of the corporations whose income<BR ALIGN='left'/>taxes had been assessed deficient.</TD></TR>
+</TABLE>
+>]
+	Ve5v9m5s9r [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">If an &quot;F&quot; reorganization took place, §<BR ALIGN='left'/>381(b) provides:\n\n&quot;Operating rules. —<BR ALIGN='left'/>Except in the case of an acquisition in<BR ALIGN='left'/>connection with a reorganization<BR ALIGN='left'/>described in subparagraph (F) of section<BR ALIGN='left'/>368(a) (1) —\n* * * * * *\n* * * * *<BR ALIGN='left'/>*\n(3) The corporation acquiring<BR ALIGN='left'/>property in a distribution or transfer<BR ALIGN='left'/>described in subsection (a) shall not be<BR ALIGN='left'/>entitled to carry back a net operating<BR ALIGN='left'/>loss for a taxable year ending after the<BR ALIGN='left'/>date of distribution or transfer to a<BR ALIGN='left'/>taxable year of the distributor or<BR ALIGN='left'/>transferor corporation.&quot;</TD></TR>
+</TABLE>
+>]
+	NdKMkQgZRY [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The &quot;F&quot; reorganization is defined in §<BR ALIGN='left'/>368(a) (1) as &quot;a mere change in<BR ALIGN='left'/>identity, form, or place of<BR ALIGN='left'/>organization, however 616*616 effected,&quot;<BR ALIGN='left'/>and is not further defined in the<BR ALIGN='left'/>regulations. There is a dearth of<BR ALIGN='left'/>administrative and judicial attention to<BR ALIGN='left'/>this section of the code.[</TD></TR>
+</TABLE>
+>]
+	qdB3JJyDCF [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the rule that an &quot;F&quot; reorganization is<BR ALIGN='left'/>restricted in number of participating<BR ALIGN='left'/>corporations to one. That is, section<BR ALIGN='left'/>(F) of 368(a) (1) applies only to the<BR ALIGN='left'/>reorganization of a single corporation,<BR ALIGN='left'/>and a multi-corporate merger defeats the<BR ALIGN='left'/>right of the surviving transferee<BR ALIGN='left'/>corporation to carry back losses under §<BR ALIGN='left'/>381(b). It is asserted that the<BR ALIGN='left'/>acquiring corporation cannot be treated,<BR ALIGN='left'/>for tax purposes, as standing in the<BR ALIGN='left'/>shoes of all of the pre-merger<BR ALIGN='left'/>transferor corporations. Treas. Reg. §<BR ALIGN='left'/>1.381 (b)-1(a) (2).</TD></TR>
+</TABLE>
+>]
+	MbyVTGzkof [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Bearing these underlying purposes in<BR ALIGN='left'/>mind, the taxpayer&#x27;s argument falls<BR ALIGN='left'/>short of attributing to the &quot;F&quot;<BR ALIGN='left'/>reorganization characteristics which are<BR ALIGN='left'/>indicative of a congressional intent<BR ALIGN='left'/>other than that which is attributable to<BR ALIGN='left'/>the other reorganization definitions in<BR ALIGN='left'/>§ 368(a) (1).</TD></TR>
+</TABLE>
+>]
+	tNH7OC9c0f [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Assuming an &quot;F&quot; reorganization was<BR ALIGN='left'/>effected, Stauffer New Mexico was<BR ALIGN='left'/>entitled to carry back its net operating<BR ALIGN='left'/>loss to the taxable years of its<BR ALIGN='left'/>transferor corporations.[</TD></TR>
+</TABLE>
+>]
+	oqEXtwdQf9 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The six reorganizations defined in §<BR ALIGN='left'/>368(a) (1) are not necessarily mutually<BR ALIGN='left'/>exclusive. At least it seems undisputed<BR ALIGN='left'/>that an &quot;F&quot; reorganization may also<BR ALIGN='left'/>qualify under one of the other<BR ALIGN='left'/>reorganization definitions, and the<BR ALIGN='left'/>Commissioner of Internal Revenue has so<BR ALIGN='left'/>ruled.[</TD></TR>
+</TABLE>
+>]
+	"4_7gpCGXvn" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">At least where there is a complete<BR ALIGN='left'/>identity of shareholders and their<BR ALIGN='left'/>proprietary interests, as here, we hold<BR ALIGN='left'/>that the type of transaction involved is<BR ALIGN='left'/>a type &quot;F&quot; reorganization.&quot;</TD></TR>
+</TABLE>
+>]
+	"OH0Akx-JRe" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the Fifth Circuit held that the<BR ALIGN='left'/>transaction was both a &quot;D&quot; and an &quot;F&quot;<BR ALIGN='left'/>reorganization. In discussing a section<BR ALIGN='left'/>368(a) (1) (F) reorganization, the court<BR ALIGN='left'/>said it could not cover &quot;a substantial<BR ALIGN='left'/>shift in the proprietary interest in a<BR ALIGN='left'/>corporation accompanying a<BR ALIGN='left'/>reorganization,&quot; citing Helvering v.<BR ALIGN='left'/>Southwest Consol. Corp., 315 U.S. 194,<BR ALIGN='left'/>62 S.Ct. 546, 86 L.Ed. 789 (1942), but<BR ALIGN='left'/>would include &quot;a mere change in form as<BR ALIGN='left'/>opposed to a change in substance.&quot; If<BR ALIGN='left'/>the corporate enterprise continues<BR ALIGN='left'/>uninterrupted, except for a distribution<BR ALIGN='left'/>of some liquid assets or cash, § 368(a)<BR ALIGN='left'/>(1) (F) can be applied.</TD></TR>
+</TABLE>
+>]
+	kSJCoGOxyM [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[eslRrvjj0d]</TD></TR>
+</TABLE>
+>]
+	ktrEQpLE09 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">That Stauffer New Mexico stood in the<BR ALIGN='left'/>shoes of each of the three constituent<BR ALIGN='left'/>corporations cannot be 620*620 here<BR ALIGN='left'/>denied; it was the alter ego of each of<BR ALIGN='left'/>the three pre-merger entities.</TD></TR>
+</TABLE>
+>]
+	EAjxScbYJb [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Having concluded that the merger here in<BR ALIGN='left'/>question constituted an &quot;F&quot;<BR ALIGN='left'/>reorganization under § 368(a) (1), we<BR ALIGN='left'/>turn to the problem of determining the<BR ALIGN='left'/>loss which Stauffer New Mexico is<BR ALIGN='left'/>entitled to carry back and of<BR ALIGN='left'/>determining to which of the three pre-<BR ALIGN='left'/>merger corporations the loss may be<BR ALIGN='left'/>carried. As discussed, supra, had the<BR ALIGN='left'/>merger been effected in a number of<BR ALIGN='left'/>other ways, the loss sustained by<BR ALIGN='left'/>Stauffer New Mexico, to the extent that<BR ALIGN='left'/>it represented the loss of Stauffer<BR ALIGN='left'/>California, could have been carried back<BR ALIGN='left'/>to a pre-merger taxable year of Stauffer<BR ALIGN='left'/>California. But for the simultaneous<BR ALIGN='left'/>merger of the three corporations, the<BR ALIGN='left'/>loss carryback would have been<BR ALIGN='left'/>undeniably allowed. This, the<BR ALIGN='left'/>Commissioner admits.</TD></TR>
+</TABLE>
+>]
+	"3cuUmx2QEV" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Gregory v. Helvering, 293 U.S. 465, 55<BR ALIGN='left'/>S.Ct. 266, 79 L.Ed. 596, 597 (1935)<BR ALIGN='left'/>teaches that mere compliance with the<BR ALIGN='left'/>code provisions resulting in a tax<BR ALIGN='left'/>advantage will be sanctioned by the<BR ALIGN='left'/>courts only when there is, independent<BR ALIGN='left'/>of the tax consequences, business or<BR ALIGN='left'/>corporate purpose.</TD></TR>
+</TABLE>
+>]
+	NYCUJEnAXa [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Tax Court found in the case before<BR ALIGN='left'/>us, that the merger of the three<BR ALIGN='left'/>Stauffer corporations was motivated<BR ALIGN='left'/>solely by legitimate business purposes,<BR ALIGN='left'/>the consolidation of the operational<BR ALIGN='left'/>facilities. Indeed, no losses occurred<BR ALIGN='left'/>until after the reorganization. Hence,<BR ALIGN='left'/>we are not confronted with purposeful<BR ALIGN='left'/>tax avoidance executed in compliance<BR ALIGN='left'/>with the code provisions.</TD></TR>
+</TABLE>
+>]
+	pnisx813BY [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Implicit Intermediate Conclusion<BR ALIGN='left'/>[DkHlBBXpFg]</TD></TR>
+</TABLE>
+>]
+	hJMMG9iIJO [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The judgments of the Tax Court upholding<BR ALIGN='left'/>the deficiency assesments by the<BR ALIGN='left'/>Commissioner are reversed.[9]</TD></TR>
+</TABLE>
+>]
+	eJZH_a0RbH [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The Commissioner takes the position,<BR ALIGN='left'/>sustained by the Tax Court below, that<BR ALIGN='left'/>the reorganization falls within the<BR ALIGN='left'/>definition of a statutory merger, 26<BR ALIGN='left'/>U.S.C. § 368(a) (1) (A), and therefore<BR ALIGN='left'/>the carry-back of net operating loss, 26<BR ALIGN='left'/>U.S.C. § 172, is proscribed.</TD></TR>
+</TABLE>
+>]
+	n14kPxalqT [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the instant case, the only change<BR ALIGN='left'/>that took place was that Stauffer New<BR ALIGN='left'/>Mexico reported the combined income of<BR ALIGN='left'/>the three pre-merger corporations in one<BR ALIGN='left'/>tax return; the individual books of the<BR ALIGN='left'/>constituent enterprises were kept as<BR ALIGN='left'/>they had been before the merger; the<BR ALIGN='left'/>enterprises continued to operate in the<BR ALIGN='left'/>same manner and at the same locations as<BR ALIGN='left'/>before the merger; the change was one of<BR ALIGN='left'/>corporate vehicles only.</TD></TR>
+</TABLE>
+>]
+	MbyVTGzkof -> qdB3JJyDCF
+	tNH7OC9c0f -> NdKMkQgZRY
+	tNH7OC9c0f -> Ve5v9m5s9r
+	MbyVTGzkof -> tNH7OC9c0f
+	"4_7gpCGXvn" -> "OH0Akx-JRe"
+	"4_7gpCGXvn" -> kSJCoGOxyM
+	"4_7gpCGXvn" -> MbyVTGzkof
+	"OH0Akx-JRe" -> oqEXtwdQf9
+	"OH0Akx-JRe" -> ktrEQpLE09
+	NYCUJEnAXa -> "3cuUmx2QEV"
+	NYCUJEnAXa -> EAjxScbYJb
+	NYCUJEnAXa -> "4_7gpCGXvn"
+	hJMMG9iIJO -> pnisx813BY
+	hJMMG9iIJO -> NYCUJEnAXa
+	MbyVTGzkof -> n14kPxalqT
+}

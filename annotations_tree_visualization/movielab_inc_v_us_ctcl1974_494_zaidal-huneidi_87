@@ -1,0 +1,131 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	"gt9Api0P-4" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This is a suit for the refund of federal<BR ALIGN='left'/>income taxes paid for the years 1963<BR ALIGN='left'/>694*694 and 1966 in the amounts of<BR ALIGN='left'/>$20,615 and $954,849, respectively, plus<BR ALIGN='left'/>interest as provided by law.</TD></TR>
+</TABLE>
+>]
+	cmtIKxy0Ks [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The essential stipulated facts may be<BR ALIGN='left'/>summarized as follows. Movielab Color<BR ALIGN='left'/>Corporation (hereinafter &quot;Color&quot;) was a<BR ALIGN='left'/>wholly owned subsidiary of Movielab,<BR ALIGN='left'/>Inc. (hereinafter &quot;Movielab&quot;). Both<BR ALIGN='left'/>Color and Movielab at all relevant times<BR ALIGN='left'/>operated on a taxable year which is a<BR ALIGN='left'/>year of 52 or 53 weeks ending on the<BR ALIGN='left'/>Saturday nearest to December 31. For<BR ALIGN='left'/>1967 and prior years, Movielab and its<BR ALIGN='left'/>subsidiaries filed separate income tax<BR ALIGN='left'/>returns. For 1968 and subsequent years,<BR ALIGN='left'/>Movielab and its subsidiaries have filed<BR ALIGN='left'/>consolidated income tax returns.\n\nBy<BR ALIGN='left'/>statutory merger consummated on July 2,<BR ALIGN='left'/>1967, Color was merged into Movielab.<BR ALIGN='left'/>All the assets and liabilities of Color<BR ALIGN='left'/>were acquired by Movielab, and all the<BR ALIGN='left'/>shares of Color&#x27;s stock held by Movielab<BR ALIGN='left'/>were canceled. The business purpose of<BR ALIGN='left'/>the merger was to simplify bookkeeping<BR ALIGN='left'/>and administration. There was continuity<BR ALIGN='left'/>of interest on the part of the Movielab<BR ALIGN='left'/>shareholders.\n\nPrior to the date of<BR ALIGN='left'/>the merger, Movielab conducted a black-<BR ALIGN='left'/>and-white film processing business and<BR ALIGN='left'/>Color conducted a color film processing<BR ALIGN='left'/>business on the same premises. Following<BR ALIGN='left'/>the date of the merger, Movielab<BR ALIGN='left'/>conducted both the black-and-white and<BR ALIGN='left'/>the color film processing businesses. No<BR ALIGN='left'/>change in the method of operating either<BR ALIGN='left'/>business was made as a result of the<BR ALIGN='left'/>merger.\n\nDuring the taxable year 1969,<BR ALIGN='left'/>Movielab incurred a net operating loss<BR ALIGN='left'/>(hereinafter &quot;NOL&quot;) of $3,817,402.12, of<BR ALIGN='left'/>which $3,343,124.18 was incurred with<BR ALIGN='left'/>respect to the conduct of the business<BR ALIGN='left'/>acquired from Color. For the taxable<BR ALIGN='left'/>year 1966, Color (then a subsidiary of<BR ALIGN='left'/>Movielab) had, without reference to the<BR ALIGN='left'/>NOL carryback, taxable income of<BR ALIGN='left'/>$2,056,289.02.\n\nMovielab, as successor<BR ALIGN='left'/>to Color, claims refund of the 1966<BR ALIGN='left'/>income tax of $954,849[1] paid by Color,<BR ALIGN='left'/>by carryback to Color&#x27;s 1966 taxable<BR ALIGN='left'/>year of the above-described<BR ALIGN='left'/>$3,343,124.18 NOL</TD></TR>
+</TABLE>
+>]
+	JLyrXWWozE [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">1) Was the merger of Color into Movielab<BR ALIGN='left'/>a reorganization described in section<BR ALIGN='left'/>368(a)(1)(F) of the Internal Revenue<BR ALIGN='left'/>Code of 1954[2] so that a post-merger<BR ALIGN='left'/>NOL incurred by Movielab may be carried<BR ALIGN='left'/>back under section 381(b) to pre-merger<BR ALIGN='left'/>taxable years of Color</TD></TR>
+</TABLE>
+>]
+	"64rG4bpV_J" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(2) Even if the merger is one described<BR ALIGN='left'/>in section 368(a)(1)(F), does the fact<BR ALIGN='left'/>that the merger also constituted a<BR ALIGN='left'/>liquidation of a subsidiary by its<BR ALIGN='left'/>parent within the provisions of section<BR ALIGN='left'/>332 constitute a bar to the above-<BR ALIGN='left'/>described carryback.</TD></TR>
+</TABLE>
+>]
+	"9Y9_D1ZyS3" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">mere change in identity [or] form&quot;<BR ALIGN='left'/>obviously refers to a situation which<BR ALIGN='left'/>represents a mere change in form<BR ALIGN='left'/>[Emphasis in original] as opposed to a<BR ALIGN='left'/>change in substance. Whatever the outer<BR ALIGN='left'/>limits of Section 368(a)(1)(F), it can<BR ALIGN='left'/>clearly be applied where the corporate<BR ALIGN='left'/>enterprise continues uninterrupted,<BR ALIGN='left'/>except for a distribution of some liquid<BR ALIGN='left'/>assets or cash. Under such<BR ALIGN='left'/>circumstances, there is a change of<BR ALIGN='left'/>corporate vehicles but not a change in<BR ALIGN='left'/>substance.</TD></TR>
+</TABLE>
+>]
+	VQ6JK6K4yD [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The principle we derive from Davant is<BR ALIGN='left'/>that a shift in operating assets from<BR ALIGN='left'/>the transferor corporation to its alter<BR ALIGN='left'/>ego wherein the identity of the<BR ALIGN='left'/>proprietary interest remains intact and<BR ALIGN='left'/>the business enterprise of the<BR ALIGN='left'/>transferor corporation continues<BR ALIGN='left'/>unimpaired results in an &quot;F&quot;<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	KMNxius4U6 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the instant case, the only change<BR ALIGN='left'/>that took place was that Stauffer New<BR ALIGN='left'/>Mexico reported the combined income of<BR ALIGN='left'/>the three pre-merger corporations in one<BR ALIGN='left'/>tax return; the individual books of the<BR ALIGN='left'/>constituent enterprises were kept as<BR ALIGN='left'/>they had been before the merger; the<BR ALIGN='left'/>enterprises continued to operate in the<BR ALIGN='left'/>same manner and at the same locations as<BR ALIGN='left'/>before the merger; the change was one of<BR ALIGN='left'/>corporate vehicles only.</TD></TR>
+</TABLE>
+>]
+	BnBj4SKe5g [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">we hold that an &quot;F&quot; reorganization can<BR ALIGN='left'/>involve more than one active corporation<BR ALIGN='left'/>and that, therefore, under certain<BR ALIGN='left'/>narrowly defined circumstances, a<BR ALIGN='left'/>statutory merger, which is a §<BR ALIGN='left'/>368(a)(1)(A) reorganization, can also be<BR ALIGN='left'/>an &quot;F&quot; reorganization. * * * [W]e hold<BR ALIGN='left'/>this to be a reorganization effected<BR ALIGN='left'/>through merger resulting only in a<BR ALIGN='left'/>change of identity.</TD></TR>
+</TABLE>
+>]
+	aooHMPqxzL [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">No logical distinction exists between a<BR ALIGN='left'/>&quot;shell receiver&quot; and an &quot;active<BR ALIGN='left'/>receiver&quot; when two factors co-exist:<BR ALIGN='left'/>one, when the proprietary interest in<BR ALIGN='left'/>the transferor and transferee is<BR ALIGN='left'/>identical; and two, when the business is<BR ALIGN='left'/>not interrupted.</TD></TR>
+</TABLE>
+>]
+	"e7el-NOcGU" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Often a reorganization under section<BR ALIGN='left'/>368(a)(1)(F) of the Code will meet the<BR ALIGN='left'/>requirements of subparagraphs (A), (C),<BR ALIGN='left'/>or (D) of section 368(a)(1). It is<BR ALIGN='left'/>believed that it was not the intention<BR ALIGN='left'/>of Congress in enacting section<BR ALIGN='left'/>368(a)(1) of the Code to hold that just<BR ALIGN='left'/>because a reorganization meets some<BR ALIGN='left'/>other provision of section 368(a)(1) the<BR ALIGN='left'/>provisions of subparagraph (F) of that<BR ALIGN='left'/>section are not complied with even<BR ALIGN='left'/>though the transaction also qualifies<BR ALIGN='left'/>under subparagraph (F).</TD></TR>
+</TABLE>
+>]
+	"C1BMJjM1_-" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">So long as the reorganization is<BR ALIGN='left'/>characterized by an identity of<BR ALIGN='left'/>shareholders and their proprietary<BR ALIGN='left'/>interests,[8] as well as unimpaired<BR ALIGN='left'/>continuity in the essential business<BR ALIGN='left'/>enterprise, the new form will be the<BR ALIGN='left'/>alter ego of the old. The change which<BR ALIGN='left'/>results will, by definition, be one of<BR ALIGN='left'/>mere form.</TD></TR>
+</TABLE>
+>]
+	"3w_I09TtKw" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">This very issue was recently decided in<BR ALIGN='left'/>favor of the taxpayer in the case of<BR ALIGN='left'/>Performance Systems, Inc. v. United<BR ALIGN='left'/>States, 32 AFTR 2d ¶ 73-5246 (M.D. Tenn.<BR ALIGN='left'/>8/30/73).[12] The court held that the<BR ALIGN='left'/>merger of subsidiary into parent<BR ALIGN='left'/>qualified as an &quot;F&quot; reorganization; and,<BR ALIGN='left'/>thus, post-merger losses could be<BR ALIGN='left'/>carried back against pre-merger income<BR ALIGN='left'/>of the same enterprise. The court also<BR ALIGN='left'/>discussed the effect of qualification<BR ALIGN='left'/>under section 332:\n\n* * * The<BR ALIGN='left'/>legislative draftsmen chose to except<BR ALIGN='left'/>&quot;F&quot; reorganizations from the prohibition<BR ALIGN='left'/>of carrybacks provided in Section<BR ALIGN='left'/>381(b). They did not choose to except<BR ALIGN='left'/>liquidations under Section 332. They<BR ALIGN='left'/>obviously felt that carryback of losses<BR ALIGN='left'/>should be allowed in situations<BR ALIGN='left'/>qualifying as &quot;F&quot; reorganizations. If<BR ALIGN='left'/>they had intended that not all<BR ALIGN='left'/>transactions which meet the requirements<BR ALIGN='left'/>of an &quot;F&quot; reorganization be entitled to<BR ALIGN='left'/>this relief, they would have so<BR ALIGN='left'/>specified. * * * [32 AFTR 2d ¶ 73-5246,<BR ALIGN='left'/>at p. 73-5780.]</TD></TR>
+</TABLE>
+>]
+	kH3S71MXTW [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">we can see no purpose, in either the<BR ALIGN='left'/>technical or policy sense, in denying<BR ALIGN='left'/>the &quot;F&quot; carryback benefits merely<BR ALIGN='left'/>because of additional qualification<BR ALIGN='left'/>under section 332</TD></TR>
+</TABLE>
+>]
+	lTHytOUJU5 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It has long been recognized that one<BR ALIGN='left'/>transaction may be a merger as well as a<BR ALIGN='left'/>liquidation. See Rogan v. Starr Piano<BR ALIGN='left'/>Co., 139 F.2d 671 (9th Cir. 1943), cert.<BR ALIGN='left'/>denied 322 U.S. 728, 64 S.Ct. 945, 88 L.<BR ALIGN='left'/>Ed. 1563 (1943). The Government,<BR ALIGN='left'/>however, looks to the structure of<BR ALIGN='left'/>section 381(a) and argues that the<BR ALIGN='left'/>plaintiff&#x27;s only entrance into that<BR ALIGN='left'/>section is through paragraph (1) of<BR ALIGN='left'/>section 381(a):\n\n* * * in a<BR ALIGN='left'/>distribution * * * to which section 332<BR ALIGN='left'/>(relating to liquidations of<BR ALIGN='left'/>subsidiaries) applies, * * *.</TD></TR>
+</TABLE>
+>]
+	MXGPea1Mrc [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">It is our view that section 381(b) is<BR ALIGN='left'/>broader than section 381(a)(2). There is<BR ALIGN='left'/>no reference in section 381(b) to<BR ALIGN='left'/>section 361 and certainly no requirement<BR ALIGN='left'/>that the reorganization qualify for<BR ALIGN='left'/>nonrecognition treatment under section<BR ALIGN='left'/>361. Whereas section 381(a)(2) only<BR ALIGN='left'/>covers reorganizations — &quot;F&quot; as well as<BR ALIGN='left'/>others — qualifying for nonrecognition<BR ALIGN='left'/>under section 361, section 381(b)<BR ALIGN='left'/>excepts all &quot;F&quot; reorganizations from the<BR ALIGN='left'/>carryback prohibition rule so long as<BR ALIGN='left'/>the &quot;F&quot; is definitionally pure. Not<BR ALIGN='left'/>qualifying under section 361 does not<BR ALIGN='left'/>make the transaction any less an &quot;F&quot;<BR ALIGN='left'/>reorganization.</TD></TR>
+</TABLE>
+>]
+	GPHz0iR5f4 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Obviously, all section 332 liquidations<BR ALIGN='left'/>could not qualify for section 381(b)<BR ALIGN='left'/>carryback exception, but those<BR ALIGN='left'/>liquidations which are also &quot;F&quot;<BR ALIGN='left'/>reorganizations can and should so<BR ALIGN='left'/>qualify. Once the strict standards for<BR ALIGN='left'/>&quot;F&quot; status are met, additional<BR ALIGN='left'/>qualification under section 332 does not<BR ALIGN='left'/>cause the test of those strict standards<BR ALIGN='left'/>to be less meaningful.</TD></TR>
+</TABLE>
+>]
+	"6oiid9O-e2" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Thus the transaction, even though<BR ALIGN='left'/>qualifying under Section 368(a)(1)(A) as<BR ALIGN='left'/>a reorganization must be treated as a<BR ALIGN='left'/>complete liquidation for federal income<BR ALIGN='left'/>tax purposes. We hold that Section 332<BR ALIGN='left'/>takes precedence over Section 368 in<BR ALIGN='left'/>these particular circumstances.</TD></TR>
+</TABLE>
+>]
+	wbkZAYGqgn [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">For the foregoing reasons, we hold that<BR ALIGN='left'/>the statutory merger of subsidiary into<BR ALIGN='left'/>parent was a section 368(a)(1)(F)<BR ALIGN='left'/>reorganization. Therefore, the plaintiff<BR ALIGN='left'/>may carry back a post-merger loss to<BR ALIGN='left'/>pre-merger years under section<BR ALIGN='left'/>381(b).[14] The fact that the<BR ALIGN='left'/>transaction technically also qualified<BR ALIGN='left'/>as a 332 liquidation does not preclude<BR ALIGN='left'/>relief. The amount of recovery will be<BR ALIGN='left'/>determined in subsequent proceedings<BR ALIGN='left'/>pursuant to Rule 131(c).</TD></TR>
+</TABLE>
+>]
+	VQ6JK6K4yD -> "9Y9_D1ZyS3"
+	"9Y9_D1ZyS3" -> JLyrXWWozE
+	KMNxius4U6 -> VQ6JK6K4yD
+	BnBj4SKe5g -> aooHMPqxzL
+	BnBj4SKe5g -> KMNxius4U6
+	BnBj4SKe5g -> "e7el-NOcGU"
+	BnBj4SKe5g -> "C1BMJjM1_-"
+	"3w_I09TtKw" -> JLyrXWWozE
+	kH3S71MXTW -> "3w_I09TtKw"
+	MXGPea1Mrc -> lTHytOUJU5
+	lTHytOUJU5 -> "64rG4bpV_J"
+	GPHz0iR5f4 -> MXGPea1Mrc
+	"6oiid9O-e2" -> GPHz0iR5f4
+	wbkZAYGqgn -> "6oiid9O-e2"
+	wbkZAYGqgn -> kH3S71MXTW
+	wbkZAYGqgn -> BnBj4SKe5g
+}

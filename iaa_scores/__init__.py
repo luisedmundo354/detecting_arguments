@@ -2,6 +2,8 @@
 
 from pathlib import Path
 
-DEFAULT_ANNOTATION_DIR = Path(__file__).resolve().parent.parent / "annotations"
+DEFAULT_ANNOTATION_DIR = (
+    Path(__file__).resolve().parent.parent / "annotations" / "final_annotations_iaa_set"
+)
 
 __all__ = ["DEFAULT_ANNOTATION_DIR"]

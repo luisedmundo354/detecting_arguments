@@ -11,8 +11,11 @@ import numpy as np
 from openai import OpenAI
 from sklearn.metrics import classification_report
 from tqdm import tqdm
+from dotenv import load_dotenv
 
-from .helpers import (
+load_dotenv()
+
+from helpers import (
     filter_implicit_conclusions as filter_implicit_conclusions_df,
     load_annotation_contents,
     load_annotation_spans,

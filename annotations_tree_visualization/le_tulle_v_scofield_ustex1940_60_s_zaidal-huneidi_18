@@ -1,0 +1,67 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	QXznYBK630 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">we are of opinion that the transaction<BR ALIGN='left'/>did not amount to a reorganization and<BR ALIGN='left'/>that, therefore, the petitioner cannot<BR ALIGN='left'/>complain, as the judgment must be<BR ALIGN='left'/>affirmed on the ground that no tax-free<BR ALIGN='left'/>reorganization was effected within the<BR ALIGN='left'/>meaning of the statute.</TD></TR>
+</TABLE>
+>]
+	"5FXEzvfK2f" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We conclude that the Circuit Court of<BR ALIGN='left'/>Appeals was in error in holding that, as<BR ALIGN='left'/>respects any of the property transferred<BR ALIGN='left'/>to the Water Company, the transaction<BR ALIGN='left'/>was other than a sale or exchange upon<BR ALIGN='left'/>which gain or loss must be reckoned in<BR ALIGN='left'/>accordance with the provisions of the<BR ALIGN='left'/>revenue act dealing with the recognition<BR ALIGN='left'/>of gain or loss upon a sale or exchange.</TD></TR>
+</TABLE>
+>]
+	"FRmcz4Ab-8" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 112 (i) provides, so far as<BR ALIGN='left'/>material:\n\n&quot;(1) The term<BR ALIGN='left'/>`reorganization&#x27; means (A) a merger or<BR ALIGN='left'/>consolidation (including the acquisition<BR ALIGN='left'/>by one corporation of at least a<BR ALIGN='left'/>majority of the voting stock and at<BR ALIGN='left'/>least a majority of the total number of<BR ALIGN='left'/>shares of all other 420*420 classes of<BR ALIGN='left'/>stock of another corporation, or<BR ALIGN='left'/>substantially all the properties of<BR ALIGN='left'/>another corporation) . . .&quot;</TD></TR>
+</TABLE>
+>]
+	wxEOLoVLFs [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the section is not to be read literally,<BR ALIGN='left'/>as denominating the transfer of all the<BR ALIGN='left'/>assets of one company for what amounts<BR ALIGN='left'/>to a cash consideration given by the<BR ALIGN='left'/>other a reorganization. We have held<BR ALIGN='left'/>that where the consideration consists of<BR ALIGN='left'/>cash and short term notes the transfer<BR ALIGN='left'/>does not amount to a reorganization<BR ALIGN='left'/>within the true meaning of the statute,<BR ALIGN='left'/>but is a sale upon which gain or loss<BR ALIGN='left'/>must be reckoned.[3] We have said that<BR ALIGN='left'/>the statute was not satisfied unless the<BR ALIGN='left'/>transferor retained a substantial stake<BR ALIGN='left'/>in the enterprise and such a stake was<BR ALIGN='left'/>thought to be retained where a large<BR ALIGN='left'/>proportion of the consideration was in<BR ALIGN='left'/>common stock of the transferee,[4] or<BR ALIGN='left'/>where the transferor took cash and the<BR ALIGN='left'/>entire issue of preferred stock of the<BR ALIGN='left'/>transferee corporation.[5]</TD></TR>
+</TABLE>
+>]
+	Vtb2vDnkUY [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">And, where the consideration is<BR ALIGN='left'/>represented by a substantial proportion<BR ALIGN='left'/>of stock, and the balance in bonds, the<BR ALIGN='left'/>total consideration received is exempt<BR ALIGN='left'/>from tax under § 112 (b) (4) and 112<BR ALIGN='left'/>(g).[6]</TD></TR>
+</TABLE>
+>]
+	EaXNOigklS [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the courts have generally held that<BR ALIGN='left'/>receipt of long term bonds as<BR ALIGN='left'/>distinguished from short term notes<BR ALIGN='left'/>constitutes the retention of an interest<BR ALIGN='left'/>in the purchasing corporation.</TD></TR>
+</TABLE>
+>]
+	tpxmT_Khir [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">we do not think that the fact referred<BR ALIGN='left'/>to by the Circuit Court of Appeals, that<BR ALIGN='left'/>the bonds were secured solely by the<BR ALIGN='left'/>assets transferred and that, upon<BR ALIGN='left'/>default, the bondholder would retake<BR ALIGN='left'/>only the property sold, changes his<BR ALIGN='left'/>status from that of a creditor to one<BR ALIGN='left'/>having a proprietary stake, within the<BR ALIGN='left'/>purview of the statute.</TD></TR>
+</TABLE>
+>]
+	XoQQmDUwzw [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Where the consideration is wholly in the<BR ALIGN='left'/>421*421 transferee&#x27;s bonds, or part cash<BR ALIGN='left'/>and part such bonds, we think it cannot<BR ALIGN='left'/>be said that the transferor retains any<BR ALIGN='left'/>proprietary interest in the enterprise.<BR ALIGN='left'/>On the contrary, he becomes a creditor<BR ALIGN='left'/>of the transferee</TD></TR>
+</TABLE>
+>]
+	wgjV4CBD5l [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The judgment of the Circuit Court of<BR ALIGN='left'/>Appeals is affirmed and the cause is<BR ALIGN='left'/>remanded to the District Court with<BR ALIGN='left'/>directions to proceed in accordance with<BR ALIGN='left'/>the opinion and mandate of the Circuit<BR ALIGN='left'/>Court of Appeals.</TD></TR>
+</TABLE>
+>]
+	wxEOLoVLFs -> "FRmcz4Ab-8"
+	"FRmcz4Ab-8" -> Vtb2vDnkUY
+	tpxmT_Khir -> XoQQmDUwzw
+	XoQQmDUwzw -> EaXNOigklS
+	"5FXEzvfK2f" -> QXznYBK630
+	wgjV4CBD5l -> "5FXEzvfK2f"
+}

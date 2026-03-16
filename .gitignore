@@ -15,3 +15,5 @@ __pycache__/
 
 # Exclude any files starting with .pricing_terminal.term- and ending with .term
 .pricing_terminal.term-*.term
+/.env
+annotations_classification/.env

@@ -27,7 +27,7 @@ def parse_args(argv: Sequence[str] | None = None) -> argparse.Namespace:
         "--input-dir",
         type=Path,
         default=DEFAULT_ANNOTATION_DIR,
-        help="Directory with Label Studio JSON exports (default: repository annotations folder).",
+        help="Directory with Label Studio JSON exports (default: repaired overlap IAA set).",
     )
     parser.add_argument(
         "--min-annotators",

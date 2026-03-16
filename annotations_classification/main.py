@@ -12,7 +12,7 @@ import pandas as pd
 from sklearn.metrics import classification_report
 from sklearn.svm import LinearSVC
 
-from .helpers import (
+from helpers import (
     SENTENCE_TRANSFORMER_MODELS,
     assign_stratified_folds,
     build_tfidf_vectorizer,
@@ -20,7 +20,7 @@ from .helpers import (
     filter_implicit_conclusions as filter_implicit_conclusions_df,
     load_annotation_spans,
 )
-from .gpt5_classifier import run_gpt5_classification
+from gpt5_classifier import run_gpt5_classification
 
 if TYPE_CHECKING:  # pragma: no cover
     from openai import OpenAI

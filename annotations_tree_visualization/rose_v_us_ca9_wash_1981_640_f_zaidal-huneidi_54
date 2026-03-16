@@ -1,0 +1,169 @@
+// Tree from Label Studio
+digraph {
+	page="8.5,11" size="8.5,11!"
+	rankdir=TB
+	node [shape=none]
+	edge [arrowhead=none]
+	"8-qu980ZQL" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#fff5ba" WIDTH="150"><B>Procedural History</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">The district court granted summary<BR ALIGN='left'/>judgment for the Government, on the<BR ALIGN='left'/>ground that the purported liquidation of<BR ALIGN='left'/>Port Dry Kiln was, in effect, part of a<BR ALIGN='left'/>reorganization under I.R.C. §<BR ALIGN='left'/>368(a)(1)(D). Cash received in a Section<BR ALIGN='left'/>D reorganization is taxed as ordinary<BR ALIGN='left'/>income. This appeal followed.</TD></TR>
+</TABLE>
+>]
+	HxTWB6SEGm [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#d0bdf4" WIDTH="150"><B>Background Facts</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Appellants Stanley and June Rose owned<BR ALIGN='left'/>all of the shares of capital stock of<BR ALIGN='left'/>two corporations, Port Dry Kiln Company<BR ALIGN='left'/>(Port Dry Kiln) and Exeter Lumber Sales<BR ALIGN='left'/>Company (Exeter).[1] Stanley Rose was<BR ALIGN='left'/>president of both corporations, and<BR ALIGN='left'/>Stanley Rose, June Rose and Jerry<BR ALIGN='left'/>Houston constituted the board of<BR ALIGN='left'/>directors of both corporations during<BR ALIGN='left'/>all relevant years.\n\nExeter was<BR ALIGN='left'/>incorporated in 1955 and operated a<BR ALIGN='left'/>sawmill. In January 1962, appellants<BR ALIGN='left'/>organized Port Dry Kiln for the purpose<BR ALIGN='left'/>of drying the lumber produced by Exeter.<BR ALIGN='left'/>Port Dry Kiln&#x27;s facilities consisted of<BR ALIGN='left'/>two dry kilns constructed by the Port of<BR ALIGN='left'/>Longview, a Washington State municipal<BR ALIGN='left'/>corporation, and leased to the company,<BR ALIGN='left'/>and a third dry kiln constructed by Port<BR ALIGN='left'/>Dry Kiln on land leased to it by the<BR ALIGN='left'/>Port of Longview.\n\nThe Exeter sawmill<BR ALIGN='left'/>was located approximately three quarters<BR ALIGN='left'/>of a mile from the kiln facilities.<BR ALIGN='left'/>Exeter also had a planing mill on Port<BR ALIGN='left'/>of Longview property adjacent to the<BR ALIGN='left'/>kilns. All of Exeter&#x27;s lumber was dried<BR ALIGN='left'/>by Port Dry Kiln, accounting for about<BR ALIGN='left'/>90 percent of the use of the<BR ALIGN='left'/>kilns.\n\nOn November 21, 1968, the<BR ALIGN='left'/>directors and shareholders of Port Dry<BR ALIGN='left'/>Kiln authorized the dissolution of Port<BR ALIGN='left'/>Dry Kiln effective November 30, 1968.[2]<BR ALIGN='left'/>On that day, Port Dry 1032*1032 Kiln<BR ALIGN='left'/>transferred to Exeter its right, title<BR ALIGN='left'/>and interest in the leases with the Port<BR ALIGN='left'/>of Longview. Exeter gave no<BR ALIGN='left'/>consideration. Port Dry Kiln also sold<BR ALIGN='left'/>the third kiln to Exeter for $72,740.46<BR ALIGN='left'/>which was the depreciated value as<BR ALIGN='left'/>reflected on Port Dry Kiln&#x27;s<BR ALIGN='left'/>books.\n\nOn January 2, 1969, the<BR ALIGN='left'/>remaining asset of Port Dry Kiln —<BR ALIGN='left'/>$318,818 in cash — was distributed to<BR ALIGN='left'/>appellants pursuant to the plan of<BR ALIGN='left'/>dissolution. After the dissolution and<BR ALIGN='left'/>purported liquidation of Port Dry Kiln,<BR ALIGN='left'/>Exeter continued to operate the dry<BR ALIGN='left'/>kilns until November 18, 1974, when the<BR ALIGN='left'/>assets of Exeter were sold to a third<BR ALIGN='left'/>party.\n\nAppellants treated the receipt<BR ALIGN='left'/>of the cash as a distribution in<BR ALIGN='left'/>complete liquidation, and under I.R.C.<BR ALIGN='left'/>§§ 331 and 337 reported their receipt of<BR ALIGN='left'/>the $318,318 ($318,818 less the $500<BR ALIGN='left'/>basis in the Port Dry Kiln Stock) as<BR ALIGN='left'/>qualifying for treatment as long-term<BR ALIGN='left'/>capital gain. The Commissioner of<BR ALIGN='left'/>Internal Revenue determined that the<BR ALIGN='left'/>distribution was taxable as ordinary<BR ALIGN='left'/>income and issued a statutory notice of<BR ALIGN='left'/>deficiency. Appellants paid the asserted<BR ALIGN='left'/>deficiency[3] and filed a claim for<BR ALIGN='left'/>refund. The Commissioner denied the<BR ALIGN='left'/>claim and appellants then brought this<BR ALIGN='left'/>suit for refund in the district court.</TD></TR>
+</TABLE>
+>]
+	"GzXqKx-FPD" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">368(a)(1)(D):</TD></TR>
+</TABLE>
+>]
+	KnUZYD0Ytn [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(1) control</TD></TR>
+</TABLE>
+>]
+	"9VfUWUnaN4" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(2) distribution of stock or securities</TD></TR>
+</TABLE>
+>]
+	AsA_vapQ5m [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">3) transfer of assets</TD></TR>
+</TABLE>
+>]
+	"nF-N_Ui79B" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#ffb3b3" WIDTH="150"><B>Conclusion</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We hold that once a sale and liquidation<BR ALIGN='left'/>meets the technical requirements of §<BR ALIGN='left'/>368(a)(1)(D), it can be reclassified as<BR ALIGN='left'/>a Section D reorganization without the<BR ALIGN='left'/>necessity of the Government showing that<BR ALIGN='left'/>the transaction was structured as a sale<BR ALIGN='left'/>and liquidation to receive more<BR ALIGN='left'/>favorable tax treatment.</TD></TR>
+</TABLE>
+>]
+	xlKwm8uq5G [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">(4) a plan of reorganization.</TD></TR>
+</TABLE>
+>]
+	TGLS7Gpfh1 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Since the Roses owned all the stock of<BR ALIGN='left'/>both the transferor and transferee<BR ALIGN='left'/>corporations we hold that no<BR ALIGN='left'/>distribution of stock or securities was<BR ALIGN='left'/>necessary to meet the requirements of §<BR ALIGN='left'/>368(a)(1)(D).</TD></TR>
+</TABLE>
+>]
+	E31I2fycy2 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">No stock or securities were distributed<BR ALIGN='left'/>to the Roses. But despite the language<BR ALIGN='left'/>in § 368(a)(1)(D), courts have held that<BR ALIGN='left'/>a distribution of stock or securities is<BR ALIGN='left'/>not necessary where ownership of the<BR ALIGN='left'/>transferor and transferee corporations<BR ALIGN='left'/>is identical, because such a<BR ALIGN='left'/>distribution would be a mere formality.</TD></TR>
+</TABLE>
+>]
+	TBXU8DWM2G [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">A distribution pursuant to §<BR ALIGN='left'/>368(a)(1)(D) must also qualify under §<BR ALIGN='left'/>354 or § 355 in order for § 356 to be<BR ALIGN='left'/>applicable.</TD></TR>
+</TABLE>
+>]
+	Io_o4LRvJw [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 355 concerns the distribution of<BR ALIGN='left'/>stock or securities of a controlled<BR ALIGN='left'/>corporation and is not applicable to<BR ALIGN='left'/>this case.</TD></TR>
+</TABLE>
+>]
+	_5_ghpc3kP [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 354(a)(1) provides that &quot;[n]o<BR ALIGN='left'/>gain or loss shall be recognized if<BR ALIGN='left'/>stock or securities in a corporation a<BR ALIGN='left'/>party to a reorganization are, in<BR ALIGN='left'/>pursuance of the plan of reorganization,<BR ALIGN='left'/>exchanged solely for stock or securities<BR ALIGN='left'/>in such corporation or in another<BR ALIGN='left'/>corporation a party to the<BR ALIGN='left'/>reorganization.&quot;[7]\n\nHowever, §<BR ALIGN='left'/>354(b)(1) limits the application of §<BR ALIGN='left'/>354(a)(1) by requiring<BR ALIGN='left'/>that:\n\nSubsection (a) shall not apply<BR ALIGN='left'/>to an exchange in pursuance of a plan of<BR ALIGN='left'/>reorganization within the meaning of<BR ALIGN='left'/>section 368(a)(1)(D), unless —\n(A) the<BR ALIGN='left'/>corporation to which the assets are<BR ALIGN='left'/>transferred acquires substantially all<BR ALIGN='left'/>of the assets of the transferor of such<BR ALIGN='left'/>assets. (Emphasis added.)</TD></TR>
+</TABLE>
+>]
+	"5p0vJ2KyNd" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">&quot;substantially all&quot; requirement is<BR ALIGN='left'/>determined by focusing on the transfer<BR ALIGN='left'/>of the operating assets by the<BR ALIGN='left'/>transferor and not on the non-operating<BR ALIGN='left'/>or liquid assets such as cash.</TD></TR>
+</TABLE>
+>]
+	hYDl1XO868 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We find that the requirement of<BR ALIGN='left'/>transferring &quot;substantially all&quot; of the<BR ALIGN='left'/>Port Dry Kiln assets has been met.</TD></TR>
+</TABLE>
+>]
+	"5NSShdo8XL" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">the transfer of key personnel and<BR ALIGN='left'/>operating assets qualified as<BR ALIGN='left'/>substantially-all, even though non-<BR ALIGN='left'/>operating physical assets such as land<BR ALIGN='left'/>were retained.</TD></TR>
+</TABLE>
+>]
+	z8R0l4CtEC [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">We conclude, as did the district court,<BR ALIGN='left'/>that the transaction which resulted in<BR ALIGN='left'/>the distribution of the $318,818 to the<BR ALIGN='left'/>Roses met all the statutory requirements<BR ALIGN='left'/>of a § 368(a)(1)(D) reorganization.</TD></TR>
+</TABLE>
+>]
+	kmq3uYiBaf [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section 354(b)(1)(B) requires that the<BR ALIGN='left'/>distribution of securities in a Section<BR ALIGN='left'/>D reorganization be &quot;in pursuance of the<BR ALIGN='left'/>plan of reorganization.&quot; A formal<BR ALIGN='left'/>written document is not necessary.</TD></TR>
+</TABLE>
+>]
+	CgQayo3qqg [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">meeting of the Board of Directors of<BR ALIGN='left'/>Port Dry Kiln authorizing the<BR ALIGN='left'/>dissolution of that corporation and the<BR ALIGN='left'/>subsequent transfer of its operating<BR ALIGN='left'/>assets to Exeter and the payment of the<BR ALIGN='left'/>sale proceeds to appellants 1035*1035<BR ALIGN='left'/>provided sufficient evidence that the<BR ALIGN='left'/>distribution was a part of a plan of<BR ALIGN='left'/>reorganization. The sale and<BR ALIGN='left'/>distribution was clearly part of an<BR ALIGN='left'/>overall plan to have the lumber-drying<BR ALIGN='left'/>operation done by Exeter. The<BR ALIGN='left'/>controlling shareholders</TD></TR>
+</TABLE>
+>]
+	"y-ZqyiEhpj" [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Did the transaction between Port Dry<BR ALIGN='left'/>Kiln and Exeter meet the technical<BR ALIGN='left'/>requirements of § 368(a)(1)(D)?</TD></TR>
+</TABLE>
+>]
+	_HyedT80Li [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">In the absence of proof of any intent to<BR ALIGN='left'/>avoid taxes, was it error for the<BR ALIGN='left'/>district court to characterize the<BR ALIGN='left'/>transaction as a § 368(a)(1)(D)<BR ALIGN='left'/>reorganization rather than a § 337<BR ALIGN='left'/>liquidation?</TD></TR>
+</TABLE>
+>]
+	yJwoKFHUr0 [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#b6e3b6" WIDTH="150"><B>Rule</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">Section D can be applied to reclassify<BR ALIGN='left'/>the transaction as a reorganization only<BR ALIGN='left'/>if the Government can show a tax-<BR ALIGN='left'/>avoidance motive in the taxpayer&#x27;s<BR ALIGN='left'/>structuring of the transaction.</TD></TR>
+</TABLE>
+>]
+	CixaGJWSZi [label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+  <TR><TD BGCOLOR="#add8ff" WIDTH="150"><B>Analysis</B></TD></TR>
+  <TR><TD ALIGN="left" WIDTH="150">§ 368(a)(1)(D) does not require a<BR ALIGN='left'/>finding of tax avoidance before it can<BR ALIGN='left'/>be applied</TD></TR>
+</TABLE>
+>]
+	KnUZYD0Ytn -> "GzXqKx-FPD"
+	"9VfUWUnaN4" -> "GzXqKx-FPD"
+	AsA_vapQ5m -> "GzXqKx-FPD"
+	xlKwm8uq5G -> "GzXqKx-FPD"
+	E31I2fycy2 -> KnUZYD0Ytn
+	TGLS7Gpfh1 -> E31I2fycy2
+	TBXU8DWM2G -> "9VfUWUnaN4"
+	Io_o4LRvJw -> TBXU8DWM2G
+	_5_ghpc3kP -> TBXU8DWM2G
+	_5_ghpc3kP -> "5p0vJ2KyNd"
+	"5p0vJ2KyNd" -> "5NSShdo8XL"
+	_5_ghpc3kP -> AsA_vapQ5m
+	kmq3uYiBaf -> xlKwm8uq5G
+	CgQayo3qqg -> kmq3uYiBaf
+	z8R0l4CtEC -> CgQayo3qqg
+	z8R0l4CtEC -> hYDl1XO868
+	z8R0l4CtEC -> Io_o4LRvJw
+	z8R0l4CtEC -> TGLS7Gpfh1
+	hYDl1XO868 -> "5NSShdo8XL"
+	"nF-N_Ui79B" -> z8R0l4CtEC
+	"GzXqKx-FPD" -> "y-ZqyiEhpj"
+	yJwoKFHUr0 -> _HyedT80Li
+	CixaGJWSZi -> yJwoKFHUr0
+	"nF-N_Ui79B" -> CixaGJWSZi
+}
