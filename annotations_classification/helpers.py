@@ -3,13 +3,13 @@ from __future__ import annotations
 
 import json
 from functools import lru_cache
+from numbers import Integral
 from pathlib import Path
-from typing import Dict, Iterable, Optional, Sequence
+from typing import Any, Dict, Iterable, Optional, Sequence
 
 import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.model_selection import StratifiedKFold
 
 try:  # pragma: no cover - optional import for newer scikit-learn versions
     from sklearn.model_selection import StratifiedGroupKFold  # type: ignore
@@ -140,46 +140,137 @@ def assign_stratified_folds(
     random_state: int = 42,
     group_column: Optional[str] = "document_id",
 ) -> pd.DataFrame:
-    """Annotate the dataframe with stratified CV folds.
+    """Annotate the dataframe with strict case-disjoint stratified folds."""
 
-    If grouping information is available and the installed scikit-learn version
-    exposes :class:`StratifiedGroupKFold`, the function keeps spans from the
-    same document in the same fold.
-    """
-
+    _require_dataframe(df, name="df")
     if df.empty:
         raise ValueError("Cannot assign folds to an empty dataframe.")
+    _require_integral(n_splits, name="n_splits", minimum=2)
+    _require_integral(random_state, name="random_state")
+    _require_non_empty_string(group_column, name="group_column")
+    _require_required_columns(df, required_columns=("text", "label", group_column))
+
+    if StratifiedGroupKFold is None:
+        raise ImportError(
+            "StratifiedGroupKFold is required for case-disjoint evaluation. "
+            "Install a scikit-learn version that provides it."
+        )
+
+    if df["label"].isna().any():
+        raise ValueError("Column 'label' contains null values.")
+    if df["text"].isna().any():
+        raise ValueError("Column 'text' contains null values.")
+
+    groups = df[group_column]
+    if groups.isna().any():
+        raise ValueError(f"Column '{group_column}' contains null group identifiers.")
+
+    unique_groups = groups.nunique(dropna=False)
+    if unique_groups < n_splits:
+        raise ValueError(
+            f"Requested {n_splits} folds but only {unique_groups} unique groups are available "
+            f"in column '{group_column}'."
+        )
 
     label_counts = df["label"].value_counts()
     min_class = int(label_counts.min())
-    if min_class < 2:
-        raise ValueError("At least two samples per class are required for CV.")
-
-    effective_splits = min(n_splits, min_class)
-    if effective_splits < 2:
-        raise ValueError("Unable to create more than one fold with the data provided.")
+    if min_class < n_splits:
+        raise ValueError(
+            f"Requested {n_splits} folds but the smallest class has only {min_class} samples."
+        )
 
     folds = np.zeros(len(df), dtype=int)
-    groups: Optional[Iterable] = None
-    if group_column and group_column in df.columns:
-        groups = df[group_column].to_numpy()
+    splitter = StratifiedGroupKFold(
+        n_splits=n_splits,
+        shuffle=True,
+        random_state=random_state,
+    )
 
-    splitter: StratifiedKFold
-    split_iterator: Iterable
-
-    if groups is not None and StratifiedGroupKFold is not None:
-        splitter = StratifiedGroupKFold(n_splits=effective_splits, shuffle=True, random_state=random_state)
-        split_iterator = splitter.split(df["text"], df["label"], groups=groups)
-    else:
-        splitter = StratifiedKFold(n_splits=effective_splits, shuffle=True, random_state=random_state)
-        split_iterator = splitter.split(df["text"], df["label"])
-
+    split_iterator: Iterable = splitter.split(df["text"], df["label"], groups=groups.to_numpy())
     for fold_idx, (_, test_index) in enumerate(split_iterator, start=1):
         folds[test_index] = fold_idx
 
     df_with_folds = df.copy()
     df_with_folds["fold"] = folds
     return df_with_folds
+
+
+def build_fold_audit(
+    df: pd.DataFrame,
+    *,
+    group_column: str = "document_id",
+    label_column: str = "label",
+    fold_column: str = "fold",
+    splitter_name: str = "StratifiedGroupKFold",
+) -> Dict[str, Any]:
+    """Build a JSON-serializable summary of grouped fold assignments."""
+
+    _require_dataframe(df, name="df")
+    if df.empty:
+        raise ValueError("Cannot audit folds for an empty dataframe.")
+    _require_non_empty_string(group_column, name="group_column")
+    _require_non_empty_string(label_column, name="label_column")
+    _require_non_empty_string(fold_column, name="fold_column")
+    _require_non_empty_string(splitter_name, name="splitter_name")
+    _require_required_columns(df, required_columns=(group_column, label_column, fold_column))
+
+    if df[group_column].isna().any():
+        raise ValueError(f"Column '{group_column}' contains null group identifiers.")
+    if df[label_column].isna().any():
+        raise ValueError(f"Column '{label_column}' contains null labels.")
+    if df[fold_column].isna().any():
+        raise ValueError(f"Column '{fold_column}' contains null fold assignments.")
+
+    fold_ids = sorted(int(value) for value in df[fold_column].unique())
+    label_counts = _series_to_python_dict(df[label_column].value_counts().sort_index())
+    folds_payload: list[Dict[str, Any]] = []
+    test_group_union: set[Any] = set()
+    total_overlap_count = 0
+
+    for fold_id in fold_ids:
+        test_df = df.loc[df[fold_column] == fold_id].copy()
+        train_df = df.loc[df[fold_column] != fold_id].copy()
+        test_groups = set(test_df[group_column].tolist())
+        train_groups = set(train_df[group_column].tolist())
+        overlap_groups = train_groups.intersection(test_groups)
+        total_overlap_count += len(overlap_groups)
+        test_group_union.update(test_groups)
+
+        folds_payload.append(
+            {
+                "fold": fold_id,
+                "train_row_count": int(len(train_df)),
+                "test_row_count": int(len(test_df)),
+                "train_group_count": int(len(train_groups)),
+                "test_group_count": int(len(test_groups)),
+                "train_groups": _sorted_python_list(train_groups),
+                "test_groups": _sorted_python_list(test_groups),
+                "overlap_group_count": int(len(overlap_groups)),
+                "overlap_groups": _sorted_python_list(overlap_groups),
+                "train_label_counts": _series_to_python_dict(
+                    train_df[label_column].value_counts().sort_index()
+                ),
+                "test_label_counts": _series_to_python_dict(
+                    test_df[label_column].value_counts().sort_index()
+                ),
+            }
+        )
+
+    all_groups = set(df[group_column].tolist())
+    return {
+        "splitter": splitter_name,
+        "group_column": group_column,
+        "label_column": label_column,
+        "fold_column": fold_column,
+        "row_count": int(len(df)),
+        "group_count": int(len(all_groups)),
+        "fold_count": int(len(fold_ids)),
+        "label_counts": label_counts,
+        "all_group_ids": _sorted_python_list(all_groups),
+        "all_test_groups_covered": test_group_union == all_groups,
+        "total_overlap_group_count": int(total_overlap_count),
+        "folds": folds_payload,
+    }
 
 
 @lru_cache(maxsize=4)
@@ -234,3 +325,44 @@ def build_tfidf_vectorizer(**kwargs) -> TfidfVectorizer:
     }
     defaults.update(kwargs)
     return TfidfVectorizer(**defaults)
+
+
+def _require_dataframe(value: object, *, name: str) -> None:
+    if not isinstance(value, pd.DataFrame):
+        raise TypeError(f"{name} must be a pandas DataFrame, got {type(value).__name__}.")
+
+
+def _require_integral(value: object, *, name: str, minimum: Optional[int] = None) -> None:
+    if isinstance(value, bool) or not isinstance(value, Integral):
+        raise TypeError(f"{name} must be an integer, got {type(value).__name__}.")
+    if minimum is not None and int(value) < minimum:
+        raise ValueError(f"{name} must be >= {minimum}, got {value}.")
+
+
+def _require_non_empty_string(value: object, *, name: str) -> None:
+    if not isinstance(value, str):
+        raise TypeError(f"{name} must be a string, got {type(value).__name__}.")
+    if not value.strip():
+        raise ValueError(f"{name} must be a non-empty string.")
+
+
+def _require_required_columns(df: pd.DataFrame, *, required_columns: Sequence[str]) -> None:
+    missing = [column for column in required_columns if column not in df.columns]
+    if missing:
+        missing_display = ", ".join(sorted(missing))
+        raise KeyError(f"Missing required dataframe columns: {missing_display}.")
+
+
+def _series_to_python_dict(series: pd.Series) -> Dict[Any, Any]:
+    return {key: _to_python_scalar(value) for key, value in series.to_dict().items()}
+
+
+def _sorted_python_list(values: Iterable[Any]) -> list[Any]:
+    normalized = [_to_python_scalar(value) for value in values]
+    return sorted(normalized, key=lambda item: (str(type(item)), str(item)))
+
+
+def _to_python_scalar(value: Any) -> Any:
+    if isinstance(value, np.generic):
+        return value.item()
+    return value

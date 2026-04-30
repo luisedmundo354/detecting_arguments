@@ -17,3 +17,4 @@ __pycache__/
 .pricing_terminal.term-*.term
 /.env
 annotations_classification/.env
+annotations_classification/results/

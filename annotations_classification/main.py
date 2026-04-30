@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import os
+from numbers import Integral
 from pathlib import Path
 from typing import Dict, Optional, Sequence
 
@@ -15,6 +16,7 @@ from sklearn.svm import LinearSVC
 from helpers import (
     SENTENCE_TRANSFORMER_MODELS,
     assign_stratified_folds,
+    build_fold_audit,
     build_tfidf_vectorizer,
     encode_sentences,
     filter_implicit_conclusions as filter_implicit_conclusions_df,
@@ -58,10 +60,11 @@ def run_linear_svc_classification(
     use_modern_bert: bool = False,
     test_mode: bool = False,
     gpt5_checkpoint_path: Optional[Path | str] = None,
+    gpt5_workers: int = 1,
     combine_analysis_conclusion: bool = False,
     filter_implicit_conclusions: bool = False,
-) -> Dict[str, Dict[str, object]]:
-    """Execute stratified k-fold evaluation with a Linear SVC back-end.
+) -> Dict[str, object]:
+    """Execute strict grouped k-fold evaluation with a Linear SVC back-end.
 
     Parameters
     ----------
@@ -71,8 +74,8 @@ def run_linear_svc_classification(
         Iterable of embedding identifiers; supported values are ``tfidf``,
         ``sbert``, ``legal-bert``, and ``modern-bert``.
     n_splits:
-        Number of folds for cross-validation. The value is clipped if any class
-        has fewer examples than the requested number of folds.
+        Number of folds for cross-validation. The value must be feasible for the
+        grouped label distribution or the function raises a ``ValueError``.
     random_state:
         Seed forwarded to the fold splitter and the Linear SVC estimator.
     batch_size:
@@ -97,28 +100,52 @@ def run_linear_svc_classification(
     gpt5_checkpoint_path:
         Optional JSONL path used to persist GPT-5 predictions between runs. Ignored
         in test mode.
+    gpt5_workers:
+        Number of concurrent GPT-5 workers. Values greater than one only affect
+        the GPT-5 branch.
 
     Returns
     -------
-    Dict[str, Dict[str, object]]
-        Reports for each embedding, the combined predictions dataframe, model
-        lookup metadata, and (optionally) baseline outputs.
+    Dict[str, object]
+        Reports, prediction tables, fold audit metadata, and run configuration.
     """
+
+    _validate_run_inputs(
+        annotation_dir=annotation_dir,
+        embeddings=embeddings,
+        n_splits=n_splits,
+        random_state=random_state,
+        batch_size=batch_size,
+        model_overrides=model_overrides,
+        verbose=verbose,
+        include_baselines=include_baselines,
+        gpt5=gpt5,
+        gpt5_config=gpt5_config,
+        gpt5_client=gpt5_client,
+        use_modern_bert=use_modern_bert,
+        test_mode=test_mode,
+        gpt5_checkpoint_path=gpt5_checkpoint_path,
+        gpt5_workers=gpt5_workers,
+        combine_analysis_conclusion=combine_analysis_conclusion,
+        filter_implicit_conclusions=filter_implicit_conclusions,
+    )
 
     if test_mode:
         verbose = True
 
-    df = load_annotation_spans(annotation_dir)
+    source_dir = Path(annotation_dir).expanduser().resolve()
+    df = load_annotation_spans(source_dir)
     if filter_implicit_conclusions:
         df = filter_implicit_conclusions_df(df)
     if combine_analysis_conclusion:
         df = _merge_analysis_and_conclusion_labels(df)
     df = assign_stratified_folds(df, n_splits=n_splits, random_state=random_state)
+    fold_audit = build_fold_audit(df)
 
     labels_sorted = sorted(df["label"].unique())
     fold_ids = sorted(df["fold"].unique())
 
-    predictions_frame = df[["span_id", "label", "fold"]].copy()
+    predictions_frame = df[["span_id", "document_id", "start", "end", "text", "label", "fold"]].copy()
     reports: Dict[str, Dict[str, object]] = {}
 
     for embedding in embeddings:
@@ -213,17 +240,20 @@ def run_linear_svc_classification(
             random_state=random_state,
             verbose=verbose,
         )
+        for baseline_payload in baselines.values():
+            predictions_frame[baseline_payload["prediction_column"]] = baseline_payload["predictions"]
 
     gpt5_output: Dict[str, object] = {}
     if gpt5:
         gpt5_results = run_gpt5_classification(
-            annotation_dir,
+            source_dir,
             client=gpt5_client,
             config=gpt5_config,
             test_mode=test_mode,
             checkpoint_path=gpt5_checkpoint_path,
             combine_analysis_conclusion=combine_analysis_conclusion,
             filter_implicit_conclusions=filter_implicit_conclusions,
+            gpt5_workers=gpt5_workers,
         )
         gpt_pred_frame = gpt5_results["predictions"][["span_id", "prediction_gpt5"]]
         predictions_frame = predictions_frame.merge(
@@ -231,7 +261,12 @@ def run_linear_svc_classification(
             on="span_id",
             how="left",
         )
-        gpt5_output = {"report": gpt5_results["report"], "prediction_column": "prediction_gpt5"}
+        gpt5_output = {
+            "report": gpt5_results["report"],
+            "prediction_column": "prediction_gpt5",
+            "processed_rows": gpt5_results["processed_rows"],
+            "checkpoint_path": gpt5_results["checkpoint_path"],
+        }
 
     model_metadata = {
         key: SENTENCE_TRANSFORMER_MODELS[key]
@@ -249,6 +284,26 @@ def run_linear_svc_classification(
         "model_defaults": model_metadata,
         "baselines": baselines,
         "gpt5": gpt5_output,
+        "fold_audit": fold_audit,
+        "labels": labels_sorted,
+        "fold_ids": fold_ids,
+        "source_dir": str(source_dir),
+        "config": {
+            "annotation_dir": str(source_dir),
+            "embeddings": list(embeddings),
+            "n_splits": int(n_splits),
+            "random_state": int(random_state),
+            "batch_size": int(batch_size),
+            "include_baselines": include_baselines,
+            "gpt5": gpt5,
+            "use_modern_bert": use_modern_bert,
+            "test_mode": test_mode,
+            "combine_analysis_conclusion": combine_analysis_conclusion,
+            "filter_implicit_conclusions": filter_implicit_conclusions,
+            "gpt5_checkpoint_path": str(gpt5_checkpoint_path) if gpt5_checkpoint_path is not None else None,
+            "gpt5_workers": int(gpt5_workers),
+            "model_overrides": dict(model_overrides) if model_overrides is not None else None,
+        },
     }
 
 
@@ -292,7 +347,11 @@ def _evaluate_random_and_majority(
             zero_division=0,
         )
 
-        baseline_reports[baseline_name] = {"report": report}
+        baseline_reports[baseline_name] = {
+            "report": report,
+            "prediction_column": f"prediction_{baseline_name}",
+            "predictions": predictions.copy(),
+        }
 
     if verbose:
         _print_baseline_summary(baseline_reports, labels_sorted)
@@ -321,3 +380,88 @@ def _print_baseline_summary(
             score = report.get(label, {}).get("f1-score", 0.0)
             row.append(f"{score:.2f}")
         print(" - " + " | ".join(row))
+
+
+def _validate_run_inputs(
+    *,
+    annotation_dir: Path | str,
+    embeddings: Sequence[str],
+    n_splits: int,
+    random_state: int,
+    batch_size: int,
+    model_overrides: Optional[Dict[str, str]],
+    verbose: bool,
+    include_baselines: bool,
+    gpt5: bool,
+    gpt5_config: "GPT5Config | None",
+    gpt5_client: "OpenAI | None",
+    use_modern_bert: bool,
+    test_mode: bool,
+    gpt5_checkpoint_path: Optional[Path | str],
+    gpt5_workers: int,
+    combine_analysis_conclusion: bool,
+    filter_implicit_conclusions: bool,
+) -> None:
+    source_dir = _coerce_path(annotation_dir, name="annotation_dir")
+    if not source_dir.exists():
+        raise FileNotFoundError(f"Annotation directory not found: {source_dir}")
+    if not source_dir.is_dir():
+        raise NotADirectoryError(f"annotation_dir must be a directory: {source_dir}")
+
+    if isinstance(embeddings, str) or not isinstance(embeddings, Sequence):
+        raise TypeError("embeddings must be a non-string sequence of embedding names.")
+    if not embeddings:
+        raise ValueError("embeddings must not be empty.")
+    for embedding in embeddings:
+        if not isinstance(embedding, str):
+            raise TypeError(
+                f"Each embedding name must be a string, got {type(embedding).__name__}."
+            )
+        if embedding.lower() not in DEFAULT_EMBEDDINGS:
+            raise ValueError(f"Unsupported embedding '{embedding}'.")
+
+    _require_integral(n_splits, name="n_splits", minimum=2)
+    _require_integral(random_state, name="random_state")
+    _require_integral(batch_size, name="batch_size", minimum=1)
+    _require_bool(verbose, name="verbose")
+    _require_bool(include_baselines, name="include_baselines")
+    _require_bool(gpt5, name="gpt5")
+    _require_bool(use_modern_bert, name="use_modern_bert")
+    _require_bool(test_mode, name="test_mode")
+    _require_bool(combine_analysis_conclusion, name="combine_analysis_conclusion")
+    _require_bool(filter_implicit_conclusions, name="filter_implicit_conclusions")
+    _require_integral(gpt5_workers, name="gpt5_workers", minimum=1)
+
+    if model_overrides is not None:
+        if not isinstance(model_overrides, dict):
+            raise TypeError("model_overrides must be a dictionary when provided.")
+        for key, value in model_overrides.items():
+            if not isinstance(key, str) or not isinstance(value, str):
+                raise TypeError("model_overrides keys and values must both be strings.")
+
+    if gpt5_config is not None:
+        config_type = getattr(gpt5_config, "__class__", None)
+        if config_type is None or config_type.__name__ != "GPT5Config":
+            raise TypeError("gpt5_config must be a GPT5Config instance when provided.")
+    if gpt5_client is not None and not hasattr(gpt5_client, "responses"):
+        raise TypeError("gpt5_client must expose a 'responses' attribute when provided.")
+    if gpt5_checkpoint_path is not None:
+        _coerce_path(gpt5_checkpoint_path, name="gpt5_checkpoint_path")
+
+
+def _require_bool(value: object, *, name: str) -> None:
+    if not isinstance(value, bool):
+        raise TypeError(f"{name} must be a bool, got {type(value).__name__}.")
+
+
+def _require_integral(value: object, *, name: str, minimum: Optional[int] = None) -> None:
+    if isinstance(value, bool) or not isinstance(value, Integral):
+        raise TypeError(f"{name} must be an integer, got {type(value).__name__}.")
+    if minimum is not None and int(value) < minimum:
+        raise ValueError(f"{name} must be >= {minimum}, got {value}.")
+
+
+def _coerce_path(value: Path | str, *, name: str) -> Path:
+    if not isinstance(value, (Path, str)):
+        raise TypeError(f"{name} must be a path-like value, got {type(value).__name__}.")
+    return Path(value).expanduser()

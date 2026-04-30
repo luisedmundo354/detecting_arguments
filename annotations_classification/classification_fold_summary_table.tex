@@ -1,0 +1,14 @@
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lcc}
+\toprule
+Setting & Held-out cases per fold & Held-out passages per fold \\
+\midrule
+5 classes & 8, 8, 8, 9, 9 & 121, 162, 131, 140, 165 \\
+4 classes & 9, 9, 8, 7, 9 & 175, 169, 105, 129, 141 \\
+\bottomrule
+\end{tabular}
+\caption{Case-disjoint fold sizes for the classification experiments. Both settings use five-fold \texttt{StratifiedGroupKFold} grouped by case identifier, and the overlap between training and test cases is zero in every fold.}
+\label{tab:classification_fold_summary}
+\end{table}

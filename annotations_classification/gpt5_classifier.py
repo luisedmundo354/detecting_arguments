@@ -1,11 +1,14 @@
 from __future__ import annotations
 
+import concurrent.futures
 import json
 import os
 import re
+import threading
 from dataclasses import dataclass
+from numbers import Integral, Real
 from pathlib import Path
-from typing import Dict, Iterable, Optional, Sequence
+from typing import Any, Dict, Iterable, Optional, Sequence
 
 import numpy as np
 from openai import OpenAI
@@ -13,13 +16,15 @@ from sklearn.metrics import classification_report
 from tqdm import tqdm
 from dotenv import load_dotenv
 
-load_dotenv()
-
 from helpers import (
     filter_implicit_conclusions as filter_implicit_conclusions_df,
     load_annotation_contents,
     load_annotation_spans,
 )
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+PROJECT_DOTENV = PROJECT_ROOT / ".env"
+_THREAD_LOCAL = threading.local()
 
 _DEFAULT_ALLOWED_LABELS: Sequence[str] = (
     "Analysis",
@@ -42,10 +47,31 @@ class GPT5Config:
 
 
 def _default_client() -> OpenAI:
+    load_project_dotenv(require_exists=True)
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
-        raise RuntimeError("OPENAI_API_KEY not set")
+        raise RuntimeError(
+            f"OPENAI_API_KEY not found after loading environment from {PROJECT_DOTENV}."
+        )
     return OpenAI(api_key=api_key)
+
+
+def load_project_dotenv(*, require_exists: bool = False) -> Path:
+    """Load environment variables from the project-root .env file."""
+
+    if require_exists and not PROJECT_DOTENV.exists():
+        raise FileNotFoundError(f"Project .env file not found: {PROJECT_DOTENV}")
+    if PROJECT_DOTENV.exists():
+        load_dotenv(PROJECT_DOTENV, override=False)
+    return PROJECT_DOTENV
+
+
+def _thread_local_client() -> OpenAI:
+    client = getattr(_THREAD_LOCAL, "client", None)
+    if client is None:
+        client = _default_client()
+        _THREAD_LOCAL.client = client
+    return client
 
 
 _CLASS_PATTERN = re.compile(r"class\s*:\s*(?P<label>[A-Za-z\s]+)", re.IGNORECASE)
@@ -242,7 +268,7 @@ def _resolve_checkpoint_path(
 ) -> Optional[Path]:
     if checkpoint_path is None:
         return None
-    path = Path(checkpoint_path)
+    path = _coerce_path(checkpoint_path, name="checkpoint_path")
     if combine_analysis_conclusion:
         suffix = path.suffix
         combined_name = f"{path.stem}_analysis_merged{suffix}"
@@ -259,16 +285,28 @@ def run_gpt5_classification(
     checkpoint_path: Optional[Path | str] = None,
     combine_analysis_conclusion: bool = False,
     filter_implicit_conclusions: bool = False,
+    gpt5_workers: int = 1,
 ) -> dict:
+    _validate_gpt5_inputs(
+        annotation_dir=annotation_dir,
+        client=client,
+        config=config,
+        test_mode=test_mode,
+        checkpoint_path=checkpoint_path,
+        combine_analysis_conclusion=combine_analysis_conclusion,
+        filter_implicit_conclusions=filter_implicit_conclusions,
+        gpt5_workers=gpt5_workers,
+    )
+    source_dir = _coerce_path(annotation_dir, name="annotation_dir").resolve()
     cfg = config or GPT5Config()
     if test_mode:
         cfg.test_mode = True
         cfg.progress = True
 
-    df = load_annotation_spans(annotation_dir)
+    df = load_annotation_spans(source_dir)
     if filter_implicit_conclusions:
         df = filter_implicit_conclusions_df(df)
-    contents_by_doc = load_annotation_contents(annotation_dir)
+    contents_by_doc = load_annotation_contents(source_dir)
     if combine_analysis_conclusion:
         df = df.copy()
         df["label"] = df["label"].apply(_merge_conclusion_into_analysis)
@@ -293,20 +331,29 @@ def run_gpt5_classification(
         checkpoint_file = resolved_checkpoint
         if checkpoint_file.exists():
             with checkpoint_file.open("r", encoding="utf8") as handle:
-                for line in handle:
+                for line_number, line in enumerate(handle, start=1):
                     line = line.strip()
                     if not line:
                         continue
                     try:
                         record = json.loads(line)
-                    except json.JSONDecodeError:
-                        continue
+                    except json.JSONDecodeError as error:
+                        raise ValueError(
+                            f"Invalid JSON in checkpoint file {checkpoint_file} at line {line_number}."
+                        ) from error
                     span_id = record.get("span_id")
                     pred = record.get("prediction")
-                    if span_id and pred:
-                        if combine_analysis_conclusion:
-                            pred = _merge_conclusion_into_analysis(pred)
-                        existing[span_id] = pred
+                    if not isinstance(span_id, str) or not span_id.strip():
+                        raise ValueError(
+                            f"Checkpoint record at line {line_number} is missing a valid span_id."
+                        )
+                    if not isinstance(pred, str) or not pred.strip():
+                        raise ValueError(
+                            f"Checkpoint record at line {line_number} is missing a valid prediction."
+                        )
+                    if combine_analysis_conclusion:
+                        pred = _merge_conclusion_into_analysis(pred)
+                    existing[span_id] = pred
         checkpoint_file.parent.mkdir(parents=True, exist_ok=True)
         writer = checkpoint_file.open("a", encoding="utf8")
 
@@ -319,63 +366,77 @@ def run_gpt5_classification(
     if cfg.test_mode:
         available_positions = available_positions[:limit]
 
-    iterator = (
-        tqdm(available_positions, total=len(available_positions), desc="gpt-5-mini")
-        if cfg.progress
-        else available_positions
-    )
-
     if cfg.test_mode:
         print(f"[test_mode] Limiting GPT queries to {len(available_positions)} samples")
 
+    tasks = [
+        _build_gpt_task(
+            df=df,
+            pos=pos,
+            span_ids=span_ids,
+            doc_entries=doc_entries,
+            contents_by_doc=contents_by_doc,
+            cfg=cfg,
+            allowed_labels=allowed_labels,
+            combine_analysis_conclusion=combine_analysis_conclusion,
+        )
+        for pos in available_positions
+    ]
+
     processed_positions: list[int] = []
+    progress_bar = (
+        tqdm(total=len(tasks), desc="gpt-5-mini")
+        if cfg.progress
+        else None
+    )
     try:
-        for pos in iterator:
-            row_index = df.index[pos]
-            span_id = span_ids[pos]
-
-            text = df.at[row_index, "text"]
-            doc = df.at[row_index, "document_id"]
-            entries = doc_entries.get(doc, [])
-            case_text = contents_by_doc.get(doc, "") if contents_by_doc else ""
-            context = _build_case_context(case_text, text, cfg.max_context_chars)
-            if not context:
-                other_texts = (t for j, t in entries if j != row_index)
-                context = _build_context(other_texts, cfg.max_context_chars)
-            prompt = _render_prompt(
-                context=context or "No additional context.",
-                passage=text,
-                allowed_labels=allowed_labels,
-                include_conclusion_guidance=not combine_analysis_conclusion,
-            )
-            if cfg.test_mode:
-                print("\n[test_mode] Prompt:\n" + prompt)
-
-            response = client.responses.create(
-                model=cfg.model,
-                instructions=_SYSTEM_PROMPT,
-                input=prompt,
-                reasoning={"effort": "high"},
-                temperature=cfg.temperature,
-                max_output_tokens=cfg.max_output_tokens,
-            )
-            print("This is the response:", response)
-            raw_text = getattr(response, "output_text", "") or ""
-            if cfg.test_mode:
-                print("[test_mode] Raw response:\n" + raw_text)
-            label = _parse_label(raw_text, allowed_labels)
-            if cfg.test_mode:
-                print(f"[test_mode] Parsed label: {label or 'Unknown'}")
-            final_label = label or "Unknown"
-            if combine_analysis_conclusion:
-                final_label = _merge_conclusion_into_analysis(final_label)
-            predictions_buffer[pos] = final_label
-            processed_positions.append(pos)
-
-            if writer is not None:
-                writer.write(json.dumps({"span_id": span_id, "prediction": final_label}) + "\n")
-                writer.flush()
+        if gpt5_workers == 1:
+            request_client = client or _default_client()
+            for task in tasks:
+                pos, span_id, final_label = _run_gpt_task(
+                    task,
+                    cfg=cfg,
+                    allowed_labels=allowed_labels,
+                    combine_analysis_conclusion=combine_analysis_conclusion,
+                    client=request_client,
+                )
+                predictions_buffer[pos] = final_label
+                processed_positions.append(pos)
+                if writer is not None:
+                    writer.write(json.dumps({"span_id": span_id, "prediction": final_label}) + "\n")
+                    writer.flush()
+                if progress_bar is not None:
+                    progress_bar.update(1)
+        else:
+            with concurrent.futures.ThreadPoolExecutor(max_workers=gpt5_workers) as executor:
+                future_to_task = {
+                    executor.submit(
+                        _run_gpt_task,
+                        task,
+                        cfg=cfg,
+                        allowed_labels=allowed_labels,
+                        combine_analysis_conclusion=combine_analysis_conclusion,
+                        client=None,
+                    ): task
+                    for task in tasks
+                }
+                try:
+                    for future in concurrent.futures.as_completed(future_to_task):
+                        pos, span_id, final_label = future.result()
+                        predictions_buffer[pos] = final_label
+                        processed_positions.append(pos)
+                        if writer is not None:
+                            writer.write(json.dumps({"span_id": span_id, "prediction": final_label}) + "\n")
+                            writer.flush()
+                        if progress_bar is not None:
+                            progress_bar.update(1)
+                except Exception:
+                    for future in future_to_task:
+                        future.cancel()
+                    raise
     finally:
+        if progress_bar is not None:
+            progress_bar.close()
         if writer is not None:
             writer.close()
 
@@ -410,3 +471,167 @@ def run_gpt5_classification(
         "processed_rows": len(positions),
         "checkpoint_path": str(checkpoint_file) if checkpoint_file else None,
     }
+
+
+def _validate_gpt5_inputs(
+    *,
+    annotation_dir: Path | str,
+    client: Optional[OpenAI],
+    config: Optional[GPT5Config],
+    test_mode: bool,
+    checkpoint_path: Optional[Path | str],
+    combine_analysis_conclusion: bool,
+    filter_implicit_conclusions: bool,
+    gpt5_workers: int,
+) -> None:
+    source_dir = _coerce_path(annotation_dir, name="annotation_dir")
+    if not source_dir.exists():
+        raise FileNotFoundError(f"Annotation directory not found: {source_dir}")
+    if not source_dir.is_dir():
+        raise NotADirectoryError(f"annotation_dir must be a directory: {source_dir}")
+
+    if client is not None and not hasattr(client, "responses"):
+        raise TypeError("client must expose a 'responses' attribute when provided.")
+    _require_integral(gpt5_workers, name="gpt5_workers", minimum=1)
+    if gpt5_workers > 1 and client is not None:
+        raise ValueError("Parallel GPT requests do not support a user-supplied client.")
+
+    if config is not None and not isinstance(config, GPT5Config):
+        raise TypeError("config must be a GPT5Config instance when provided.")
+    if isinstance(test_mode, bool) is False:
+        raise TypeError(f"test_mode must be a bool, got {type(test_mode).__name__}.")
+    if isinstance(combine_analysis_conclusion, bool) is False:
+        raise TypeError(
+            "combine_analysis_conclusion must be a bool, "
+            f"got {type(combine_analysis_conclusion).__name__}."
+        )
+    if isinstance(filter_implicit_conclusions, bool) is False:
+        raise TypeError(
+            "filter_implicit_conclusions must be a bool, "
+            f"got {type(filter_implicit_conclusions).__name__}."
+        )
+    if checkpoint_path is not None:
+        _coerce_path(checkpoint_path, name="checkpoint_path")
+
+    if config is not None:
+        _validate_config(config)
+        if config.test_mode and gpt5_workers != 1:
+            raise ValueError("config.test_mode requires gpt5_workers=1 for readable debugging.")
+    if test_mode and gpt5_workers != 1:
+        raise ValueError("test_mode requires gpt5_workers=1 for readable debugging.")
+
+
+def _validate_config(config: GPT5Config) -> None:
+    _require_non_empty_string(config.model, name="config.model")
+    _require_real(config.temperature, name="config.temperature")
+    _require_integral(config.max_output_tokens, name="config.max_output_tokens", minimum=1)
+    _require_integral(config.max_context_chars, name="config.max_context_chars", minimum=1)
+    _require_bool(config.progress, name="config.progress")
+    _require_bool(config.test_mode, name="config.test_mode")
+    _require_integral(config.test_limit, name="config.test_limit", minimum=1)
+
+
+def _require_non_empty_string(value: object, *, name: str) -> None:
+    if not isinstance(value, str):
+        raise TypeError(f"{name} must be a string, got {type(value).__name__}.")
+    if not value.strip():
+        raise ValueError(f"{name} must be a non-empty string.")
+
+
+def _require_bool(value: object, *, name: str) -> None:
+    if not isinstance(value, bool):
+        raise TypeError(f"{name} must be a bool, got {type(value).__name__}.")
+
+
+def _require_integral(value: object, *, name: str, minimum: Optional[int] = None) -> None:
+    if isinstance(value, bool) or not isinstance(value, Integral):
+        raise TypeError(f"{name} must be an integer, got {type(value).__name__}.")
+    if minimum is not None and int(value) < minimum:
+        raise ValueError(f"{name} must be >= {minimum}, got {value}.")
+
+
+def _require_real(value: object, *, name: str) -> None:
+    if isinstance(value, bool) or not isinstance(value, Real):
+        raise TypeError(f"{name} must be a real number, got {type(value).__name__}.")
+
+
+def _coerce_path(value: Path | str, *, name: str) -> Path:
+    if not isinstance(value, (Path, str)):
+        raise TypeError(f"{name} must be a path-like value, got {type(value).__name__}.")
+    return Path(value).expanduser()
+
+
+def _build_gpt_task(
+    *,
+    df,
+    pos: int,
+    span_ids: Sequence[str],
+    doc_entries: Dict[Any, list[tuple[int, str]]],
+    contents_by_doc: Dict[object, str],
+    cfg: GPT5Config,
+    allowed_labels: Sequence[str],
+    combine_analysis_conclusion: bool,
+) -> Dict[str, Any]:
+    row_index = df.index[pos]
+    text = df.at[row_index, "text"]
+    doc = df.at[row_index, "document_id"]
+    entries = doc_entries.get(doc, [])
+    case_text = contents_by_doc.get(doc, "") if contents_by_doc else ""
+    context = _build_case_context(case_text, text, cfg.max_context_chars)
+    if not context:
+        other_texts = (t for j, t in entries if j != row_index)
+        context = _build_context(other_texts, cfg.max_context_chars)
+    prompt = _render_prompt(
+        context=context or "No additional context.",
+        passage=text,
+        allowed_labels=allowed_labels,
+        include_conclusion_guidance=not combine_analysis_conclusion,
+    )
+    if cfg.test_mode:
+        print("\n[test_mode] Prompt:\n" + prompt)
+    return {
+        "position": pos,
+        "span_id": span_ids[pos],
+        "prompt": prompt,
+    }
+
+
+def _run_gpt_task(
+    task: Dict[str, Any],
+    *,
+    cfg: GPT5Config,
+    allowed_labels: Sequence[str],
+    combine_analysis_conclusion: bool,
+    client: Optional[OpenAI],
+) -> tuple[int, str, str]:
+    request_client = client or _thread_local_client()
+    span_id = task["span_id"]
+    prompt = task["prompt"]
+    try:
+        response = request_client.responses.create(
+            model=cfg.model,
+            instructions=_SYSTEM_PROMPT,
+            input=prompt,
+            reasoning={"effort": "high"},
+            temperature=cfg.temperature,
+            max_output_tokens=cfg.max_output_tokens,
+        )
+    except Exception as error:
+        raise RuntimeError(f"OpenAI request failed for span {span_id}.") from error
+
+    raw_text = getattr(response, "output_text", "") or ""
+    if cfg.test_mode:
+        print("[test_mode] Raw response:\n" + raw_text)
+    label = _parse_label(raw_text, allowed_labels)
+    if label is None:
+        raise RuntimeError(
+            f"Unable to parse a valid label for span {span_id}. "
+            f"Allowed labels: {allowed_labels}. Raw response: {raw_text!r}"
+        )
+    if cfg.test_mode:
+        print(f"[test_mode] Parsed label: {label}")
+
+    final_label = label
+    if combine_analysis_conclusion:
+        final_label = _merge_conclusion_into_analysis(final_label)
+    return task["position"], span_id, final_label
