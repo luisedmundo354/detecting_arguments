@@ -38,6 +38,7 @@ _DEFAULT_ALLOWED_LABELS: Sequence[str] = (
 @dataclass
 class GPT5Config:
     model: str = "gpt-5-mini"
+    reasoning_effort: str = "high"
     temperature: float = 1
     max_output_tokens: int = 100000
     max_context_chars: int = 250000
@@ -47,11 +48,11 @@ class GPT5Config:
 
 
 def _default_client() -> OpenAI:
-    load_project_dotenv(require_exists=True)
+    load_project_dotenv(require_exists=False)
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         raise RuntimeError(
-            f"OPENAI_API_KEY not found after loading environment from {PROJECT_DOTENV}."
+            f"OPENAI_API_KEY not found in the environment or after loading {PROJECT_DOTENV}."
         )
     return OpenAI(api_key=api_key)
 
@@ -385,7 +386,7 @@ def run_gpt5_classification(
 
     processed_positions: list[int] = []
     progress_bar = (
-        tqdm(total=len(tasks), desc="gpt-5-mini")
+        tqdm(total=len(tasks), desc=cfg.model)
         if cfg.progress
         else None
     )
@@ -523,6 +524,7 @@ def _validate_gpt5_inputs(
 
 def _validate_config(config: GPT5Config) -> None:
     _require_non_empty_string(config.model, name="config.model")
+    _require_reasoning_effort(config.reasoning_effort)
     _require_real(config.temperature, name="config.temperature")
     _require_integral(config.max_output_tokens, name="config.max_output_tokens", minimum=1)
     _require_integral(config.max_context_chars, name="config.max_context_chars", minimum=1)
@@ -536,6 +538,16 @@ def _require_non_empty_string(value: object, *, name: str) -> None:
         raise TypeError(f"{name} must be a string, got {type(value).__name__}.")
     if not value.strip():
         raise ValueError(f"{name} must be a non-empty string.")
+
+
+def _require_reasoning_effort(value: object) -> None:
+    allowed = {"none", "minimal", "low", "medium", "high", "xhigh"}
+    _require_non_empty_string(value, name="config.reasoning_effort")
+    if value not in allowed:
+        allowed_values = ", ".join(sorted(allowed))
+        raise ValueError(
+            f"config.reasoning_effort must be one of: {allowed_values}. Got {value!r}."
+        )
 
 
 def _require_bool(value: object, *, name: str) -> None:
@@ -612,7 +624,7 @@ def _run_gpt_task(
             model=cfg.model,
             instructions=_SYSTEM_PROMPT,
             input=prompt,
-            reasoning={"effort": "high"},
+            reasoning={"effort": cfg.reasoning_effort},
             temperature=cfg.temperature,
             max_output_tokens=cfg.max_output_tokens,
         )
